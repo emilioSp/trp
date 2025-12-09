@@ -25,12 +25,12 @@ jobs:
 
       - name: Create .env file
         run: |
-          echo ${{ secrets.CLIENT_ID }}
           echo "CLIENT_ID=${{ secrets.CLIENT_ID }}" >> .env
           echo "CLIENT_SECRET=${{ secrets.CLIENT_SECRET }}" >> .env
           echo "USER_NAME=${{ secrets.USERNAME }}" >> .env
           echo "PASSWORD=${{ secrets.PASSWORD }}" >> .env
           echo "ACCESS_TOKEN_FILE=${{ secrets.ACCESS_TOKEN_FILE }}" >> .env
+          cat .env
 
       - name: Generate TRP members data
         run: npm run data trp-members
