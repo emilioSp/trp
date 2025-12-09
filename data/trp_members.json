@@ -1,0 +1,234 @@
+[
+  {
+    "id": 872525,
+    "name": "Vito Fatalino",
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 1.34,
+    "iRating": 2977
+  },
+  {
+    "id": 1153360,
+    "name": "Simone Masi2",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.43,
+    "iRating": 2812
+  },
+  {
+    "id": 740041,
+    "name": "Michele Trillo",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.18,
+    "iRating": 2435
+  },
+  {
+    "id": 1138706,
+    "name": "Alessio M Doppio",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.24,
+    "iRating": 2847
+  },
+  {
+    "id": 900937,
+    "name": "Emilio Spatola",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.33,
+    "iRating": 3263
+  },
+  {
+    "id": 1229781,
+    "name": "Emanuelec Marsilla",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 1.21,
+    "iRating": 2011
+  },
+  {
+    "id": 177097,
+    "name": "Piercarlo Patti",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.5,
+    "iRating": 3601
+  },
+  {
+    "id": 1255839,
+    "name": "Emilio Bertolini",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.81,
+    "iRating": 1815
+  },
+  {
+    "id": 812737,
+    "name": "Alberto Testi2",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.7,
+    "iRating": 2065
+  },
+  {
+    "id": 1114113,
+    "name": "Marco Chiarello",
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 2.04,
+    "iRating": 2824
+  },
+  {
+    "id": 1095941,
+    "name": "Mario Bellotti",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.44,
+    "iRating": 2916
+  },
+  {
+    "id": 825369,
+    "name": "Simone Donchi",
+    "classOrder": 3,
+    "className": "C",
+    "safetyRating": 2.71,
+    "iRating": 3890
+  },
+  {
+    "id": 970331,
+    "name": "Salvatore Gueli",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.74,
+    "iRating": 3854
+  },
+  {
+    "id": 1231237,
+    "name": "Mario Di Meo",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.54,
+    "iRating": 2013
+  },
+  {
+    "id": 1221961,
+    "name": "Giaime M Cualbu",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.44,
+    "iRating": 4423
+  },
+  {
+    "id": 1179726,
+    "name": "Joy Perez",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.81,
+    "iRating": 2623
+  },
+  {
+    "id": 420122,
+    "name": "David Pertile",
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 3.42,
+    "iRating": 2884
+  },
+  {
+    "id": 581524,
+    "name": "Stefano Cantisani",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.14,
+    "iRating": 2086
+  },
+  {
+    "id": 1279219,
+    "name": "Gabriele Rosone",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.59,
+    "iRating": 4108
+  },
+  {
+    "id": 913773,
+    "name": "Salvatore Reddavid",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.46,
+    "iRating": 1638
+  },
+  {
+    "id": 871456,
+    "name": "Diego Donati",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.51,
+    "iRating": 1478
+  },
+  {
+    "id": 1188732,
+    "name": "Mirko Mastrangelo",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.3,
+    "iRating": 2185
+  },
+  {
+    "id": 1156449,
+    "name": "Tommaso Baseggio",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 1.88,
+    "iRating": 2063
+  },
+  {
+    "id": 684090,
+    "name": "Marco Faniuolo",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.55,
+    "iRating": 3257
+  },
+  {
+    "id": 1234211,
+    "name": "Christian Ryf",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.47,
+    "iRating": 1157
+  },
+  {
+    "id": 1205476,
+    "name": "Marco Pinton2",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.48,
+    "iRating": 2146
+  },
+  {
+    "id": 922039,
+    "name": "Andrea Poletti2",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.41,
+    "iRating": 1819
+  },
+  {
+    "id": 872758,
+    "name": "Giuseppe Capitoni",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.19,
+    "iRating": 3651
+  },
+  {
+    "id": 1079917,
+    "name": "Augusto Saccoccio",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.54,
+    "iRating": 3232
+  }
+]
