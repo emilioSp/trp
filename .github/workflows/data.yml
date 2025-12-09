@@ -25,6 +25,7 @@ jobs:
 
       - name: Create .env file
         run: |
+          echo ${{ secrets.CLIENT_ID }}
           echo "CLIENT_ID=${{ secrets.CLIENT_ID }}" >> .env
           echo "CLIENT_SECRET=${{ secrets.CLIENT_SECRET }}" >> .env
           echo "USER_NAME=${{ secrets.USERNAME }}" >> .env
