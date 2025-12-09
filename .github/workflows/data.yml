@@ -30,7 +30,6 @@ jobs:
           echo "USER_NAME=${{ secrets.USER_NAME }}" >> .env
           echo "PASSWORD=${{ secrets.PASSWORD }}" >> .env
           echo "ACCESS_TOKEN_FILE=${{ secrets.ACCESS_TOKEN_FILE }}" >> .env
-          cat .env
 
       - name: Generate TRP members data
         run: npm run data trp-members
