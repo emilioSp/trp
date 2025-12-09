@@ -1,4 +1,4 @@
-import members from "../data/team_racing_point_members.json";
+import members from "../data/trp_members.json";
 
 const getClassNameForSR = (srClass: string) => {
 	switch (srClass) {

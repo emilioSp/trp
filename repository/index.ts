@@ -5,7 +5,7 @@ import { performLogin } from "./login.ts";
 import { member } from "./member.ts";
 import { storage } from "./storage.ts";
 import { team } from "./team.ts";
-import { teamRacingPointMembers } from "./team_racing_point_members.ts";
+import { trpMembers } from "./trp_members.ts";
 
 if (!process.env.ACCESS_TOKEN_FILE) {
 	throw new Error("ACCESS_TOKEN_FILE environment variable is not set");
@@ -65,8 +65,7 @@ program
 	.description("Get team racing point members")
 	.action(async () => {
 		await storage.run({ accessToken }, async () => {
-			const members = await teamRacingPointMembers();
-			console.log(JSON.stringify(members, null, 2));
+			await trpMembers();
 		});
 	});
 

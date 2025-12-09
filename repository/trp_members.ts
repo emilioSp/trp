@@ -22,12 +22,10 @@ const getClassFromGroupId = (groupId?: number) => {
 	}
 };
 
-export const teamRacingPointMembers = async () => {
+export const trpMembers = async () => {
 	const teamData = await team("346718");
 	const memberIds = teamData.roster.map((m) => m.cust_id);
 	const members = await member(memberIds.join(","));
-
-	// console.log(JSON.stringify(members, null, 2));
 
 	const membersClean = members.members.map((m) => {
 		const roadLicense = m.licenses.find((l) => l.category_id === 5);
@@ -45,7 +43,7 @@ export const teamRacingPointMembers = async () => {
 	console.log(JSON.stringify(membersClean, null, 2));
 
 	writeFileSync(
-		path.join(process.cwd(), "data", "team_racing_point_members.json"),
+		path.join(process.cwd(), "data", "trp_members.json"),
 		JSON.stringify(membersClean, null, 2),
 	);
 };
