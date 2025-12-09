@@ -15,12 +15,22 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Setup Node.js 24
         uses: actions/setup-node@v4
         with:
           node-version: 24
       - name: Install dependencies
         run: npm ci
+
+      - name: Create .env file
+        run: |
+          echo "CLIENT_ID=${{ secrets.CLIENT_ID }}" >> .env
+          echo "CLIENT_SECRET=${{ secrets.CLIENT_SECRET }}" >> .env
+          echo "USER_NAME=${{ secrets.USERNAME }}" >> .env
+          echo "PASSWORD=${{ secrets.PASSWORD }}" >> .env
+          echo "ACCESS_TOKEN_FILE=${{ secrets.ACCESS_TOKEN_FILE }}" >> .env
+
       - name: Generate TRP members data
         run: npm run data trp-members
       #- name: Upload generated data
@@ -28,6 +38,7 @@ jobs:
       #  with:
       #    name: generated-data
       #    path: data/
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -47,9 +58,12 @@ jobs:
     #  with:
     #    name: generated-data
     #    path: data/
+
     - name: Use Node.js 24
       uses: actions/setup-node@v4
       with:
         node-version: 24
-    - run: npm ci
-    - run: npm run build
+    - name: Install dependencies
+      run: npm ci
+    - name: Build UI
+      run: npm run build
