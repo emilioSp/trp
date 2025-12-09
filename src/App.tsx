@@ -30,7 +30,7 @@ function App() {
 
 	return (
 		<>
-			<h1 className="text-2xl font-bold text-center mb-2">Team Racing Point</h1>
+			<h1 className="text-2xl font-bold text-center mb-2">Team Racing Point Roster</h1>
 			<div className="min-h-screen bg-gray-100 p-4">
 				<div className="max-w-6xl mx-auto">
 					{/* center the grid on the page */}
