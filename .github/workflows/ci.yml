@@ -4,8 +4,8 @@
 name: Generate data
 
 on:
-  #schedule:
-  #  - cron: "0 * * * *"    # every hour (UTC)
+  schedule:
+    - cron: "0 * * * *"    # every hour (UTC)
   workflow_dispatch: {}    # allow manual run
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
