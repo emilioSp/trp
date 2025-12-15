@@ -2,9 +2,9 @@
   {
     "id": 872525,
     "name": "Vito Fatalino",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 1.16,
+    "classOrder": 3,
+    "className": "C",
+    "safetyRating": 2.16,
     "iRating": 2846
   },
   {
@@ -42,9 +42,9 @@
   {
     "id": 1229781,
     "name": "Emanuelec Marsilla",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 1.21,
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 2.21,
     "iRating": 2011
   },
   {
@@ -130,9 +130,9 @@
   {
     "id": 420122,
     "name": "David Pertile",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 3.42,
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.42,
     "iRating": 2884
   },
   {
@@ -178,9 +178,9 @@
   {
     "id": 1156449,
     "name": "Tommaso Baseggio",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 1.04,
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 2.04,
     "iRating": 1946
   },
   {
