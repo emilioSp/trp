@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "6100ff"
+      },
+      "license_level": 18,
+      "session_start_time": "2025-12-16T21:45:00Z",
+      "winner_group_id": 630266,
+      "winner_name": "Patrekur Magnusson",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "1d301f",
+        "color3": "fc0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 23,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 61,
+      "strength_of_field": 1693,
+      "subsession_id": 81943029,
+      "old_sub_level": 241,
+      "new_sub_level": 267,
+      "oldi_rating": 1842,
+      "newi_rating": 1851,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6043,
       "series_id": 320,
       "series_name": "13th Week iRacing Porsche Cup",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 8
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 6,
-        "color1": "C4FF00",
-        "color2": "C4FF00",
-        "color3": "C2FC00"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-11-09T22:00:00Z",
-      "winner_group_id": 367621,
-      "winner_name": "Nikita Mitrofanov2",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 9,
-      "incidents": 6,
-      "points": 82,
-      "strength_of_field": 1364,
-      "subsession_id": 81136214,
-      "old_sub_level": 241,
-      "new_sub_level": 254,
-      "oldi_rating": 1429,
-      "newi_rating": 1515,
-      "track": {
-        "track_id": 212,
-        "track_name": "Autódromo José Carlos Pace"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 7
     }
   ],
   "cust_id": 922039
