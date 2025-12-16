@@ -189,16 +189,6 @@ function MemberDetail() {
 					console.log(`Chart data not available for member ${id}`);
 				}
 
-				// Try to load SR chart data
-				try {
-					const srChart = await import(
-						`../../data/trp_member_${id}_sr_chart.json`
-					);
-					setSRChartData(srChart.default);
-				} catch (srChartErr) {
-					console.log(`SR Chart data not available for member ${id}`);
-				}
-
 				setLoading(false);
 			} catch (err) {
 				setError(`Failed to load member data for ID: ${id}`);
@@ -575,8 +565,8 @@ function MemberDetail() {
 										color: "#1f2937",
 										fontWeight: "bold",
 									}}
-									formatter={(value: number) =>
-										`${value.toLocaleString()}`
+									formatter={(value: number | undefined) =>
+										value ? `${value.toLocaleString()}` : ""
 									}
 									labelFormatter={(label: string) =>
 										`Date: ${label}`

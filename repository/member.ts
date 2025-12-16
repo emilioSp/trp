@@ -16,6 +16,8 @@ type MemberData = {
 	members: Array<{
 		display_name: string;
 		cust_id: number;
+		member_since: string;
+		flair_name: string;
 		licenses: License[];
 	}>;
 };

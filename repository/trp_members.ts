@@ -64,7 +64,7 @@ export const trpMembers = async () => {
 			JSON.stringify(recentRaces, null, 2),
 		);
 
-		const recap = await memberRecap(member.id.toString(), 2025);
+		const recap = await memberRecap(member.id.toString(), "2025");
 		writeFileSync(
 			path.join(
 				process.cwd(),

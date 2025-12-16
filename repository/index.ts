@@ -89,7 +89,7 @@ program
 	.argument("<member_id>", "Member ID to fetch recap data for")
 	.action(async (memberId: string) => {
 		await storage.run({ accessToken }, async () => {
-			await memberRecap(memberId, 2025);
+			await memberRecap(memberId, "2025");
 		});
 	});
 
@@ -110,7 +110,7 @@ program
 	.argument("<member_id>", "Member ID to fetch chart data for")
 	.action(async (memberId: string) => {
 		await storage.run({ accessToken }, async () => {
-			const c = await memberChart(memberId);
+			const c = await memberChartIrating(memberId);
 			console.log(JSON.stringify(c, null, 2));
 		});
 	});
