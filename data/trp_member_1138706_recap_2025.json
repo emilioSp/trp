@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 41,
+    "wins": 13,
+    "top5": 23,
+    "avg_start_position": 5,
+    "avg_finish_position": 8,
+    "laps": 744,
+    "laps_led": 151,
+    "favorite_car": {
+      "car_id": 67,
+      "car_name": "Global Mazda MX-5 Cup",
+      "car_image": "https://images-static.iracing.com/img/cars/globalmazdamx5cup/globalmazdamx5cup-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": null,
+      "track_id": 144,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/canadiantiremotorsportspark-logo.png",
+      "track_name": "Canadian Tire Motorsports Park"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1138706
+}

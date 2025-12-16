@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 238,
+    "wins": 9,
+    "top5": 79,
+    "avg_start_position": 8,
+    "avg_finish_position": 10,
+    "laps": 3045,
+    "laps_led": 101,
+    "favorite_car": {
+      "car_id": 188,
+      "car_name": "McLaren 720S GT3 EVO",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_188/mclaren720sgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Full Course",
+      "track_id": 47,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/weathertechracewaylagunaseca-logo.png",
+      "track_name": "WeatherTech Raceway at Laguna Seca"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1231237
+}

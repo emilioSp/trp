@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 144,
+    "wins": 17,
+    "top5": 53,
+    "avg_start_position": 9,
+    "avg_finish_position": 10,
+    "laps": 2325,
+    "laps_led": 160,
+    "favorite_car": {
+      "car_id": 188,
+      "car_name": "McLaren 720S GT3 EVO",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_188/mclaren720sgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "National Circuit",
+      "track_id": 439,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/wintonmotorraceway-logo.png",
+      "track_name": "Winton Motor Raceway"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1279219
+}

@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 4,
+    "wins": 0,
+    "top5": 0,
+    "avg_start_position": 11,
+    "avg_finish_position": 10,
+    "laps": 17,
+    "laps_led": 0,
+    "favorite_car": {
+      "car_id": 67,
+      "car_name": "Global Mazda MX-5 Cup",
+      "car_image": "https://images-static.iracing.com/img/cars/globalmazdamx5cup/globalmazdamx5cup-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": null,
+      "track_id": 489,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/circuitdeledenon-logo.png",
+      "track_name": "Circuit de Lédenon"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1234211
+}

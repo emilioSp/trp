@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 270,
+    "wins": 10,
+    "top5": 68,
+    "avg_start_position": 11,
+    "avg_finish_position": 10,
+    "laps": 4235,
+    "laps_led": 75,
+    "favorite_car": {
+      "car_id": 148,
+      "car_name": "FIA F4",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_148/carid_148-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix",
+      "track_id": 498,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/mugello-logo.png",
+      "track_name": "Autodromo Internazionale del Mugello"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1153360
+}

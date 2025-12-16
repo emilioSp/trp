@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 24,
+    "wins": 2,
+    "top5": 12,
+    "avg_start_position": 7,
+    "avg_finish_position": 7,
+    "laps": 389,
+    "laps_led": 0,
+    "favorite_car": {
+      "car_id": 160,
+      "car_name": "Toyota GR86",
+      "car_image": "https://images-static.iracing.com/img/cars/toyotagr86/toyotagr86-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Full Course",
+      "track_id": 166,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/okayamainternationalcircuit-logo.png",
+      "track_name": "Okayama International Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 420122
+}

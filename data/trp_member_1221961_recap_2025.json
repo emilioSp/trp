@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 157,
+    "wins": 17,
+    "top5": 69,
+    "avg_start_position": 7,
+    "avg_finish_position": 9,
+    "laps": 3154,
+    "laps_led": 240,
+    "favorite_car": {
+      "car_id": 173,
+      "car_name": "Ferrari 296 GT3",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_173/ferrari296gt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix Pits",
+      "track_id": 523,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/circuitdespafrancorchamps-logo.png",
+      "track_name": "Circuit de Spa-Francorchamps"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1221961
+}

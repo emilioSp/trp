@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 157,
+    "wins": 17,
+    "top5": 54,
+    "avg_start_position": 8,
+    "avg_finish_position": 9,
+    "laps": 2286,
+    "laps_led": 168,
+    "favorite_car": {
+      "car_id": 67,
+      "car_name": "Global Mazda MX-5 Cup",
+      "car_image": "https://images-static.iracing.com/img/cars/globalmazdamx5cup/globalmazdamx5cup-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Full Course",
+      "track_id": 47,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/weathertechracewaylagunaseca-logo.png",
+      "track_name": "WeatherTech Raceway at Laguna Seca"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1188732
+}

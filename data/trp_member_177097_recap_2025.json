@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 32,
+    "wins": 0,
+    "top5": 10,
+    "avg_start_position": 9,
+    "avg_finish_position": 10,
+    "laps": 1196,
+    "laps_led": 10,
+    "favorite_car": {
+      "car_id": 169,
+      "car_name": "Porsche 911 GT3 R (992)",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_169/porsche992rgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Boot",
+      "track_id": 434,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/watkinsgleninternational-logo.png",
+      "track_name": "Watkins Glen International"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 177097
+}

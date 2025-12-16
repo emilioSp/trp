@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 267,
+    "wins": 33,
+    "top5": 170,
+    "avg_start_position": 4,
+    "avg_finish_position": 5,
+    "laps": 3920,
+    "laps_led": 477,
+    "favorite_car": {
+      "car_id": 146,
+      "car_name": "Hyundai Elantra N TCR",
+      "car_image": "https://images-static.iracing.com/img/cars/hyundaielantracn7/hyundaielantracn7-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": null,
+      "track_id": 532,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/thruxtoncircuit-logo.png",
+      "track_name": "Thruxton Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 970331
+}

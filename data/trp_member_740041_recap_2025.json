@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 78,
+    "wins": 2,
+    "top5": 14,
+    "avg_start_position": 11,
+    "avg_finish_position": 11,
+    "laps": 1164,
+    "laps_led": 18,
+    "favorite_car": {
+      "car_id": 188,
+      "car_name": "McLaren 720S GT3 EVO",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_188/mclaren720sgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix",
+      "track_id": 145,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/brandshatchcircuit-logo.png",
+      "track_name": "Brands Hatch Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 740041
+}

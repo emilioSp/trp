@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 142,
+    "wins": 7,
+    "top5": 33,
+    "avg_start_position": 9,
+    "avg_finish_position": 12,
+    "laps": 2974,
+    "laps_led": 56,
+    "favorite_car": {
+      "car_id": 188,
+      "car_name": "McLaren 720S GT3 EVO",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_188/mclaren720sgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Boot",
+      "track_id": 434,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/watkinsgleninternational-logo.png",
+      "track_name": "Watkins Glen International"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 684090
+}

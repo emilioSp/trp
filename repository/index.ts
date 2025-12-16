@@ -6,6 +6,10 @@ import { member } from "./member.ts";
 import { storage } from "./storage.ts";
 import { team } from "./team.ts";
 import { trpMembers } from "./trp_members.ts";
+import { memberRecentRaces } from "./member-recent-races.ts";
+import { memberRecap } from "./member-recap.ts";
+import { memberCareer } from "./member-career.ts";
+import { memberChartIrating } from "./member-chart-irating.ts";
 
 if (!process.env.ACCESS_TOKEN_FILE) {
 	throw new Error("ACCESS_TOKEN_FILE environment variable is not set");
@@ -66,6 +70,48 @@ program
 	.action(async () => {
 		await storage.run({ accessToken }, async () => {
 			await trpMembers();
+		});
+	});
+
+program
+	.command("member-recent-races")
+	.description("Get recent races for each member")
+	.argument("<member_id>", "Member ID to fetch recent races for")
+	.action(async (memberId: string) => {
+	await storage.run({ accessToken }, async () => {
+		await memberRecentRaces(memberId);
+	});
+});
+
+program
+	.command("member-recap")
+	.description("Get member recap data")
+	.argument("<member_id>", "Member ID to fetch recap data for")
+	.action(async (memberId: string) => {
+		await storage.run({ accessToken }, async () => {
+			await memberRecap(memberId, 2025);
+		});
+	});
+
+program
+	.command("member-career")
+	.description("Get member career data")
+	.argument("<member_id>", "Member ID to fetch career data for")
+	.action(async (memberId: string) => {
+		await storage.run({ accessToken }, async () => {
+			const c = await memberCareer(memberId);
+			console.log(JSON.stringify(c, null, 2));
+		});
+	});
+
+program
+	.command("member-chart-irating")
+	.description("Get member irating chart data")
+	.argument("<member_id>", "Member ID to fetch chart data for")
+	.action(async (memberId: string) => {
+		await storage.run({ accessToken }, async () => {
+			const c = await memberChart(memberId);
+			console.log(JSON.stringify(c, null, 2));
 		});
 	});
 

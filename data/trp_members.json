@@ -2,6 +2,8 @@
   {
     "id": 872525,
     "name": "Vito Fatalino",
+    "memberSince": "2023-02-14",
+    "country": "Italy",
     "classOrder": 3,
     "className": "C",
     "safetyRating": 2.53,
@@ -10,6 +12,8 @@
   {
     "id": 1153360,
     "name": "Simone Masi2",
+    "memberSince": "2024-12-03",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.43,
@@ -18,6 +22,8 @@
   {
     "id": 740041,
     "name": "Michele Trillo",
+    "memberSince": "2022-01-30",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.18,
@@ -26,6 +32,8 @@
   {
     "id": 1138706,
     "name": "Alessio M Doppio",
+    "memberSince": "2024-11-13",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 3.24,
@@ -34,6 +42,8 @@
   {
     "id": 900937,
     "name": "Emilio Spatola",
+    "memberSince": "2023-05-05",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.33,
@@ -42,6 +52,8 @@
   {
     "id": 1229781,
     "name": "Emanuelec Marsilla",
+    "memberSince": "2025-04-13",
+    "country": "Italy",
     "classOrder": 4,
     "className": "B",
     "safetyRating": 2.23,
@@ -50,6 +62,8 @@
   {
     "id": 177097,
     "name": "Piercarlo Patti",
+    "memberSince": "2014-12-15",
+    "country": "Switzerland",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 3.5,
@@ -58,6 +72,8 @@
   {
     "id": 1255839,
     "name": "Emilio Bertolini",
+    "memberSince": "2025-06-03",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.81,
@@ -66,6 +82,8 @@
   {
     "id": 812737,
     "name": "Alberto Testi2",
+    "memberSince": "2022-08-15",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.7,
@@ -74,6 +92,8 @@
   {
     "id": 1114113,
     "name": "Marco Chiarello",
+    "memberSince": "2024-09-10",
+    "country": "Italy",
     "classOrder": 4,
     "className": "B",
     "safetyRating": 2.04,
@@ -82,6 +102,8 @@
   {
     "id": 1095941,
     "name": "Mario Bellotti",
+    "memberSince": "2024-07-28",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.44,
@@ -90,6 +112,8 @@
   {
     "id": 825369,
     "name": "Simone Donchi",
+    "memberSince": "2022-09-23",
+    "country": "Italy",
     "classOrder": 3,
     "className": "C",
     "safetyRating": 2.57,
@@ -98,6 +122,8 @@
   {
     "id": 970331,
     "name": "Salvatore Gueli",
+    "memberSince": "2023-11-25",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.64,
@@ -106,6 +132,8 @@
   {
     "id": 1231237,
     "name": "Mario Di Meo",
+    "memberSince": "2025-04-16",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 3.06,
@@ -114,6 +142,8 @@
   {
     "id": 1221961,
     "name": "Giaime M Cualbu",
+    "memberSince": "2025-03-27",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 3.44,
@@ -122,6 +152,8 @@
   {
     "id": 1179726,
     "name": "Joy Perez",
+    "memberSince": "2025-01-04",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 3.81,
@@ -130,6 +162,8 @@
   {
     "id": 420122,
     "name": "David Pertile",
+    "memberSince": "2019-12-14",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.42,
@@ -138,6 +172,8 @@
   {
     "id": 581524,
     "name": "Stefano Cantisani",
+    "memberSince": "2020-12-18",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.14,
@@ -146,6 +182,8 @@
   {
     "id": 1279219,
     "name": "Gabriele Rosone",
+    "memberSince": "2025-07-03",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.59,
@@ -154,6 +192,8 @@
   {
     "id": 913773,
     "name": "Salvatore Reddavid",
+    "memberSince": "2023-06-17",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.56,
@@ -162,6 +202,8 @@
   {
     "id": 871456,
     "name": "Diego Donati",
+    "memberSince": "2023-02-10",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.51,
@@ -170,6 +212,8 @@
   {
     "id": 1188732,
     "name": "Mirko Mastrangelo",
+    "memberSince": "2025-01-21",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 3.05,
@@ -178,6 +222,8 @@
   {
     "id": 1156449,
     "name": "Tommaso Baseggio",
+    "memberSince": "2024-12-08",
+    "country": "Italy",
     "classOrder": 4,
     "className": "B",
     "safetyRating": 2.04,
@@ -186,6 +232,8 @@
   {
     "id": 684090,
     "name": "Marco Faniuolo",
+    "memberSince": "2021-10-11",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.55,
@@ -194,6 +242,8 @@
   {
     "id": 1234211,
     "name": "Christian Ryf",
+    "memberSince": "2025-04-22",
+    "country": "Switzerland",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.47,
@@ -202,6 +252,8 @@
   {
     "id": 1205476,
     "name": "Marco Pinton2",
+    "memberSince": "2025-02-26",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 3.48,
@@ -210,6 +262,8 @@
   {
     "id": 922039,
     "name": "Andrea Poletti2",
+    "memberSince": "2023-07-17",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.41,
@@ -218,6 +272,8 @@
   {
     "id": 872758,
     "name": "Giuseppe Capitoni",
+    "memberSince": "2023-02-15",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 3.19,
@@ -226,6 +282,8 @@
   {
     "id": 1079917,
     "name": "Augusto Saccoccio",
+    "memberSince": "2024-07-02",
+    "country": "Italy",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.46,

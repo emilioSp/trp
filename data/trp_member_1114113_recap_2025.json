@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 146,
+    "wins": 43,
+    "top5": 84,
+    "avg_start_position": 5,
+    "avg_finish_position": 8,
+    "laps": 1588,
+    "laps_led": 650,
+    "favorite_car": {
+      "car_id": 148,
+      "car_name": "FIA F4",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_148/carid_148-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Full Course",
+      "track_id": 166,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/okayamainternationalcircuit-logo.png",
+      "track_name": "Okayama International Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1114113
+}

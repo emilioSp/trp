@@ -2,6 +2,10 @@ import { writeFileSync } from "node:fs";
 import * as path from "node:path";
 import { member } from "./member.ts";
 import { team } from "./team.ts";
+import { memberRecentRaces } from "./member-recent-races.ts";
+import { memberRecap } from "./member-recap.ts";
+import { memberCareer } from "./member-career.ts";
+import { memberChartIrating } from "./member-chart-irating.ts";
 
 const getClassFromGroupId = (groupId?: number) => {
 	switch (groupId) {
@@ -33,6 +37,8 @@ export const trpMembers = async () => {
 		return {
 			id: m.cust_id,
 			name: m.display_name,
+			memberSince: m.member_since,
+			country: m.flair_name,
 			classOrder: roadLicense?.group_id,
 			className: getClassFromGroupId(roadLicense?.group_id),
 			safetyRating: roadLicense?.safety_rating,
@@ -46,4 +52,43 @@ export const trpMembers = async () => {
 		path.join(process.cwd(), "data", "trp_members.json"),
 		JSON.stringify(membersClean, null, 2),
 	);
+
+	for (const member of membersClean) {
+		console.log(`fetching ${member.name}`);
+		const recentRaces = await memberRecentRaces(member.id.toString());
+		writeFileSync(
+			path.join(
+				process.cwd(),
+				"data",
+				`trp_member_${member.id}.json`),
+			JSON.stringify(recentRaces, null, 2),
+		);
+
+		const recap = await memberRecap(member.id.toString(), 2025);
+		writeFileSync(
+			path.join(
+				process.cwd(),
+				"data",
+				`trp_member_${member.id}_recap_2025.json`),
+			JSON.stringify(recap, null, 2),
+		);
+		const career = await memberCareer(member.id.toString());
+		writeFileSync(
+			path.join(
+				process.cwd(),
+				"data",
+				`trp_member_${member.id}_career.json`),
+			JSON.stringify(career, null, 2),
+		);
+
+		const iRatingChart = await memberChartIrating(member.id.toString());
+		writeFileSync(
+			path.join(
+				process.cwd(),
+				"data",
+				`trp_member_${member.id}_irating_chart.json`),
+			JSON.stringify(iRatingChart, null, 2),
+		);
+	}
+
 };

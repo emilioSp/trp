@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 211,
+    "wins": 15,
+    "top5": 73,
+    "avg_start_position": 11,
+    "avg_finish_position": 9,
+    "laps": 2816,
+    "laps_led": 207,
+    "favorite_car": {
+      "car_id": 173,
+      "car_name": "Ferrari 296 GT3",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_173/ferrari296gt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "International",
+      "track_id": 180,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/oultonparkcircuit-logo.png",
+      "track_name": "Oulton Park Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1156449
+}

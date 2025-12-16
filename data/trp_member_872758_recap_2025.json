@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 194,
+    "wins": 8,
+    "top5": 51,
+    "avg_start_position": 11,
+    "avg_finish_position": 13,
+    "laps": 5167,
+    "laps_led": 136,
+    "favorite_car": {
+      "car_id": 194,
+      "car_name": "Acura NSX GT3 EVO 22",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_194/acuransxevo22gt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Boot",
+      "track_id": 434,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/watkinsgleninternational-logo.png",
+      "track_name": "Watkins Glen International"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 872758
+}

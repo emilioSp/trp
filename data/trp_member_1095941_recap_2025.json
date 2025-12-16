@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 233,
+    "wins": 9,
+    "top5": 63,
+    "avg_start_position": 11,
+    "avg_finish_position": 12,
+    "laps": 4179,
+    "laps_led": 90,
+    "favorite_car": {
+      "car_id": 169,
+      "car_name": "Porsche 911 GT3 R (992)",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_169/porsche992rgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Road Course",
+      "track_id": 192,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/daytonainternationalspeedway-logo.png",
+      "track_name": "Daytona International Speedway"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1095941
+}

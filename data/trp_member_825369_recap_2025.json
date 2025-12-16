@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 364,
+    "wins": 79,
+    "top5": 185,
+    "avg_start_position": 7,
+    "avg_finish_position": 9,
+    "laps": 3721,
+    "laps_led": 797,
+    "favorite_car": {
+      "car_id": 67,
+      "car_name": "Global Mazda MX-5 Cup",
+      "car_image": "https://images-static.iracing.com/img/cars/globalmazdamx5cup/globalmazdamx5cup-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Full Course",
+      "track_id": 166,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/okayamainternationalcircuit-logo.png",
+      "track_name": "Okayama International Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 825369
+}

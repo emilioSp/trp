@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 168,
+    "wins": 7,
+    "top5": 51,
+    "avg_start_position": 11,
+    "avg_finish_position": 12,
+    "laps": 2249,
+    "laps_led": 75,
+    "favorite_car": {
+      "car_id": 143,
+      "car_name": "[Legacy] Porsche 911 GT3 Cup (992.1)",
+      "car_image": "https://images-static.iracing.com/img/cars/porsche992cup/porsche992cup-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Full Course",
+      "track_id": 127,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/roadatlanta-logo.png",
+      "track_name": "Road Atlanta"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 922039
+}

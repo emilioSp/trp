@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 75,
+    "wins": 4,
+    "top5": 27,
+    "avg_start_position": 9,
+    "avg_finish_position": 9,
+    "laps": 885,
+    "laps_led": 54,
+    "favorite_car": {
+      "car_id": 156,
+      "car_name": "Mercedes-AMG GT3 2020",
+      "car_image": "https://images-static.iracing.com/img/cars/mercedesamgevogt3/mercedesamgevogt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix",
+      "track_id": 463,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/circuitdeneversmagnycours-logo.png",
+      "track_name": "Circuit de Nevers Magny-Cours"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1229781
+}

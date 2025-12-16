@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 20,
+    "wins": 3,
+    "top5": 8,
+    "avg_start_position": 11,
+    "avg_finish_position": 10,
+    "laps": 427,
+    "laps_led": 50,
+    "favorite_car": {
+      "car_id": 169,
+      "car_name": "Porsche 911 GT3 R (992)",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_169/porsche992rgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix",
+      "track_id": 485,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/circuitparkzandvoort-logo.png",
+      "track_name": "Circuit Zandvoort"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 871456
+}

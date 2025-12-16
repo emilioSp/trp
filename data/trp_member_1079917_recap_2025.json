@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 488,
+    "wins": 19,
+    "top5": 130,
+    "avg_start_position": 12,
+    "avg_finish_position": 10,
+    "laps": 7709,
+    "laps_led": 151,
+    "favorite_car": {
+      "car_id": 188,
+      "car_name": "McLaren 720S GT3 EVO",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_188/mclaren720sgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": null,
+      "track_id": 179,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/longbeachstreetcircuit-logo.png",
+      "track_name": "Long Beach Street Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1079917
+}
