@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 10,
+      "session_start_time": "2025-12-17T19:30:00Z",
+      "winner_group_id": 872525,
+      "winner_name": "Vito Fatalino",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "17ff00",
+        "color2": "e9ff00",
+        "color3": "e3ff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 6,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 7,
+      "incidents": 5,
+      "points": 174,
+      "strength_of_field": 2961,
+      "subsession_id": 81966228,
+      "old_sub_level": 282,
+      "new_sub_level": 341,
+      "oldi_rating": 3000,
+      "newi_rating": 3092,
+      "track": {
+        "track_id": 526,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 5911,
+      "series_id": 502,
+      "series_name": "Sports Car Challenge by Falken Tyre",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 13,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 10,
       "session_start_time": "2025-12-16T21:30:00Z",
       "winner_group_id": 1031647,
       "winner_name": "Stephen A Calvert",
@@ -91,7 +139,7 @@
         "track_id": 526,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -428,54 +476,6 @@
         "track_name": "Hockenheimring Baden-Württemberg"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 22,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 13,
-      "session_start_time": "2025-12-08T13:15:00Z",
-      "winner_group_id": 725734,
-      "winner_name": "Alessandro Quintaiè",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "ffed00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 10,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 147,
-      "strength_of_field": 4157,
-      "subsession_id": 81818364,
-      "old_sub_level": 156,
-      "new_sub_level": 145,
-      "oldi_rating": 3013,
-      "newi_rating": 3067,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11

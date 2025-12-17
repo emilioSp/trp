@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5951,
+      "series_id": 552,
+      "series_name": "Formula C - Super Formula Lights - Fixed by Ready Set Sim",
+      "car_id": 178,
+      "car_class_id": 4049,
+      "livery": {
+        "car_id": 178,
+        "pattern": 1,
+        "color1": "eaf3eb",
+        "color2": "065ff6",
+        "color3": "9dd1c6"
+      },
+      "license_level": 11,
+      "session_start_time": "2025-12-17T19:45:00Z",
+      "winner_group_id": 304532,
+      "winner_name": "Sohil Shah",
+      "winner_helmet": {
+        "pattern": 64,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "7a1aff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 23,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 109,
+      "strength_of_field": 2550,
+      "subsession_id": 81966837,
+      "old_sub_level": 339,
+      "new_sub_level": 351,
+      "oldi_rating": 2489,
+      "newi_rating": 2528,
+      "track": {
+        "track_id": 526,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6049,
       "series_id": 470,
       "series_name": "13th Week iRacing RX Lite",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 9
-    },
-    {
-      "season_id": 5763,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 184,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 184,
-        "pattern": 17,
-        "color1": "eaf3eb",
-        "color2": "065ff6",
-        "color3": "9dd1c6"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-11-17T22:45:00Z",
-      "winner_group_id": 1029908,
-      "winner_name": "Michael Longstaff3",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 38,
-      "strength_of_field": 3090,
-      "subsession_id": 81323191,
-      "old_sub_level": 331,
-      "new_sub_level": 325,
-      "oldi_rating": 2982,
-      "newi_rating": 2936,
-      "track": {
-        "track_id": 345,
-        "track_name": "Circuit de Barcelona Catalunya"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 8
     }
   ],
   "cust_id": 1153360
