@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5930,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 93,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 93,
+        "pattern": 22,
+        "color1": "ffffff",
+        "color2": "ff0000",
+        "color3": "108401"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-17T21:00:00Z",
+      "winner_group_id": 42186,
+      "winner_name": "Scott Garner",
+      "winner_helmet": {
+        "pattern": 3,
+        "color1": "ffffff",
+        "color2": "3cb46a",
+        "color3": "35fc2b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 8,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 25,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 78,
+      "strength_of_field": 1489,
+      "subsession_id": 81968279,
+      "old_sub_level": 306,
+      "new_sub_level": 309,
+      "oldi_rating": 2008,
+      "newi_rating": 2052,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6043,
       "series_id": 320,
       "series_name": "13th Week iRacing Porsche Cup",
@@ -428,54 +476,6 @@
         "track_name": "Okayama International Circuit"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5764,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 93,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 93,
-        "pattern": 22,
-        "color1": "ffffff",
-        "color2": "ff0000",
-        "color3": "108401"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-11-29T21:00:00Z",
-      "winner_group_id": 1302810,
-      "winner_name": "Diogo Pereira21",
-      "winner_helmet": {
-        "pattern": 32,
-        "color1": "ffffff",
-        "color2": "007ac3",
-        "color3": "ee3a43",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 19,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 34,
-      "strength_of_field": 1710,
-      "subsession_id": 81604568,
-      "old_sub_level": 276,
-      "new_sub_level": 232,
-      "oldi_rating": 1749,
-      "newi_rating": 1713,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 10
