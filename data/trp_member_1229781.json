@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5941,
+      "series_id": 521,
+      "series_name": "Motorsport UK FF 1600 Trophy by Thrustmaster",
+      "car_id": 163,
+      "car_class_id": 4016,
+      "livery": {
+        "car_id": 163,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 6,
+      "session_start_time": "2025-12-18T16:45:00Z",
+      "winner_group_id": 1334139,
+      "winner_name": "Alejandro Lima",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 8,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 36,
+      "strength_of_field": 1331,
+      "subsession_id": 81988662,
+      "old_sub_level": 242,
+      "new_sub_level": 250,
+      "oldi_rating": 1502,
+      "newi_rating": 1487,
+      "track": {
+        "track_id": 297,
+        "track_name": "Snetterton Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5938,
       "series_id": 520,
       "series_name": "Formula 1600 Rookie Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6044,
-      "series_id": 568,
-      "series_name": "13th Week FF1600 Series",
-      "car_id": 163,
-      "car_class_id": 4016,
-      "livery": {
-        "car_id": 163,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-15T18:15:00Z",
-      "winner_group_id": 1391706,
-      "winner_name": "Gregory Kohler2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ec232d",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 13,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 20,
-      "strength_of_field": 1330,
-      "subsession_id": 81916840,
-      "old_sub_level": 244,
-      "new_sub_level": 231,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 353,
-        "track_name": "Lime Rock Park"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1229781
