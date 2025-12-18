@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5898,
+      "series_id": 112,
+      "series_name": "Production Car Challenge by Sim-Lab",
+      "car_id": 160,
+      "car_class_id": 4012,
+      "livery": {
+        "car_id": 160,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 14,
+      "session_start_time": "2025-12-18T19:30:00Z",
+      "winner_group_id": 982143,
+      "winner_name": "Joshua Ness",
+      "winner_helmet": {
+        "pattern": 48,
+        "color1": "000000",
+        "color2": "203375",
+        "color3": "05a1f9",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 6,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 166,
+      "strength_of_field": 2882,
+      "subsession_id": 81991745,
+      "old_sub_level": 204,
+      "new_sub_level": 211,
+      "oldi_rating": 2824,
+      "newi_rating": 2918,
+      "track": {
+        "track_id": 465,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5729,
       "series_id": 514,
       "series_name": "Toyota GR86 Cup by SIMAGIC",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 8
-    },
-    {
-      "season_id": 6029,
-      "series_id": 597,
-      "series_name": "Suzuka 1000km",
-      "car_id": 173,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 173,
-        "pattern": 6,
-        "color1": "020416",
-        "color2": "000003",
-        "color3": "550b60"
-      },
-      "license_level": 13,
-      "session_start_time": "2025-11-15T12:00:00Z",
-      "winner_group_id": -413279,
-      "winner_name": "White Motorsports",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 2,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 87,
-      "laps_led": 2,
-      "incidents": 16,
-      "points": 162,
-      "strength_of_field": 2637,
-      "subsession_id": 81265069,
-      "old_sub_level": 168,
-      "new_sub_level": 373,
-      "oldi_rating": 2939,
-      "newi_rating": 2987,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1114113
