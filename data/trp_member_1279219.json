@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 24,
+        "color1": "135324",
+        "color2": "111111",
+        "color3": "535353"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-18T21:45:00Z",
+      "winner_group_id": 467481,
+      "winner_name": "George Rummington",
+      "winner_helmet": {
+        "pattern": 9,
+        "color1": "d1d1d1",
+        "color2": "69383a",
+        "color3": "026c7c",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 3,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 150,
+      "strength_of_field": 3221,
+      "subsession_id": 81994653,
+      "old_sub_level": 352,
+      "new_sub_level": 346,
+      "oldi_rating": 4060,
+      "newi_rating": 4096,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -91,7 +139,7 @@
         "track_id": 572,
         "track_name": "Autódromo Hermanos Rodríguez"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 10,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-12-03T21:15:00Z",
-      "winner_group_id": 725734,
-      "winner_name": "Alessandro Quintaiè",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "ffed00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 8,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 179,
-      "strength_of_field": 4178,
-      "subsession_id": 81701519,
-      "old_sub_level": 165,
-      "new_sub_level": 185,
-      "oldi_rating": 3773,
-      "newi_rating": 3835,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
