@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5905,
+      "series_id": 353,
+      "series_name": "Ferrari 296 Challenge",
+      "car_id": 203,
+      "car_class_id": 4082,
+      "livery": {
+        "car_id": 203,
+        "pattern": 20,
+        "color1": "000000",
+        "color2": "FF0000",
+        "color3": "FFFFFF"
+      },
+      "license_level": 14,
+      "session_start_time": "2025-12-18T14:15:00Z",
+      "winner_group_id": 527797,
+      "winner_name": "Damian Ciosek",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "d60000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 8,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 88,
+      "strength_of_field": 1728,
+      "subsession_id": 81986217,
+      "old_sub_level": 204,
+      "new_sub_level": 155,
+      "oldi_rating": 1946,
+      "newi_rating": 2008,
+      "track": {
+        "track_id": 473,
+        "track_name": "Circuito de Jerez - Ángel Nieto"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6043,
       "series_id": 320,
       "series_name": "13th Week iRacing Porsche Cup",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5758,
-      "series_id": 237,
-      "series_name": "GT Endurance Series by Simucube",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 2,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-12-06T19:00:00Z",
-      "winner_group_id": -472339,
-      "winner_name": "Hofbauer Racing",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 27,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 93,
-      "laps_led": 0,
-      "incidents": 27,
-      "points": 121,
-      "strength_of_field": 2014,
-      "subsession_id": 81772741,
-      "old_sub_level": 116,
-      "new_sub_level": 188,
-      "oldi_rating": 1976,
-      "newi_rating": 2063,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1156449
