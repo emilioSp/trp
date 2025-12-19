@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 11,
+      "session_start_time": "2025-12-19T19:30:00Z",
+      "winner_group_id": 468920,
+      "winner_name": "Matthijs van Erven",
+      "winner_helmet": {
+        "pattern": 11,
+        "color1": "ff0202",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 12,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 15,
+      "points": 88,
+      "strength_of_field": 4425,
+      "subsession_id": 82018084,
+      "old_sub_level": 350,
+      "new_sub_level": 339,
+      "oldi_rating": 3147,
+      "newi_rating": 3156,
+      "track": {
+        "track_id": 526,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 5911,
+      "series_id": 502,
+      "series_name": "Sports Car Challenge by Falken Tyre",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 13,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 11,
       "session_start_time": "2025-12-17T21:30:00Z",
       "winner_group_id": 966303,
       "winner_name": "Mateusz Gorczynski",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 5
-    },
-    {
-      "season_id": 6043,
-      "series_id": 320,
-      "series_name": "13th Week iRacing Porsche Cup",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "17ff00",
-        "color2": "e9ff00",
-        "color3": "e3ff00"
-      },
-      "license_level": 13,
-      "session_start_time": "2025-12-09T21:15:00Z",
-      "winner_group_id": 836693,
-      "winner_name": "Roberto Clark",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ee3442",
-        "color2": "447ac0",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 17,
-      "finish_position": 28,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 15,
-      "points": 6,
-      "strength_of_field": 3094,
-      "subsession_id": 81841801,
-      "old_sub_level": 134,
-      "new_sub_level": 111,
-      "oldi_rating": 2977,
-      "newi_rating": 2892,
-      "track": {
-        "track_id": 181,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 0
     }
   ],
   "cust_id": 872525
