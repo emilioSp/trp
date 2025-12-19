@@ -4,7 +4,7 @@ type ApiLinkResponse = {
   link: string;
 };
 
-export const fetchData = async (url: string): Promise<any> => {
+export const fetchData = async (url: string) => {
   const store = storage.getStore();
   if (!store) {
     throw new Error('Storage context not found');

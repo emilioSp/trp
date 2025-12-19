@@ -3,13 +3,13 @@ import { readFileSync } from 'node:fs';
 import { Command } from 'commander';
 import { performLogin } from './login.ts';
 import { member } from './member.ts';
+import { memberCareer } from './member-career.ts';
+import { memberChartIrating } from './member-chart-irating.ts';
+import { memberRecap } from './member-recap.ts';
+import { memberRecentRaces } from './member-recent-races.ts';
 import { storage } from './storage.ts';
 import { team } from './team.ts';
 import { trpMembers } from './trp_members.ts';
-import { memberRecentRaces } from './member-recent-races.ts';
-import { memberRecap } from './member-recap.ts';
-import { memberCareer } from './member-career.ts';
-import { memberChartIrating } from './member-chart-irating.ts';
 
 if (!process.env.ACCESS_TOKEN_FILE) {
   throw new Error('ACCESS_TOKEN_FILE environment variable is not set');

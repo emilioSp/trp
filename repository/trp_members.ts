@@ -1,11 +1,11 @@
 import { writeFileSync } from 'node:fs';
 import * as path from 'node:path';
 import { member } from './member.ts';
-import { team } from './team.ts';
-import { memberRecentRaces } from './member-recent-races.ts';
-import { memberRecap } from './member-recap.ts';
 import { memberCareer } from './member-career.ts';
 import { memberChartIrating } from './member-chart-irating.ts';
+import { memberRecap } from './member-recap.ts';
+import { memberRecentRaces } from './member-recent-races.ts';
+import { team } from './team.ts';
 
 const getClassFromGroupId = (groupId?: number) => {
   switch (groupId) {

@@ -1,14 +1,14 @@
-import { useParams, useNavigate } from 'react-router-dom';
-import { useState, useEffect } from 'react';
+import { useEffect, useState } from 'react';
+import { useNavigate, useParams } from 'react-router-dom';
 import {
-  LineChart,
+  CartesianGrid,
+  Legend,
   Line,
+  LineChart,
+  ResponsiveContainer,
+  Tooltip,
   XAxis,
   YAxis,
-  CartesianGrid,
-  Tooltip,
-  Legend,
-  ResponsiveContainer,
 } from 'recharts';
 import members from '../../data/trp_members.json';
 import { getClassNameForSR } from '../utils/getClassNameForSR.ts';
@@ -165,7 +165,7 @@ function MemberDetail() {
             `../../data/trp_member_${id}_recap_2025.json`
           );
           setRecapData(recap.default);
-        } catch (recapErr) {
+        } catch {
           console.log(`Recap data not available for member ${id}`);
         }
 
@@ -175,7 +175,7 @@ function MemberDetail() {
             `../../data/trp_member_${id}_career.json`
           );
           setCareerData(career.default);
-        } catch (careerErr) {
+        } catch {
           console.log(`Career data not available for member ${id}`);
         }
 
@@ -185,7 +185,7 @@ function MemberDetail() {
             `../../data/trp_member_${id}_irating_chart.json`
           );
           setIRatingChartData(chart.default);
-        } catch (chartErr) {
+        } catch {
           console.log(`Chart data not available for member ${id}`);
         }
 
@@ -213,6 +213,7 @@ function MemberDetail() {
       <div className="min-h-screen bg-gray-100 p-4">
         <div className="max-w-4xl mx-auto">
           <button
+            type={'button'}
             onClick={() => navigate(-1)}
             className="mb-4 px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700"
           >
@@ -229,6 +230,7 @@ function MemberDetail() {
       <div className="min-h-screen bg-gray-100 p-4">
         <div className="max-w-4xl mx-auto">
           <button
+            type={'button'}
             onClick={() => navigate('/')}
             className="mb-4 px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700"
           >
@@ -246,6 +248,7 @@ function MemberDetail() {
     <div className="min-h-screen bg-gray-100 p-4">
       <div className="max-w-6xl mx-auto">
         <button
+          type={'button'}
           onClick={() => navigate('/')}
           className="mb-4 px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700 transition-colors"
         >
