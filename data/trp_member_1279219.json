@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5928,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 24,
+        "color1": "135324",
+        "color2": "111111",
+        "color3": "535353"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-19T11:45:00Z",
+      "winner_group_id": 480179,
+      "winner_name": "Shoma Shintani",
+      "winner_helmet": {
+        "pattern": 67,
+        "color1": "00014a",
+        "color2": "f1f1f1",
+        "color3": "37c8ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 18,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 123,
+      "strength_of_field": 3616,
+      "subsession_id": 82009198,
+      "old_sub_level": 346,
+      "new_sub_level": 354,
+      "oldi_rating": 4096,
+      "newi_rating": 4105,
+      "track": {
+        "track_id": 465,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 10,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-12-03T22:00:00Z",
-      "winner_group_id": 1053878,
-      "winner_name": "Jannik Steinhoff",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "03c5a8",
-        "color2": "2bb9ff",
-        "color3": "dffa00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 4,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 184,
-      "strength_of_field": 3337,
-      "subsession_id": 81702436,
-      "old_sub_level": 185,
-      "new_sub_level": 251,
-      "oldi_rating": 3835,
-      "newi_rating": 3902,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
