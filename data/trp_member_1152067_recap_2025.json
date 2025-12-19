@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 91,
+    "wins": 1,
+    "top5": 11,
+    "avg_start_position": 9,
+    "avg_finish_position": 12,
+    "laps": 1211,
+    "laps_led": 3,
+    "favorite_car": {
+      "car_id": 143,
+      "car_name": "[Legacy] Porsche 911 GT3 Cup (992.1)",
+      "car_image": "https://images-static.iracing.com/img/cars/porsche992cup/porsche992cup-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix",
+      "track_id": 341,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/silverstone-logo.png",
+      "track_name": "Silverstone Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1152067
+}
