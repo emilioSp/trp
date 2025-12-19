@@ -430,9 +430,9 @@ function MemberDetail() {
                   </tr>
                 </thead>
                 <tbody>
-                  {careerData.stats.map((stat, idx) => (
+                  {careerData.stats.map((stat) => (
                     <tr
-                      key={idx}
+                      key={stat.category_id}
                       className="border-b border-gray-200 hover:bg-gray-50 transition-colors"
                     >
                       <td className="px-4 py-3 text-sm font-semibold text-gray-800">
@@ -611,7 +611,7 @@ function MemberDetail() {
                   </tr>
                 </thead>
                 <tbody>
-                  {memberData.races.map((race, idx) => {
+                  {memberData.races.map((race) => {
                     const ratingChange = race.newi_rating - race.oldi_rating;
                     const ratingChangeColor =
                       ratingChange > 0
@@ -624,7 +624,7 @@ function MemberDetail() {
 
                     return (
                       <tr
-                        key={idx}
+                        key={race.subsession_id}
                         className="border-b border-gray-200 hover:bg-gray-50 transition-colors"
                       >
                         <td className="px-4 py-3 text-sm font-medium text-gray-800">
