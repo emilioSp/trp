@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 11,
+      "session_start_time": "2025-12-20T09:30:00Z",
+      "winner_group_id": 841393,
+      "winner_name": "Tiago B Rodriguez",
+      "winner_helmet": {
+        "pattern": 11,
+        "color1": "181818",
+        "color2": "ccff33",
+        "color3": "353535",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 6,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 105,
+      "strength_of_field": 3186,
+      "subsession_id": 82033961,
+      "old_sub_level": 347,
+      "new_sub_level": 357,
+      "oldi_rating": 3207,
+      "newi_rating": 3223,
+      "track": {
+        "track_id": 526,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 5911,
+      "series_id": 502,
+      "series_name": "Sports Car Challenge by Falken Tyre",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 13,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 11,
       "session_start_time": "2025-12-19T23:30:00Z",
       "winner_group_id": 983943,
       "winner_name": "André Vilela II",
@@ -91,7 +139,7 @@
         "track_id": 526,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -423,54 +471,6 @@
       "new_sub_level": 116,
       "oldi_rating": 2900,
       "newi_rating": 2846,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6043,
-      "series_id": 320,
-      "series_name": "13th Week iRacing Porsche Cup",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "17ff00",
-        "color2": "e9ff00",
-        "color3": "e3ff00"
-      },
-      "license_level": 13,
-      "session_start_time": "2025-12-14T15:15:00Z",
-      "winner_group_id": 1076606,
-      "winner_name": "Piotr Orpik",
-      "winner_helmet": {
-        "pattern": 46,
-        "color1": "0a0a0a",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 4,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 103,
-      "strength_of_field": 2755,
-      "subsession_id": 81901305,
-      "old_sub_level": 129,
-      "new_sub_level": 136,
-      "oldi_rating": 2884,
-      "newi_rating": 2900,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
