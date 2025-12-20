@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5914,
+      "series_id": 572,
+      "series_name": "IMSA Sportscar Endurance Challenge",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 13,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 11,
+      "session_start_time": "2025-12-20T15:00:00Z",
+      "winner_group_id": 16111,
+      "winner_name": "Alex Ardoin",
+      "winner_helmet": {
+        "pattern": 49,
+        "color1": "ffffff",
+        "color2": "ff6b00",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 5,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 46,
+      "laps_led": 2,
+      "incidents": 18,
+      "points": 135,
+      "strength_of_field": 4228,
+      "subsession_id": 82040344,
+      "old_sub_level": 367,
+      "new_sub_level": 387,
+      "oldi_rating": 3285,
+      "newi_rating": 3324,
+      "track": {
+        "track_id": 526,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5911,
       "series_id": 502,
       "series_name": "Sports Car Challenge by Falken Tyre",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 10,
-      "session_start_time": "2025-12-16T17:30:00Z",
-      "winner_group_id": 334378,
-      "winner_name": "Justin E Clayton",
-      "winner_helmet": {
-        "pattern": 6,
-        "color1": "000000",
-        "color2": "d0db00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 3,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 101,
-      "strength_of_field": 2546,
-      "subsession_id": 81937447,
-      "old_sub_level": 216,
-      "new_sub_level": 227,
-      "oldi_rating": 2846,
-      "newi_rating": 2868,
-      "track": {
-        "track_id": 526,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
