@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5928,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 9,
+        "color1": "F7F7F7",
+        "color2": "231F20",
+        "color3": "E41E26"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-20T15:45:00Z",
+      "winner_group_id": 878600,
+      "winner_name": "Filip Vaysman",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "978f8f",
+        "color2": "1900ff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 17,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 3,
+      "strength_of_field": 2108,
+      "subsession_id": 82041191,
+      "old_sub_level": 309,
+      "new_sub_level": 320,
+      "oldi_rating": 2052,
+      "newi_rating": 1960,
+      "track": {
+        "track_id": 465,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5930,
       "series_id": 535,
       "series_name": "GTE Sprint Series",
@@ -428,54 +476,6 @@
         "track_name": "Okayama International Circuit"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5771,
-      "series_id": 455,
-      "series_name": "Formula Vee Series by trophi.ai",
-      "car_id": 142,
-      "car_class_id": 3002,
-      "livery": {
-        "car_id": 142,
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "231f20",
-        "color3": "e41e26"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-11-30T07:00:00Z",
-      "winner_group_id": 1359829,
-      "winner_name": "Todd Mistina",
-      "winner_helmet": {
-        "pattern": 3,
-        "color1": "ffffff",
-        "color2": "ff000f",
-        "color3": "1400ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 3,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 22,
-      "strength_of_field": 857,
-      "subsession_id": 81615331,
-      "old_sub_level": 253,
-      "new_sub_level": 259,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 166,
-        "track_name": "Okayama International Circuit"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 10
