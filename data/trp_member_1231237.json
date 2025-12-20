@@ -14,6 +14,54 @@
         "color3": "e41e26"
       },
       "license_level": 2,
+      "session_start_time": "2025-12-20T22:00:00Z",
+      "winner_group_id": 1396618,
+      "winner_name": "Stéphane Cassiau",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ec232d",
+        "color2": "ffffff",
+        "color3": "2e358f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 2,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 55,
+      "strength_of_field": 1047,
+      "subsession_id": 82049213,
+      "old_sub_level": 269,
+      "new_sub_level": 280,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 8,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 5937,
+      "series_id": 455,
+      "series_name": "Formula Vee Series by trophi.ai",
+      "car_id": 142,
+      "car_class_id": 3002,
+      "livery": {
+        "car_id": 142,
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "231f20",
+        "color3": "e41e26"
+      },
+      "license_level": 2,
       "session_start_time": "2025-12-20T21:30:00Z",
       "winner_group_id": 1028877,
       "winner_name": "Adriel Tan",
@@ -43,7 +91,7 @@
         "track_id": 8,
         "track_name": "Summit Point Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
-    },
-    {
-      "season_id": 5771,
-      "series_id": 455,
-      "series_name": "Formula Vee Series by trophi.ai",
-      "car_id": 142,
-      "car_class_id": 3002,
-      "livery": {
-        "car_id": 142,
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "231f20",
-        "color3": "e41e26"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-11-30T16:30:00Z",
-      "winner_group_id": 1328995,
-      "winner_name": "Saul Canto",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "ebff00",
-        "color2": "f40404",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 10,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 0,
-      "strength_of_field": 1161,
-      "subsession_id": 81624595,
-      "old_sub_level": 273,
-      "new_sub_level": 273,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 166,
-        "track_name": "Okayama International Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1231237
