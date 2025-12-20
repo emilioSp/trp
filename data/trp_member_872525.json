@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 11,
+      "session_start_time": "2025-12-20T11:30:00Z",
+      "winner_group_id": 933760,
+      "winner_name": "Garrett Berry3",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "fc0706",
+        "color2": "111111",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 9,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 160,
+      "strength_of_field": 3694,
+      "subsession_id": 82035769,
+      "old_sub_level": 357,
+      "new_sub_level": 367,
+      "oldi_rating": 3223,
+      "newi_rating": 3285,
+      "track": {
+        "track_id": 526,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 5911,
+      "series_id": 502,
+      "series_name": "Sports Car Challenge by Falken Tyre",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 13,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 11,
       "session_start_time": "2025-12-20T09:30:00Z",
       "winner_group_id": 841393,
       "winner_name": "Tiago B Rodriguez",
@@ -139,7 +187,7 @@
         "track_id": 526,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6043,
-      "series_id": 320,
-      "series_name": "13th Week iRacing Porsche Cup",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "17ff00",
-        "color2": "e9ff00",
-        "color3": "e3ff00"
-      },
-      "license_level": 13,
-      "session_start_time": "2025-12-14T16:15:00Z",
-      "winner_group_id": 1182325,
-      "winner_name": "Kyle Griffiths3",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "3473bb",
-        "color3": "da4443",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 5,
-      "finish_position": 23,
-      "qualifying_time": 0,
-      "laps": 3,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 38,
-      "strength_of_field": 2913,
-      "subsession_id": 81901931,
-      "old_sub_level": 136,
-      "new_sub_level": 116,
-      "oldi_rating": 2900,
-      "newi_rating": 2846,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 5
     }
   ],
   "cust_id": 872525
