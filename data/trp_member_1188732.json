@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5930,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 102,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 102,
+        "pattern": 16,
+        "color1": "DBFF00",
+        "color2": "006EFF",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-21T21:00:00Z",
+      "winner_group_id": 1188732,
+      "winner_name": "Mirko Mastrangelo",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "dbff00",
+        "color2": "006eff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 12,
+      "incidents": 2,
+      "points": 112,
+      "strength_of_field": 1783,
+      "subsession_id": 82076443,
+      "old_sub_level": 327,
+      "new_sub_level": 338,
+      "oldi_rating": 2158,
+      "newi_rating": 2240,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5937,
       "series_id": 455,
       "series_name": "Formula Vee Series by trophi.ai",
@@ -91,7 +139,7 @@
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 6
-    },
-    {
-      "season_id": 5780,
-      "series_id": 542,
-      "series_name": "FIA F4 Esports Regional Tour - Europe",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "00ff47",
-        "color2": "000000",
-        "color3": "ffffff"
-      },
-      "license_level": 6,
-      "session_start_time": "2025-10-25T20:45:00Z",
-      "winner_group_id": 1188732,
-      "winner_name": "Mirko Mastrangelo",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "dbff00",
-        "color2": "006eff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 9,
-      "incidents": 1,
-      "points": 98,
-      "strength_of_field": 1582,
-      "subsession_id": 80787523,
-      "old_sub_level": 243,
-      "new_sub_level": 265,
-      "oldi_rating": 1635,
-      "newi_rating": 1727,
-      "track": {
-        "track_id": 345,
-        "track_name": "Circuit de Barcelona Catalunya"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1188732

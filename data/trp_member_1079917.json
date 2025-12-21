@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 132,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 132,
+        "pattern": 16,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 20,
+      "session_start_time": "2025-12-21T20:45:00Z",
+      "winner_group_id": 1134695,
+      "winner_name": "Adrian Olschar",
+      "winner_helmet": {
+        "pattern": 9,
+        "color1": "111111",
+        "color2": "00b2f7",
+        "color3": "666666",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 12,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 27,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 86,
+      "strength_of_field": 3752,
+      "subsession_id": 82076116,
+      "old_sub_level": 488,
+      "new_sub_level": 488,
+      "oldi_rating": 3428,
+      "newi_rating": 3421,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5946,
       "series_id": 542,
       "series_name": "FIA F4 Esports Regional Tour - Europe",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6045,
-      "series_id": 341,
-      "series_name": "13th Week Dirt Street Stock Challenge",
-      "car_id": 79,
-      "car_class_id": 86,
-      "livery": {
-        "car_id": 79,
-        "pattern": 1,
-        "color1": "cccccc",
-        "color2": "ed1c24",
-        "color3": "111111"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-12T14:00:00Z",
-      "winner_group_id": 1206886,
-      "winner_name": "James Baldwin11",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "e0008d",
-        "color2": "e3007b",
-        "color3": "de0071",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 7,
-      "start_position": 7,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 3,
-      "incidents": 2,
-      "points": 17,
-      "strength_of_field": 1199,
-      "subsession_id": 81873490,
-      "old_sub_level": 250,
-      "new_sub_level": 247,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 288,
-        "track_name": "Lanier National Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1079917

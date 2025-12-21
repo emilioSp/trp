@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5930,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 93,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 93,
+        "pattern": 22,
+        "color1": "ffffff",
+        "color2": "ff0000",
+        "color3": "108401"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-21T21:00:00Z",
+      "winner_group_id": 1188732,
+      "winner_name": "Mirko Mastrangelo",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "dbff00",
+        "color2": "006eff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 9,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 88,
+      "strength_of_field": 1783,
+      "subsession_id": 82076443,
+      "old_sub_level": 320,
+      "new_sub_level": 326,
+      "oldi_rating": 1960,
+      "newi_rating": 2010,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5937,
       "series_id": 455,
       "series_name": "Formula Vee Series by trophi.ai",
@@ -187,7 +235,7 @@
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -423,54 +471,6 @@
       "new_sub_level": 254,
       "oldi_rating": 1726,
       "newi_rating": 1808,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 11,
-        "color1": "F7F7F7",
-        "color2": "231F20",
-        "color3": "E41E26"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-02T13:15:00Z",
-      "winner_group_id": 144119,
-      "winner_name": "Philipp Probsthain",
-      "winner_helmet": {
-        "pattern": 50,
-        "color1": "28f107",
-        "color2": "ffffff",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 7,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 58,
-      "strength_of_field": 1626,
-      "subsession_id": 81669270,
-      "old_sub_level": 232,
-      "new_sub_level": 243,
-      "oldi_rating": 1713,
-      "newi_rating": 1726,
       "track": {
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
