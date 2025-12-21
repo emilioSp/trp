@@ -4,6 +4,54 @@
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 23,
+        "color1": "2A3795",
+        "color2": "FFFFFF",
+        "color3": "ED2129"
+      },
+      "license_level": 18,
+      "session_start_time": "2025-12-20T22:45:00Z",
+      "winner_group_id": 713998,
+      "winner_name": "Robin Schwanke",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "dbff00",
+        "color2": "ff0000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 12,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 113,
+      "strength_of_field": 2926,
+      "subsession_id": 82050135,
+      "old_sub_level": 261,
+      "new_sub_level": 255,
+      "oldi_rating": 2903,
+      "newi_rating": 2932,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
       "car_id": 169,
       "car_class_id": 4011,
       "livery": {
@@ -43,7 +91,7 @@
         "track_id": 572,
         "track_name": "Autódromo Hermanos Rodríguez"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5770,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-11-24T09:45:00Z",
-      "winner_group_id": 759868,
-      "winner_name": "Maxence Lesage",
-      "winner_helmet": {
-        "pattern": 67,
-        "color1": "ffffff",
-        "color2": "00a3ff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 7,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 135,
-      "strength_of_field": 2347,
-      "subsession_id": 81477418,
-      "old_sub_level": 211,
-      "new_sub_level": 222,
-      "oldi_rating": 3142,
-      "newi_rating": 3204,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 9
