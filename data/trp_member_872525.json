@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 11,
+      "session_start_time": "2025-12-21T15:30:00Z",
+      "winner_group_id": 906007,
+      "winner_name": "Alfie Butcher",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "f1732e",
+        "color3": "372a75",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 14,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 78,
+      "strength_of_field": 4448,
+      "subsession_id": 82069013,
+      "old_sub_level": 381,
+      "new_sub_level": 366,
+      "oldi_rating": 3301,
+      "newi_rating": 3299,
+      "track": {
+        "track_id": 526,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 5911,
+      "series_id": 502,
+      "series_name": "Sports Car Challenge by Falken Tyre",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 13,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 11,
       "session_start_time": "2025-12-21T13:30:00Z",
       "winner_group_id": 1242978,
       "winner_name": "Yentle Van Thielen",
@@ -331,7 +379,7 @@
         "track_id": 526,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 10,
-      "session_start_time": "2025-12-17T19:30:00Z",
-      "winner_group_id": 872525,
-      "winner_name": "Vito Fatalino",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "17ff00",
-        "color2": "e9ff00",
-        "color3": "e3ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 6,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 7,
-      "incidents": 5,
-      "points": 174,
-      "strength_of_field": 2961,
-      "subsession_id": 81966228,
-      "old_sub_level": 282,
-      "new_sub_level": 341,
-      "oldi_rating": 3000,
-      "newi_rating": 3092,
-      "track": {
-        "track_id": 526,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
