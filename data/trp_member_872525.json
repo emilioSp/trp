@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5914,
+      "series_id": 572,
+      "series_name": "IMSA Sportscar Endurance Challenge",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 13,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 11,
+      "session_start_time": "2025-12-21T20:00:00Z",
+      "winner_group_id": 1166417,
+      "winner_name": "Anton Dorokhin",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "ffda1b",
+        "color2": "0a0a0a",
+        "color3": "0363ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 7,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 46,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 151,
+      "strength_of_field": 3156,
+      "subsession_id": 82075012,
+      "old_sub_level": 366,
+      "new_sub_level": 391,
+      "oldi_rating": 3299,
+      "newi_rating": 3353,
+      "track": {
+        "track_id": 526,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5911,
       "series_id": 502,
       "series_name": "Sports Car Challenge by Falken Tyre",
@@ -423,54 +471,6 @@
       "new_sub_level": 339,
       "oldi_rating": 3147,
       "newi_rating": 3156,
-      "track": {
-        "track_id": 526,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-17T21:30:00Z",
-      "winner_group_id": 966303,
-      "winner_name": "Mateusz Gorczynski",
-      "winner_helmet": {
-        "pattern": 15,
-        "color1": "30b841",
-        "color2": "aaa1a1",
-        "color3": "94082a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 1,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 1,
-      "incidents": 6,
-      "points": 142,
-      "strength_of_field": 2906,
-      "subsession_id": 81968730,
-      "old_sub_level": 341,
-      "new_sub_level": 350,
-      "oldi_rating": 3092,
-      "newi_rating": 3147,
       "track": {
         "track_id": 526,
         "track_name": "Circuit de Spa-Francorchamps"

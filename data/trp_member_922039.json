@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 132,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 132,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 18,
+      "session_start_time": "2025-12-21T21:45:00Z",
+      "winner_group_id": 381553,
+      "winner_name": "Connor Wyatt",
+      "winner_helmet": {
+        "pattern": 14,
+        "color1": "000000",
+        "color2": "f0ff18",
+        "color3": "f0ff18",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 6,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 101,
+      "strength_of_field": 1749,
+      "subsession_id": 82077528,
+      "old_sub_level": 261,
+      "new_sub_level": 289,
+      "oldi_rating": 1897,
+      "newi_rating": 1972,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5938,
       "series_id": 520,
       "series_name": "Formula 1600 Rookie Series",
@@ -91,7 +139,7 @@
         "track_id": 572,
         "track_name": "Autódromo Hermanos Rodríguez"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 10
-    },
-    {
-      "season_id": 5770,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 6,
-        "color1": "C4FF00",
-        "color2": "C4FF00",
-        "color3": "C2FC00"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-11-24T21:45:00Z",
-      "winner_group_id": 28906,
-      "winner_name": "Cédric Le Comte",
-      "winner_helmet": {
-        "pattern": 55,
-        "color1": "f91104",
-        "color2": "ff002b",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 31,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 75,
-      "strength_of_field": 1679,
-      "subsession_id": 81488484,
-      "old_sub_level": 181,
-      "new_sub_level": 169,
-      "oldi_rating": 1605,
-      "newi_rating": 1648,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 9
     }
   ],
   "cust_id": 922039
