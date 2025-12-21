@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 6,
+      "session_start_time": "2025-12-21T20:45:00Z",
+      "winner_group_id": 274801,
+      "winner_name": "Harry Gillman",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "224929",
+        "color2": "224929",
+        "color3": "224929",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 4,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 59,
+      "strength_of_field": 1433,
+      "subsession_id": 82076137,
+      "old_sub_level": 284,
+      "new_sub_level": 270,
+      "oldi_rating": 1517,
+      "newi_rating": 1548,
+      "track": {
+        "track_id": 297,
+        "track_name": "Snetterton Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 5941,
+      "series_id": 521,
+      "series_name": "Motorsport UK FF 1600 Trophy by Thrustmaster",
+      "car_id": 163,
+      "car_class_id": 4016,
+      "livery": {
+        "car_id": 163,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 6,
       "session_start_time": "2025-12-21T19:45:00Z",
       "winner_group_id": 1126257,
       "winner_name": "Michele Borghesani",
@@ -91,7 +139,7 @@
         "track_id": 297,
         "track_name": "Snetterton Circuit"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -421,54 +469,6 @@
       "subsession_id": 81968086,
       "old_sub_level": 279,
       "new_sub_level": 294,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 8,
-        "track_name": "Summit Point Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5938,
-      "series_id": 520,
-      "series_name": "Formula 1600 Rookie Series",
-      "car_id": 163,
-      "car_class_id": 4016,
-      "livery": {
-        "car_id": 163,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-17T20:15:00Z",
-      "winner_group_id": 1244366,
-      "winner_name": "Conrad Jordan-Moorhouse",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "ff00ed",
-        "color2": "bd00ff",
-        "color3": "0d00ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 11,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 54,
-      "strength_of_field": 1434,
-      "subsession_id": 81967263,
-      "old_sub_level": 265,
-      "new_sub_level": 279,
       "oldi_rating": -1,
       "newi_rating": -1,
       "track": {
