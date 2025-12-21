@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5911,
+      "series_id": 502,
+      "series_name": "Sports Car Challenge by Falken Tyre",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 13,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 11,
+      "session_start_time": "2025-12-21T11:30:00Z",
+      "winner_group_id": 622042,
+      "winner_name": "Paris Charles",
+      "winner_helmet": {
+        "pattern": 42,
+        "color1": "fafafa",
+        "color2": "00c2ff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 11,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 2,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 14,
+      "strength_of_field": 4064,
+      "subsession_id": 82063842,
+      "old_sub_level": 387,
+      "new_sub_level": 378,
+      "oldi_rating": 3324,
+      "newi_rating": 3266,
+      "track": {
+        "track_id": 526,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5914,
       "series_id": 572,
       "series_name": "IMSA Sportscar Endurance Challenge",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 10,
-      "session_start_time": "2025-12-16T19:30:00Z",
-      "winner_group_id": 872525,
-      "winner_name": "Vito Fatalino",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "17ff00",
-        "color2": "e9ff00",
-        "color3": "e3ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 2,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 7,
-      "incidents": 3,
-      "points": 165,
-      "strength_of_field": 2764,
-      "subsession_id": 81940010,
-      "old_sub_level": 227,
-      "new_sub_level": 253,
-      "oldi_rating": 2868,
-      "newi_rating": 2958,
-      "track": {
-        "track_id": 526,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
