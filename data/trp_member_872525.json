@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5911,
+      "series_id": 502,
+      "series_name": "Sports Car Challenge by Falken Tyre",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 13,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 11,
+      "session_start_time": "2025-12-22T19:30:00Z",
+      "winner_group_id": 303396,
+      "winner_name": "Tim R Gray",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "000000",
+        "color2": "007dff",
+        "color3": "8700ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 6,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 126,
+      "strength_of_field": 3390,
+      "subsession_id": 82101289,
+      "old_sub_level": 391,
+      "new_sub_level": 389,
+      "oldi_rating": 3353,
+      "newi_rating": 3382,
+      "track": {
+        "track_id": 526,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5914,
       "series_id": 572,
       "series_name": "IMSA Sportscar Endurance Challenge",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-19T19:30:00Z",
-      "winner_group_id": 468920,
-      "winner_name": "Matthijs van Erven",
-      "winner_helmet": {
-        "pattern": 11,
-        "color1": "ff0202",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 12,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 15,
-      "points": 88,
-      "strength_of_field": 4425,
-      "subsession_id": 82018084,
-      "old_sub_level": 350,
-      "new_sub_level": 339,
-      "oldi_rating": 3147,
-      "newi_rating": 3156,
-      "track": {
-        "track_id": 526,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
