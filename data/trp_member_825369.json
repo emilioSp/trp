@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5921,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 1,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff"
+      },
+      "license_level": 10,
+      "session_start_time": "2025-12-22T09:45:00Z",
+      "winner_group_id": 129837,
+      "winner_name": "Tobias F. Olsson",
+      "winner_helmet": {
+        "pattern": 43,
+        "color1": "24069d",
+        "color2": "e4fc5f",
+        "color3": "061655",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 6,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 160,
+      "strength_of_field": 3019,
+      "subsession_id": 82090595,
+      "old_sub_level": 261,
+      "new_sub_level": 286,
+      "oldi_rating": 3711,
+      "newi_rating": 3771,
+      "track": {
+        "track_id": 539,
+        "track_name": "Miami International Autodrome"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5922,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -235,7 +283,7 @@
         "track_id": 539,
         "track_name": "Miami International Autodrome"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
@@ -428,54 +476,6 @@
         "track_name": "Wild West Motorsports Park"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5739,
-      "series_id": 353,
-      "series_name": "Ferrari 296 Challenge",
-      "car_id": 203,
-      "car_class_id": 4082,
-      "livery": {
-        "car_id": 203,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2025-12-06T20:15:00Z",
-      "winner_group_id": 825369,
-      "winner_name": "Simone Donchi",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 9,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 10,
-      "laps_led": 10,
-      "incidents": 1,
-      "points": 127,
-      "strength_of_field": 2174,
-      "subsession_id": 81774321,
-      "old_sub_level": 199,
-      "new_sub_level": 263,
-      "oldi_rating": 3837,
-      "newi_rating": 3890,
-      "track": {
-        "track_id": 463,
-        "track_name": "Circuit de Nevers Magny-Cours"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
