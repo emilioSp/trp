@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 9,
+        "color1": "F7F7F7",
+        "color2": "231F20",
+        "color3": "E41E26"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-23T21:15:00Z",
+      "winner_group_id": 737545,
+      "winner_name": "Alessandro Armillei2",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "faff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 14,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 48,
+      "strength_of_field": 2054,
+      "subsession_id": 82130684,
+      "old_sub_level": 326,
+      "new_sub_level": 343,
+      "oldi_rating": 2010,
+      "newi_rating": 1991,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5937,
       "series_id": 455,
       "series_name": "Formula Vee Series by trophi.ai",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 11,
-        "color1": "F7F7F7",
-        "color2": "231F20",
-        "color3": "E41E26"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-03T21:15:00Z",
-      "winner_group_id": 1049765,
-      "winner_name": "Sabin Manasia",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "e94b3c",
-        "color2": "2d2926",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 103,
-      "strength_of_field": 1879,
-      "subsession_id": 81701522,
-      "old_sub_level": 272,
-      "new_sub_level": 289,
-      "oldi_rating": 1875,
-      "newi_rating": 1950,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11

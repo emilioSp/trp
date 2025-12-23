@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "6100ff"
+      },
+      "license_level": 18,
+      "session_start_time": "2025-12-23T20:45:00Z",
+      "winner_group_id": 1101409,
+      "winner_name": "Michelle Stratmann",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "d200ff",
+        "color2": "ff00ef",
+        "color3": "620ab0",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 13,
+      "finish_position": 29,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 11,
+      "strength_of_field": 1952,
+      "subsession_id": 82130160,
+      "old_sub_level": 289,
+      "new_sub_level": 253,
+      "oldi_rating": 1972,
+      "newi_rating": 1894,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Nürburgring Grand-Prix-Strecke"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5770,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 6,
-        "color1": "C4FF00",
-        "color2": "C4FF00",
-        "color3": "C2FC00"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-11-26T21:45:00Z",
-      "winner_group_id": 1142973,
-      "winner_name": "Manuel Agostinho",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "d30012",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 6,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 87,
-      "strength_of_field": 1372,
-      "subsession_id": 81534815,
-      "old_sub_level": 169,
-      "new_sub_level": 249,
-      "oldi_rating": 1648,
-      "newi_rating": 1731,
-      "track": {
-        "track_id": 255,
-        "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 10

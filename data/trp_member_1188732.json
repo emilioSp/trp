@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "DBFF00",
+        "color2": "006EFF",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-23T21:15:00Z",
+      "winner_group_id": 1095986,
+      "winner_name": "Ghyslain Gagnon",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "17e6ba",
+        "color3": "9b9a9a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 9,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 112,
+      "strength_of_field": 2214,
+      "subsession_id": 82130683,
+      "old_sub_level": 338,
+      "new_sub_level": 325,
+      "oldi_rating": 2240,
+      "newi_rating": 2302,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5930,
       "series_id": 535,
       "series_name": "GTE Sprint Series",
@@ -428,54 +476,6 @@
         "track_name": "Sebring International Raceway"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "DBFF00",
-        "color2": "006EFF",
-        "color3": "000000"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-10-28T21:15:00Z",
-      "winner_group_id": 1171411,
-      "winner_name": "Sam McConnell",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "6219e8",
-        "color2": "080101",
-        "color3": "1f40ec",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 7,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 10,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 15,
-      "strength_of_field": 2231,
-      "subsession_id": 80857891,
-      "old_sub_level": 462,
-      "new_sub_level": 428,
-      "oldi_rating": 2184,
-      "newi_rating": 2113,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 6
