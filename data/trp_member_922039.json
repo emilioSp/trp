@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 6,
+        "color1": "C4FF00",
+        "color2": "C4FF00",
+        "color3": "C2FC00"
+      },
+      "license_level": 18,
+      "session_start_time": "2025-12-23T21:45:00Z",
+      "winner_group_id": 385848,
+      "winner_name": "Antoine Riotte",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "c90000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 8,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 107,
+      "strength_of_field": 1880,
+      "subsession_id": 82131499,
+      "old_sub_level": 253,
+      "new_sub_level": 281,
+      "oldi_rating": 1894,
+      "newi_rating": 1971,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 228,
       "oldi_rating": 1794,
       "newi_rating": 1841,
-      "track": {
-        "track_id": 255,
-        "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5770,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "6100ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-11-27T21:45:00Z",
-      "winner_group_id": 904207,
-      "winner_name": "Kacper Jargon",
-      "winner_helmet": {
-        "pattern": 37,
-        "color1": "fcfa00",
-        "color2": "000000",
-        "color3": "ff00f5",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 10,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 84,
-      "strength_of_field": 1554,
-      "subsession_id": 81557905,
-      "old_sub_level": 249,
-      "new_sub_level": 251,
-      "oldi_rating": 1731,
-      "newi_rating": 1794,
       "track": {
         "track_id": 255,
         "track_name": "Nürburgring Grand-Prix-Strecke"

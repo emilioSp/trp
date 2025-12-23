@@ -14,6 +14,54 @@
         "color3": "9dd1c6"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-23T21:45:00Z",
+      "winner_group_id": 1029937,
+      "winner_name": "Matthew Romaniw",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "63646b",
+        "color2": "000000",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 6,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 143,
+      "strength_of_field": 2723,
+      "subsession_id": 82131497,
+      "old_sub_level": 333,
+      "new_sub_level": 336,
+      "oldi_rating": 2815,
+      "newi_rating": 2884,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 23,
+        "color1": "eaf3eb",
+        "color2": "065ff6",
+        "color3": "9dd1c6"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-23T19:45:00Z",
       "winner_group_id": 1394861,
       "winner_name": "Ruben Laso R",
@@ -43,7 +91,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 2,
-        "color1": "eaf3eb",
-        "color2": "065ff6",
-        "color3": "9dd1c6"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-11-26T22:00:00Z",
-      "winner_group_id": 1232105,
-      "winner_name": "Johann R. Flammann",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "9a989a",
-        "color3": "ed1c2e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 21,
-      "finish_position": 28,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 0,
-      "strength_of_field": 3183,
-      "subsession_id": 81535122,
-      "old_sub_level": 325,
-      "new_sub_level": 310,
-      "oldi_rating": 2936,
-      "newi_rating": 2851,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1153360
