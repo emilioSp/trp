@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5897,
+      "series_id": 519,
+      "series_name": "Renault Clio Cup",
+      "car_id": 162,
+      "car_class_id": 4015,
+      "livery": {
+        "car_id": 162,
+        "pattern": 3,
+        "color1": "ffffff",
+        "color2": "03d6f8",
+        "color3": "0800ff"
+      },
+      "license_level": 18,
+      "session_start_time": "2025-12-23T17:00:00Z",
+      "winner_group_id": 672020,
+      "winner_name": "Raúl Hernando",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "f0e600",
+        "color2": "b40000",
+        "color3": "6b00b5",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 4,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 133,
+      "strength_of_field": 2432,
+      "subsession_id": 82125390,
+      "old_sub_level": 258,
+      "new_sub_level": 264,
+      "oldi_rating": 3841,
+      "newi_rating": 3888,
+      "track": {
+        "track_id": 9,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5908,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 97,
         "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5743,
-      "series_id": 503,
-      "series_name": "TCR Virtual Challenge",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-04T19:45:00Z",
-      "winner_group_id": 481749,
-      "winner_name": "Alberto Cigolini",
-      "winner_helmet": {
-        "pattern": 67,
-        "color1": "06e1c4",
-        "color2": "e7db02",
-        "color3": "c807e1",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 4,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 1,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 4,
-      "strength_of_field": 2073,
-      "subsession_id": 81723615,
-      "old_sub_level": 264,
-      "new_sub_level": 244,
-      "oldi_rating": 3879,
-      "newi_rating": 3754,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
       },
       "drop_race": true,
       "season_year": 2025,

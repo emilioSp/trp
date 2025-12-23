@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 7,
+        "color1": "222222",
+        "color2": "2d3241",
+        "color3": "588eaa"
+      },
+      "license_level": 18,
+      "session_start_time": "2025-12-23T17:45:00Z",
+      "winner_group_id": 1334523,
+      "winner_name": "Kristian Brookes",
+      "winner_helmet": {
+        "pattern": 67,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "ec232d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 19,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 26,
+      "strength_of_field": 1916,
+      "subsession_id": 82126302,
+      "old_sub_level": 281,
+      "new_sub_level": 260,
+      "oldi_rating": 1815,
+      "newi_rating": 1767,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5759,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 415,
       "oldi_rating": 1811,
       "newi_rating": 1897,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 3,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5591,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 188,
-        "pattern": 24,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-08-22T16:00:00Z",
-      "winner_group_id": 1147637,
-      "winner_name": "Arturo Rodriguez Alonso",
-      "winner_helmet": {
-        "pattern": 15,
-        "color1": "25035c",
-        "color2": "111111",
-        "color3": "0a1bff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 5,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 7,
-      "incidents": 5,
-      "points": 100,
-      "strength_of_field": 1646,
-      "subsession_id": 79346787,
-      "old_sub_level": 409,
-      "new_sub_level": 407,
-      "oldi_rating": 1726,
-      "newi_rating": 1811,
       "track": {
         "track_id": 341,
         "track_name": "Silverstone Circuit"
