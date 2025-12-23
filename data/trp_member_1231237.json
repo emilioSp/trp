@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5937,
+      "series_id": 455,
+      "series_name": "Formula Vee Series by trophi.ai",
+      "car_id": 142,
+      "car_class_id": 3002,
+      "livery": {
+        "car_id": 142,
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "231f20",
+        "color3": "e41e26"
+      },
+      "license_level": 2,
+      "session_start_time": "2025-12-23T13:30:00Z",
+      "winner_group_id": 1323853,
+      "winner_name": "Hampus Jundalen",
+      "winner_helmet": {
+        "pattern": 34,
+        "color1": "3e3e3e",
+        "color2": "00c9ff",
+        "color3": "414141",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 2,
+      "start_position": 4,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 29,
+      "strength_of_field": 1255,
+      "subsession_id": 82121630,
+      "old_sub_level": 280,
+      "new_sub_level": 288,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 451,
+        "track_name": "Rudskogen Motorsenter"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5930,
       "series_id": 535,
       "series_name": "GTE Sprint Series",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 11,
-        "color1": "F7F7F7",
-        "color2": "231F20",
-        "color3": "E41E26"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-02T15:15:00Z",
-      "winner_group_id": 710463,
-      "winner_name": "Kenny Langer",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "ccff00",
-        "color2": "ffffff",
-        "color3": "0927f4",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 98,
-      "strength_of_field": 1693,
-      "subsession_id": 81670967,
-      "old_sub_level": 243,
-      "new_sub_level": 254,
-      "oldi_rating": 1726,
-      "newi_rating": 1808,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
