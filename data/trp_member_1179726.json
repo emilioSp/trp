@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 194,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 194,
+        "pattern": 0,
+        "color1": "d1d500",
+        "color2": "111111",
+        "color3": "808080"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-23T18:00:00Z",
+      "winner_group_id": 811299,
+      "winner_name": "Manuel Anfang",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "372a75",
+        "color2": "f1732e",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 22,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 92,
+      "strength_of_field": 2992,
+      "subsession_id": 82126583,
+      "old_sub_level": 381,
+      "new_sub_level": 343,
+      "oldi_rating": 2623,
+      "newi_rating": 2634,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5759,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Watkins Glen International"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 194,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 194,
-        "pattern": 11,
-        "color1": "d1d500",
-        "color2": "111111",
-        "color3": "808080"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-11-26T22:00:00Z",
-      "winner_group_id": 37498,
-      "winner_name": "Connor Cantrell",
-      "winner_helmet": {
-        "pattern": 37,
-        "color1": "ffffff",
-        "color2": "2673f3",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 22,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 5,
-      "incidents": 2,
-      "points": 33,
-      "strength_of_field": 2113,
-      "subsession_id": 81535125,
-      "old_sub_level": 335,
-      "new_sub_level": 345,
-      "oldi_rating": 2180,
-      "newi_rating": 2130,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 10
