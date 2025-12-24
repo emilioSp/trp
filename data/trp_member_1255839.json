@@ -14,6 +14,54 @@
         "color3": "588eaa"
       },
       "license_level": 18,
+      "session_start_time": "2025-12-24T12:45:00Z",
+      "winner_group_id": 816621,
+      "winner_name": "Nicolás Camacho García",
+      "winner_helmet": {
+        "pattern": 14,
+        "color1": "ff1e00",
+        "color2": "f4f226",
+        "color3": "f30000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 3,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 50,
+      "strength_of_field": 1661,
+      "subsession_id": 82147748,
+      "old_sub_level": 260,
+      "new_sub_level": 244,
+      "oldi_rating": 1767,
+      "newi_rating": 1763,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 7,
+        "color1": "222222",
+        "color2": "2d3241",
+        "color3": "588eaa"
+      },
+      "license_level": 18,
       "session_start_time": "2025-12-23T17:45:00Z",
       "winner_group_id": 1334523,
       "winner_name": "Kristian Brookes",
@@ -43,7 +91,7 @@
         "track_id": 341,
         "track_name": "Silverstone Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Silverstone Circuit"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 3,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5591,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 188,
-        "pattern": 24,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-08-23T16:00:00Z",
-      "winner_group_id": 1026120,
-      "winner_name": "Layla Tatam",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "592994",
-        "color2": "ed21d0",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 111,
-      "strength_of_field": 1913,
-      "subsession_id": 79371131,
-      "old_sub_level": 407,
-      "new_sub_level": 415,
-      "oldi_rating": 1811,
-      "newi_rating": 1897,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 3,
       "race_week_num": 9
