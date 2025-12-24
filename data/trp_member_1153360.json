@@ -14,6 +14,54 @@
         "color3": "9dd1c6"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-24T15:45:00Z",
+      "winner_group_id": 1191741,
+      "winner_name": "Tamás Bohács",
+      "winner_helmet": {
+        "pattern": 16,
+        "color1": "000000",
+        "color2": "ae1116",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 57,
+      "strength_of_field": 2565,
+      "subsession_id": 82151005,
+      "old_sub_level": 336,
+      "new_sub_level": 356,
+      "oldi_rating": 2884,
+      "newi_rating": 2851,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 23,
+        "color1": "eaf3eb",
+        "color2": "065ff6",
+        "color3": "9dd1c6"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-23T21:45:00Z",
       "winner_group_id": 1029937,
       "winner_name": "Matthew Romaniw",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 2,
-        "color1": "eaf3eb",
-        "color2": "065ff6",
-        "color3": "9dd1c6"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-03T20:00:00Z",
-      "winner_group_id": 818459,
-      "winner_name": "Medhi Blanc",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "ffffff",
-        "color2": "0012ff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 13,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 15,
-      "points": 42,
-      "strength_of_field": 3456,
-      "subsession_id": 81700154,
-      "old_sub_level": 310,
-      "new_sub_level": 243,
-      "oldi_rating": 2851,
-      "newi_rating": 2812,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1153360
