@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2025-12-24T08:45:00Z",
+      "winner_group_id": 1242889,
+      "winner_name": "Thomas Friedmann",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "135324",
+        "color2": "111111",
+        "color3": "535353",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 8,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 74,
+      "strength_of_field": 2545,
+      "subsession_id": 82144198,
+      "old_sub_level": 246,
+      "new_sub_level": 239,
+      "oldi_rating": 2052,
+      "newi_rating": 2070,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5941,
       "series_id": 521,
       "series_name": "Motorsport UK FF 1600 Trophy by Thrustmaster",
@@ -421,54 +469,6 @@
       "subsession_id": 81987158,
       "old_sub_level": 294,
       "new_sub_level": 299,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 8,
-        "track_name": "Summit Point Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5938,
-      "series_id": 520,
-      "series_name": "Formula 1600 Rookie Series",
-      "car_id": 163,
-      "car_class_id": 4016,
-      "livery": {
-        "car_id": 163,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-17T20:45:00Z",
-      "winner_group_id": 1274985,
-      "winner_name": "Ryan Coombes2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "9a989a",
-        "color3": "ed1c2e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 11,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 54,
-      "strength_of_field": 1447,
-      "subsession_id": 81968086,
-      "old_sub_level": 279,
-      "new_sub_level": 294,
       "oldi_rating": -1,
       "newi_rating": -1,
       "track": {
