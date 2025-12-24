@@ -14,6 +14,54 @@
         "color3": "dde809"
       },
       "license_level": 20,
+      "session_start_time": "2025-12-24T18:00:00Z",
+      "winner_group_id": 762505,
+      "winner_name": "Gustavo Mendez",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "111111",
+        "color2": "f06e34",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 18,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 148,
+      "strength_of_field": 3511,
+      "subsession_id": 82153509,
+      "old_sub_level": 402,
+      "new_sub_level": 412,
+      "oldi_rating": 3420,
+      "newi_rating": 3463,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 18,
+        "color1": "030303",
+        "color2": "b40cf0",
+        "color3": "dde809"
+      },
+      "license_level": 20,
       "session_start_time": "2025-12-23T20:00:00Z",
       "winner_group_id": 878369,
       "winner_name": "Timothy Pala",
@@ -43,7 +91,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Autódromo Hermanos Rodríguez"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 18,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-18T19:45:00Z",
-      "winner_group_id": 355518,
-      "winner_name": "Maximilian Mayer",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "870000",
-        "color2": "000000",
-        "color3": "ffde00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 10,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 133,
-      "strength_of_field": 3084,
-      "subsession_id": 81992125,
-      "old_sub_level": 246,
-      "new_sub_level": 275,
-      "oldi_rating": 3295,
-      "newi_rating": 3331,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
