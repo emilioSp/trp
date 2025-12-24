@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5898,
+      "series_id": 112,
+      "series_name": "Production Car Challenge by Sim-Lab",
+      "car_id": 195,
+      "car_class_id": 4073,
+      "livery": {
+        "car_id": 195,
+        "pattern": 15,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff"
+      },
+      "license_level": 11,
+      "session_start_time": "2025-12-24T09:30:00Z",
+      "winner_group_id": 886545,
+      "winner_name": "Roman Felber",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "ffffff",
+        "color2": "ff0000",
+        "color3": "002fff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 3,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 84,
+      "strength_of_field": 2811,
+      "subsession_id": 82144695,
+      "old_sub_level": 337,
+      "new_sub_level": 353,
+      "oldi_rating": 4047,
+      "newi_rating": 4048,
+      "track": {
+        "track_id": 535,
+        "track_name": "Miami International Autodrome"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5921,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -423,54 +471,6 @@
       "new_sub_level": 252,
       "oldi_rating": 3712,
       "newi_rating": 3637,
-      "track": {
-        "track_id": 539,
-        "track_name": "Miami International Autodrome"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5922,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 10,
-      "session_start_time": "2025-12-21T14:45:00Z",
-      "winner_group_id": 1124471,
-      "winner_name": "Vida Benedek",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "111111",
-        "color2": "fc0706",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 18,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 3,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 35,
-      "strength_of_field": 4695,
-      "subsession_id": 82068090,
-      "old_sub_level": 266,
-      "new_sub_level": 264,
-      "oldi_rating": 3754,
-      "newi_rating": 3712,
       "track": {
         "track_id": 539,
         "track_name": "Miami International Autodrome"
