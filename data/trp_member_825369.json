@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5922,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 1,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff"
+      },
+      "license_level": 11,
+      "session_start_time": "2025-12-24T20:45:00Z",
+      "winner_group_id": 637270,
+      "winner_name": "Gustavo Ariell",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "d4ff00",
+        "color2": "001664",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 24,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 199,
+      "strength_of_field": 5147,
+      "subsession_id": 82156603,
+      "old_sub_level": 353,
+      "new_sub_level": 352,
+      "oldi_rating": 4048,
+      "newi_rating": 4109,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5898,
       "series_id": 112,
       "series_name": "Production Car Challenge by Sim-Lab",
@@ -428,54 +476,6 @@
         "track_name": "Miami International Autodrome"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5922,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 10,
-      "session_start_time": "2025-12-21T20:45:00Z",
-      "winner_group_id": 364575,
-      "winner_name": "Joshua Rogers3",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "000000",
-        "color2": "FFFFFF",
-        "color3": "FF6600",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 24,
-      "finish_position": 25,
-      "qualifying_time": 0,
-      "laps": 5,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 5,
-      "strength_of_field": 4396,
-      "subsession_id": 82076080,
-      "old_sub_level": 264,
-      "new_sub_level": 252,
-      "oldi_rating": 3712,
-      "newi_rating": 3637,
-      "track": {
-        "track_id": 539,
-        "track_name": "Miami International Autodrome"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
