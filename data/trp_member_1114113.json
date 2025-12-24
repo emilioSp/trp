@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5921,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "ff0000"
+      },
+      "license_level": 14,
+      "session_start_time": "2025-12-24T15:45:00Z",
+      "winner_group_id": 1114113,
+      "winner_name": "Marco Chiarello",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 11,
+      "incidents": 3,
+      "points": 178,
+      "strength_of_field": 2892,
+      "subsession_id": 82150964,
+      "old_sub_level": 211,
+      "new_sub_level": 227,
+      "oldi_rating": 2965,
+      "newi_rating": 3058,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5946,
       "series_id": 542,
       "series_name": "FIA F4 Esports Regional Tour - Europe",
@@ -139,7 +187,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Long Beach Street Circuit"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5756,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 143,
-      "car_class_id": 3104,
-      "livery": {
-        "car_id": 143,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "000000",
-        "color3": "FF0000"
-      },
-      "license_level": 15,
-      "session_start_time": "2025-11-21T14:45:00Z",
-      "winner_group_id": 801876,
-      "winner_name": "Ville Pötrönen",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "000000",
-        "color2": "fffc00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 5,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 5,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 10,
-      "strength_of_field": 3125,
-      "subsession_id": 81408539,
-      "old_sub_level": 349,
-      "new_sub_level": 332,
-      "oldi_rating": 3019,
-      "newi_rating": 2942,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 9
