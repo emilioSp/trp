@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-25T21:15:00Z",
+      "winner_group_id": 806297,
+      "winner_name": "Manuel Miklos",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "111111",
+        "color2": "000000",
+        "color3": "8dbd04",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 12,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 63,
+      "strength_of_field": 2360,
+      "subsession_id": 82182141,
+      "old_sub_level": 325,
+      "new_sub_level": 337,
+      "oldi_rating": 2302,
+      "newi_rating": 2294,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "DBFF00",
+        "color2": "006EFF",
+        "color3": "000000"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-23T21:15:00Z",
       "winner_group_id": 1095986,
       "winner_name": "Ghyslain Gagnon",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 8
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 173,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 173,
-        "pattern": 7,
-        "color1": "DBFF00",
-        "color2": "006EFF",
-        "color3": "000000"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-10-30T21:15:00Z",
-      "winner_group_id": 929847,
-      "winner_name": "Panu Siitonen",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "008401",
-        "color2": "ffffff",
-        "color3": "120300",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 17,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 10,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 21,
-      "strength_of_field": 2059,
-      "subsession_id": 80903633,
-      "old_sub_level": 428,
-      "new_sub_level": 410,
-      "oldi_rating": 2113,
-      "newi_rating": 2048,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1188732
