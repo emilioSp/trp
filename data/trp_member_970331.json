@@ -14,6 +14,54 @@
         "color3": "0800ff"
       },
       "license_level": 18,
+      "session_start_time": "2025-12-25T12:00:00Z",
+      "winner_group_id": 970331,
+      "winner_name": "Salvatore Gueli",
+      "winner_helmet": {
+        "pattern": 17,
+        "color1": "00ffbf",
+        "color2": "8b21ed",
+        "color3": "d9ffdd",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 12,
+      "incidents": 0,
+      "points": 72,
+      "strength_of_field": 1195,
+      "subsession_id": 82171349,
+      "old_sub_level": 292,
+      "new_sub_level": 349,
+      "oldi_rating": 4004,
+      "newi_rating": 4025,
+      "track": {
+        "track_id": 9,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5897,
+      "series_id": 519,
+      "series_name": "Renault Clio Cup",
+      "car_id": 162,
+      "car_class_id": 4015,
+      "livery": {
+        "car_id": 162,
+        "pattern": 3,
+        "color1": "ffffff",
+        "color2": "03d6f8",
+        "color3": "0800ff"
+      },
+      "license_level": 18,
       "session_start_time": "2025-12-24T14:00:00Z",
       "winner_group_id": 970331,
       "winner_name": "Salvatore Gueli",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5752,
-      "series_id": 231,
-      "series_name": "Advanced Mazda MX-5 Cup by Heusinkveld",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "10a4a2",
-        "color2": "0823f2",
-        "color3": "ffffff"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-07T12:15:00Z",
-      "winner_group_id": 1286383,
-      "winner_name": "Paul Varkey",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "231f20",
-        "color3": "e41e26",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 1,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 9,
-      "incidents": 4,
-      "points": 79,
-      "strength_of_field": 1320,
-      "subsession_id": 81791183,
-      "old_sub_level": 267,
-      "new_sub_level": 274,
-      "oldi_rating": 3832,
-      "newi_rating": 3854,
-      "track": {
-        "track_id": 97,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 970331
