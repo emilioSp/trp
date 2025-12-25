@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5908,
+      "series_id": 430,
+      "series_name": "TCR Virtual Challenge - Fixed",
+      "car_id": 146,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 146,
+        "pattern": 9,
+        "color1": "09ffc2",
+        "color2": "0080ff",
+        "color3": "fffa00"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-25T18:45:00Z",
+      "winner_group_id": 1058365,
+      "winner_name": "Pierre H Scholl",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "5e5e5e",
+        "color2": "111111",
+        "color3": "135324",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 5,
+      "incidents": 1,
+      "points": 97,
+      "strength_of_field": 1748,
+      "subsession_id": 82179047,
+      "old_sub_level": 349,
+      "new_sub_level": 356,
+      "oldi_rating": 4025,
+      "newi_rating": 4056,
+      "track": {
+        "track_id": 255,
+        "track_name": "Nürburgring Grand-Prix-Strecke"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5897,
       "series_id": 519,
       "series_name": "Renault Clio Cup",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 166,
         "track_name": "Okayama International Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5898,
-      "series_id": 112,
-      "series_name": "Production Car Challenge by Sim-Lab",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "10a4a2",
-        "color2": "0823f2",
-        "color3": "ffffff"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-16T13:30:00Z",
-      "winner_group_id": 930552,
-      "winner_name": "David Etrych",
-      "winner_helmet": {
-        "pattern": 57,
-        "color1": "ffffff",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 2,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 99,
-      "strength_of_field": 2376,
-      "subsession_id": 81933557,
-      "old_sub_level": 274,
-      "new_sub_level": 272,
-      "oldi_rating": 3854,
-      "newi_rating": 3863,
-      "track": {
-        "track_id": 465,
-        "track_name": "Virginia International Raceway"
       },
       "drop_race": false,
       "season_year": 2026,

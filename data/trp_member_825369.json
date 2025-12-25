@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 11,
+      "session_start_time": "2025-12-25T19:00:00Z",
+      "winner_group_id": 1115774,
+      "winner_name": "Jaume Dalmases",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "ffffff",
+        "color2": "1cb5ed",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 16,
+      "start_position": 7,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 0,
+      "strength_of_field": 3519,
+      "subsession_id": 82179392,
+      "old_sub_level": 331,
+      "new_sub_level": 322,
+      "oldi_rating": 4011,
+      "newi_rating": 3913,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5893,
+      "series_id": 139,
+      "series_name": "Global Mazda MX-5 Cup by Fanatec",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 1,
+        "color1": "1f2892",
+        "color2": "7de54c",
+        "color3": "ffffff"
+      },
+      "license_level": 11,
       "session_start_time": "2025-12-25T18:30:00Z",
       "winner_group_id": 1397935,
       "winner_name": "Harald H Mathisen",
@@ -139,7 +187,7 @@
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
-    },
-    {
-      "season_id": 5921,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-22T19:45:00Z",
-      "winner_group_id": 1082796,
-      "winner_name": "Linus A Donovan",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "fc0706",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 13,
-      "finish_position": 23,
-      "qualifying_time": 0,
-      "laps": 1,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 22,
-      "strength_of_field": 4605,
-      "subsession_id": 82101596,
-      "old_sub_level": 349,
-      "new_sub_level": 337,
-      "oldi_rating": 3839,
-      "newi_rating": 3783,
-      "track": {
-        "track_id": 539,
-        "track_name": "Miami International Autodrome"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
     }
   ],
   "cust_id": 825369
