@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5921,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 1,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff"
+      },
+      "license_level": 11,
+      "session_start_time": "2025-12-26T13:45:00Z",
+      "winner_group_id": 764006,
+      "winner_name": "Hady-Noah Mimassi",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ff00b9",
+        "color2": "000000",
+        "color3": "00ffb6",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 24,
+      "finish_position": 24,
+      "qualifying_time": 0,
+      "laps": 5,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 11,
+      "strength_of_field": 4769,
+      "subsession_id": 82198859,
+      "old_sub_level": 322,
+      "new_sub_level": 314,
+      "oldi_rating": 3913,
+      "newi_rating": 3854,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5893,
       "series_id": 139,
       "series_name": "Global Mazda MX-5 Cup by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5921,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-23T11:45:00Z",
-      "winner_group_id": 1011913,
-      "winner_name": "Ivan Chubarov",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 6,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 228,
-      "strength_of_field": 3960,
-      "subsession_id": 82119657,
-      "old_sub_level": 337,
-      "new_sub_level": 327,
-      "oldi_rating": 3783,
-      "newi_rating": 3876,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1

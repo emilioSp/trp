@@ -14,6 +14,54 @@
         "color3": "284a94"
       },
       "license_level": 18,
+      "session_start_time": "2025-12-26T13:45:00Z",
+      "winner_group_id": 250977,
+      "winner_name": "Mykolas Mikulis",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 17,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 2,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 6,
+      "strength_of_field": 1892,
+      "subsession_id": 82198885,
+      "old_sub_level": 207,
+      "new_sub_level": 150,
+      "oldi_rating": 1648,
+      "newi_rating": 1575,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 18,
       "session_start_time": "2025-12-24T13:45:00Z",
       "winner_group_id": 1254760,
       "winner_name": "Felipe M dos Santos",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 2,
       "race_week_num": 2
-    },
-    {
-      "season_id": 5459,
-      "series_id": 182,
-      "series_name": "Rookie Street Stock Series by Fanatec",
-      "car_id": 36,
-      "car_class_id": 4064,
-      "livery": {
-        "car_id": 36,
-        "pattern": 13,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 6,
-      "session_start_time": "2025-06-07T21:30:00Z",
-      "winner_group_id": 559288,
-      "winner_name": "Arthur Thurtle",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "0055ff",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 8,
-      "start_position": 8,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 39,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 51,
-      "strength_of_field": 1598,
-      "subsession_id": 77579055,
-      "old_sub_level": 249,
-      "new_sub_level": 254,
-      "oldi_rating": 1304,
-      "newi_rating": 1324,
-      "track": {
-        "track_id": 16,
-        "track_name": "USA International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 2,
-      "race_week_num": 11
     }
   ],
   "cust_id": 913773

@@ -14,6 +14,54 @@
         "color3": "808080"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-26T14:00:00Z",
+      "winner_group_id": 662921,
+      "winner_name": "Kris Van Gucht",
+      "winner_helmet": {
+        "pattern": 4,
+        "color1": "000000",
+        "color2": "1c11f4",
+        "color3": "a05e5e",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 8,
+      "finish_position": 22,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 27,
+      "strength_of_field": 2779,
+      "subsession_id": 82199158,
+      "old_sub_level": 343,
+      "new_sub_level": 311,
+      "oldi_rating": 2634,
+      "newi_rating": 2574,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 194,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 194,
+        "pattern": 0,
+        "color1": "d1d500",
+        "color2": "111111",
+        "color3": "808080"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-23T18:00:00Z",
       "winner_group_id": 811299,
       "winner_name": "Manuel Anfang",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 194,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 194,
-        "pattern": 11,
-        "color1": "d1d500",
-        "color2": "111111",
-        "color3": "808080"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-11-29T22:00:00Z",
-      "winner_group_id": 1218361,
-      "winner_name": "Andreja Bakutyte",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ed1c24",
-        "color2": "0f1b2b",
-        "color3": "0082bd",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 9,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 57,
-      "strength_of_field": 2053,
-      "subsession_id": 81605737,
-      "old_sub_level": 345,
-      "new_sub_level": 340,
-      "oldi_rating": 2130,
-      "newi_rating": 2117,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1179726
