@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5909,
+      "series_id": 503,
+      "series_name": "TCR Virtual Challenge",
+      "car_id": 146,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 146,
+        "pattern": 9,
+        "color1": "09ffc2",
+        "color2": "0080ff",
+        "color3": "fffa00"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-26T13:45:00Z",
+      "winner_group_id": 1006499,
+      "winner_name": "Anthony Lammer",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "ffffff",
+        "color2": "920606",
+        "color3": "920000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 3,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 107,
+      "strength_of_field": 1908,
+      "subsession_id": 82198858,
+      "old_sub_level": 356,
+      "new_sub_level": 349,
+      "oldi_rating": 4056,
+      "newi_rating": 4090,
+      "track": {
+        "track_id": 255,
+        "track_name": "Nürburgring Grand-Prix-Strecke"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5908,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -187,7 +235,7 @@
         "track_id": 255,
         "track_name": "Nürburgring Grand-Prix-Strecke"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -423,54 +471,6 @@
       "new_sub_level": 264,
       "oldi_rating": 3739,
       "newi_rating": 3782,
-      "track": {
-        "track_id": 166,
-        "track_name": "Okayama International Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5909,
-      "series_id": 503,
-      "series_name": "TCR Virtual Challenge",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-16T15:45:00Z",
-      "winner_group_id": 532960,
-      "winner_name": "Agustín Fernandez",
-      "winner_helmet": {
-        "pattern": 37,
-        "color1": "011BD5",
-        "color2": "000000",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 3,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 0,
-      "strength_of_field": 1913,
-      "subsession_id": 81935643,
-      "old_sub_level": 272,
-      "new_sub_level": 254,
-      "oldi_rating": 3863,
-      "newi_rating": 3739,
       "track": {
         "track_id": 166,
         "track_name": "Okayama International Circuit"
