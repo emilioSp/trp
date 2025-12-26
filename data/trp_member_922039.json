@@ -14,6 +14,54 @@
         "color3": "C2FC00"
       },
       "license_level": 18,
+      "session_start_time": "2025-12-26T20:45:00Z",
+      "winner_group_id": 416972,
+      "winner_name": "Nicolas Guillot",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "ffffff",
+        "color2": "069dfc",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 8,
+      "finish_position": 40,
+      "qualifying_time": 0,
+      "laps": 5,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 11,
+      "strength_of_field": 1605,
+      "subsession_id": 82207354,
+      "old_sub_level": 244,
+      "new_sub_level": 232,
+      "oldi_rating": 2023,
+      "newi_rating": 1932,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "C4FF00",
+        "color2": "C4FF00",
+        "color3": "C2FC00"
+      },
+      "license_level": 18,
       "session_start_time": "2025-12-25T22:45:00Z",
       "winner_group_id": 54533,
       "winner_name": "Christian van der Linde",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5770,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "6100ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-08T19:45:00Z",
-      "winner_group_id": 550144,
-      "winner_name": "Aurélien Grison",
-      "winner_helmet": {
-        "pattern": 53,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 29,
-      "finish_position": 24,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 44,
-      "strength_of_field": 2060,
-      "subsession_id": 81825471,
-      "old_sub_level": 228,
-      "new_sub_level": 241,
-      "oldi_rating": 1841,
-      "newi_rating": 1819,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 922039
