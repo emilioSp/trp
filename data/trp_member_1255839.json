@@ -14,6 +14,54 @@
         "color3": "588eaa"
       },
       "license_level": 18,
+      "session_start_time": "2025-12-26T20:00:00Z",
+      "winner_group_id": 1071105,
+      "winner_name": "Andrea Pizzetti2",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "eafe00",
+        "color2": "000000",
+        "color3": "0941ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 3,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 90,
+      "strength_of_field": 1599,
+      "subsession_id": 82206337,
+      "old_sub_level": 231,
+      "new_sub_level": 248,
+      "oldi_rating": 1672,
+      "newi_rating": 1744,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 7,
+        "color1": "222222",
+        "color2": "2d3241",
+        "color3": "588eaa"
+      },
+      "license_level": 18,
       "session_start_time": "2025-12-26T18:00:00Z",
       "winner_group_id": 1119604,
       "winner_name": "Benedikt Naumann",
@@ -43,7 +91,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Nürburgring Grand-Prix-Strecke"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 3,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5591,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 188,
-        "pattern": 24,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-08-28T16:00:00Z",
-      "winner_group_id": 844899,
-      "winner_name": "Jeremy Mefford",
-      "winner_helmet": {
-        "pattern": 40,
-        "color1": "000000",
-        "color2": "6d0000",
-        "color3": "e3b800",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 11,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 51,
-      "strength_of_field": 2068,
-      "subsession_id": 79491671,
-      "old_sub_level": 424,
-      "new_sub_level": 405,
-      "oldi_rating": 1982,
-      "newi_rating": 1965,
-      "track": {
-        "track_id": 255,
-        "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 3,
       "race_week_num": 10
