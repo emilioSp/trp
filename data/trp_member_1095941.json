@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-26T16:45:00Z",
+      "winner_group_id": 789209,
+      "winner_name": "Marek Ivánek",
+      "winner_helmet": {
+        "pattern": 19,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "faff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 165,
+      "strength_of_field": 2833,
+      "subsession_id": 82202189,
+      "old_sub_level": 353,
+      "new_sub_level": 352,
+      "oldi_rating": 3131,
+      "newi_rating": 3215,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 244,
       "oldi_rating": 2964,
       "newi_rating": 2916,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5770,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-05T21:45:00Z",
-      "winner_group_id": 959994,
-      "winner_name": "Harry Jewitt",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "5481fc",
-        "color2": "111111",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 2,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 1,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 4,
-      "strength_of_field": 2770,
-      "subsession_id": 81750167,
-      "old_sub_level": 270,
-      "new_sub_level": 252,
-      "oldi_rating": 3067,
-      "newi_rating": 2964,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
