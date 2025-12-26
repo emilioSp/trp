@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-26T08:00:00Z",
+      "winner_group_id": 746523,
+      "winner_name": "Paul Lobmaier",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "00aeef",
+        "color2": "f26522",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 21,
+      "finish_position": 27,
+      "qualifying_time": 0,
+      "laps": 4,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 7,
+      "strength_of_field": 3383,
+      "subsession_id": 82193667,
+      "old_sub_level": 399,
+      "new_sub_level": 353,
+      "oldi_rating": 3209,
+      "newi_rating": 3131,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-05T14:00:00Z",
-      "winner_group_id": 816941,
-      "winner_name": "Dimitri Sevin",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "ff7300",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 17,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 95,
-      "strength_of_field": 2883,
-      "subsession_id": 81742020,
-      "old_sub_level": 259,
-      "new_sub_level": 270,
-      "oldi_rating": 3062,
-      "newi_rating": 3067,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": false,
       "season_year": 2025,
