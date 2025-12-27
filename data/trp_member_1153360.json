@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 23,
+        "color1": "eaf3eb",
+        "color2": "065ff6",
+        "color3": "9dd1c6"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-27T19:45:00Z",
+      "winner_group_id": 954083,
+      "winner_name": "Wesley Kaspers2",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "f06e34",
+        "color2": "111111",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 11,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 93,
+      "strength_of_field": 3650,
+      "subsession_id": 82234409,
+      "old_sub_level": 356,
+      "new_sub_level": 312,
+      "oldi_rating": 2851,
+      "newi_rating": 2862,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5951,
       "series_id": 552,
       "series_name": "Formula C - Super Formula Lights - Fixed by Ready Set Sim",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6049,
-      "series_id": 470,
-      "series_name": "13th Week iRacing RX Lite",
-      "car_id": 138,
-      "car_class_id": 3001,
-      "livery": {
-        "car_id": 138,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-09T22:45:00Z",
-      "winner_group_id": 1153360,
-      "winner_name": "Simone Masi2",
-      "winner_helmet": {
-        "pattern": 32,
-        "color1": "eaf3eb",
-        "color2": "065ff6",
-        "color3": "9dd1c6",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 3,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 5,
-      "incidents": 2,
-      "points": 74,
-      "strength_of_field": 1282,
-      "subsession_id": 81842685,
-      "old_sub_level": 264,
-      "new_sub_level": 276,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 306,
-        "track_name": "[Legacy] Phoenix Raceway - 2008"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1153360
