@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 24,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-27T00:00:00Z",
+      "winner_group_id": 23801,
+      "winner_name": "Sean D Campbell",
+      "winner_helmet": {
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "00236b",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 16,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 120,
+      "strength_of_field": 3820,
+      "subsession_id": 82211749,
+      "old_sub_level": 338,
+      "new_sub_level": 322,
+      "oldi_rating": 3768,
+      "newi_rating": 3779,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 305,
       "oldi_rating": 3694,
       "newi_rating": 3724,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 23,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-04T16:00:00Z",
-      "winner_group_id": 1086883,
-      "winner_name": "Salva Enrubia",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "111111",
-        "color2": "ccff00",
-        "color3": "391c83",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 21,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 50,
-      "strength_of_field": 4040,
-      "subsession_id": 81719694,
-      "old_sub_level": 329,
-      "new_sub_level": 311,
-      "oldi_rating": 3737,
-      "newi_rating": 3694,
       "track": {
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
