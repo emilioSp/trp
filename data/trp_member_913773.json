@@ -13,6 +13,54 @@
         "color2": "111111",
         "color3": "284a94"
       },
+      "license_level": 17,
+      "session_start_time": "2025-12-27T14:45:00Z",
+      "winner_group_id": 1278595,
+      "winner_name": "Leonardo Rota",
+      "winner_helmet": {
+        "pattern": 61,
+        "color1": "d81900",
+        "color2": "078400",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 7,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 15,
+      "strength_of_field": 1435,
+      "subsession_id": 82228056,
+      "old_sub_level": 150,
+      "new_sub_level": 137,
+      "oldi_rating": 1575,
+      "newi_rating": 1508,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
       "license_level": 18,
       "session_start_time": "2025-12-26T13:45:00Z",
       "winner_group_id": 250977,
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 10
-    },
-    {
-      "season_id": 5691,
-      "series_id": 135,
-      "series_name": "13th Week Mazda Cup",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 13,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-06-12T20:00:00Z",
-      "winner_group_id": 1082707,
-      "winner_name": "Ludwig Groenewald",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "2c0065",
-        "color2": "ff0000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 14,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 58,
-      "strength_of_field": 2011,
-      "subsession_id": 77667592,
-      "old_sub_level": 229,
-      "new_sub_level": 205,
-      "oldi_rating": 1891,
-      "newi_rating": 1890,
-      "track": {
-        "track_id": 180,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 2,
-      "race_week_num": 2
     }
   ],
   "cust_id": 913773
