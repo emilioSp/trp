@@ -14,6 +14,54 @@
         "color3": "284a94"
       },
       "license_level": 17,
+      "session_start_time": "2025-12-27T19:45:00Z",
+      "winner_group_id": 580822,
+      "winner_name": "Javier Cantalapiedra Torres",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "0426ef",
+        "color2": "e8f900",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 4,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 73,
+      "strength_of_field": 1377,
+      "subsession_id": 82234407,
+      "old_sub_level": 137,
+      "new_sub_level": 152,
+      "oldi_rating": 1508,
+      "newi_rating": 1572,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
       "session_start_time": "2025-12-27T14:45:00Z",
       "winner_group_id": 1278595,
       "winner_name": "Leonardo Rota",
@@ -139,7 +187,7 @@
         "track_id": 341,
         "track_name": "Silverstone Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Watkins Glen International"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-11-29T21:15:00Z",
-      "winner_group_id": 1321842,
-      "winner_name": "Francisco Vicente3",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "979797",
-        "color2": "f70000",
-        "color3": "243135",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 19,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 0,
-      "strength_of_field": 1848,
-      "subsession_id": 81604831,
-      "old_sub_level": 205,
-      "new_sub_level": 205,
-      "oldi_rating": 1890,
-      "newi_rating": 1799,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 10
