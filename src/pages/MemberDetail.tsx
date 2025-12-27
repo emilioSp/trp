@@ -33,40 +33,20 @@ function MemberDetail() {
           return;
         }
 
-        // Import the JSON file dynamically
-        const data = await import(`../../data/trp_member_${id}.json`);
-        setMemberData(data.default);
+        const promises = [
+          import(`../../data/trp_member_${id}.json`),
+          import(`../../data/trp_member_${id}_recap_2025.json`),
+          import(`../../data/trp_member_${id}_career.json`),
+          import(`../../data/trp_member_${id}_irating_chart.json`),
+        ];
 
-        // Try to load recap data
-        try {
-          const recap = await import(
-            `../../data/trp_member_${id}_recap_2025.json`
-          );
-          setRecapData(recap.default);
-        } catch {
-          console.log(`Recap data not available for member ${id}`);
-        }
+        const [member, recap, career, iRatingChart] =
+          await Promise.all(promises);
 
-        // Try to load career data
-        try {
-          const career = await import(
-            `../../data/trp_member_${id}_career.json`
-          );
-          setCareerData(career.default);
-        } catch {
-          console.log(`Career data not available for member ${id}`);
-        }
-
-        // Try to load iRating chart data
-        try {
-          const chart = await import(
-            `../../data/trp_member_${id}_irating_chart.json`
-          );
-          setIRatingChartData(chart.default);
-        } catch {
-          console.log(`Chart data not available for member ${id}`);
-        }
-
+        setMemberData(member.default);
+        setRecapData(recap.default);
+        setCareerData(career.default);
+        setIRatingChartData(iRatingChart.default);
         setLoading(false);
       } catch (err) {
         setError(`Failed to load member data for ID: ${id}`);
@@ -103,25 +83,6 @@ function MemberDetail() {
     );
   }
 
-  if (!memberData || !memberInfo) {
-    return (
-      <div className="min-h-screen bg-gray-100 p-4">
-        <div className="max-w-4xl mx-auto">
-          <button
-            type={'button'}
-            onClick={() => navigate('/')}
-            className="mb-4 px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700"
-          >
-            ← Back to Home
-          </button>
-          <div className="bg-yellow-50 text-yellow-700 p-4 rounded">
-            Member not found
-          </div>
-        </div>
-      </div>
-    );
-  }
-
   return (
     <div className="min-h-screen bg-gray-100 p-4">
       <div className="max-w-6xl mx-auto">
@@ -133,7 +94,7 @@ function MemberDetail() {
           ← Back to Home
         </button>
 
-        <MemberHeader memberInfo={memberInfo} />
+        {memberInfo && <MemberHeader memberInfo={memberInfo} />}
 
         {recapData && <MemberRecapSection recapData={recapData} />}
 
@@ -143,7 +104,7 @@ function MemberDetail() {
           <IRatingChart iRatingChartData={iRatingChartData} />
         )}
 
-        <RecentRaces memberData={memberData} />
+        {memberData && <RecentRaces memberData={memberData} />}
       </div>
     </div>
   );
