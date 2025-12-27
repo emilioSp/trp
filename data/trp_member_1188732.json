@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5946,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "00ff47",
+        "color2": "000000",
+        "color3": "ffffff"
+      },
+      "license_level": 6,
+      "session_start_time": "2025-12-27T22:45:00Z",
+      "winner_group_id": 1333508,
+      "winner_name": "Gabor Balla",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "000000",
+        "color2": "00f0ff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 16,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 2,
+      "incidents": 6,
+      "points": 35,
+      "strength_of_field": 1548,
+      "subsession_id": 82238625,
+      "old_sub_level": 251,
+      "new_sub_level": 255,
+      "oldi_rating": 1654,
+      "newi_rating": 1625,
+      "track": {
+        "track_id": 413,
+        "track_name": "Hungaroring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Barcelona Catalunya"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5763,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "DBFF00",
-        "color2": "006EFF",
-        "color3": "000000"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-11-14T21:45:00Z",
-      "winner_group_id": 1188732,
-      "winner_name": "Mirko Mastrangelo",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "dbff00",
-        "color2": "006eff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 12,
-      "incidents": 4,
-      "points": 121,
-      "strength_of_field": 2003,
-      "subsession_id": 81251428,
-      "old_sub_level": 418,
-      "new_sub_level": 413,
-      "oldi_rating": 2119,
-      "newi_rating": 2208,
-      "track": {
-        "track_id": 345,
-        "track_name": "Circuit de Barcelona Catalunya"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 8
