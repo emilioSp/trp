@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-27T18:00:00Z",
+      "winner_group_id": 1041530,
+      "winner_name": "Tyler Stroman",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "070708",
+        "color2": "080707",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 20,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 67,
+      "strength_of_field": 2249,
+      "subsession_id": 82232043,
+      "old_sub_level": 372,
+      "new_sub_level": 386,
+      "oldi_rating": 2192,
+      "newi_rating": 2191,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 20,
+        "color1": "EBFF00",
+        "color2": "7CE632",
+        "color3": "000000"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-27T16:00:00Z",
       "winner_group_id": 1139605,
       "winner_name": "Leon Janka",
@@ -43,7 +91,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5769,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 188,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 188,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-05T22:45:00Z",
-      "winner_group_id": 708100,
-      "winner_name": "Tyler Brodbeck",
-      "winner_helmet": {
-        "pattern": 63,
-        "color1": "131338",
-        "color2": "91d8ff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 120,
-      "strength_of_field": 2099,
-      "subsession_id": 81751344,
-      "old_sub_level": 347,
-      "new_sub_level": 359,
-      "oldi_rating": 2029,
-      "newi_rating": 2110,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11

@@ -14,6 +14,54 @@
         "color3": "111111"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-27T18:00:00Z",
+      "winner_group_id": 246994,
+      "winner_name": "Filip Ołdak2",
+      "winner_helmet": {
+        "pattern": 5,
+        "color1": "ee3442",
+        "color2": "ffffff",
+        "color3": "447ac0",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 18,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 172,
+      "strength_of_field": 3990,
+      "subsession_id": 82232041,
+      "old_sub_level": 322,
+      "new_sub_level": 252,
+      "oldi_rating": 3779,
+      "newi_rating": 3829,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 24,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-27T00:00:00Z",
       "winner_group_id": 23801,
       "winner_name": "Sean D Campbell",
@@ -43,7 +91,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 23,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-04T17:15:00Z",
-      "winner_group_id": 512281,
-      "winner_name": "Andrea Bristot",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "111111",
-        "color2": "f0000a",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 7,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 134,
-      "strength_of_field": 4411,
-      "subsession_id": 81720920,
-      "old_sub_level": 311,
-      "new_sub_level": 305,
-      "oldi_rating": 3694,
-      "newi_rating": 3724,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
