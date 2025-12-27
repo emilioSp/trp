@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-27T21:15:00Z",
+      "winner_group_id": 1184554,
+      "winner_name": "Luis Fragoso Jr",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "170b47",
+        "color2": "ffffff",
+        "color3": "38ff56",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 4,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 113,
+      "strength_of_field": 2207,
+      "subsession_id": 82236496,
+      "old_sub_level": 337,
+      "new_sub_level": 325,
+      "oldi_rating": 2294,
+      "newi_rating": 2356,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "DBFF00",
+        "color2": "006EFF",
+        "color3": "000000"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-25T21:15:00Z",
       "winner_group_id": 806297,
       "winner_name": "Manuel Miklos",
@@ -91,7 +139,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Barcelona Catalunya"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5763,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "DBFF00",
-        "color2": "006EFF",
-        "color3": "000000"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-11-12T21:45:00Z",
-      "winner_group_id": 1350092,
-      "winner_name": "Wouter Hasevoets",
-      "winner_helmet": {
-        "pattern": 32,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 4,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 110,
-      "strength_of_field": 2080,
-      "subsession_id": 81206675,
-      "old_sub_level": 410,
-      "new_sub_level": 418,
-      "oldi_rating": 2048,
-      "newi_rating": 2119,
-      "track": {
-        "track_id": 345,
-        "track_name": "Circuit de Barcelona Catalunya"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 8

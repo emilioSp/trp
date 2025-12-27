@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 9,
+        "color1": "F7F7F7",
+        "color2": "231F20",
+        "color3": "E41E26"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-27T21:15:00Z",
+      "winner_group_id": 1069679,
+      "winner_name": "Barry Wenman",
+      "winner_helmet": {
+        "pattern": 68,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "00f7ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 6,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 96,
+      "strength_of_field": 2025,
+      "subsession_id": 82236497,
+      "old_sub_level": 325,
+      "new_sub_level": 327,
+      "oldi_rating": 2047,
+      "newi_rating": 2098,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -91,7 +139,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Virginia International Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5930,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 93,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 93,
-        "pattern": 22,
-        "color1": "ffffff",
-        "color2": "ff0000",
-        "color3": "108401"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-17T21:00:00Z",
-      "winner_group_id": 42186,
-      "winner_name": "Scott Garner",
-      "winner_helmet": {
-        "pattern": 3,
-        "color1": "ffffff",
-        "color2": "3cb46a",
-        "color3": "35fc2b",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 8,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 78,
-      "strength_of_field": 1489,
-      "subsession_id": 81968279,
-      "old_sub_level": 306,
-      "new_sub_level": 309,
-      "oldi_rating": 2008,
-      "newi_rating": 2052,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5924,
+      "series_id": 237,
+      "series_name": "GT Endurance Series by Simucube",
+      "car_id": 194,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 194,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-27T19:00:00Z",
+      "winner_group_id": -166125,
+      "winner_name": "3WR",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 32,
+      "finish_position": 25,
+      "qualifying_time": 0,
+      "laps": 102,
+      "laps_led": 0,
+      "incidents": 29,
+      "points": 93,
+      "strength_of_field": 2441,
+      "subsession_id": 82233397,
+      "old_sub_level": 308,
+      "new_sub_level": 322,
+      "oldi_rating": 2483,
+      "newi_rating": 2500,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 5,
-        "color1": "D1D500",
-        "color2": "111111",
-        "color3": "808080"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-03T18:00:00Z",
-      "winner_group_id": 1179726,
-      "winner_name": "Joy Perez",
-      "winner_helmet": {
-        "pattern": 3,
-        "color1": "d1d500",
-        "color2": "111111",
-        "color3": "808080",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 23,
-      "incidents": 4,
-      "points": 144,
-      "strength_of_field": 2325,
-      "subsession_id": 81697852,
-      "old_sub_level": 326,
-      "new_sub_level": 336,
-      "oldi_rating": 2204,
-      "newi_rating": 2303,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
