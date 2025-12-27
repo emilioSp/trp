@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 20,
+        "color1": "EBFF00",
+        "color2": "7CE632",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-27T16:00:00Z",
+      "winner_group_id": 1139605,
+      "winner_name": "Leon Janka",
+      "winner_helmet": {
+        "pattern": 61,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 18,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 59,
+      "strength_of_field": 2224,
+      "subsession_id": 82229519,
+      "old_sub_level": 371,
+      "new_sub_level": 372,
+      "oldi_rating": 2205,
+      "newi_rating": 2192,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5769,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 188,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 188,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-05T16:45:00Z",
-      "winner_group_id": 872459,
-      "winner_name": "James Marchyshyn",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "000000",
-        "color2": "f70202",
-        "color3": "f1f0f7",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 10,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 66,
-      "strength_of_field": 1997,
-      "subsession_id": 81744546,
-      "old_sub_level": 323,
-      "new_sub_level": 347,
-      "oldi_rating": 2024,
-      "newi_rating": 2029,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
