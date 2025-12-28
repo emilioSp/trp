@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-28T10:00:00Z",
+      "winner_group_id": 1068202,
+      "winner_name": "Timothy Lun",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "5481fc",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 13,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 101,
+      "strength_of_field": 2136,
+      "subsession_id": 82251233,
+      "old_sub_level": 386,
+      "new_sub_level": 452,
+      "oldi_rating": 2191,
+      "newi_rating": 2239,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 20,
+        "color1": "EBFF00",
+        "color2": "7CE632",
+        "color3": "000000"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-27T18:00:00Z",
       "winner_group_id": 1041530,
       "winner_name": "Tyler Stroman",
@@ -43,7 +91,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -423,54 +471,6 @@
       "new_sub_level": 324,
       "oldi_rating": 2058,
       "newi_rating": 2013,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5769,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 188,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 188,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-07T10:45:00Z",
-      "winner_group_id": 1366128,
-      "winner_name": "Szymon Milcarz",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "2e358f",
-        "color3": "ec232d",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 14,
-      "finish_position": 32,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 32,
-      "strength_of_field": 1958,
-      "subsession_id": 81789787,
-      "old_sub_level": 359,
-      "new_sub_level": 344,
-      "oldi_rating": 2110,
-      "newi_rating": 2058,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
