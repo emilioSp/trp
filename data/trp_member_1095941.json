@@ -14,6 +14,54 @@
         "color3": "ed2129"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-28T08:45:00Z",
+      "winner_group_id": 355920,
+      "winner_name": "Jùlien Jean",
+      "winner_helmet": {
+        "pattern": 49,
+        "color1": "fdc61e",
+        "color2": "000000",
+        "color3": "2e2e2e",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 3,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 129,
+      "strength_of_field": 2305,
+      "subsession_id": 82250143,
+      "old_sub_level": 352,
+      "new_sub_level": 319,
+      "oldi_rating": 3215,
+      "newi_rating": 3269,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-26T16:45:00Z",
       "winner_group_id": 789209,
       "winner_name": "Marek Ivánek",
@@ -139,7 +187,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5769,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-05T22:45:00Z",
-      "winner_group_id": 889137,
-      "winner_name": "Rafael Cunha",
-      "winner_helmet": {
-        "pattern": 54,
-        "color1": "e9e9ea",
-        "color2": "d3cb83",
-        "color3": "e5001d",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 12,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 40,
-      "strength_of_field": 3184,
-      "subsession_id": 81751341,
-      "old_sub_level": 252,
-      "new_sub_level": 244,
-      "oldi_rating": 2964,
-      "newi_rating": 2916,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1095941
