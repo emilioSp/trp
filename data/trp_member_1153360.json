@@ -14,6 +14,54 @@
         "color3": "9dd1c6"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-28T21:45:00Z",
+      "winner_group_id": 857509,
+      "winner_name": "Tyler Bryan",
+      "winner_helmet": {
+        "pattern": 53,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 8,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 26,
+      "strength_of_field": 2748,
+      "subsession_id": 82265782,
+      "old_sub_level": 314,
+      "new_sub_level": 305,
+      "oldi_rating": 2948,
+      "newi_rating": 2878,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 23,
+        "color1": "eaf3eb",
+        "color2": "065ff6",
+        "color3": "9dd1c6"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-27T21:45:00Z",
       "winner_group_id": 364843,
       "winner_name": "Brandon Valadez",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6049,
-      "series_id": 470,
-      "series_name": "13th Week iRacing RX Lite",
-      "car_id": 138,
-      "car_class_id": 3001,
-      "livery": {
-        "car_id": 138,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-10T20:45:00Z",
-      "winner_group_id": 1121174,
-      "winner_name": "Florian Safarowsky",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "000694",
-        "color2": "ffffff",
-        "color3": "ff00bf",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 8,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 43,
-      "strength_of_field": 1693,
-      "subsession_id": 81853799,
-      "old_sub_level": 298,
-      "new_sub_level": 349,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 296,
-        "track_name": "Daytona Rallycross and Dirt Road"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 1
     }
   ],
   "cust_id": 1153360
