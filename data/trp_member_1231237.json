@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 9,
+        "color1": "F7F7F7",
+        "color2": "231F20",
+        "color3": "E41E26"
+      },
+      "license_level": 18,
+      "session_start_time": "2025-12-28T15:15:00Z",
+      "winner_group_id": 1180011,
+      "winner_name": "Julien Vidal2",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "000000",
+        "color2": "434343",
+        "color3": "b50000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 7,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 79,
+      "strength_of_field": 1942,
+      "subsession_id": 82256694,
+      "old_sub_level": 242,
+      "new_sub_level": 248,
+      "oldi_rating": 2029,
+      "newi_rating": 2057,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Summit Point Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5937,
-      "series_id": 455,
-      "series_name": "Formula Vee Series by trophi.ai",
-      "car_id": 142,
-      "car_class_id": 3002,
-      "livery": {
-        "car_id": 142,
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "231f20",
-        "color3": "e41e26"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-20T21:30:00Z",
-      "winner_group_id": 1028877,
-      "winner_name": "Adriel Tan",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "5e5e5e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 1,
-      "start_position": 5,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 46,
-      "strength_of_field": 845,
-      "subsession_id": 82048563,
-      "old_sub_level": 273,
-      "new_sub_level": 269,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 8,
-        "track_name": "Summit Point Raceway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0

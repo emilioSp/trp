@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "DBFF00",
+        "color2": "006EFF",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-28T15:15:00Z",
+      "winner_group_id": 393174,
+      "winner_name": "James Jansen",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ee3442",
+        "color2": "447ac0",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 6,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 100,
+      "strength_of_field": 2241,
+      "subsession_id": 82256693,
+      "old_sub_level": 318,
+      "new_sub_level": 314,
+      "oldi_rating": 2352,
+      "newi_rating": 2393,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 5
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "DBFF00",
-        "color2": "006EFF",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-06T21:15:00Z",
-      "winner_group_id": 1214255,
-      "winner_name": "Aaron Grün",
-      "winner_helmet": {
-        "pattern": 54,
-        "color1": "000000",
-        "color2": "a000f6",
-        "color3": "06fa01",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 2,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 107,
-      "strength_of_field": 2084,
-      "subsession_id": 81775618,
-      "old_sub_level": 353,
-      "new_sub_level": 330,
-      "oldi_rating": 2122,
-      "newi_rating": 2185,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1188732
