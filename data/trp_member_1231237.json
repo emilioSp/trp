@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 9,
+        "color1": "F7F7F7",
+        "color2": "231F20",
+        "color3": "E41E26"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-28T14:00:00Z",
+      "winner_group_id": 981257,
+      "winner_name": "Alex Stepanovskiy",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "302e31",
+        "color2": "bcbed1",
+        "color3": "45486b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 18,
+      "finish_position": 25,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 20,
+      "points": 18,
+      "strength_of_field": 2079,
+      "subsession_id": 82255286,
+      "old_sub_level": 327,
+      "new_sub_level": 242,
+      "oldi_rating": 2098,
+      "newi_rating": 2029,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Summit Point Raceway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5928,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 9,
-        "color1": "F7F7F7",
-        "color2": "231F20",
-        "color3": "E41E26"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-20T15:45:00Z",
-      "winner_group_id": 878600,
-      "winner_name": "Filip Vaysman",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "978f8f",
-        "color2": "1900ff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 17,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 3,
-      "strength_of_field": 2108,
-      "subsession_id": 82041191,
-      "old_sub_level": 309,
-      "new_sub_level": 320,
-      "oldi_rating": 2052,
-      "newi_rating": 1960,
-      "track": {
-        "track_id": 465,
-        "track_name": "Virginia International Raceway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "DBFF00",
+        "color2": "006EFF",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2025-12-28T14:00:00Z",
+      "winner_group_id": 1331962,
+      "winner_name": "Mykyta Zhavoronkov",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "000F9F",
+        "color2": "000000",
+        "color3": "C6D1EE",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 11,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 70,
+      "strength_of_field": 2427,
+      "subsession_id": 82255285,
+      "old_sub_level": 325,
+      "new_sub_level": 318,
+      "oldi_rating": 2356,
+      "newi_rating": 2352,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5946,
       "series_id": 542,
       "series_name": "FIA F4 Esports Regional Tour - Europe",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
-    },
-    {
-      "season_id": 5763,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "DBFF00",
-        "color2": "006EFF",
-        "color3": "000000"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-11-16T20:45:00Z",
-      "winner_group_id": 878652,
-      "winner_name": "Giorgio Lattanzi",
-      "winner_helmet": {
-        "pattern": 4,
-        "color1": "018f14",
-        "color2": "ffffff",
-        "color3": "fc4c4c",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 1,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 6,
-      "incidents": 8,
-      "points": 6,
-      "strength_of_field": 2158,
-      "subsession_id": 81298835,
-      "old_sub_level": 413,
-      "new_sub_level": 353,
-      "oldi_rating": 2208,
-      "newi_rating": 2122,
-      "track": {
-        "track_id": 345,
-        "track_name": "Circuit de Barcelona Catalunya"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 8
     }
   ],
   "cust_id": 1188732
