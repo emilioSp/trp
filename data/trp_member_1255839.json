@@ -14,6 +14,54 @@
         "color3": "588eaa"
       },
       "license_level": 18,
+      "session_start_time": "2025-12-28T08:00:00Z",
+      "winner_group_id": 1059224,
+      "winner_name": "Augustas Lapinskas",
+      "winner_helmet": {
+        "pattern": 67,
+        "color1": "1b9195",
+        "color2": "a1223f",
+        "color3": "531717",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 7,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 85,
+      "strength_of_field": 1701,
+      "subsession_id": 82249489,
+      "old_sub_level": 270,
+      "new_sub_level": 276,
+      "oldi_rating": 1795,
+      "newi_rating": 1850,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 7,
+        "color1": "222222",
+        "color2": "2d3241",
+        "color3": "588eaa"
+      },
+      "license_level": 18,
       "session_start_time": "2025-12-27T10:00:00Z",
       "winner_group_id": 507166,
       "winner_name": "Jason Davies",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
-    },
-    {
-      "season_id": 5591,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 188,
-        "pattern": 24,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-08-30T16:00:00Z",
-      "winner_group_id": 394077,
-      "winner_name": "Dennis Bussek",
-      "winner_helmet": {
-        "pattern": 55,
-        "color1": "111111",
-        "color2": "ffffff",
-        "color3": "5481fc",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 10,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 67,
-      "strength_of_field": 1946,
-      "subsession_id": 79539046,
-      "old_sub_level": 423,
-      "new_sub_level": 416,
-      "oldi_rating": 2031,
-      "newi_rating": 2037,
-      "track": {
-        "track_id": 255,
-        "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 3,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1255839
