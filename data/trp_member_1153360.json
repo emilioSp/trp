@@ -14,6 +14,54 @@
         "color3": "9dd1c6"
       },
       "license_level": 18,
+      "session_start_time": "2025-12-29T15:45:00Z",
+      "winner_group_id": 1106936,
+      "winner_name": "Matt Toppan",
+      "winner_helmet": {
+        "pattern": 13,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 1,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 154,
+      "strength_of_field": 2728,
+      "subsession_id": 82285928,
+      "old_sub_level": 272,
+      "new_sub_level": 295,
+      "oldi_rating": 2932,
+      "newi_rating": 3010,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 23,
+        "color1": "eaf3eb",
+        "color2": "065ff6",
+        "color3": "9dd1c6"
+      },
+      "license_level": 18,
       "session_start_time": "2025-12-29T13:45:00Z",
       "winner_group_id": 1049323,
       "winner_name": "Thijn De Jong",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 23,
-        "color1": "eaf3eb",
-        "color2": "065ff6",
-        "color3": "9dd1c6"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-21T20:45:00Z",
-      "winner_group_id": 1134695,
-      "winner_name": "Adrian Olschar",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "111111",
-        "color2": "00b2f7",
-        "color3": "666666",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 13,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 72,
-      "strength_of_field": 3752,
-      "subsession_id": 82076116,
-      "old_sub_level": 276,
-      "new_sub_level": 357,
-      "oldi_rating": 2840,
-      "newi_rating": 2837,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1153360

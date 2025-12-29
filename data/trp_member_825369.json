@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 11,
+      "session_start_time": "2025-12-29T16:30:00Z",
+      "winner_group_id": 1385756,
+      "winner_name": "Dan Lopess",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 3,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 132,
+      "strength_of_field": 2835,
+      "subsession_id": 82286689,
+      "old_sub_level": 319,
+      "new_sub_level": 327,
+      "oldi_rating": 3821,
+      "newi_rating": 3853,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5893,
+      "series_id": 139,
+      "series_name": "Global Mazda MX-5 Cup by Fanatec",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 1,
+        "color1": "1f2892",
+        "color2": "7de54c",
+        "color3": "ffffff"
+      },
+      "license_level": 11,
       "session_start_time": "2025-12-29T12:30:00Z",
       "winner_group_id": 1144746,
       "winner_name": "Leonardo Monzani",
@@ -283,7 +331,7 @@
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Miami International Autodrome"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5921,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-23T19:45:00Z",
-      "winner_group_id": 1003565,
-      "winner_name": "Daniel Pérez Sánchez",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "a36700",
-        "color2": "9ca1a2",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 4,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 2,
-      "incidents": 5,
-      "points": 224,
-      "strength_of_field": 3897,
-      "subsession_id": 82128783,
-      "old_sub_level": 328,
-      "new_sub_level": 337,
-      "oldi_rating": 3961,
-      "newi_rating": 4047,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
