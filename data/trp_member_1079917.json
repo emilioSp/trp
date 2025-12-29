@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 18,
+        "color1": "030303",
+        "color2": "b40cf0",
+        "color3": "dde809"
+      },
+      "license_level": 20,
+      "session_start_time": "2025-12-29T21:15:00Z",
+      "winner_group_id": 258482,
+      "winner_name": "Rodrigo Meezs",
+      "winner_helmet": {
+        "pattern": 36,
+        "color1": "de1b22",
+        "color2": "001ef5",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 8,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 131,
+      "strength_of_field": 3854,
+      "subsession_id": 82292931,
+      "old_sub_level": 443,
+      "new_sub_level": 434,
+      "oldi_rating": 3487,
+      "newi_rating": 3515,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 488,
       "oldi_rating": 3385,
       "newi_rating": 3428,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 18,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-20T20:45:00Z",
-      "winner_group_id": 587377,
-      "winner_name": "Esteban Ocampo",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ed2129",
-        "color2": "ffffff",
-        "color3": "2a3795",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 5,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 27,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 129,
-      "strength_of_field": 2436,
-      "subsession_id": 82047506,
-      "old_sub_level": 398,
-      "new_sub_level": 468,
-      "oldi_rating": 3341,
-      "newi_rating": 3385,
       "track": {
         "track_id": 572,
         "track_name": "Autódromo Hermanos Rodríguez"
