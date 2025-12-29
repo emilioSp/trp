@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 20,
+      "session_start_time": "2025-12-29T17:15:00Z",
+      "winner_group_id": 816313,
+      "winner_name": "Philippe Beck",
+      "winner_helmet": {
+        "pattern": 7,
+        "color1": "ffffff",
+        "color2": "111111",
+        "color3": "dbf035",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 12,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 55,
+      "strength_of_field": 2460,
+      "subsession_id": 82287620,
+      "old_sub_level": 471,
+      "new_sub_level": 466,
+      "oldi_rating": 2295,
+      "newi_rating": 2276,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 20,
+        "color1": "EBFF00",
+        "color2": "7CE632",
+        "color3": "000000"
+      },
+      "license_level": 20,
       "session_start_time": "2025-12-29T11:15:00Z",
       "winner_group_id": 1134287,
       "winner_name": "Vyacheslav Senin",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5769,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 188,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 188,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-08T16:45:00Z",
-      "winner_group_id": 1298774,
-      "winner_name": "Janusz Jaworek",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "2324bb",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 9,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 117,
-      "strength_of_field": 2052,
-      "subsession_id": 81821721,
-      "old_sub_level": 355,
-      "new_sub_level": 348,
-      "oldi_rating": 2068,
-      "newi_rating": 2146,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1205476
