@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5930,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 102,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 102,
+        "pattern": 15,
+        "color1": "D0C40B",
+        "color2": "ffffff",
+        "color3": "111111"
+      },
+      "license_level": 18,
+      "session_start_time": "2025-12-30T17:00:00Z",
+      "winner_group_id": 749780,
+      "winner_name": "Chris Fleischmann2",
+      "winner_helmet": {
+        "pattern": 68,
+        "color1": "dbff00",
+        "color2": "36e809",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 10,
+      "finish_position": 22,
+      "qualifying_time": 0,
+      "laps": 16,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 9,
+      "strength_of_field": 3269,
+      "subsession_id": 82315487,
+      "old_sub_level": 242,
+      "new_sub_level": 255,
+      "oldi_rating": 2884,
+      "newi_rating": 2811,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5763,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Circuito de Navarra"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 3,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5564,
-      "series_id": 112,
-      "series_name": "Production Car Challenge by Sim-Lab",
-      "car_id": 160,
-      "car_class_id": 4012,
-      "livery": {
-        "car_id": 160,
-        "pattern": 23,
-        "color1": "D0C40B",
-        "color2": "111111",
-        "color3": "111111"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-09-06T16:30:00Z",
-      "winner_group_id": 1123732,
-      "winner_name": "Juan J Clavijo",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "00aeef",
-        "color2": "0a0a0a",
-        "color3": "f26522",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 2,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 150,
-      "strength_of_field": 2572,
-      "subsession_id": 79707600,
-      "old_sub_level": 376,
-      "new_sub_level": 390,
-      "oldi_rating": 2760,
-      "newi_rating": 2848,
-      "track": {
-        "track_id": 516,
-        "track_name": "Circuito de Navarra"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 3,
       "race_week_num": 11
