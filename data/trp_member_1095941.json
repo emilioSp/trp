@@ -14,6 +14,54 @@
         "color3": "ed2129"
       },
       "license_level": 19,
+      "session_start_time": "2025-12-29T22:45:00Z",
+      "winner_group_id": 289498,
+      "winner_name": "Marco Ricci",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "0b0841",
+        "color2": "a2a91b",
+        "color3": "305922",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 177,
+      "strength_of_field": 3198,
+      "subsession_id": 82294993,
+      "old_sub_level": 319,
+      "new_sub_level": 327,
+      "oldi_rating": 3269,
+      "newi_rating": 3353,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 19,
       "session_start_time": "2025-12-28T08:45:00Z",
       "winner_group_id": 355920,
       "winner_name": "Jùlien Jean",
@@ -187,7 +235,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Autódromo Hermanos Rodríguez"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-20T20:45:00Z",
-      "winner_group_id": 587377,
-      "winner_name": "Esteban Ocampo",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ed2129",
-        "color2": "ffffff",
-        "color3": "2a3795",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 12,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 27,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 75,
-      "strength_of_field": 2436,
-      "subsession_id": 82047506,
-      "old_sub_level": 244,
-      "new_sub_level": 261,
-      "oldi_rating": 2916,
-      "newi_rating": 2903,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
