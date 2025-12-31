@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 173,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 173,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 13,
+      "session_start_time": "2025-12-30T22:45:00Z",
+      "winner_group_id": 1265479,
+      "winner_name": "Abel Torress",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 8,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 18,
+      "points": 12,
+      "strength_of_field": 2901,
+      "subsession_id": 82323132,
+      "old_sub_level": 171,
+      "new_sub_level": 136,
+      "oldi_rating": 2001,
+      "newi_rating": 1955,
+      "track": {
+        "track_id": 473,
+        "track_name": "Circuito de Jerez - Ángel Nieto"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5928,
       "series_id": 595,
       "series_name": "iRacing GT3 Regional Tour - Americas",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 5
-    },
-    {
-      "season_id": 6044,
-      "series_id": 568,
-      "series_name": "13th Week FF1600 Series",
-      "car_id": 163,
-      "car_class_id": 4016,
-      "livery": {
-        "car_id": 163,
-        "pattern": 18,
-        "color1": "000000",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-11T14:15:00Z",
-      "winner_group_id": 1155199,
-      "winner_name": "Joshua Röver",
-      "winner_helmet": {
-        "pattern": 36,
-        "color1": "ffed00",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 9,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 2,
-      "laps_led": 0,
-      "incidents": 20,
-      "points": 11,
-      "strength_of_field": 1341,
-      "subsession_id": 81862529,
-      "old_sub_level": 296,
-      "new_sub_level": 266,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 515,
-        "track_name": "Circuito de Navarra"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 2
     }
   ],
   "cust_id": 1156449
