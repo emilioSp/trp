@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5907,
+      "series_id": 210,
+      "series_name": "Global Sports Car Challenge by Fanatec",
+      "car_id": 41,
+      "car_class_id": 45,
+      "livery": {
+        "car_id": 41,
+        "pattern": 0,
+        "color1": "cccccc",
+        "color2": "ed1c24",
+        "color3": "111111"
+      },
+      "license_level": 20,
+      "session_start_time": "2025-12-31T13:30:00Z",
+      "winner_group_id": 315647,
+      "winner_name": "Sandro Müller",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "361819",
+        "color2": "000000",
+        "color3": "d8bd41",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 5,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 64,
+      "strength_of_field": 2048,
+      "subsession_id": 82339615,
+      "old_sub_level": 436,
+      "new_sub_level": 438,
+      "oldi_rating": 3507,
+      "newi_rating": 3489,
+      "track": {
+        "track_id": 127,
+        "track_name": "Road Atlanta"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Autódromo Hermanos Rodríguez"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5946,
-      "series_id": 542,
-      "series_name": "FIA F4 Esports Regional Tour - Europe",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 14,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 5,
-      "session_start_time": "2025-12-21T14:45:00Z",
-      "winner_group_id": 1291546,
-      "winner_name": "Bennet Joerss",
-      "winner_helmet": {
-        "pattern": 62,
-        "color1": "1cff00",
-        "color2": "f0ff4a",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 7,
-      "start_position": 14,
-      "finish_position": 22,
-      "qualifying_time": 0,
-      "laps": 3,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 4,
-      "strength_of_field": 1687,
-      "subsession_id": 82068134,
-      "old_sub_level": 174,
-      "new_sub_level": 171,
-      "oldi_rating": 1817,
-      "newi_rating": 1725,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
