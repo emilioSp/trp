@@ -4,6 +4,54 @@
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "FF0000",
+        "color3": "FFFFFF"
+      },
+      "license_level": 13,
+      "session_start_time": "2025-12-31T14:45:00Z",
+      "winner_group_id": 1156449,
+      "winner_name": "Tommaso Baseggio",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 12,
+      "incidents": 3,
+      "points": 113,
+      "strength_of_field": 1870,
+      "subsession_id": 82341028,
+      "old_sub_level": 136,
+      "new_sub_level": 154,
+      "oldi_rating": 1955,
+      "newi_rating": 2045,
+      "track": {
+        "track_id": 473,
+        "track_name": "Circuito de Jerez - Ángel Nieto"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
       "car_id": 173,
       "car_class_id": 4091,
       "livery": {
@@ -43,7 +91,7 @@
         "track_id": 473,
         "track_name": "Circuito de Jerez - Ángel Nieto"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -428,54 +476,6 @@
         "track_name": "Southern National Motorsports Park"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6039,
-      "series_id": 134,
-      "series_name": "13th Week Street Stock Challenge",
-      "car_id": 36,
-      "car_class_id": 4064,
-      "livery": {
-        "car_id": 36,
-        "pattern": 16,
-        "color1": "ffffff",
-        "color2": "0ada00",
-        "color3": "111111"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-14T14:45:00Z",
-      "winner_group_id": 1198753,
-      "winner_name": "Tam Nguyen7",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "fe0100",
-        "color2": "0a0a0a",
-        "color3": "475b64",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 17,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 40,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 55,
-      "strength_of_field": 1078,
-      "subsession_id": 81901006,
-      "old_sub_level": 255,
-      "new_sub_level": 272,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 256,
-        "track_name": "Southern National Motorsports Park"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 5
