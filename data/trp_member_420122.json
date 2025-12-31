@@ -14,6 +14,54 @@
         "color3": "111111"
       },
       "license_level": 18,
+      "session_start_time": "2025-12-31T17:00:00Z",
+      "winner_group_id": 975264,
+      "winner_name": "Miguel Leon",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "013990",
+        "color2": "ffffff",
+        "color3": "4bd3fd",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 7,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 6,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 19,
+      "strength_of_field": 3272,
+      "subsession_id": 82343600,
+      "old_sub_level": 255,
+      "new_sub_level": 241,
+      "oldi_rating": 2811,
+      "newi_rating": 2750,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 5930,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 102,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 102,
+        "pattern": 15,
+        "color1": "D0C40B",
+        "color2": "ffffff",
+        "color3": "111111"
+      },
+      "license_level": 18,
       "session_start_time": "2025-12-30T17:00:00Z",
       "winner_group_id": 749780,
       "winner_name": "Chris Fleischmann2",
@@ -43,7 +91,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -428,54 +476,6 @@
         "track_name": "Circuito de Navarra"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 3,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5564,
-      "series_id": 112,
-      "series_name": "Production Car Challenge by Sim-Lab",
-      "car_id": 160,
-      "car_class_id": 4012,
-      "livery": {
-        "car_id": 160,
-        "pattern": 23,
-        "color1": "D0C40B",
-        "color2": "111111",
-        "color3": "111111"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-09-06T17:30:00Z",
-      "winner_group_id": 1269600,
-      "winner_name": "Bence Timár3",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "61276C",
-        "color2": "C73CB3",
-        "color3": "3EE3FF",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 7,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 139,
-      "strength_of_field": 2617,
-      "subsession_id": 79708725,
-      "old_sub_level": 390,
-      "new_sub_level": 398,
-      "oldi_rating": 2848,
-      "newi_rating": 2922,
-      "track": {
-        "track_id": 516,
-        "track_name": "Circuito de Navarra"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 3,
       "race_week_num": 11
