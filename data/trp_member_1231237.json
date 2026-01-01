@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5938,
+      "series_id": 520,
+      "series_name": "Formula 1600 Rookie Series",
+      "car_id": 163,
+      "car_class_id": 4016,
+      "livery": {
+        "car_id": 163,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 2,
+      "session_start_time": "2026-01-01T16:45:00Z",
+      "winner_group_id": 1242496,
+      "winner_name": "Eric Berg2",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "231f20",
+        "color2": "231f20",
+        "color3": "ffe901",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 2,
+      "start_position": 5,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 31,
+      "strength_of_field": 1041,
+      "subsession_id": 82369153,
+      "old_sub_level": 274,
+      "new_sub_level": 284,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 439,
+        "track_name": "Winton Motor Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
-    },
-    {
-      "season_id": 5930,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 93,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 93,
-        "pattern": 22,
-        "color1": "ffffff",
-        "color2": "ff0000",
-        "color3": "108401"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-21T21:00:00Z",
-      "winner_group_id": 1188732,
-      "winner_name": "Mirko Mastrangelo",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "dbff00",
-        "color2": "006eff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 9,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 88,
-      "strength_of_field": 1783,
-      "subsession_id": 82076443,
-      "old_sub_level": 320,
-      "new_sub_level": 326,
-      "oldi_rating": 1960,
-      "newi_rating": 2010,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1231237

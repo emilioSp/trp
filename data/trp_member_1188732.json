@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5946,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "00ff47",
+        "color2": "000000",
+        "color3": "ffffff"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-01-01T16:45:00Z",
+      "winner_group_id": 1137152,
+      "winner_name": "Friedrich Jungklaus",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "2a3795",
+        "color2": "2160ed",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 5,
+      "start_position": 3,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 94,
+      "strength_of_field": 1565,
+      "subsession_id": 82369162,
+      "old_sub_level": 255,
+      "new_sub_level": 259,
+      "oldi_rating": 1625,
+      "newi_rating": 1710,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6043,
-      "series_id": 320,
-      "series_name": "13th Week iRacing Porsche Cup",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "dbff00",
-        "color2": "006eff",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-14T20:45:00Z",
-      "winner_group_id": 1194670,
-      "winner_name": "Alexander Nikitin",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "f47c00",
-        "color2": "00ffe8",
-        "color3": "4e09bf",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 9,
-      "finish_position": 25,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 19,
-      "strength_of_field": 2170,
-      "subsession_id": 81905428,
-      "old_sub_level": 330,
-      "new_sub_level": 305,
-      "oldi_rating": 2185,
-      "newi_rating": 2116,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1188732
