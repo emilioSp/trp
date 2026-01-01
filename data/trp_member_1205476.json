@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-01T13:45:00Z",
+      "winner_group_id": 143176,
+      "winner_name": "Rick Peters",
+      "winner_helmet": {
+        "pattern": 54,
+        "color1": "1095cf",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 6,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 105,
+      "strength_of_field": 1925,
+      "subsession_id": 82365824,
+      "old_sub_level": 344,
+      "new_sub_level": 370,
+      "oldi_rating": 2016,
+      "newi_rating": 2083,
+      "track": {
+        "track_id": 268,
+        "track_name": "Circuit des 24 Heures du Mans"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -331,7 +379,7 @@
         "track_id": 268,
         "track_name": "Circuit des 24 Heures du Mans"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 20,
-        "color1": "EBFF00",
-        "color2": "7CE632",
-        "color3": "000000"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-12-29T11:15:00Z",
-      "winner_group_id": 1134287,
-      "winner_name": "Vyacheslav Senin",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "0500f9",
-        "color2": "ffffff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 107,
-      "strength_of_field": 2137,
-      "subsession_id": 82280639,
-      "old_sub_level": 471,
-      "new_sub_level": 471,
-      "oldi_rating": 2238,
-      "newi_rating": 2295,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1

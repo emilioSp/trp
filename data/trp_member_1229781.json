@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 6,
+      "session_start_time": "2026-01-01T14:00:00Z",
+      "winner_group_id": 947551,
+      "winner_name": "Matthew Sharp5",
+      "winner_helmet": {
+        "pattern": 7,
+        "color1": "ffffff",
+        "color2": "edeb21",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 19,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 47,
+      "strength_of_field": 1460,
+      "subsession_id": 82366160,
+      "old_sub_level": 271,
+      "new_sub_level": 286,
+      "oldi_rating": 1523,
+      "newi_rating": 1524,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 5943,
+      "series_id": 498,
+      "series_name": "FIA Formula 4 Challenge - Fixed",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 6,
       "session_start_time": "2026-01-01T13:00:00Z",
       "winner_group_id": 1370920,
       "winner_name": "Chris Saliba2",
@@ -43,7 +91,7 @@
         "track_id": 341,
         "track_name": "Silverstone Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -428,54 +476,6 @@
         "track_name": "Tsukuba Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5944,
-      "series_id": 540,
-      "series_name": "FIA F4 Esports Regional Tour - Asia Pacific",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 6,
-      "session_start_time": "2025-12-20T10:30:00Z",
-      "winner_group_id": 1251778,
-      "winner_name": "Go Ito2",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "ff0099",
-        "color2": "ff0099",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 21,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 38,
-      "strength_of_field": 1906,
-      "subsession_id": 82034858,
-      "old_sub_level": 250,
-      "new_sub_level": 265,
-      "oldi_rating": 1487,
-      "newi_rating": 1470,
-      "track": {
-        "track_id": 324,
-        "track_name": "Tsukuba Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
