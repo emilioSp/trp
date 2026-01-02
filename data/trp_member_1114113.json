@@ -14,6 +14,54 @@
         "color3": "ff0000"
       },
       "license_level": 13,
+      "session_start_time": "2026-01-02T10:45:00Z",
+      "winner_group_id": 1257536,
+      "winner_name": "Dom Parobok",
+      "winner_helmet": {
+        "pattern": 49,
+        "color1": "19f128",
+        "color2": "10dac2",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 5,
+      "start_position": 1,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 6,
+      "laps_led": 3,
+      "incidents": 12,
+      "points": 34,
+      "strength_of_field": 2829,
+      "subsession_id": 82390562,
+      "old_sub_level": 131,
+      "new_sub_level": 109,
+      "oldi_rating": 3273,
+      "newi_rating": 3207,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 5946,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "ff0000"
+      },
+      "license_level": 13,
       "session_start_time": "2026-01-02T09:45:00Z",
       "winner_group_id": 1283055,
       "winner_name": "Carlos Hierro Alvarez",
@@ -43,7 +91,7 @@
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -428,54 +476,6 @@
         "track_name": "Okayama International Circuit"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5732,
-      "series_id": 112,
-      "series_name": "Production Car Challenge by Sim-Lab",
-      "car_id": 160,
-      "car_class_id": 4012,
-      "livery": {
-        "car_id": 160,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 14,
-      "session_start_time": "2025-11-21T21:30:00Z",
-      "winner_group_id": 801380,
-      "winner_name": "Pablo Cabrera",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "9f0000",
-        "color2": "000000",
-        "color3": "cfcfcf",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 4,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 110,
-      "strength_of_field": 2529,
-      "subsession_id": 81415521,
-      "old_sub_level": 250,
-      "new_sub_level": 230,
-      "oldi_rating": 2891,
-      "newi_rating": 2928,
-      "track": {
-        "track_id": 166,
-        "track_name": "Okayama International Circuit"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 9
