@@ -90,16 +90,6 @@
     "iRating": 2065
   },
   {
-    "id": 1114113,
-    "name": "Marco Chiarello",
-    "memberSince": "2024-09-10",
-    "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 2.11,
-    "iRating": 3109
-  },
-  {
     "id": 1152067,
     "name": "Luca Zinicola",
     "memberSince": "2024-12-02",
@@ -158,16 +148,6 @@
     "className": "A",
     "safetyRating": 3.44,
     "iRating": 4423
-  },
-  {
-    "id": 1179726,
-    "name": "Joy Perez",
-    "memberSince": "2025-01-04",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 3.22,
-    "iRating": 2500
   },
   {
     "id": 420122,
