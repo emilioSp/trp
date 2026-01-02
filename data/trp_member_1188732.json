@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 6,
+      "session_start_time": "2026-01-02T21:45:00Z",
+      "winner_group_id": 1026344,
+      "winner_name": "Tom Scholz",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "03bbbd",
+        "color2": "111111",
+        "color3": "184252",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 6,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 100,
+      "strength_of_field": 1680,
+      "subsession_id": 82404100,
+      "old_sub_level": 234,
+      "new_sub_level": 236,
+      "oldi_rating": 1648,
+      "newi_rating": 1736,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 5946,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "00ff47",
+        "color2": "000000",
+        "color3": "ffffff"
+      },
+      "license_level": 6,
       "session_start_time": "2026-01-01T21:45:00Z",
       "winner_group_id": 935334,
       "winner_name": "Thijmen Van Schaick",
@@ -91,7 +139,7 @@
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5937,
-      "series_id": 455,
-      "series_name": "Formula Vee Series by trophi.ai",
-      "car_id": 142,
-      "car_class_id": 3002,
-      "livery": {
-        "car_id": 142,
-        "pattern": 1,
-        "color1": "4bd3fd",
-        "color2": "13990",
-        "color3": "ffffff"
-      },
-      "license_level": 6,
-      "session_start_time": "2025-12-20T21:30:00Z",
-      "winner_group_id": 724129,
-      "winner_name": "Elliot Kaczynski",
-      "winner_helmet": {
-        "pattern": 36,
-        "color1": "fbfdff",
-        "color2": "ebff00",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 5,
-      "start_position": 7,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 5,
-      "strength_of_field": 2200,
-      "subsession_id": 82048557,
-      "old_sub_level": 265,
-      "new_sub_level": 251,
-      "oldi_rating": 1727,
-      "newi_rating": 1654,
-      "track": {
-        "track_id": 8,
-        "track_name": "Summit Point Raceway"
       },
       "drop_race": false,
       "season_year": 2026,
