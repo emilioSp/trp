@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 19,
+      "session_start_time": "2026-01-02T16:45:00Z",
+      "winner_group_id": 107470,
+      "winner_name": "Mark Johnston5",
+      "winner_helmet": {
+        "pattern": 64,
+        "color1": "0f0606",
+        "color2": "c40100",
+        "color3": "020303",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 6,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 104,
+      "strength_of_field": 1967,
+      "subsession_id": 82397320,
+      "old_sub_level": 369,
+      "new_sub_level": 397,
+      "oldi_rating": 2071,
+      "newi_rating": 2133,
+      "track": {
+        "track_id": 268,
+        "track_name": "Circuit des 24 Heures du Mans"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
       "session_start_time": "2026-01-02T10:45:00Z",
       "winner_group_id": 1299985,
       "winner_name": "Kevin Thomas16",
@@ -379,7 +427,7 @@
         "track_id": 268,
         "track_name": "Circuit des 24 Heures du Mans"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 20,
-        "color1": "EBFF00",
-        "color2": "7CE632",
-        "color3": "000000"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-12-29T18:00:00Z",
-      "winner_group_id": 1124484,
-      "winner_name": "Simon Mayr",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "dff000",
-        "color2": "1a4b9b",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 18,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 63,
-      "strength_of_field": 2296,
-      "subsession_id": 82288577,
-      "old_sub_level": 466,
-      "new_sub_level": 470,
-      "oldi_rating": 2276,
-      "newi_rating": 2267,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
     }
   ],
   "cust_id": 1205476
