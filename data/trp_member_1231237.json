@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5943,
+      "series_id": 498,
+      "series_name": "FIA Formula 4 Challenge - Fixed",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 17,
+        "color1": "F7F7F7",
+        "color2": "231F20",
+        "color3": "E41E26"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-01-03T21:00:00Z",
+      "winner_group_id": 812047,
+      "winner_name": "Emmilio Del Grosso",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ed2129",
+        "color2": "000000",
+        "color3": "ffe300",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 5,
+      "start_position": 11,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 48,
+      "strength_of_field": 1198,
+      "subsession_id": 82432474,
+      "old_sub_level": 232,
+      "new_sub_level": 243,
+      "oldi_rating": 1158,
+      "newi_rating": 1189,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -139,7 +187,7 @@
         "track_id": 341,
         "track_name": "Silverstone Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -423,54 +471,6 @@
       "new_sub_level": 242,
       "oldi_rating": 2098,
       "newi_rating": 2029,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 9,
-        "color1": "F7F7F7",
-        "color2": "231F20",
-        "color3": "E41E26"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-27T21:15:00Z",
-      "winner_group_id": 1069679,
-      "winner_name": "Barry Wenman",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "00f7ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 6,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 96,
-      "strength_of_field": 2025,
-      "subsession_id": 82236497,
-      "old_sub_level": 325,
-      "new_sub_level": 327,
-      "oldi_rating": 2047,
-      "newi_rating": 2098,
       "track": {
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
