@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 16,
+        "color1": "F7F7F7",
+        "color2": "231F20",
+        "color3": "E41E26"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-03T17:15:00Z",
+      "winner_group_id": 1113539,
+      "winner_name": "Lucas Starling Oliveira",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "372a75",
+        "color3": "f1732e",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 19,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 67,
+      "strength_of_field": 2204,
+      "subsession_id": 82427084,
+      "old_sub_level": 252,
+      "new_sub_level": 263,
+      "oldi_rating": 2104,
+      "newi_rating": 2107,
+      "track": {
+        "track_id": 580,
+        "track_name": "Adelaide Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5946,
       "series_id": 542,
       "series_name": "FIA F4 Esports Regional Tour - Europe",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 16,
-        "color1": "F7F7F7",
-        "color2": "231F20",
-        "color3": "E41E26"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-26T20:45:00Z",
-      "winner_group_id": 1230899,
-      "winner_name": "Peer Lauermann",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "ffffff",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 11,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 89,
-      "strength_of_field": 1979,
-      "subsession_id": 82207347,
-      "old_sub_level": 341,
-      "new_sub_level": 325,
-      "oldi_rating": 2003,
-      "newi_rating": 2047,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
       },
       "drop_race": false,
       "season_year": 2026,
