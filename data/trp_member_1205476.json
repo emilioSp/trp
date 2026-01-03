@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-03T13:45:00Z",
+      "winner_group_id": 839420,
+      "winner_name": "Jonas Theander3",
+      "winner_helmet": {
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "c22c2c",
+        "color3": "00c2ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 6,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 75,
+      "strength_of_field": 2179,
+      "subsession_id": 82422962,
+      "old_sub_level": 378,
+      "new_sub_level": 338,
+      "oldi_rating": 2086,
+      "newi_rating": 2098,
+      "track": {
+        "track_id": 268,
+        "track_name": "Circuit des 24 Heures du Mans"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 354,
       "oldi_rating": 2243,
       "newi_rating": 2164,
-      "track": {
-        "track_id": 268,
-        "track_name": "Circuit des 24 Heures du Mans"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 188,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 188,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-12-30T10:45:00Z",
-      "winner_group_id": 961573,
-      "winner_name": "Dominik Říha2",
-      "winner_helmet": {
-        "pattern": 11,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 31,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 67,
-      "strength_of_field": 2582,
-      "subsession_id": 82308894,
-      "old_sub_level": 412,
-      "new_sub_level": 415,
-      "oldi_rating": 2247,
-      "newi_rating": 2243,
       "track": {
         "track_id": 268,
         "track_name": "Circuit des 24 Heures du Mans"
