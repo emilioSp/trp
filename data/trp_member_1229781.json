@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 7,
+      "session_start_time": "2026-01-04T11:15:00Z",
+      "winner_group_id": 397575,
+      "winner_name": "Tomas Prochazka",
+      "winner_helmet": {
+        "pattern": 64,
+        "color1": "2efc06",
+        "color2": "ffffff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 16,
+      "start_position": 7,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 36,
+      "strength_of_field": 1539,
+      "subsession_id": 82449081,
+      "old_sub_level": 382,
+      "new_sub_level": 392,
+      "oldi_rating": 1604,
+      "newi_rating": 1584,
+      "track": {
+        "track_id": 439,
+        "track_name": "Winton Motor Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 5938,
+      "series_id": 520,
+      "series_name": "Formula 1600 Rookie Series",
+      "car_id": 163,
+      "car_class_id": 4016,
+      "livery": {
+        "car_id": 163,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 7,
       "session_start_time": "2026-01-04T10:45:00Z",
       "winner_group_id": 1053379,
       "winner_name": "Leo James Nakao",
@@ -43,7 +91,7 @@
         "track_id": 439,
         "track_name": "Winton Motor Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -428,54 +476,6 @@
         "track_name": "Silverstone Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2025-12-24T08:45:00Z",
-      "winner_group_id": 1242889,
-      "winner_name": "Thomas Friedmann",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 8,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 74,
-      "strength_of_field": 2545,
-      "subsession_id": 82144198,
-      "old_sub_level": 246,
-      "new_sub_level": 239,
-      "oldi_rating": 2052,
-      "newi_rating": 2070,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1

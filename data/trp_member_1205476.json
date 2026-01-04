@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-04T10:45:00Z",
+      "winner_group_id": 1299985,
+      "winner_name": "Kevin Thomas16",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "FFFFFF",
+        "color2": "EA0000",
+        "color3": "0052C9",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 11,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 100,
+      "strength_of_field": 2374,
+      "subsession_id": 82448642,
+      "old_sub_level": 399,
+      "new_sub_level": 372,
+      "oldi_rating": 2231,
+      "newi_rating": 2270,
+      "track": {
+        "track_id": 268,
+        "track_name": "Circuit des 24 Heures du Mans"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -379,7 +427,7 @@
         "track_id": 268,
         "track_name": "Circuit des 24 Heures du Mans"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -423,54 +471,6 @@
       "new_sub_level": 252,
       "oldi_rating": 2061,
       "newi_rating": 1994,
-      "track": {
-        "track_id": 268,
-        "track_name": "Circuit des 24 Heures du Mans"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 188,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 188,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-31T10:45:00Z",
-      "winner_group_id": 483562,
-      "winner_name": "Jonny Balshaw",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "af0312",
-        "color2": "120d0d",
-        "color3": "1a4b9b",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 13,
-      "finish_position": 29,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 21,
-      "strength_of_field": 1875,
-      "subsession_id": 82336787,
-      "old_sub_level": 308,
-      "new_sub_level": 241,
-      "oldi_rating": 2133,
-      "newi_rating": 2061,
       "track": {
         "track_id": 268,
         "track_name": "Circuit des 24 Heures du Mans"
