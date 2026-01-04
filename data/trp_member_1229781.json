@@ -13,6 +13,54 @@
         "color2": "00FF00",
         "color3": "0000FF"
       },
+      "license_level": 11,
+      "session_start_time": "2026-01-04T16:45:00Z",
+      "winner_group_id": 1399504,
+      "winner_name": "Natanael Beltre Ortiz",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "ffffff",
+        "color2": "2e358f",
+        "color3": "ec232d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 11,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 59,
+      "strength_of_field": 1588,
+      "subsession_id": 82455693,
+      "old_sub_level": 342,
+      "new_sub_level": 348,
+      "oldi_rating": 1529,
+      "newi_rating": 1556,
+      "track": {
+        "track_id": 439,
+        "track_name": "Winton Motor Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 5938,
+      "series_id": 520,
+      "series_name": "Formula 1600 Rookie Series",
+      "car_id": 163,
+      "car_class_id": 4016,
+      "livery": {
+        "car_id": 163,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
       "license_level": 7,
       "session_start_time": "2026-01-04T15:45:00Z",
       "winner_group_id": 766994,
@@ -91,7 +139,7 @@
         "track_id": 439,
         "track_name": "Winton Motor Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -428,54 +476,6 @@
         "track_name": "Silverstone Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 5943,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-01-01T15:00:00Z",
-      "winner_group_id": 157087,
-      "winner_name": "Jeroen de Meer",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "ff69b4",
-        "color2": "000000",
-        "color3": "ff69b4",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 5,
-      "start_position": 15,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 65,
-      "strength_of_field": 1552,
-      "subsession_id": 82367201,
-      "old_sub_level": 286,
-      "new_sub_level": 340,
-      "oldi_rating": 1524,
-      "newi_rating": 1560,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
