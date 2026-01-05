@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5946,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "00ff47",
+        "color2": "000000",
+        "color3": "ffffff"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-01-05T21:45:00Z",
+      "winner_group_id": 1255378,
+      "winner_name": "Mees Van Lammeren",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "ffffff",
+        "color2": "3473bb",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 1,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 1,
+      "incidents": 4,
+      "points": 86,
+      "strength_of_field": 1606,
+      "subsession_id": 82488818,
+      "old_sub_level": 238,
+      "new_sub_level": 244,
+      "oldi_rating": 1662,
+      "newi_rating": 1730,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5938,
       "series_id": 520,
       "series_name": "Formula 1600 Rookie Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 337,
       "oldi_rating": 2302,
       "newi_rating": 2294,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "DBFF00",
-        "color2": "006EFF",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-23T21:15:00Z",
-      "winner_group_id": 1095986,
-      "winner_name": "Ghyslain Gagnon",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "000000",
-        "color2": "17e6ba",
-        "color3": "9b9a9a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 9,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 112,
-      "strength_of_field": 2214,
-      "subsession_id": 82130683,
-      "old_sub_level": 338,
-      "new_sub_level": 325,
-      "oldi_rating": 2240,
-      "newi_rating": 2302,
       "track": {
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"

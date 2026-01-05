@@ -1,6 +1,102 @@
 {
   "races": [
     {
+      "season_id": 5946,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 17,
+        "color1": "F7F7F7",
+        "color2": "231F20",
+        "color3": "E41E26"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-01-05T21:45:00Z",
+      "winner_group_id": 1380424,
+      "winner_name": "Federico Zanzi",
+      "winner_helmet": {
+        "pattern": 7,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 5,
+      "start_position": 11,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 66,
+      "strength_of_field": 1279,
+      "subsession_id": 82488820,
+      "old_sub_level": 258,
+      "new_sub_level": 244,
+      "oldi_rating": 1277,
+      "newi_rating": 1339,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 5946,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 17,
+        "color1": "F7F7F7",
+        "color2": "231F20",
+        "color3": "E41E26"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-01-05T20:45:00Z",
+      "winner_group_id": 1409713,
+      "winner_name": "Nikola Repedzic",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "2e358f",
+        "color3": "ec232d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 3,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 53,
+      "strength_of_field": 1133,
+      "subsession_id": 82487572,
+      "old_sub_level": 257,
+      "new_sub_level": 258,
+      "oldi_rating": 1235,
+      "newi_rating": 1277,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5943,
       "series_id": 498,
       "series_name": "FIA Formula 4 Challenge - Fixed",
@@ -331,7 +427,7 @@
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
@@ -383,102 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
-    },
-    {
-      "season_id": 5938,
-      "series_id": 520,
-      "series_name": "Formula 1600 Rookie Series",
-      "car_id": 163,
-      "car_class_id": 4016,
-      "livery": {
-        "car_id": 163,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 2,
-      "session_start_time": "2026-01-01T16:45:00Z",
-      "winner_group_id": 1242496,
-      "winner_name": "Eric Berg2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "231f20",
-        "color2": "231f20",
-        "color3": "ffe901",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 5,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 31,
-      "strength_of_field": 1041,
-      "subsession_id": 82369153,
-      "old_sub_level": 274,
-      "new_sub_level": 284,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 439,
-        "track_name": "Winton Motor Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 9,
-        "color1": "F7F7F7",
-        "color2": "231F20",
-        "color3": "E41E26"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-29T21:15:00Z",
-      "winner_group_id": 1377210,
-      "winner_name": "Denis Feliks",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 6,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 95,
-      "strength_of_field": 2114,
-      "subsession_id": 82292934,
-      "old_sub_level": 248,
-      "new_sub_level": 252,
-      "oldi_rating": 2057,
-      "newi_rating": 2104,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
     }
   ],
   "cust_id": 1231237
