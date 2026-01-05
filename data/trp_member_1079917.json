@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5903,
+      "series_id": 559,
+      "series_name": "Rain Master Challenge",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 23,
+        "color1": "595c5c",
+        "color2": "cbe81e",
+        "color3": "790ce6"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-01-05T20:15:00Z",
+      "winner_group_id": 730593,
+      "winner_name": "Josh D Gilboy",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "cfcfcf",
+        "color2": "0f1ead",
+        "color3": "017dd7",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 5,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 30,
+      "strength_of_field": 2148,
+      "subsession_id": 82486918,
+      "old_sub_level": 406,
+      "new_sub_level": 351,
+      "oldi_rating": 3441,
+      "newi_rating": 3367,
+      "track": {
+        "track_id": 539,
+        "track_name": "Miami International Autodrome"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5921,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 255,
         "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 18,
-        "color1": "030303",
-        "color2": "b40cf0",
-        "color3": "dde809"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-12-24T18:00:00Z",
-      "winner_group_id": 762505,
-      "winner_name": "Gustavo Mendez",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "111111",
-        "color2": "f06e34",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 18,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 148,
-      "strength_of_field": 3511,
-      "subsession_id": 82153509,
-      "old_sub_level": 402,
-      "new_sub_level": 412,
-      "oldi_rating": 3420,
-      "newi_rating": 3463,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
       "drop_race": false,
       "season_year": 2026,
