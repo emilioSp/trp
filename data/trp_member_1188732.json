@@ -13,6 +13,54 @@
         "color2": "006EFF",
         "color3": "000000"
       },
+      "license_level": 18,
+      "session_start_time": "2026-01-06T21:45:00Z",
+      "winner_group_id": 988543,
+      "winner_name": "Stefano Croci",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "b435f0",
+        "color2": "111111",
+        "color3": "1cff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 8,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 59,
+      "strength_of_field": 3136,
+      "subsession_id": 82516396,
+      "old_sub_level": 222,
+      "new_sub_level": 214,
+      "oldi_rating": 2339,
+      "newi_rating": 2328,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 7,
+        "color1": "DBFF00",
+        "color2": "006EFF",
+        "color3": "000000"
+      },
       "license_level": 19,
       "session_start_time": "2026-01-06T17:45:00Z",
       "winner_group_id": 1115311,
@@ -43,7 +91,7 @@
         "track_id": 403,
         "track_name": "Red Bull Ring"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5946,
-      "series_id": 542,
-      "series_name": "FIA F4 Esports Regional Tour - Europe",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "00ff47",
-        "color2": "000000",
-        "color3": "ffffff"
-      },
-      "license_level": 6,
-      "session_start_time": "2025-12-27T22:45:00Z",
-      "winner_group_id": 1333508,
-      "winner_name": "Gabor Balla",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "000000",
-        "color2": "00f0ff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 16,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 2,
-      "incidents": 6,
-      "points": 35,
-      "strength_of_field": 1548,
-      "subsession_id": 82238625,
-      "old_sub_level": 251,
-      "new_sub_level": 255,
-      "oldi_rating": 1654,
-      "newi_rating": 1625,
-      "track": {
-        "track_id": 413,
-        "track_name": "Hungaroring"
       },
       "drop_race": false,
       "season_year": 2026,
