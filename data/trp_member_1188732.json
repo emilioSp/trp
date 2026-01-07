@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-07T21:45:00Z",
+      "winner_group_id": 1080044,
+      "winner_name": "Julian Zigelski",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "ff0000",
+        "color2": "000000",
+        "color3": "ffcf00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 5,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 130,
+      "strength_of_field": 2826,
+      "subsession_id": 82542925,
+      "old_sub_level": 214,
+      "new_sub_level": 212,
+      "oldi_rating": 2328,
+      "newi_rating": 2393,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 7,
+        "color1": "DBFF00",
+        "color2": "006EFF",
+        "color3": "000000"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-06T21:45:00Z",
       "winner_group_id": 988543,
       "winner_name": "Stefano Croci",
@@ -43,7 +91,7 @@
         "track_id": 403,
         "track_name": "Red Bull Ring"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "DBFF00",
-        "color2": "006EFF",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-28T14:00:00Z",
-      "winner_group_id": 1331962,
-      "winner_name": "Mykyta Zhavoronkov",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "000F9F",
-        "color2": "000000",
-        "color3": "C6D1EE",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 11,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 70,
-      "strength_of_field": 2427,
-      "subsession_id": 82255285,
-      "old_sub_level": 325,
-      "new_sub_level": 318,
-      "oldi_rating": 2356,
-      "newi_rating": 2352,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
