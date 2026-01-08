@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-01-08T19:45:00Z",
+      "winner_group_id": 1143564,
+      "winner_name": "Ramon Goede",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "512828",
+        "color2": "03002e",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 4,
+      "finish_position": 18,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 0,
+      "strength_of_field": 2221,
+      "subsession_id": 82566232,
+      "old_sub_level": 133,
+      "new_sub_level": 113,
+      "oldi_rating": 2018,
+      "newi_rating": 1932,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
       "season_id": 5932,
       "series_id": 591,
       "series_name": "LMP2 Challenge - Fixed",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 16,
         "track_name": "USA International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6044,
-      "series_id": 568,
-      "series_name": "13th Week FF1600 Series",
-      "car_id": 163,
-      "car_class_id": 4016,
-      "livery": {
-        "car_id": 163,
-        "pattern": 18,
-        "color1": "000000",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-15T10:15:00Z",
-      "winner_group_id": 879232,
-      "winner_name": "Samy Layouni",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "b7b7b7",
-        "color2": "97f400",
-        "color3": "004fff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 1,
-      "incidents": 6,
-      "points": 73,
-      "strength_of_field": 1262,
-      "subsession_id": 81912581,
-      "old_sub_level": 266,
-      "new_sub_level": 271,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 353,
-        "track_name": "Lime Rock Park"
       },
       "drop_race": false,
       "season_year": 2025,
