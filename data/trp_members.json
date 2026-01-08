@@ -130,16 +130,6 @@
     "iRating": 4098
   },
   {
-    "id": 1231237,
-    "name": "Mario Di Meo",
-    "memberSince": "2025-04-16",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 1.1,
-    "iRating": 1964
-  },
-  {
     "id": 1221961,
     "name": "Giaime M Cualbu",
     "memberSince": "2025-03-27",
@@ -198,16 +188,6 @@
     "className": "A",
     "safetyRating": 2.51,
     "iRating": 1478
-  },
-  {
-    "id": 1188732,
-    "name": "Mirko Mastrangelo",
-    "memberSince": "2025-01-21",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 2.12,
-    "iRating": 2393
   },
   {
     "id": 1156449,
