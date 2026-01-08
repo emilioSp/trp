@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 128,
+      "car_class_id": 2523,
+      "livery": {
+        "car_id": 128,
+        "pattern": 9,
+        "color1": "B82F37",
+        "color2": "111111",
+        "color3": "284A94"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-08T20:45:00Z",
+      "winner_group_id": 743159,
+      "winner_name": "Jan Nemecek",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 9,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 31,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 18,
+      "strength_of_field": 1725,
+      "subsession_id": 82567533,
+      "old_sub_level": 152,
+      "new_sub_level": 142,
+      "oldi_rating": 1572,
+      "newi_rating": 1521,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -423,54 +471,6 @@
       "new_sub_level": 146,
       "oldi_rating": 1812,
       "newi_rating": 1757,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-11-29T22:00:00Z",
-      "winner_group_id": 860023,
-      "winner_name": "Huseyin Sarackardesler",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "04002d",
-        "color2": "989898",
-        "color3": "ece41a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 17,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 65,
-      "strength_of_field": 1872,
-      "subsession_id": 81605738,
-      "old_sub_level": 205,
-      "new_sub_level": 140,
-      "oldi_rating": 1799,
-      "newi_rating": 1812,
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"
