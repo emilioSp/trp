@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5937,
+      "series_id": 455,
+      "series_name": "Formula Vee Series by trophi.ai",
+      "car_id": 142,
+      "car_class_id": 3002,
+      "livery": {
+        "car_id": 142,
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "ed1c24",
+        "color3": "cfdd28"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-01-10T16:30:00Z",
+      "winner_group_id": 1398308,
+      "winner_name": "Carlos Surgy2",
+      "winner_helmet": {
+        "pattern": 61,
+        "color1": "ffffff",
+        "color2": "069d15",
+        "color3": "d02313",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 10,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 34,
+      "strength_of_field": 1631,
+      "subsession_id": 82617270,
+      "old_sub_level": 306,
+      "new_sub_level": 310,
+      "oldi_rating": 1640,
+      "newi_rating": 1615,
+      "track": {
+        "track_id": 353,
+        "track_name": "Lime Rock Park"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
       "season_id": 5941,
       "series_id": 521,
       "series_name": "Motorsport UK FF 1600 Trophy by Thrustmaster",
@@ -428,54 +476,6 @@
         "track_name": "Winton Motor Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 5938,
-      "series_id": 520,
-      "series_name": "Formula 1600 Rookie Series",
-      "car_id": 163,
-      "car_class_id": 4016,
-      "livery": {
-        "car_id": 163,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-01-04T15:15:00Z",
-      "winner_group_id": 1406261,
-      "winner_name": "Jeremy Bon2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "2e358f",
-        "color3": "ec232d",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 10,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 41,
-      "strength_of_field": 1535,
-      "subsession_id": 82453727,
-      "old_sub_level": 392,
-      "new_sub_level": 389,
-      "oldi_rating": 1492,
-      "newi_rating": 1486,
-      "track": {
-        "track_id": 439,
-        "track_name": "Winton Motor Raceway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
