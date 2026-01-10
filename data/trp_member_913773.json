@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 128,
+      "car_class_id": 2523,
+      "livery": {
+        "car_id": 128,
+        "pattern": 9,
+        "color1": "B82F37",
+        "color2": "111111",
+        "color3": "284A94"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-10T21:45:00Z",
+      "winner_group_id": 951091,
+      "winner_name": "Cameron Stephens3",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "ffffff",
+        "color2": "ff0000",
+        "color3": "ffee47",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 8,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 17,
+      "strength_of_field": 2534,
+      "subsession_id": 82624404,
+      "old_sub_level": 156,
+      "new_sub_level": 163,
+      "oldi_rating": 1455,
+      "newi_rating": 1427,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5770,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-12-03T21:45:00Z",
-      "winner_group_id": 1140860,
-      "winner_name": "Desmond Murray",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "fa0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 40,
-      "finish_position": 34,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 32,
-      "strength_of_field": 1605,
-      "subsession_id": 81702085,
-      "old_sub_level": 146,
-      "new_sub_level": 193,
-      "oldi_rating": 1757,
-      "newi_rating": 1715,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": false,
       "season_year": 2025,
