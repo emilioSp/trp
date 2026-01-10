@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6071,
+      "series_id": 297,
+      "series_name": "Roar Before the 24",
+      "car_id": 157,
+      "car_class_id": 2268,
+      "livery": {
+        "car_id": 157,
+        "pattern": 10,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-01-10T12:00:00Z",
+      "winner_group_id": 545645,
+      "winner_name": "Jacob Weist",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "d60000",
+        "color2": "0d0d0d",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 17,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 70,
+      "laps_led": 0,
+      "incidents": 30,
+      "points": 73,
+      "strength_of_field": 1921,
+      "subsession_id": 82611290,
+      "old_sub_level": 113,
+      "new_sub_level": 152,
+      "oldi_rating": 1932,
+      "newi_rating": 1952,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 219,
         "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6039,
-      "series_id": 134,
-      "series_name": "13th Week Street Stock Challenge",
-      "car_id": 36,
-      "car_class_id": 4064,
-      "livery": {
-        "car_id": 36,
-        "pattern": 16,
-        "color1": "ffffff",
-        "color2": "0ada00",
-        "color3": "111111"
-      },
-      "license_level": 2,
-      "session_start_time": "2025-12-15T10:45:00Z",
-      "winner_group_id": 819218,
-      "winner_name": "Nate Cichon",
-      "winner_helmet": {
-        "pattern": 25,
-        "color1": "07090a",
-        "color2": "f6f8f6",
-        "color3": "171159",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 11,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 22,
-      "points": 8,
-      "strength_of_field": 1280,
-      "subsession_id": 81912703,
-      "old_sub_level": 266,
-      "new_sub_level": 246,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 16,
-        "track_name": "USA International Speedway"
       },
       "drop_race": false,
       "season_year": 2025,

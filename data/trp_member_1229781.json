@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 11,
+      "session_start_time": "2026-01-10T14:45:00Z",
+      "winner_group_id": 922603,
+      "winner_name": "Dima Syrkin2",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "111111",
+        "color2": "cccccc",
+        "color3": "ed1c24",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 10,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 83,
+      "strength_of_field": 1586,
+      "subsession_id": 82615078,
+      "old_sub_level": 318,
+      "new_sub_level": 315,
+      "oldi_rating": 1583,
+      "newi_rating": 1651,
+      "track": {
+        "track_id": 47,
+        "track_name": "WeatherTech Raceway at Laguna Seca"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 5941,
+      "series_id": 521,
+      "series_name": "Motorsport UK FF 1600 Trophy by Thrustmaster",
+      "car_id": 163,
+      "car_class_id": 4016,
+      "livery": {
+        "car_id": 163,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 11,
       "session_start_time": "2026-01-10T13:45:00Z",
       "winner_group_id": 993270,
       "winner_name": "Iosu Fonseca",
@@ -43,7 +91,7 @@
         "track_id": 47,
         "track_name": "WeatherTech Raceway at Laguna Seca"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
@@ -423,54 +471,6 @@
       "new_sub_level": 392,
       "oldi_rating": 1584,
       "newi_rating": 1492,
-      "track": {
-        "track_id": 439,
-        "track_name": "Winton Motor Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 5938,
-      "series_id": 520,
-      "series_name": "Formula 1600 Rookie Series",
-      "car_id": 163,
-      "car_class_id": 4016,
-      "livery": {
-        "car_id": 163,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-01-04T11:15:00Z",
-      "winner_group_id": 397575,
-      "winner_name": "Tomas Prochazka",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "2efc06",
-        "color2": "ffffff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 16,
-      "start_position": 7,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 36,
-      "strength_of_field": 1539,
-      "subsession_id": 82449081,
-      "old_sub_level": 382,
-      "new_sub_level": 392,
-      "oldi_rating": 1604,
-      "newi_rating": 1584,
       "track": {
         "track_id": 439,
         "track_name": "Winton Motor Raceway"
