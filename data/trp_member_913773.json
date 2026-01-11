@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-11T13:45:00Z",
+      "winner_group_id": 1395029,
+      "winner_name": "Charlie Mccabe2",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "02a1c0",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 5,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 68,
+      "strength_of_field": 1542,
+      "subsession_id": 82643007,
+      "old_sub_level": 163,
+      "new_sub_level": 168,
+      "oldi_rating": 1427,
+      "newi_rating": 1474,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-12-04T19:15:00Z",
-      "winner_group_id": 1036839,
-      "winner_name": "Zhora Sargsyan",
-      "winner_helmet": {
-        "pattern": 19,
-        "color1": "111010",
-        "color2": "08c3dd",
-        "color3": "0364c9",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 7,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 10,
-      "strength_of_field": 1648,
-      "subsession_id": 81723120,
-      "old_sub_level": 197,
-      "new_sub_level": 246,
-      "oldi_rating": 1715,
-      "newi_rating": 1638,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 913773
