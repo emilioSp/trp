@@ -14,6 +14,54 @@
         "color3": "284a94"
       },
       "license_level": 17,
+      "session_start_time": "2026-01-11T14:45:00Z",
+      "winner_group_id": 1395029,
+      "winner_name": "Charlie Mccabe2",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "02a1c0",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 17,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 69,
+      "strength_of_field": 1560,
+      "subsession_id": 82644182,
+      "old_sub_level": 168,
+      "new_sub_level": 175,
+      "oldi_rating": 1474,
+      "newi_rating": 1519,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
       "session_start_time": "2026-01-11T13:45:00Z",
       "winner_group_id": 1395029,
       "winner_name": "Charlie Mccabe2",
@@ -43,7 +91,7 @@
         "track_id": 509,
         "track_name": "Algarve International Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
@@ -428,54 +476,6 @@
         "track_name": "Rudskogen Motorsenter"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-16T13:45:00Z",
-      "winner_group_id": 1345440,
-      "winner_name": "Liu Hai Wen",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 7,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 58,
-      "strength_of_field": 1366,
-      "subsession_id": 81933827,
-      "old_sub_level": 246,
-      "new_sub_level": 256,
-      "oldi_rating": 1638,
-      "newi_rating": 1667,
-      "track": {
-        "track_id": 451,
-        "track_name": "Rudskogen Motorsenter"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
