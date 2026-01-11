@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 18,
+        "color1": "020202",
+        "color2": "000000",
+        "color3": "f3f3f3"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-11T14:00:00Z",
+      "winner_group_id": -293653,
+      "winner_name": "SOELPEC Precision Racing #118",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 20,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 76,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 174,
+      "strength_of_field": 4349,
+      "subsession_id": 82643299,
+      "old_sub_level": 344,
+      "new_sub_level": 387,
+      "oldi_rating": 4423,
+      "newi_rating": 4439,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6029,
       "series_id": 597,
       "series_name": "Suzuka 1000km",
@@ -428,54 +476,6 @@
         "track_name": "Circuit des 24 Heures du Mans"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 173,
-        "pattern": 23,
-        "color1": "db4b4b",
-        "color2": "61520",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-09-26T16:00:00Z",
-      "winner_group_id": 346040,
-      "winner_name": "Christian Steenburgh",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "000000",
-        "color2": "212121",
-        "color3": "0065a4",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 15,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 90,
-      "strength_of_field": 4709,
-      "subsession_id": 80106747,
-      "old_sub_level": 284,
-      "new_sub_level": 372,
-      "oldi_rating": 4453,
-      "newi_rating": 4429,
-      "track": {
-        "track_id": 268,
-        "track_name": "Circuit des 24 Heures du Mans"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 1

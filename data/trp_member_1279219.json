@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-11T14:00:00Z",
+      "winner_group_id": -292746,
+      "winner_name": "Tatum Res-Tech",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 18,
+      "qualifying_time": 0,
+      "laps": 64,
+      "laps_led": 0,
+      "incidents": 15,
+      "points": 54,
+      "strength_of_field": 3069,
+      "subsession_id": 82643302,
+      "old_sub_level": 347,
+      "new_sub_level": 336,
+      "oldi_rating": 4120,
+      "newi_rating": 4109,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 10,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-04T22:00:00Z",
-      "winner_group_id": 839566,
-      "winner_name": "Filippo Bongiovanni",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "000000",
-        "color2": "a6ff00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 13,
-      "finish_position": 29,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 18,
-      "points": 7,
-      "strength_of_field": 3281,
-      "subsession_id": 81726252,
-      "old_sub_level": 243,
-      "new_sub_level": 146,
-      "oldi_rating": 4019,
-      "newi_rating": 3916,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11

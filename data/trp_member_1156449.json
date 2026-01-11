@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-01-11T14:00:00Z",
+      "winner_group_id": -292746,
+      "winner_name": "Tatum Res-Tech",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 18,
+      "qualifying_time": 0,
+      "laps": 63,
+      "laps_led": 0,
+      "incidents": 18,
+      "points": 54,
+      "strength_of_field": 3069,
+      "subsession_id": 82643302,
+      "old_sub_level": 152,
+      "new_sub_level": 193,
+      "oldi_rating": 1952,
+      "newi_rating": 1940,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6071,
       "series_id": 297,
       "series_name": "Roar Before the 24",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6043,
-      "series_id": 320,
-      "series_name": "13th Week iRacing Porsche Cup",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-12-15T16:15:00Z",
-      "winner_group_id": 1040986,
-      "winner_name": "Lukas Milic",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "35dff0",
-        "color2": "35dff0",
-        "color3": "c72525",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 15,
-      "finish_position": 27,
-      "qualifying_time": 0,
-      "laps": 1,
-      "laps_led": 0,
-      "incidents": 17,
-      "points": 4,
-      "strength_of_field": 2087,
-      "subsession_id": 81915869,
-      "old_sub_level": 167,
-      "new_sub_level": 104,
-      "oldi_rating": 2033,
-      "newi_rating": 1946,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1156449

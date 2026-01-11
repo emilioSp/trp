@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 18,
+        "color1": "020202",
+        "color2": "000000",
+        "color3": "f3f3f3"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-01-11T14:00:00Z",
+      "winner_group_id": -293653,
+      "winner_name": "SOELPEC Precision Racing #118",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 20,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 62,
+      "laps_led": 0,
+      "incidents": 18,
+      "points": 174,
+      "strength_of_field": 4349,
+      "subsession_id": 82643299,
+      "old_sub_level": 348,
+      "new_sub_level": 344,
+      "oldi_rating": 3672,
+      "newi_rating": 3686,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5911,
       "series_id": 502,
       "series_name": "Sports Car Challenge by Falken Tyre",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-21T15:30:00Z",
-      "winner_group_id": 906007,
-      "winner_name": "Alfie Butcher",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "f1732e",
-        "color3": "372a75",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 14,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 78,
-      "strength_of_field": 4448,
-      "subsession_id": 82069013,
-      "old_sub_level": 381,
-      "new_sub_level": 366,
-      "oldi_rating": 3301,
-      "newi_rating": 3299,
-      "track": {
-        "track_id": 526,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
