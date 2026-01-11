@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 18,
+        "color1": "020202",
+        "color2": "000000",
+        "color3": "f3f3f3"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-10T18:00:00Z",
+      "winner_group_id": -69626,
+      "winner_name": "Lone Wolf Motorsports #747",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 2,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 63,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 71,
+      "strength_of_field": 3535,
+      "subsession_id": 82619176,
+      "old_sub_level": 314,
+      "new_sub_level": 328,
+      "oldi_rating": 4098,
+      "newi_rating": 4087,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5909,
       "series_id": 503,
       "series_name": "TCR Virtual Challenge",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 255,
         "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5897,
-      "series_id": 519,
-      "series_name": "Renault Clio Cup",
-      "car_id": 162,
-      "car_class_id": 4015,
-      "livery": {
-        "car_id": 162,
-        "pattern": 3,
-        "color1": "ffffff",
-        "color2": "03d6f8",
-        "color3": "0800ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-23T17:00:00Z",
-      "winner_group_id": 672020,
-      "winner_name": "Raúl Hernando",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "f0e600",
-        "color2": "b40000",
-        "color3": "6b00b5",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 4,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 133,
-      "strength_of_field": 2432,
-      "subsession_id": 82125390,
-      "old_sub_level": 258,
-      "new_sub_level": 264,
-      "oldi_rating": 3841,
-      "newi_rating": 3888,
-      "track": {
-        "track_id": 9,
-        "track_name": "Summit Point Raceway"
       },
       "drop_race": false,
       "season_year": 2026,

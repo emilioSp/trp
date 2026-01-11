@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 18,
+        "color1": "020202",
+        "color2": "000000",
+        "color3": "f3f3f3"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-10T18:00:00Z",
+      "winner_group_id": -69626,
+      "winner_name": "Lone Wolf Motorsports #747",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 2,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 64,
+      "laps_led": 0,
+      "incidents": 19,
+      "points": 71,
+      "strength_of_field": 3535,
+      "subsession_id": 82619176,
+      "old_sub_level": 238,
+      "new_sub_level": 235,
+      "oldi_rating": 3904,
+      "newi_rating": 3892,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-06T20:00:00Z",
-      "winner_group_id": 113203,
-      "winner_name": "Wendel Parra",
-      "winner_helmet": {
-        "pattern": 62,
-        "color1": "BBBC38",
-        "color2": "bfc4c4",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 4,
-      "finish_position": 22,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 41,
-      "strength_of_field": 3043,
-      "subsession_id": 81774017,
-      "old_sub_level": 328,
-      "new_sub_level": 337,
-      "oldi_rating": 3813,
-      "newi_rating": 3743,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11

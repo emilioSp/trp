@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 7,
+        "color1": "c0f705",
+        "color2": "000000",
+        "color3": "0c08ca"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-10T18:00:00Z",
+      "winner_group_id": -440120,
+      "winner_name": "VSR Racing Team",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 8,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 91,
+      "laps_led": 7,
+      "incidents": 6,
+      "points": 100,
+      "strength_of_field": 1552,
+      "subsession_id": 82619195,
+      "old_sub_level": 247,
+      "new_sub_level": 364,
+      "oldi_rating": 1157,
+      "newi_rating": 1201,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5678,
       "series_id": 460,
       "series_name": "iRX Volkswagen Beetle Lite Series by Trak Racer",
