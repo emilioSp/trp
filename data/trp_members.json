@@ -1,5 +1,15 @@
 [
   {
+    "id": 1279219,
+    "name": "Gabriele Rosone",
+    "memberSince": "2025-07-03",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.36,
+    "iRating": 4109
+  },
+  {
     "id": 872525,
     "name": "Vito Fatalino",
     "memberSince": "2023-02-14",
@@ -8,6 +18,16 @@
     "className": "B",
     "safetyRating": 3.44,
     "iRating": 3686
+  },
+  {
+    "id": 913773,
+    "name": "Salvatore Reddavid",
+    "memberSince": "2023-06-17",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 1.75,
+    "iRating": 1519
   },
   {
     "id": 1153360,
@@ -80,6 +100,36 @@
     "iRating": 2065
   },
   {
+    "id": 871456,
+    "name": "Diego Donati",
+    "memberSince": "2023-02-10",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.51,
+    "iRating": 1478
+  },
+  {
+    "id": 1156449,
+    "name": "Tommaso Baseggio",
+    "memberSince": "2024-12-08",
+    "country": "Italy",
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 1.93,
+    "iRating": 1940
+  },
+  {
+    "id": 684090,
+    "name": "Marco Faniuolo",
+    "memberSince": "2021-10-11",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.55,
+    "iRating": 3257
+  },
+  {
     "id": 1152067,
     "name": "Luca Zinicola",
     "memberSince": "2024-12-02",
@@ -120,96 +170,6 @@
     "iRating": 4087
   },
   {
-    "id": 1221961,
-    "name": "Giaime M Cualbu",
-    "memberSince": "2025-03-27",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 3.87,
-    "iRating": 4439
-  },
-  {
-    "id": 420122,
-    "name": "David Pertile",
-    "memberSince": "2019-12-14",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 2.41,
-    "iRating": 2750
-  },
-  {
-    "id": 581524,
-    "name": "Stefano Cantisani",
-    "memberSince": "2020-12-18",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 2.14,
-    "iRating": 2086
-  },
-  {
-    "id": 1279219,
-    "name": "Gabriele Rosone",
-    "memberSince": "2025-07-03",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 3.36,
-    "iRating": 4109
-  },
-  {
-    "id": 913773,
-    "name": "Salvatore Reddavid",
-    "memberSince": "2023-06-17",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 1.75,
-    "iRating": 1519
-  },
-  {
-    "id": 871456,
-    "name": "Diego Donati",
-    "memberSince": "2023-02-10",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 2.51,
-    "iRating": 1478
-  },
-  {
-    "id": 1156449,
-    "name": "Tommaso Baseggio",
-    "memberSince": "2024-12-08",
-    "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 1.93,
-    "iRating": 1940
-  },
-  {
-    "id": 684090,
-    "name": "Marco Faniuolo",
-    "memberSince": "2021-10-11",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 2.55,
-    "iRating": 3257
-  },
-  {
-    "id": 1234211,
-    "name": "Christian Ryf",
-    "memberSince": "2025-04-22",
-    "country": "Switzerland",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 3.64,
-    "iRating": 1201
-  },
-  {
     "id": 1205476,
     "name": "Marco Pinton2",
     "memberSince": "2025-02-26",
@@ -230,6 +190,16 @@
     "iRating": 2012
   },
   {
+    "id": 1221961,
+    "name": "Giaime M Cualbu",
+    "memberSince": "2025-03-27",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.87,
+    "iRating": 4439
+  },
+  {
     "id": 872758,
     "name": "Giuseppe Capitoni",
     "memberSince": "2023-02-15",
@@ -238,6 +208,26 @@
     "className": "A",
     "safetyRating": 2.61,
     "iRating": 3906
+  },
+  {
+    "id": 420122,
+    "name": "David Pertile",
+    "memberSince": "2019-12-14",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.41,
+    "iRating": 2750
+  },
+  {
+    "id": 581524,
+    "name": "Stefano Cantisani",
+    "memberSince": "2020-12-18",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.14,
+    "iRating": 2086
   },
   {
     "id": 1079917,
