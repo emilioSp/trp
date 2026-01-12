@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-01-12T14:45:00Z",
+      "winner_group_id": 966642,
+      "winner_name": "Aidos Mukhamejanov2",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "22268a",
+        "color2": "15e6ba",
+        "color3": "b4179a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 6,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 64,
+      "strength_of_field": 1874,
+      "subsession_id": 82671674,
+      "old_sub_level": 196,
+      "new_sub_level": 241,
+      "oldi_rating": 1959,
+      "newi_rating": 1969,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
       "season_id": 5893,
       "series_id": 139,
       "series_name": "Global Mazda MX-5 Cup by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Circuito de Jerez - Ángel Nieto"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 173,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 173,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 13,
-      "session_start_time": "2025-12-30T22:45:00Z",
-      "winner_group_id": 1265479,
-      "winner_name": "Abel Torress",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 8,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 18,
-      "points": 12,
-      "strength_of_field": 2901,
-      "subsession_id": 82323132,
-      "old_sub_level": 171,
-      "new_sub_level": 136,
-      "oldi_rating": 2001,
-      "newi_rating": 1955,
-      "track": {
-        "track_id": 473,
-        "track_name": "Circuito de Jerez - Ángel Nieto"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
