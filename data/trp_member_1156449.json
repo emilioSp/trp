@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 14,
+      "session_start_time": "2026-01-13T12:45:00Z",
+      "winner_group_id": 1086643,
+      "winner_name": "Jack Ji",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "cbcbcb",
+        "color2": "ffffff",
+        "color3": "78a9ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 3,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 115,
+      "strength_of_field": 1986,
+      "subsession_id": 82695356,
+      "old_sub_level": 244,
+      "new_sub_level": 236,
+      "oldi_rating": 1986,
+      "newi_rating": 2071,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5928,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
       "session_start_time": "2026-01-13T08:45:00Z",
       "winner_group_id": 733693,
       "winner_name": "Martin Lin",
@@ -43,7 +91,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-01-08T12:45:00Z",
-      "winner_group_id": 438115,
-      "winner_name": "Alexey Nesov",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "04f9e4",
-        "color2": "eeff0a",
-        "color3": "0d0d0e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 16,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 79,
-      "strength_of_field": 3264,
-      "subsession_id": 82558608,
-      "old_sub_level": 148,
-      "new_sub_level": 152,
-      "oldi_rating": 2020,
-      "newi_rating": 2042,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
       },
       "drop_race": false,
       "season_year": 2026,
