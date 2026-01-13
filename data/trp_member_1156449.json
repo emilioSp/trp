@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5928,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-01-13T07:45:00Z",
+      "winner_group_id": 1321872,
+      "winner_name": "Cambell Adams",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "23b920",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 2,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 18,
+      "strength_of_field": 2302,
+      "subsession_id": 82691287,
+      "old_sub_level": 241,
+      "new_sub_level": 236,
+      "oldi_rating": 1969,
+      "newi_rating": 1913,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Circuito de Jerez - Ángel Nieto"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "FF0000",
-        "color3": "FFFFFF"
-      },
-      "license_level": 13,
-      "session_start_time": "2025-12-31T14:45:00Z",
-      "winner_group_id": 1156449,
-      "winner_name": "Tommaso Baseggio",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 12,
-      "incidents": 3,
-      "points": 113,
-      "strength_of_field": 1870,
-      "subsession_id": 82341028,
-      "old_sub_level": 136,
-      "new_sub_level": 154,
-      "oldi_rating": 1955,
-      "newi_rating": 2045,
-      "track": {
-        "track_id": 473,
-        "track_name": "Circuito de Jerez - Ángel Nieto"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
