@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-01-13T16:45:00Z",
+      "winner_group_id": 1300165,
+      "winner_name": "David Holas",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "383838",
+        "color2": "ffffff",
+        "color3": "007dff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 16,
+      "finish_position": 18,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 6,
+      "strength_of_field": 1971,
+      "subsession_id": 82699696,
+      "old_sub_level": 253,
+      "new_sub_level": 242,
+      "oldi_rating": 2029,
+      "newi_rating": 1943,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5928,
       "series_id": 595,
       "series_name": "iRacing GT3 Regional Tour - Americas",
@@ -428,54 +476,6 @@
         "track_name": "Winton Motor Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5943,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-01-07T17:00:00Z",
-      "winner_group_id": 1132583,
-      "winner_name": "Javier Morato",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "0300c2",
-        "color2": "ffee47",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 21,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 59,
-      "strength_of_field": 1509,
-      "subsession_id": 82537106,
-      "old_sub_level": 348,
-      "new_sub_level": 331,
-      "oldi_rating": 1465,
-      "newi_rating": 1493,
-      "track": {
-        "track_id": 439,
-        "track_name": "Winton Motor Raceway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
