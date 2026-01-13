@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-01-13T14:45:00Z",
+      "winner_group_id": 899147,
+      "winner_name": "Emircan Tahmaz",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "1cff00",
+        "color2": "d2ef14",
+        "color3": "0eb029",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 5,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 101,
+      "strength_of_field": 1987,
+      "subsession_id": 82697713,
+      "old_sub_level": 236,
+      "new_sub_level": 214,
+      "oldi_rating": 2071,
+      "newi_rating": 2131,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5928,
       "series_id": 595,
       "series_name": "iRacing GT3 Regional Tour - Americas",
@@ -428,54 +476,6 @@
         "track_name": "Algarve International Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5932,
-      "series_id": 591,
-      "series_name": "LMP2 Challenge - Fixed",
-      "car_id": 128,
-      "car_class_id": 2523,
-      "livery": {
-        "car_id": 128,
-        "pattern": 14,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ff0000"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-01-08T18:00:00Z",
-      "winner_group_id": 750025,
-      "winner_name": "Valerio Rinicella",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "f75f09",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 18,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 42,
-      "strength_of_field": 2520,
-      "subsession_id": 82564108,
-      "old_sub_level": 152,
-      "new_sub_level": 133,
-      "oldi_rating": 2042,
-      "newi_rating": 2018,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
