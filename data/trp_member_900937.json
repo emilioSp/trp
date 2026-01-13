@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "00FF10",
+        "color2": "FFFFFF",
+        "color3": "DBFF00"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-13T15:45:00Z",
+      "winner_group_id": 46725,
+      "winner_name": "Flinn Lazier",
+      "winner_helmet": {
+        "pattern": 32,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 6,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 178,
+      "strength_of_field": 3804,
+      "subsession_id": 82698673,
+      "old_sub_level": 351,
+      "new_sub_level": 329,
+      "oldi_rating": 3238,
+      "newi_rating": 3314,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5931,
       "series_id": 331,
       "series_name": "Global Endurance Tour",
@@ -423,54 +471,6 @@
       "new_sub_level": 242,
       "oldi_rating": 3134,
       "newi_rating": 3186,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-04T20:00:00Z",
-      "winner_group_id": 725734,
-      "winner_name": "Alessandro Quintaiè",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "ffed00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 11,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 142,
-      "strength_of_field": 3362,
-      "subsession_id": 81723995,
-      "old_sub_level": 239,
-      "new_sub_level": 238,
-      "oldi_rating": 3087,
-      "newi_rating": 3134,
       "track": {
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
