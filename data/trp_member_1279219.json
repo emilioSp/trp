@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "135324",
+        "color2": "111111",
+        "color3": "535353"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-13T22:00:00Z",
+      "winner_group_id": 673445,
+      "winner_name": "Noah Eder",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "ff0000",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 26,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 200,
+      "strength_of_field": 4708,
+      "subsession_id": 82706197,
+      "old_sub_level": 328,
+      "new_sub_level": 301,
+      "oldi_rating": 4282,
+      "newi_rating": 4338,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 10,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-12-06T18:00:00Z",
-      "winner_group_id": 79868,
-      "winner_name": "Javier Soto",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "ff6700",
-        "color2": "000000",
-        "color3": "ff6700",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 5,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 169,
-      "strength_of_field": 3314,
-      "subsession_id": 81771501,
-      "old_sub_level": 181,
-      "new_sub_level": 259,
-      "oldi_rating": 4057,
-      "newi_rating": 4108,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1279219

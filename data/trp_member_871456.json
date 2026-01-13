@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 18,
+        "color1": "020202",
+        "color2": "000000",
+        "color3": "f3f3f3"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-13T22:00:00Z",
+      "winner_group_id": 1012207,
+      "winner_name": "Mark Vezendi",
+      "winner_helmet": {
+        "pattern": 10,
+        "color1": "ffffff",
+        "color2": "00ffba",
+        "color3": "9a09e8",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 16,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 74,
+      "strength_of_field": 1436,
+      "subsession_id": 82706206,
+      "old_sub_level": 251,
+      "new_sub_level": 260,
+      "oldi_rating": 1478,
+      "newi_rating": 1536,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5759,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 356,
       "oldi_rating": 1350,
       "newi_rating": 1398,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5231,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 18,
-        "color1": "020202",
-        "color2": "000000",
-        "color3": "f3f3f3"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-01-29T18:00:00Z",
-      "winner_group_id": 911630,
-      "winner_name": "Justin Klein2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "013990",
-        "color2": "4bd3fd",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 1,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 16,
-      "incidents": 1,
-      "points": 62,
-      "strength_of_field": 1025,
-      "subsession_id": 74481306,
-      "old_sub_level": 258,
-      "new_sub_level": 291,
-      "oldi_rating": 1274,
-      "newi_rating": 1350,
       "track": {
         "track_id": 485,
         "track_name": "Circuit Zandvoort"
