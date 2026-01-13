@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-13T19:15:00Z",
+      "winner_group_id": 958600,
+      "winner_name": "Patrick Schröter",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "447ac0",
+        "color3": "ee3442",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 3,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 86,
+      "strength_of_field": 1491,
+      "subsession_id": 82702611,
+      "old_sub_level": 175,
+      "new_sub_level": 185,
+      "oldi_rating": 1519,
+      "newi_rating": 1602,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-17T21:45:00Z",
-      "winner_group_id": 1253404,
-      "winner_name": "David Mclean4",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "dc2a1c",
-        "color2": "303030",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 8,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 21,
-      "strength_of_field": 1578,
-      "subsession_id": 81969278,
-      "old_sub_level": 256,
-      "new_sub_level": 220,
-      "oldi_rating": 1667,
-      "newi_rating": 1614,
-      "track": {
-        "track_id": 451,
-        "track_name": "Rudskogen Motorsenter"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
     }
   ],
   "cust_id": 913773
