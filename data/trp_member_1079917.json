@@ -14,6 +14,54 @@
         "color3": "790ce6"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-13T19:45:00Z",
+      "winner_group_id": 1033802,
+      "winner_name": "Rafael Leon2",
+      "winner_helmet": {
+        "pattern": 64,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 8,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 165,
+      "strength_of_field": 2965,
+      "subsession_id": 82703367,
+      "old_sub_level": 244,
+      "new_sub_level": 256,
+      "oldi_rating": 3352,
+      "newi_rating": 3420,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 23,
+        "color1": "595c5c",
+        "color2": "cbe81e",
+        "color3": "790ce6"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-13T13:45:00Z",
       "winner_group_id": 443566,
       "winner_name": "Marijn Kremers",
@@ -43,7 +91,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 268,
         "track_name": "Circuit des 24 Heures du Mans"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 5907,
-      "series_id": 210,
-      "series_name": "Global Sports Car Challenge by Fanatec",
-      "car_id": 41,
-      "car_class_id": 45,
-      "livery": {
-        "car_id": 41,
-        "pattern": 0,
-        "color1": "cccccc",
-        "color2": "ed1c24",
-        "color3": "111111"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-12-31T13:30:00Z",
-      "winner_group_id": 315647,
-      "winner_name": "Sandro Müller",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "361819",
-        "color2": "000000",
-        "color3": "d8bd41",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 5,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 64,
-      "strength_of_field": 2048,
-      "subsession_id": 82339615,
-      "old_sub_level": 436,
-      "new_sub_level": 438,
-      "oldi_rating": 3507,
-      "newi_rating": 3489,
-      "track": {
-        "track_id": 127,
-        "track_name": "Road Atlanta"
       },
       "drop_race": false,
       "season_year": 2026,

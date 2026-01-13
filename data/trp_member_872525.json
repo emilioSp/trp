@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 5,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-01-13T20:00:00Z",
+      "winner_group_id": 1005238,
+      "winner_name": "Lucas Martens",
+      "winner_helmet": {
+        "pattern": 14,
+        "color1": "faff00",
+        "color2": "0f911c",
+        "color3": "fffc00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 213,
+      "strength_of_field": 3770,
+      "subsession_id": 82703666,
+      "old_sub_level": 344,
+      "new_sub_level": 346,
+      "oldi_rating": 3686,
+      "newi_rating": 3771,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5931,
       "series_id": 331,
       "series_name": "Global Endurance Tour",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5914,
-      "series_id": 572,
-      "series_name": "IMSA Sportscar Endurance Challenge",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-21T20:00:00Z",
-      "winner_group_id": 1166417,
-      "winner_name": "Anton Dorokhin",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "ffda1b",
-        "color2": "0a0a0a",
-        "color3": "0363ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 7,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 46,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 151,
-      "strength_of_field": 3156,
-      "subsession_id": 82075012,
-      "old_sub_level": 366,
-      "new_sub_level": 391,
-      "oldi_rating": 3299,
-      "newi_rating": 3353,
-      "track": {
-        "track_id": 526,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
