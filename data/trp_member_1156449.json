@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 14,
+      "session_start_time": "2026-01-13T08:45:00Z",
+      "winner_group_id": 733693,
+      "winner_name": "Martin Lin",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "ffffff",
+        "color2": "ff0000",
+        "color3": "0075ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 1,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 6,
+      "incidents": 3,
+      "points": 97,
+      "strength_of_field": 1713,
+      "subsession_id": 82692079,
+      "old_sub_level": 236,
+      "new_sub_level": 244,
+      "oldi_rating": 1913,
+      "newi_rating": 1986,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5928,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
       "session_start_time": "2026-01-13T07:45:00Z",
       "winner_group_id": 1321872,
       "winner_name": "Cambell Adams",
@@ -43,7 +91,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-01-02T16:45:00Z",
-      "winner_group_id": 1265479,
-      "winner_name": "Abel Torress",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 12,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 26,
-      "strength_of_field": 3444,
-      "subsession_id": 82397311,
-      "old_sub_level": 154,
-      "new_sub_level": 148,
-      "oldi_rating": 2045,
-      "newi_rating": 2020,
-      "track": {
-        "track_id": 473,
-        "track_name": "Circuito de Jerez - Ángel Nieto"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
     }
   ],
   "cust_id": 1156449
