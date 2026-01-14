@@ -14,6 +14,54 @@
         "color3": "DBFF00"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-14T10:00:00Z",
+      "winner_group_id": 294389,
+      "winner_name": "Mihai Pop",
+      "winner_helmet": {
+        "pattern": 61,
+        "color1": "111111",
+        "color2": "3596f0",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 3,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 66,
+      "strength_of_field": 3013,
+      "subsession_id": 82719350,
+      "old_sub_level": 242,
+      "new_sub_level": 229,
+      "oldi_rating": 3289,
+      "newi_rating": 3255,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "00FF10",
+        "color2": "FFFFFF",
+        "color3": "DBFF00"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-13T22:00:00Z",
       "winner_group_id": 1267822,
       "winner_name": "Alex Danka",
@@ -43,7 +91,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-05T21:15:00Z",
-      "winner_group_id": 725734,
-      "winner_name": "Alessandro Quintaiè",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "ffed00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 11,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 114,
-      "strength_of_field": 3475,
-      "subsession_id": 81749606,
-      "old_sub_level": 255,
-      "new_sub_level": 247,
-      "oldi_rating": 3221,
-      "newi_rating": 3242,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
