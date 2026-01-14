@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 6,
+        "color1": "0400FF",
+        "color2": "391010",
+        "color3": "AF1010"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-14T18:45:00Z",
+      "winner_group_id": 90635,
+      "winner_name": "Martin Brandborg",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "000000",
+        "color2": "460083",
+        "color3": "8c0aff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 284,
+      "strength_of_field": 4945,
+      "subsession_id": 82727938,
+      "old_sub_level": 365,
+      "new_sub_level": 353,
+      "oldi_rating": 4446,
+      "newi_rating": 4554,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -91,7 +139,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 2
-    },
-    {
-      "season_id": 5889,
-      "series_id": 286,
-      "series_name": "Petit Le Mans",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 17,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-10-04T07:00:00Z",
-      "winner_group_id": -427895,
-      "winner_name": "Myrmica Group M Academy #171",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 11,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 204,
-      "laps_led": 0,
-      "incidents": 36,
-      "points": 146,
-      "strength_of_field": 3495,
-      "subsession_id": 80288255,
-      "old_sub_level": 383,
-      "new_sub_level": 353,
-      "oldi_rating": 4469,
-      "newi_rating": 4483,
-      "track": {
-        "track_id": 127,
-        "track_name": "Road Atlanta"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1221961
