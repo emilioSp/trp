@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 18,
+        "color1": "020202",
+        "color2": "000000",
+        "color3": "f3f3f3"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-14T21:15:00Z",
+      "winner_group_id": 936301,
+      "winner_name": "Simone Maggioli",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "111111",
+        "color2": "ed1c24",
+        "color3": "cccccc",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 2,
+      "finish_position": 20,
+      "qualifying_time": 0,
+      "laps": 1,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 2,
+      "strength_of_field": 1532,
+      "subsession_id": 82731119,
+      "old_sub_level": 239,
+      "new_sub_level": 224,
+      "oldi_rating": 1562,
+      "newi_rating": 1466,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 5232,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 188,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 188,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-02-06T23:15:00Z",
-      "winner_group_id": 871456,
-      "winner_name": "Diego Donati",
-      "winner_helmet": {
-        "pattern": 6,
-        "color1": "1c1fed",
-        "color2": "000000",
-        "color3": "f3f3f3",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 15,
-      "incidents": 2,
-      "points": 87,
-      "strength_of_field": 1396,
-      "subsession_id": 74676723,
-      "old_sub_level": 369,
-      "new_sub_level": 373,
-      "oldi_rating": 1420,
-      "newi_rating": 1513,
-      "track": {
-        "track_id": 127,
-        "track_name": "Road Atlanta"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 1,
-      "race_week_num": 7
     }
   ],
   "cust_id": 871456

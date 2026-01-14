@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 22,
+        "color1": "0325b6",
+        "color2": "fbfeff",
+        "color3": "111111"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-14T21:15:00Z",
+      "winner_group_id": 1074812,
+      "winner_name": "Raúl Ponce Castillo",
+      "winner_helmet": {
+        "pattern": 44,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 2,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 154,
+      "strength_of_field": 3271,
+      "subsession_id": 82731111,
+      "old_sub_level": 261,
+      "new_sub_level": 244,
+      "oldi_rating": 3906,
+      "newi_rating": 3944,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5931,
       "series_id": 331,
       "series_name": "Global Endurance Tour",
@@ -428,54 +476,6 @@
         "track_name": "Autódromo Hermanos Rodríguez"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-20T20:45:00Z",
-      "winner_group_id": 587377,
-      "winner_name": "Esteban Ocampo",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ed2129",
-        "color2": "ffffff",
-        "color3": "2a3795",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 13,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 27,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 109,
-      "strength_of_field": 2436,
-      "subsession_id": 82047506,
-      "old_sub_level": 319,
-      "new_sub_level": 326,
-      "oldi_rating": 3651,
-      "newi_rating": 3661,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
