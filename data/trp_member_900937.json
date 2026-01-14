@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "00FF10",
+        "color2": "FFFFFF",
+        "color3": "DBFF00"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-14T14:45:00Z",
+      "winner_group_id": 818401,
+      "winner_name": "Kirill Kononovich",
+      "winner_helmet": {
+        "pattern": 52,
+        "color1": "d2252f",
+        "color2": "00af66",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 2,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 196,
+      "strength_of_field": 3302,
+      "subsession_id": 82723689,
+      "old_sub_level": 229,
+      "new_sub_level": 203,
+      "oldi_rating": 3255,
+      "newi_rating": 3350,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -187,7 +235,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-05T22:00:00Z",
-      "winner_group_id": 1008021,
-      "winner_name": "Emrullah Kucuk",
-      "winner_helmet": {
-        "pattern": 32,
-        "color1": "f60000",
-        "color2": "000000",
-        "color3": "ef0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 18,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 156,
-      "strength_of_field": 2824,
-      "subsession_id": 81750481,
-      "old_sub_level": 247,
-      "new_sub_level": 236,
-      "oldi_rating": 3242,
-      "newi_rating": 3306,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
