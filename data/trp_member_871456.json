@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 18,
+        "color1": "020202",
+        "color2": "000000",
+        "color3": "f3f3f3"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-13T23:15:00Z",
+      "winner_group_id": 1306230,
+      "winner_name": "Nathan Shepard",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ED2028",
+        "color2": "FFFFFF",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 4,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 25,
+      "strength_of_field": 1475,
+      "subsession_id": 82707677,
+      "old_sub_level": 260,
+      "new_sub_level": 216,
+      "oldi_rating": 1536,
+      "newi_rating": 1492,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Circuit Zandvoort"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5232,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 18,
-        "color1": "020202",
-        "color2": "000000",
-        "color3": "f3f3f3"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-01-29T23:15:00Z",
-      "winner_group_id": 1060686,
-      "winner_name": "Zachary Kress",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "111111",
-        "color2": "ffffff",
-        "color3": "fc0706",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 5,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 61,
-      "strength_of_field": 1317,
-      "subsession_id": 74486979,
-      "old_sub_level": 291,
-      "new_sub_level": 356,
-      "oldi_rating": 1350,
-      "newi_rating": 1398,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 1,
       "race_week_num": 6
