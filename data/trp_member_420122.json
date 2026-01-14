@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "D0C40B",
+        "color2": "FFFFFF",
+        "color3": "111111"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-14T20:00:00Z",
+      "winner_group_id": 1394938,
+      "winner_name": "Leonardo Baccaglini2",
+      "winner_helmet": {
+        "pattern": 14,
+        "color1": "ff4d00",
+        "color2": "0609ff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 3,
+      "finish_position": 29,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 6,
+      "strength_of_field": 2987,
+      "subsession_id": 82729597,
+      "old_sub_level": 270,
+      "new_sub_level": 251,
+      "oldi_rating": 3031,
+      "newi_rating": 2940,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 5
-    },
-    {
-      "season_id": 5517,
-      "series_id": 451,
-      "series_name": "Creventic Endurance Series",
-      "car_id": 132,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 132,
-        "pattern": 17,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "000000"
-      },
-      "license_level": 15,
-      "session_start_time": "2025-10-18T13:00:00Z",
-      "winner_group_id": -128002,
-      "winner_name": "Zero7 Racing x SimRaceLab",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 3,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 69,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 200,
-      "strength_of_field": 3517,
-      "subsession_id": 80618029,
-      "old_sub_level": 369,
-      "new_sub_level": 373,
-      "oldi_rating": 3053,
-      "newi_rating": 3060,
-      "track": {
-        "track_id": 349,
-        "track_name": "Circuit de Barcelona Catalunya"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 2,
-      "race_week_num": 4
     }
   ],
   "cust_id": 420122

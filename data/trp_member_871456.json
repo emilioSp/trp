@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 18,
+        "color1": "020202",
+        "color2": "000000",
+        "color3": "f3f3f3"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-14T20:00:00Z",
+      "winner_group_id": 1264162,
+      "winner_name": "Justin Cornett2",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "f9f9f9",
+        "color3": "eeeeee",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 7,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 82,
+      "strength_of_field": 1525,
+      "subsession_id": 82729605,
+      "old_sub_level": 216,
+      "new_sub_level": 239,
+      "oldi_rating": 1492,
+      "newi_rating": 1562,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -91,7 +139,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5232,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 18,
-        "color1": "020202",
-        "color2": "000000",
-        "color3": "f3f3f3"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-01-31T21:15:00Z",
-      "winner_group_id": 911630,
-      "winner_name": "Justin Klein2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "013990",
-        "color2": "4bd3fd",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 8,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 54,
-      "strength_of_field": 1433,
-      "subsession_id": 74531041,
-      "old_sub_level": 356,
-      "new_sub_level": 369,
-      "oldi_rating": 1398,
-      "newi_rating": 1420,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 871456
