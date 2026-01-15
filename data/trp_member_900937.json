@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "00FF10",
+        "color2": "FFFFFF",
+        "color3": "DBFF00"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-15T20:45:00Z",
+      "winner_group_id": 1006045,
+      "winner_name": "Luciano Ferreira",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "ffffff",
+        "color2": "1d5eab",
+        "color3": "454a83",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 10,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 150,
+      "strength_of_field": 3424,
+      "subsession_id": 82756549,
+      "old_sub_level": 160,
+      "new_sub_level": 175,
+      "oldi_rating": 3480,
+      "newi_rating": 3522,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -331,7 +379,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5931,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 18,
-        "color1": "020202",
-        "color2": "000000",
-        "color3": "f3f3f3"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-10T18:00:00Z",
-      "winner_group_id": -69626,
-      "winner_name": "Lone Wolf Motorsports #747",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 2,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 72,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 71,
-      "strength_of_field": 3535,
-      "subsession_id": 82619176,
-      "old_sub_level": 233,
-      "new_sub_level": 262,
-      "oldi_rating": 3263,
-      "newi_rating": 3250,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
