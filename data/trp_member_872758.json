@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5928,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 22,
+        "color1": "0325b6",
+        "color2": "fbfeff",
+        "color3": "111111"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-15T20:45:00Z",
+      "winner_group_id": 197655,
+      "winner_name": "Kai Dalziel",
+      "winner_helmet": {
+        "pattern": 34,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "0030db",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 16,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 2,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 13,
+      "strength_of_field": 4349,
+      "subsession_id": 82756516,
+      "old_sub_level": 204,
+      "new_sub_level": 142,
+      "oldi_rating": 3924,
+      "newi_rating": 3854,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 338,
       "oldi_rating": 3728,
       "newi_rating": 3768,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-21T20:45:00Z",
-      "winner_group_id": 1134695,
-      "winner_name": "Adrian Olschar",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "111111",
-        "color2": "00b2f7",
-        "color3": "666666",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 4,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 27,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 129,
-      "strength_of_field": 3752,
-      "subsession_id": 82076116,
-      "old_sub_level": 331,
-      "new_sub_level": 325,
-      "oldi_rating": 3705,
-      "newi_rating": 3728,
       "track": {
         "track_id": 572,
         "track_name": "Autódromo Hermanos Rodríguez"
