@@ -14,6 +14,54 @@
         "color3": "0070ff"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-15T15:45:00Z",
+      "winner_group_id": 543295,
+      "winner_name": "Harald Mathisen",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "8000ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 7,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 64,
+      "strength_of_field": 5320,
+      "subsession_id": 82750597,
+      "old_sub_level": 242,
+      "new_sub_level": 248,
+      "oldi_rating": 3978,
+      "newi_rating": 3965,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 5,
+        "color1": "b5b5b5",
+        "color2": "00c4ff",
+        "color3": "0070ff"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-14T17:45:00Z",
       "winner_group_id": 543295,
       "winner_name": "Harald Mathisen",
@@ -43,7 +91,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 255,
         "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5897,
-      "series_id": 519,
-      "series_name": "Renault Clio Cup",
-      "car_id": 162,
-      "car_class_id": 4015,
-      "livery": {
-        "car_id": 162,
-        "pattern": 3,
-        "color1": "ffffff",
-        "color2": "03d6f8",
-        "color3": "0800ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-25T12:00:00Z",
-      "winner_group_id": 970331,
-      "winner_name": "Salvatore Gueli",
-      "winner_helmet": {
-        "pattern": 17,
-        "color1": "00ffbf",
-        "color2": "8b21ed",
-        "color3": "d9ffdd",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 12,
-      "incidents": 0,
-      "points": 72,
-      "strength_of_field": 1195,
-      "subsession_id": 82171349,
-      "old_sub_level": 292,
-      "new_sub_level": 349,
-      "oldi_rating": 4004,
-      "newi_rating": 4025,
-      "track": {
-        "track_id": 9,
-        "track_name": "Summit Point Raceway"
       },
       "drop_race": true,
       "season_year": 2026,

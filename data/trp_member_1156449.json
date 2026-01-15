@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-01-15T15:15:00Z",
+      "winner_group_id": 1156449,
+      "winner_name": "Tommaso Baseggio",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 6,
+      "incidents": 8,
+      "points": 149,
+      "strength_of_field": 2447,
+      "subsession_id": 82750141,
+      "old_sub_level": 254,
+      "new_sub_level": 244,
+      "oldi_rating": 2504,
+      "newi_rating": 2596,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5928,
       "series_id": 595,
       "series_name": "iRacing GT3 Regional Tour - Americas",
@@ -139,7 +187,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-01-12T14:45:00Z",
-      "winner_group_id": 966642,
-      "winner_name": "Aidos Mukhamejanov2",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "22268a",
-        "color2": "15e6ba",
-        "color3": "b4179a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 6,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 64,
-      "strength_of_field": 1874,
-      "subsession_id": 82671674,
-      "old_sub_level": 196,
-      "new_sub_level": 241,
-      "oldi_rating": 1959,
-      "newi_rating": 1969,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1156449
