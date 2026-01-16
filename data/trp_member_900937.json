@@ -14,6 +14,54 @@
         "color3": "DBFF00"
       },
       "license_level": 17,
+      "session_start_time": "2026-01-16T16:45:00Z",
+      "winner_group_id": 922911,
+      "winner_name": "Roffredo Gaetani D'Aragona",
+      "winner_helmet": {
+        "pattern": 68,
+        "color1": "d81212",
+        "color2": "000000",
+        "color3": "f7f7fc",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 5,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 181,
+      "strength_of_field": 3380,
+      "subsession_id": 82777852,
+      "old_sub_level": 175,
+      "new_sub_level": 184,
+      "oldi_rating": 3522,
+      "newi_rating": 3594,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "00FF10",
+        "color2": "FFFFFF",
+        "color3": "DBFF00"
+      },
+      "license_level": 17,
       "session_start_time": "2026-01-15T20:45:00Z",
       "winner_group_id": 1006045,
       "winner_name": "Luciano Ferreira",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5931,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 3,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-11T14:00:00Z",
-      "winner_group_id": -292746,
-      "winner_name": "Tatum Res-Tech",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 1,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 63,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 54,
-      "strength_of_field": 3069,
-      "subsession_id": 82643302,
-      "old_sub_level": 262,
-      "new_sub_level": 351,
-      "oldi_rating": 3250,
-      "newi_rating": 3238,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
     }
   ],
   "cust_id": 900937

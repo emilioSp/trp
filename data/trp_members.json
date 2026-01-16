@@ -66,8 +66,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 1.75,
-    "iRating": 3522
+    "safetyRating": 1.84,
+    "iRating": 3594
   },
   {
     "id": 1229781,
@@ -136,8 +136,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.41,
-    "iRating": 730
+    "safetyRating": 2.07,
+    "iRating": 717
   },
   {
     "id": 1095941,
@@ -213,7 +213,7 @@
     "id": 420122,
     "name": "David Pertile",
     "memberSince": "2019-12-14",
-    "country": "Italy",
+    "country": "Czechia",
     "classOrder": 5,
     "className": "A",
     "safetyRating": 2.51,

@@ -14,6 +14,54 @@
         "color3": "ED00F2"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-16T16:45:00Z",
+      "winner_group_id": 531472,
+      "winner_name": "André S Ferreira",
+      "winner_helmet": {
+        "pattern": 5,
+        "color1": "2f83b8",
+        "color2": "ffe600",
+        "color3": "284a94",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 6,
+      "finish_position": 24,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 21,
+      "strength_of_field": 1119,
+      "subsession_id": 82777861,
+      "old_sub_level": 241,
+      "new_sub_level": 207,
+      "oldi_rating": 730,
+      "newi_rating": 717,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 206,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 206,
+        "pattern": 18,
+        "color1": "7E00FC",
+        "color2": "00F218",
+        "color3": "ED00F2"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-10T10:45:00Z",
       "winner_group_id": 1350859,
       "winner_name": "Charlie Dausse2",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 3
-    },
-    {
-      "season_id": 5762,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 188,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 188,
-        "pattern": 6,
-        "color1": "0083FC",
-        "color2": "FFFFFF",
-        "color3": "00F218"
-      },
-      "license_level": 14,
-      "session_start_time": "2025-10-03T16:45:00Z",
-      "winner_group_id": 233420,
-      "winner_name": "Ben Walker2",
-      "winner_helmet": {
-        "pattern": 13,
-        "color1": "000000",
-        "color2": "b1b1b1",
-        "color3": "ff0404",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 6,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 10,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 10,
-      "strength_of_field": 932,
-      "subsession_id": 80273409,
-      "old_sub_level": 214,
-      "new_sub_level": 206,
-      "oldi_rating": 530,
-      "newi_rating": 502,
-      "track": {
-        "track_id": 212,
-        "track_name": "Autódromo José Carlos Pace"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 2
     }
   ],
   "cust_id": 1152067
