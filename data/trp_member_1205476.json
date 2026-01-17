@@ -14,6 +14,54 @@
         "color3": "1A1A1A"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-17T11:45:00Z",
+      "winner_group_id": 1235891,
+      "winner_name": "Sergey Bogdanov",
+      "winner_helmet": {
+        "pattern": 18,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "2b0087",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 1,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 101,
+      "strength_of_field": 1699,
+      "subsession_id": 82799537,
+      "old_sub_level": 227,
+      "new_sub_level": 246,
+      "oldi_rating": 2016,
+      "newi_rating": 2091,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 20,
+        "color1": "1A1A1A",
+        "color2": "E54B33",
+        "color3": "1A1A1A"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-16T23:45:00Z",
       "winner_group_id": 46725,
       "winner_name": "Flinn Lazier",
@@ -43,7 +91,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -423,54 +471,6 @@
       "new_sub_level": 235,
       "oldi_rating": 2235,
       "newi_rating": 2196,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 20,
-        "color1": "1A1A1A",
-        "color2": "E54B33",
-        "color3": "1A1A1A"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-01-06T23:45:00Z",
-      "winner_group_id": 1113539,
-      "winner_name": "Lucas Starling Oliveira",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "372a75",
-        "color3": "f1732e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 23,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 39,
-      "strength_of_field": 2211,
-      "subsession_id": 82518955,
-      "old_sub_level": 365,
-      "new_sub_level": 317,
-      "oldi_rating": 2277,
-      "newi_rating": 2235,
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"
