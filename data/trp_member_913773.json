@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-17T13:15:00Z",
+      "winner_group_id": 913773,
+      "winner_name": "Salvatore Reddavid",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 11,
+      "incidents": 2,
+      "points": 97,
+      "strength_of_field": 1567,
+      "subsession_id": 82801372,
+      "old_sub_level": 141,
+      "new_sub_level": 148,
+      "oldi_rating": 1508,
+      "newi_rating": 1605,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -139,7 +187,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -428,54 +476,6 @@
         "track_name": "Silverstone Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-12-27T14:45:00Z",
-      "winner_group_id": 1278595,
-      "winner_name": "Leonardo Rota",
-      "winner_helmet": {
-        "pattern": 61,
-        "color1": "d81900",
-        "color2": "078400",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 7,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 10,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 15,
-      "strength_of_field": 1435,
-      "subsession_id": 82228056,
-      "old_sub_level": 150,
-      "new_sub_level": 137,
-      "oldi_rating": 1575,
-      "newi_rating": 1508,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
