@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6072,
+      "series_id": 298,
+      "series_name": "Daytona 24",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-17T12:00:00Z",
+      "winner_group_id": -121078,
+      "winner_name": "S4S Racing",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 12,
+      "finish_position": 30,
+      "qualifying_time": 0,
+      "laps": 34,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 0,
+      "strength_of_field": 3529,
+      "subsession_id": 82799836,
+      "old_sub_level": 166,
+      "new_sub_level": 260,
+      "oldi_rating": 3903,
+      "newi_rating": 3873,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-27T00:00:00Z",
-      "winner_group_id": 23801,
-      "winner_name": "Sean D Campbell",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "00236b",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 16,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 120,
-      "strength_of_field": 3820,
-      "subsession_id": 82211749,
-      "old_sub_level": 338,
-      "new_sub_level": 322,
-      "oldi_rating": 3768,
-      "newi_rating": 3779,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6072,
+      "series_id": 298,
+      "series_name": "Daytona 24",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 18,
+        "color1": "020202",
+        "color2": "000000",
+        "color3": "f3f3f3"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-01-17T12:00:00Z",
+      "winner_group_id": -472533,
+      "winner_name": "Owned Esport",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 146,
+      "laps_led": 0,
+      "incidents": 24,
+      "points": 192,
+      "strength_of_field": 4025,
+      "subsession_id": 82799834,
+      "old_sub_level": 346,
+      "new_sub_level": 383,
+      "oldi_rating": 3771,
+      "newi_rating": 3781,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 366,
       "oldi_rating": 3382,
       "newi_rating": 3414,
-      "track": {
-        "track_id": 526,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-22T19:30:00Z",
-      "winner_group_id": 303396,
-      "winner_name": "Tim R Gray",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "000000",
-        "color2": "007dff",
-        "color3": "8700ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 6,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 126,
-      "strength_of_field": 3390,
-      "subsession_id": 82101289,
-      "old_sub_level": 391,
-      "new_sub_level": 389,
-      "oldi_rating": 3353,
-      "newi_rating": 3382,
       "track": {
         "track_id": 526,
         "track_name": "Circuit de Spa-Francorchamps"
