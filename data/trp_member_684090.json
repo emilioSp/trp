@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 2,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "eeeeee"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-18T18:00:00Z",
+      "winner_group_id": 808067,
+      "winner_name": "Ákos Borsányi",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "ff0000",
+        "color2": "ffffff",
+        "color3": "0e4a00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 18,
+      "finish_position": 21,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 72,
+      "strength_of_field": 3836,
+      "subsession_id": 82834364,
+      "old_sub_level": 241,
+      "new_sub_level": 243,
+      "oldi_rating": 3247,
+      "newi_rating": 3230,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6072,
       "series_id": 298,
       "series_name": "Daytona 24",
@@ -423,54 +471,6 @@
       "new_sub_level": 242,
       "oldi_rating": 3107,
       "newi_rating": 3116,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-11-28T09:15:00Z",
-      "winner_group_id": 480179,
-      "winner_name": "Shoma Shintani",
-      "winner_helmet": {
-        "pattern": 67,
-        "color1": "00014a",
-        "color2": "f1f1f1",
-        "color3": "37c8ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 16,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 29,
-      "strength_of_field": 4459,
-      "subsession_id": 81568475,
-      "old_sub_level": 232,
-      "new_sub_level": 220,
-      "oldi_rating": 3141,
-      "newi_rating": 3107,
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"

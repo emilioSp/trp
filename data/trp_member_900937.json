@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "00FF10",
+        "color2": "FFFFFF",
+        "color3": "DBFF00"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-18T17:45:00Z",
+      "winner_group_id": 171028,
+      "winner_name": "Pedro Gomes",
+      "winner_helmet": {
+        "pattern": 62,
+        "color1": "ffffff",
+        "color2": "FF0000",
+        "color3": "002200",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 3,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 187,
+      "strength_of_field": 3411,
+      "subsession_id": 82834001,
+      "old_sub_level": 177,
+      "new_sub_level": 190,
+      "oldi_rating": 3615,
+      "newi_rating": 3695,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6072,
       "series_id": 298,
       "series_name": "Daytona 24",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 12,
-        "color1": "00FF10",
-        "color2": "FFFFFF",
-        "color3": "DBFF00"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-13T22:00:00Z",
-      "winner_group_id": 1267822,
-      "winner_name": "Alex Danka",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "FFCA0B",
-        "color2": "FFFFFF",
-        "color3": "010101",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 10,
-      "finish_position": 24,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 34,
-      "strength_of_field": 3083,
-      "subsession_id": 82706198,
-      "old_sub_level": 252,
-      "new_sub_level": 242,
-      "oldi_rating": 3358,
-      "newi_rating": 3289,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
