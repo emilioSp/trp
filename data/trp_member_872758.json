@@ -13,6 +13,54 @@
         "color2": "ed2129",
         "color3": "ffffff"
       },
+      "license_level": -1,
+      "session_start_time": "2026-01-17T16:00:00Z",
+      "winner_group_id": -300685,
+      "winner_name": "Nexxus x TorqueLab #86",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 14,
+      "finish_position": 25,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 0,
+      "strength_of_field": 3763,
+      "subsession_id": 82804432,
+      "old_sub_level": -1,
+      "new_sub_level": -1,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6072,
+      "series_id": 298,
+      "series_name": "Daytona 24",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
       "license_level": 17,
       "session_start_time": "2026-01-17T12:00:00Z",
       "winner_group_id": -121078,
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-27T18:00:00Z",
-      "winner_group_id": 246994,
-      "winner_name": "Filip Ołdak2",
-      "winner_helmet": {
-        "pattern": 5,
-        "color1": "ee3442",
-        "color2": "ffffff",
-        "color3": "447ac0",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 18,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 172,
-      "strength_of_field": 3990,
-      "subsession_id": 82232041,
-      "old_sub_level": 322,
-      "new_sub_level": 252,
-      "oldi_rating": 3779,
-      "newi_rating": 3829,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
     }
   ],
   "cust_id": 872758

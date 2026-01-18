@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6072,
+      "series_id": 298,
+      "series_name": "Daytona 24",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-17T16:00:00Z",
+      "winner_group_id": -300685,
+      "winner_name": "Nexxus x TorqueLab #86",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 14,
+      "finish_position": 25,
+      "qualifying_time": 0,
+      "laps": 60,
+      "laps_led": 0,
+      "incidents": 19,
+      "points": 0,
+      "strength_of_field": 3763,
+      "subsession_id": 82804432,
+      "old_sub_level": 255,
+      "new_sub_level": 241,
+      "oldi_rating": 3257,
+      "newi_rating": 3247,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5769,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 220,
       "oldi_rating": 3141,
       "newi_rating": 3107,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-11-27T16:00:00Z",
-      "winner_group_id": 883036,
-      "winner_name": "Alexandar Nikolov",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "00ff30",
-        "color2": "ffffff",
-        "color3": "e30202",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 2,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 102,
-      "strength_of_field": 3317,
-      "subsession_id": 81551818,
-      "old_sub_level": 254,
-      "new_sub_level": 232,
-      "oldi_rating": 3136,
-      "newi_rating": 3141,
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"

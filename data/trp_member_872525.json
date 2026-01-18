@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 5,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-01-18T16:00:00Z",
+      "winner_group_id": 993147,
+      "winner_name": "Jan B Saamer",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "fff600",
+        "color3": "fff800",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 5,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 149,
+      "strength_of_field": 4356,
+      "subsession_id": 82831646,
+      "old_sub_level": 383,
+      "new_sub_level": 365,
+      "oldi_rating": 3781,
+      "newi_rating": 3814,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6072,
       "series_id": 298,
       "series_name": "Daytona 24",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-22T21:30:00Z",
-      "winner_group_id": 1060621,
-      "winner_name": "Samuel Foniok",
-      "winner_helmet": {
-        "pattern": 62,
-        "color1": "ffffff",
-        "color2": "fffc00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 5,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 134,
-      "strength_of_field": 3471,
-      "subsession_id": 82103825,
-      "old_sub_level": 389,
-      "new_sub_level": 366,
-      "oldi_rating": 3382,
-      "newi_rating": 3414,
-      "track": {
-        "track_id": 526,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
     }
   ],
   "cust_id": 872525
