@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6072,
+      "series_id": 298,
+      "series_name": "Daytona 24",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 2,
+        "color1": "DACB04",
+        "color2": "387337",
+        "color3": "4677B4"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-17T07:00:00Z",
+      "winner_group_id": -429840,
+      "winner_name": "Filière Performance eSport 1",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 10,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 128,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 121,
+      "strength_of_field": 2628,
+      "subsession_id": 82795333,
+      "old_sub_level": 248,
+      "new_sub_level": 393,
+      "oldi_rating": 3448,
+      "newi_rating": 3455,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -423,54 +471,6 @@
       "new_sub_level": 310,
       "oldi_rating": 3387,
       "newi_rating": 3440,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 0,
-        "color1": "636468",
-        "color2": "d7ed21",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-01-06T17:45:00Z",
-      "winner_group_id": 726380,
-      "winner_name": "Mario Cuesta",
-      "winner_helmet": {
-        "pattern": 62,
-        "color1": "ed2129",
-        "color2": "00c9ff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 18,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 119,
-      "strength_of_field": 3640,
-      "subsession_id": 82511236,
-      "old_sub_level": 351,
-      "new_sub_level": 346,
-      "oldi_rating": 3367,
-      "newi_rating": 3387,
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6072,
+      "series_id": 298,
+      "series_name": "Daytona 24",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 2,
+        "color1": "DACB04",
+        "color2": "387337",
+        "color3": "4677B4"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-17T07:00:00Z",
+      "winner_group_id": -429840,
+      "winner_name": "Filière Performance eSport 1",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 10,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 149,
+      "laps_led": 0,
+      "incidents": 19,
+      "points": 121,
+      "strength_of_field": 2628,
+      "subsession_id": 82795333,
+      "old_sub_level": 113,
+      "new_sub_level": 294,
+      "oldi_rating": 1907,
+      "newi_rating": 1916,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 244,
       "oldi_rating": 1971,
       "newi_rating": 2023,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 6,
-        "color1": "C4FF00",
-        "color2": "C4FF00",
-        "color3": "C2FC00"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-23T21:45:00Z",
-      "winner_group_id": 385848,
-      "winner_name": "Antoine Riotte",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "ffffff",
-        "color2": "000000",
-        "color3": "c90000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 8,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 107,
-      "strength_of_field": 1880,
-      "subsession_id": 82131499,
-      "old_sub_level": 253,
-      "new_sub_level": 281,
-      "oldi_rating": 1894,
-      "newi_rating": 1971,
       "track": {
         "track_id": 95,
         "track_name": "Sebring International Raceway"
