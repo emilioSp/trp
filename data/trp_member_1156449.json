@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5924,
+      "series_id": 237,
+      "series_name": "GT Endurance Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-01-18T17:00:00Z",
+      "winner_group_id": -440638,
+      "winner_name": "KAP Racing eSports",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 7,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 102,
+      "laps_led": 0,
+      "incidents": 24,
+      "points": 170,
+      "strength_of_field": 2690,
+      "subsession_id": 82832968,
+      "old_sub_level": 289,
+      "new_sub_level": 351,
+      "oldi_rating": 2595,
+      "newi_rating": 2692,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6072,
       "series_id": 298,
       "series_name": "Daytona 24",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5928,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-01-13T15:45:00Z",
-      "winner_group_id": 897820,
-      "winner_name": "Brian Marshall4",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "284a94",
-        "color2": "b82f37",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 3,
-      "incidents": 5,
-      "points": 136,
-      "strength_of_field": 2435,
-      "subsession_id": 82698660,
-      "old_sub_level": 214,
-      "new_sub_level": 215,
-      "oldi_rating": 2131,
-      "newi_rating": 2224,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
