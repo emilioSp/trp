@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6072,
+      "series_id": 298,
+      "series_name": "Daytona 24",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 18,
+        "color1": "020202",
+        "color2": "000000",
+        "color3": "f3f3f3"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-17T12:00:00Z",
+      "winner_group_id": -472533,
+      "winner_name": "Owned Esport",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 129,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 192,
+      "strength_of_field": 4025,
+      "subsession_id": 82799834,
+      "old_sub_level": 251,
+      "new_sub_level": 369,
+      "oldi_rating": 2940,
+      "newi_rating": 2949,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 10
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 19,
-        "color1": "D0C40B",
-        "color2": "FFFFFF",
-        "color3": "111111"
-      },
-      "license_level": 15,
-      "session_start_time": "2025-10-23T19:15:00Z",
-      "winner_group_id": 1123418,
-      "winner_name": "Mikhail Bykov",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "ff2701",
-        "color2": "1406f2",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 15,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 3,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 20,
-      "strength_of_field": 3085,
-      "subsession_id": 80738065,
-      "old_sub_level": 373,
-      "new_sub_level": 346,
-      "oldi_rating": 3060,
-      "newi_rating": 2988,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 5
     }
   ],
   "cust_id": 420122
