@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-19T21:15:00Z",
+      "winner_group_id": 287462,
+      "winner_name": "Cory Otsuji2",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "fffc00",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 11,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 59,
+      "strength_of_field": 1595,
+      "subsession_id": 82865541,
+      "old_sub_level": 144,
+      "new_sub_level": 103,
+      "oldi_rating": 1645,
+      "newi_rating": 1663,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Red Bull Ring"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 128,
-      "car_class_id": 2523,
-      "livery": {
-        "car_id": 128,
-        "pattern": 9,
-        "color1": "B82F37",
-        "color2": "111111",
-        "color3": "284A94"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-08T20:45:00Z",
-      "winner_group_id": 743159,
-      "winner_name": "Jan Nemecek",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 31,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 18,
-      "strength_of_field": 1725,
-      "subsession_id": 82567533,
-      "old_sub_level": 152,
-      "new_sub_level": 142,
-      "oldi_rating": 1572,
-      "newi_rating": 1521,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
