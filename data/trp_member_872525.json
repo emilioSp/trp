@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 15,
+      "session_start_time": "2026-01-19T18:00:00Z",
+      "winner_group_id": 857815,
+      "winner_name": "Leon Mischke",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "372a75",
+        "color3": "f1732e",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 3,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 151,
+      "strength_of_field": 4249,
+      "subsession_id": 82861195,
+      "old_sub_level": 335,
+      "new_sub_level": 319,
+      "oldi_rating": 3976,
+      "newi_rating": 4003,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 5,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 15,
       "session_start_time": "2026-01-18T20:00:00Z",
       "winner_group_id": 857815,
       "winner_name": "Leon Mischke",
@@ -235,7 +283,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-01-07T19:30:00Z",
-      "winner_group_id": 590165,
-      "winner_name": "Lukasz Sypula",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "a128b4",
-        "color2": "0c0c0c",
-        "color3": "fffff7",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 3,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 79,
-      "strength_of_field": 3629,
-      "subsession_id": 82540028,
-      "old_sub_level": 374,
-      "new_sub_level": 366,
-      "oldi_rating": 3504,
-      "newi_rating": 3487,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
