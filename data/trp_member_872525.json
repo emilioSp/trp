@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 15,
+      "session_start_time": "2026-01-19T22:00:00Z",
+      "winner_group_id": 993147,
+      "winner_name": "Jan B Saamer",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "fff600",
+        "color3": "fff800",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 4,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 178,
+      "strength_of_field": 3710,
+      "subsession_id": 82866557,
+      "old_sub_level": 319,
+      "new_sub_level": 321,
+      "oldi_rating": 4003,
+      "newi_rating": 4053,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 5,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 15,
       "session_start_time": "2026-01-19T18:00:00Z",
       "winner_group_id": 857815,
       "winner_name": "Leon Mischke",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-01-07T21:30:00Z",
-      "winner_group_id": 1110460,
-      "winner_name": "Nath Jackson",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "ff0000",
-        "color2": "ffd600",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 167,
-      "strength_of_field": 3871,
-      "subsession_id": 82542594,
-      "old_sub_level": 366,
-      "new_sub_level": 376,
-      "oldi_rating": 3487,
-      "newi_rating": 3544,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 872525

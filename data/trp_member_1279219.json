@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "135324",
+        "color2": "111111",
+        "color3": "535353"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-01-19T22:00:00Z",
+      "winner_group_id": 993147,
+      "winner_name": "Jan B Saamer",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "fff600",
+        "color3": "fff800",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 3,
+      "incidents": 2,
+      "points": 218,
+      "strength_of_field": 3710,
+      "subsession_id": 82866557,
+      "old_sub_level": 499,
+      "new_sub_level": 499,
+      "oldi_rating": 4452,
+      "newi_rating": 4525,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6072,
       "series_id": 298,
       "series_name": "Daytona 24",
@@ -283,7 +331,7 @@
         "track_id": 192,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -423,54 +471,6 @@
       "new_sub_level": 328,
       "oldi_rating": 4198,
       "newi_rating": 4282,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 3,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-01-13T18:00:00Z",
-      "winner_group_id": 1279219,
-      "winner_name": "Gabriele Rosone",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 22,
-      "incidents": 2,
-      "points": 234,
-      "strength_of_field": 3847,
-      "subsession_id": 82701175,
-      "old_sub_level": 336,
-      "new_sub_level": 348,
-      "oldi_rating": 4109,
-      "newi_rating": 4198,
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"

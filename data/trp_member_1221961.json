@@ -14,6 +14,54 @@
         "color3": "AF1010"
       },
       "license_level": 20,
+      "session_start_time": "2026-01-19T22:00:00Z",
+      "winner_group_id": 993147,
+      "winner_name": "Jan B Saamer",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "fff600",
+        "color3": "fff800",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 26,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 186,
+      "strength_of_field": 3710,
+      "subsession_id": 82866557,
+      "old_sub_level": 439,
+      "new_sub_level": 355,
+      "oldi_rating": 4638,
+      "newi_rating": 4680,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 6,
+        "color1": "0400FF",
+        "color2": "391010",
+        "color3": "AF1010"
+      },
+      "license_level": 20,
       "session_start_time": "2026-01-19T14:00:00Z",
       "winner_group_id": 993147,
       "winner_name": "Jan B Saamer",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 173,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 20,
-      "session_start_time": "2025-11-01T14:00:00Z",
-      "winner_group_id": 510414,
-      "winner_name": "Corentin Lassine",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "000583",
-        "color2": "ff0000",
-        "color3": "42ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 20,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 99,
-      "strength_of_field": 5059,
-      "subsession_id": 80940966,
-      "old_sub_level": 421,
-      "new_sub_level": 351,
-      "oldi_rating": 4442,
-      "newi_rating": 4430,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1221961
