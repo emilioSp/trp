@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 6,
+        "color1": "0400FF",
+        "color2": "391010",
+        "color3": "AF1010"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-01-19T12:45:00Z",
+      "winner_group_id": 1075703,
+      "winner_name": "Daniel Gorochov",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "590381",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 4,
+      "finish_position": 18,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 25,
+      "strength_of_field": 4128,
+      "subsession_id": 82855162,
+      "old_sub_level": 491,
+      "new_sub_level": 454,
+      "oldi_rating": 4649,
+      "newi_rating": 4569,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6072,
       "series_id": 298,
       "series_name": "Daytona 24",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 6
-    },
-    {
-      "season_id": 5517,
-      "series_id": 451,
-      "series_name": "Creventic Endurance Series",
-      "car_id": 132,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 132,
-        "pattern": 17,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-10-18T13:00:00Z",
-      "winner_group_id": -128002,
-      "winner_name": "Zero7 Racing x SimRaceLab",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 3,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 222,
-      "laps_led": 5,
-      "incidents": 17,
-      "points": 200,
-      "strength_of_field": 3517,
-      "subsession_id": 80618029,
-      "old_sub_level": 341,
-      "new_sub_level": 479,
-      "oldi_rating": 4456,
-      "newi_rating": 4478,
-      "track": {
-        "track_id": 349,
-        "track_name": "Circuit de Barcelona Catalunya"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 2,
-      "race_week_num": 4
     }
   ],
   "cust_id": 1221961
