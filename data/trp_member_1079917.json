@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 23,
+        "color1": "595c5c",
+        "color2": "cbe81e",
+        "color3": "790ce6"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-20T21:15:00Z",
+      "winner_group_id": 842243,
+      "winner_name": "Danny Genovski",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "ffb000",
+        "color2": "e8ecf7",
+        "color3": "ff4409",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 11,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 96,
+      "strength_of_field": 3514,
+      "subsession_id": 82892062,
+      "old_sub_level": 378,
+      "new_sub_level": 388,
+      "oldi_rating": 3697,
+      "newi_rating": 3688,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 23,
-        "color1": "595c5c",
-        "color2": "cbe81e",
-        "color3": "790ce6"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-13T20:45:00Z",
-      "winner_group_id": 583854,
-      "winner_name": "Jorge Alberolaa",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "fc0706",
-        "color2": "ffffff",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 1,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 29,
-      "strength_of_field": 3299,
-      "subsession_id": 82704670,
-      "old_sub_level": 256,
-      "new_sub_level": 254,
-      "oldi_rating": 3420,
-      "newi_rating": 3350,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
