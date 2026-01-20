@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 24,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-20T02:00:00Z",
+      "winner_group_id": 125274,
+      "winner_name": "Jordy Lopez",
+      "winner_helmet": {
+        "pattern": 36,
+        "color1": "f7f501",
+        "color2": "0013bf",
+        "color3": "f10c0c",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 5,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 138,
+      "strength_of_field": 3637,
+      "subsession_id": 82872346,
+      "old_sub_level": 260,
+      "new_sub_level": 273,
+      "oldi_rating": 3873,
+      "newi_rating": 3897,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6072,
       "series_id": 298,
       "series_name": "Daytona 24",
@@ -428,54 +476,6 @@
         "track_name": "Red Bull Ring"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-09T22:45:00Z",
-      "winner_group_id": 1062945,
-      "winner_name": "Jack Jones15",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "ffffff",
-        "color2": "ff0000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 7,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 30,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 141,
-      "strength_of_field": 3158,
-      "subsession_id": 82596476,
-      "old_sub_level": 252,
-      "new_sub_level": 251,
-      "oldi_rating": 3829,
-      "newi_rating": 3861,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
