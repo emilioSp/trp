@@ -14,6 +14,54 @@
         "color3": "C2FC00"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-20T21:45:00Z",
+      "winner_group_id": 1067094,
+      "winner_name": "Augustin Bernier2",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "003cd7",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 18,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 85,
+      "strength_of_field": 2479,
+      "subsession_id": 82892803,
+      "old_sub_level": 267,
+      "new_sub_level": 251,
+      "oldi_rating": 1998,
+      "newi_rating": 2027,
+      "track": {
+        "track_id": 478,
+        "track_name": "MotorLand Aragón"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "C4FF00",
+        "color2": "C4FF00",
+        "color3": "C2FC00"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-19T21:45:00Z",
       "winner_group_id": 17644,
       "winner_name": "Rod Merritts Jr",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "C4FF00",
-        "color2": "C4FF00",
-        "color3": "C2FC00"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-26T20:45:00Z",
-      "winner_group_id": 416972,
-      "winner_name": "Nicolas Guillot",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "ffffff",
-        "color2": "069dfc",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 8,
-      "finish_position": 40,
-      "qualifying_time": 0,
-      "laps": 5,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 11,
-      "strength_of_field": 1605,
-      "subsession_id": 82207354,
-      "old_sub_level": 244,
-      "new_sub_level": 232,
-      "oldi_rating": 2023,
-      "newi_rating": 1932,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
     }
   ],
   "cust_id": 922039
