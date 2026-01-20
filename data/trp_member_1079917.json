@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 23,
+        "color1": "595c5c",
+        "color2": "cbe81e",
+        "color3": "790ce6"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-20T20:00:00Z",
+      "winner_group_id": 851332,
+      "winner_name": "Tim Freudling",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "fc0706",
+        "color2": "111111",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 15,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 150,
+      "strength_of_field": 3311,
+      "subsession_id": 82890626,
+      "old_sub_level": 379,
+      "new_sub_level": 378,
+      "oldi_rating": 3661,
+      "newi_rating": 3697,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5909,
       "series_id": 503,
       "series_name": "TCR Virtual Challenge",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 23,
-        "color1": "595c5c",
-        "color2": "cbe81e",
-        "color3": "790ce6"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-13T19:45:00Z",
-      "winner_group_id": 1033802,
-      "winner_name": "Rafael Leon2",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 8,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 165,
-      "strength_of_field": 2965,
-      "subsession_id": 82703367,
-      "old_sub_level": 244,
-      "new_sub_level": 256,
-      "oldi_rating": 3352,
-      "newi_rating": 3420,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
