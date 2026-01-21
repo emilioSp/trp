@@ -14,6 +14,54 @@
         "color3": "111111"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-21T00:00:00Z",
+      "winner_group_id": 1075703,
+      "winner_name": "Daniel Gorochov",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "590381",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 8,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 169,
+      "strength_of_field": 3313,
+      "subsession_id": 82895541,
+      "old_sub_level": 273,
+      "new_sub_level": 296,
+      "oldi_rating": 3897,
+      "newi_rating": 3952,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 24,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-20T02:00:00Z",
       "winner_group_id": 125274,
       "winner_name": "Jordy Lopez",
@@ -43,7 +91,7 @@
         "track_id": 509,
         "track_name": "Algarve International Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-10T00:45:00Z",
-      "winner_group_id": 910963,
-      "winner_name": "Tamás Fogas",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "0035d3",
-        "color2": "d4ff00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 4,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 31,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 148,
-      "strength_of_field": 2892,
-      "subsession_id": 82599039,
-      "old_sub_level": 251,
-      "new_sub_level": 238,
-      "oldi_rating": 3861,
-      "newi_rating": 3904,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 872758
