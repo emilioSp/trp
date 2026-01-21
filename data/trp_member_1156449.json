@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-01-21T15:15:00Z",
+      "winner_group_id": 248974,
+      "winner_name": "Ivan Carretero",
+      "winner_helmet": {
+        "pattern": 50,
+        "color1": "c4ff00",
+        "color2": "400146",
+        "color3": "050404",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 14,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 72,
+      "strength_of_field": 2948,
+      "subsession_id": 82911122,
+      "old_sub_level": 328,
+      "new_sub_level": 313,
+      "oldi_rating": 2729,
+      "newi_rating": 2720,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5928,
       "series_id": 595,
       "series_name": "iRacing GT3 Regional Tour - Americas",
@@ -423,54 +471,6 @@
       "new_sub_level": 254,
       "oldi_rating": 2431,
       "newi_rating": 2504,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5932,
-      "series_id": 591,
-      "series_name": "LMP2 Challenge - Fixed",
-      "car_id": 128,
-      "car_class_id": 2523,
-      "livery": {
-        "car_id": 128,
-        "pattern": 14,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ff0000"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-01-14T14:00:00Z",
-      "winner_group_id": 904355,
-      "winner_name": "Josh Stevenson2",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "00c9ff",
-        "color2": "3300ff",
-        "color3": "0c002f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 10,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 95,
-      "strength_of_field": 3087,
-      "subsession_id": 82723057,
-      "old_sub_level": 234,
-      "new_sub_level": 242,
-      "oldi_rating": 2401,
-      "newi_rating": 2431,
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"
