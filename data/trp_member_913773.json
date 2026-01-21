@@ -14,6 +14,54 @@
         "color3": "284a94"
       },
       "license_level": 17,
+      "session_start_time": "2026-01-21T19:15:00Z",
+      "winner_group_id": 944213,
+      "winner_name": "Matthew Hollinger",
+      "winner_helmet": {
+        "pattern": 49,
+        "color1": "000000",
+        "color2": "eb00ff",
+        "color3": "00eeff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 3,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 95,
+      "strength_of_field": 1741,
+      "subsession_id": 82915572,
+      "old_sub_level": 131,
+      "new_sub_level": 157,
+      "oldi_rating": 1670,
+      "newi_rating": 1747,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
       "session_start_time": "2026-01-20T21:15:00Z",
       "winner_group_id": 1199876,
       "winner_name": "Emile Plouzeau",
@@ -91,7 +139,7 @@
         "track_id": 509,
         "track_name": "Algarve International Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -428,54 +476,6 @@
         "track_name": "Algarve International Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-11T13:45:00Z",
-      "winner_group_id": 1395029,
-      "winner_name": "Charlie Mccabe2",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "02a1c0",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 5,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 68,
-      "strength_of_field": 1542,
-      "subsession_id": 82643007,
-      "old_sub_level": 163,
-      "new_sub_level": 168,
-      "oldi_rating": 1427,
-      "newi_rating": 1474,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3

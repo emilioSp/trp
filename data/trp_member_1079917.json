@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5909,
+      "series_id": 503,
+      "series_name": "TCR Virtual Challenge",
+      "car_id": 153,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 153,
+        "pattern": 17,
+        "color1": "797a7c",
+        "color2": "c9e80d",
+        "color3": "12e6ec"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-21T19:45:00Z",
+      "winner_group_id": 155121,
+      "winner_name": "Michael Polasek",
+      "winner_helmet": {
+        "pattern": 32,
+        "color1": "000000",
+        "color2": "00c9ff",
+        "color3": "544f4f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 16,
+      "start_position": 7,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 102,
+      "strength_of_field": 2271,
+      "subsession_id": 82916178,
+      "old_sub_level": 388,
+      "new_sub_level": 441,
+      "oldi_rating": 3688,
+      "newi_rating": 3708,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -139,7 +187,7 @@
         "track_id": 179,
         "track_name": "Long Beach Street Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 23,
-        "color1": "595c5c",
-        "color2": "cbe81e",
-        "color3": "790ce6"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-14T13:45:00Z",
-      "winner_group_id": 543295,
-      "winner_name": "Harald Mathisen",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "8000ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 11,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 163,
-      "strength_of_field": 4491,
-      "subsession_id": 82722805,
-      "old_sub_level": 254,
-      "new_sub_level": 275,
-      "oldi_rating": 3350,
-      "newi_rating": 3407,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
