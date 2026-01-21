@@ -14,6 +14,54 @@
         "color3": "9dd1c6"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-21T20:45:00Z",
+      "winner_group_id": 1018474,
+      "winner_name": "Max Desczyk",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "111111",
+        "color2": "03bbbd",
+        "color3": "184252",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 8,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 111,
+      "strength_of_field": 3648,
+      "subsession_id": 82917457,
+      "old_sub_level": 239,
+      "new_sub_level": 243,
+      "oldi_rating": 3262,
+      "newi_rating": 3282,
+      "track": {
+        "track_id": 478,
+        "track_name": "MotorLand Aragón"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 23,
+        "color1": "eaf3eb",
+        "color2": "065ff6",
+        "color3": "9dd1c6"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-21T18:45:00Z",
       "winner_group_id": 1186307,
       "winner_name": "Nazar Vasylchuk",
@@ -43,7 +91,7 @@
         "track_id": 478,
         "track_name": "MotorLand Aragón"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -428,54 +476,6 @@
         "track_name": "Sebring International Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 23,
-        "color1": "eaf3eb",
-        "color2": "065ff6",
-        "color3": "9dd1c6"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-01-09T21:45:00Z",
-      "winner_group_id": 951091,
-      "winner_name": "Cameron Stephens3",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "ffffff",
-        "color2": "ff0000",
-        "color3": "ffee47",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 15,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 129,
-      "strength_of_field": 2918,
-      "subsession_id": 82595152,
-      "old_sub_level": 313,
-      "new_sub_level": 311,
-      "oldi_rating": 3176,
-      "newi_rating": 3214,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
