@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5945,
+      "series_id": 541,
+      "series_name": "FIA F4 Esports Regional Tour - America",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 10,
+      "session_start_time": "2026-01-21T14:15:00Z",
+      "winner_group_id": 1296118,
+      "winner_name": "Haoyi Zhu",
+      "winner_helmet": {
+        "pattern": 50,
+        "color1": "f00040",
+        "color2": "ffffff",
+        "color3": "ddf087",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 7,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 76,
+      "strength_of_field": 2249,
+      "subsession_id": 82910217,
+      "old_sub_level": 255,
+      "new_sub_level": 259,
+      "oldi_rating": 1571,
+      "newi_rating": 1609,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "WeatherTech Raceway at Laguna Seca"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5943,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-01-08T16:00:00Z",
-      "winner_group_id": 1251153,
-      "winner_name": "Kwanho Kwong",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "0a0a0a",
-        "color2": "404040",
-        "color3": "52b5f6",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 6,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 82,
-      "strength_of_field": 1481,
-      "subsession_id": 82561954,
-      "old_sub_level": 331,
-      "new_sub_level": 334,
-      "oldi_rating": 1493,
-      "newi_rating": 1567,
-      "track": {
-        "track_id": 439,
-        "track_name": "Winton Motor Raceway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
