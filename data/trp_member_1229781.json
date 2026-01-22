@@ -13,6 +13,54 @@
         "color2": "ED1C24",
         "color3": "CFDD28"
       },
+      "license_level": 11,
+      "session_start_time": "2026-01-22T18:15:00Z",
+      "winner_group_id": 915119,
+      "winner_name": "Max Nachbauer",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "c50000",
+        "color2": "b40000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 12,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 50,
+      "strength_of_field": 1691,
+      "subsession_id": 82940307,
+      "old_sub_level": 348,
+      "new_sub_level": 360,
+      "oldi_rating": 1710,
+      "newi_rating": 1705,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5945,
+      "series_id": 541,
+      "series_name": "FIA F4 Esports Regional Tour - America",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
       "license_level": 10,
       "session_start_time": "2026-01-22T17:15:00Z",
       "winner_group_id": 1012061,
@@ -187,7 +235,7 @@
         "track_id": 572,
         "track_name": "Autódromo Hermanos Rodríguez"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 353,
         "track_name": "Lime Rock Park"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5941,
-      "series_id": 521,
-      "series_name": "Motorsport UK FF 1600 Trophy by Thrustmaster",
-      "car_id": 163,
-      "car_class_id": 4016,
-      "livery": {
-        "car_id": 163,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-01-10T15:45:00Z",
-      "winner_group_id": 1375283,
-      "winner_name": "Lenn Eisenhuth",
-      "winner_helmet": {
-        "pattern": 66,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 10,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 42,
-      "strength_of_field": 1826,
-      "subsession_id": 82616278,
-      "old_sub_level": 315,
-      "new_sub_level": 306,
-      "oldi_rating": 1651,
-      "newi_rating": 1640,
-      "track": {
-        "track_id": 47,
-        "track_name": "WeatherTech Raceway at Laguna Seca"
       },
       "drop_race": true,
       "season_year": 2026,
