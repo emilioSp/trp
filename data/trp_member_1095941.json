@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-22T14:00:00Z",
+      "winner_group_id": 270254,
+      "winner_name": "Lasse Bak",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "777777",
+        "color2": "000000",
+        "color3": "fe365f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 27,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 110,
+      "strength_of_field": 4838,
+      "subsession_id": 82936018,
+      "old_sub_level": 152,
+      "new_sub_level": 193,
+      "oldi_rating": 3299,
+      "newi_rating": 3318,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5924,
       "series_id": 237,
       "series_name": "GT Endurance Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 148,
       "oldi_rating": 3142,
       "newi_rating": 3121,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-15T00:00:00Z",
-      "winner_group_id": 539778,
-      "winner_name": "Parker White3",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "333333",
-        "color2": "0000fe",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 15,
-      "finish_position": 26,
-      "qualifying_time": 0,
-      "laps": 2,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 24,
-      "strength_of_field": 3805,
-      "subsession_id": 82734599,
-      "old_sub_level": 225,
-      "new_sub_level": 154,
-      "oldi_rating": 3197,
-      "newi_rating": 3142,
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"
