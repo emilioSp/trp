@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 15,
+      "session_start_time": "2026-01-23T20:45:00Z",
+      "winner_group_id": 580610,
+      "winner_name": "Mex Jansen",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "00fdff",
+        "color3": "ff00e1",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 12,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 102,
+      "strength_of_field": 3649,
+      "subsession_id": 82968565,
+      "old_sub_level": 306,
+      "new_sub_level": 251,
+      "oldi_rating": 4030,
+      "newi_rating": 4020,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 15,
       "session_start_time": "2026-01-23T19:45:00Z",
       "winner_group_id": 580610,
       "winner_name": "Mex Jansen",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5931,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 18,
-        "color1": "020202",
-        "color2": "000000",
-        "color3": "f3f3f3"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-01-11T14:00:00Z",
-      "winner_group_id": -293653,
-      "winner_name": "SOELPEC Precision Racing #118",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 20,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 62,
-      "laps_led": 0,
-      "incidents": 18,
-      "points": 174,
-      "strength_of_field": 4349,
-      "subsession_id": 82643299,
-      "old_sub_level": 348,
-      "new_sub_level": 344,
-      "oldi_rating": 3672,
-      "newi_rating": 3686,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
     }
   ],
   "cust_id": 872525
