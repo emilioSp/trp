@@ -14,6 +14,54 @@
         "color3": "284a94"
       },
       "license_level": 17,
+      "session_start_time": "2026-01-23T18:45:00Z",
+      "winner_group_id": 673673,
+      "winner_name": "Jordan Hoyle",
+      "winner_helmet": {
+        "pattern": 7,
+        "color1": "2160c5",
+        "color2": "bb1313",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 5,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 89,
+      "strength_of_field": 1784,
+      "subsession_id": 82966054,
+      "old_sub_level": 169,
+      "new_sub_level": 193,
+      "oldi_rating": 1791,
+      "newi_rating": 1851,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
       "session_start_time": "2026-01-22T19:45:00Z",
       "winner_group_id": 520047,
       "winner_name": "Aditya Iyer",
@@ -43,7 +91,7 @@
         "track_id": 180,
         "track_name": "Oulton Park Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -423,54 +471,6 @@
       "new_sub_level": 146,
       "oldi_rating": 1602,
       "newi_rating": 1528,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-13T19:15:00Z",
-      "winner_group_id": 958600,
-      "winner_name": "Patrick Schröter",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "447ac0",
-        "color3": "ee3442",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 86,
-      "strength_of_field": 1491,
-      "subsession_id": 82702611,
-      "old_sub_level": 175,
-      "new_sub_level": 185,
-      "oldi_rating": 1519,
-      "newi_rating": 1602,
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"

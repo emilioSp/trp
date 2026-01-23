@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "00FF10",
+        "color2": "FFFFFF",
+        "color3": "DBFF00"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-23T18:00:00Z",
+      "winner_group_id": 957544,
+      "winner_name": "Aake Korte",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 16,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 124,
+      "strength_of_field": 4720,
+      "subsession_id": 82965212,
+      "old_sub_level": 227,
+      "new_sub_level": 240,
+      "oldi_rating": 3559,
+      "newi_rating": 3581,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 184,
       "oldi_rating": 3522,
       "newi_rating": 3594,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 12,
-        "color1": "00FF10",
-        "color2": "FFFFFF",
-        "color3": "DBFF00"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-15T20:45:00Z",
-      "winner_group_id": 1006045,
-      "winner_name": "Luciano Ferreira",
-      "winner_helmet": {
-        "pattern": 57,
-        "color1": "ffffff",
-        "color2": "1d5eab",
-        "color3": "454a83",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 10,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 150,
-      "strength_of_field": 3424,
-      "subsession_id": 82756549,
-      "old_sub_level": 160,
-      "new_sub_level": 175,
-      "oldi_rating": 3480,
-      "newi_rating": 3522,
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"

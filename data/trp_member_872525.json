@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-01-23T18:45:00Z",
+      "winner_group_id": 959684,
+      "winner_name": "Miguel Carias",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "0019ff",
+        "color2": "edeb00",
+        "color3": "00ff12",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 10,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 15,
+      "points": 47,
+      "strength_of_field": 3645,
+      "subsession_id": 82966050,
+      "old_sub_level": 321,
+      "new_sub_level": 300,
+      "oldi_rating": 4053,
+      "newi_rating": 3995,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6071,
-      "series_id": 297,
-      "series_name": "Roar Before the 24",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-01-09T22:00:00Z",
-      "winner_group_id": 597085,
-      "winner_name": "Adam Bouzouita",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 5,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 82,
-      "laps_led": 2,
-      "incidents": 9,
-      "points": 187,
-      "strength_of_field": 3617,
-      "subsession_id": 82595576,
-      "old_sub_level": 376,
-      "new_sub_level": 455,
-      "oldi_rating": 3544,
-      "newi_rating": 3615,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
     }
   ],
   "cust_id": 872525
