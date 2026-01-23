@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-23T22:00:00Z",
+      "winner_group_id": 627313,
+      "winner_name": "Anthony Dring",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "ff0000",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 14,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 60,
+      "strength_of_field": 1916,
+      "subsession_id": 82970208,
+      "old_sub_level": 193,
+      "new_sub_level": 173,
+      "oldi_rating": 1851,
+      "newi_rating": 1853,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-14T21:15:00Z",
-      "winner_group_id": 1365408,
-      "winner_name": "Dominic Wollbrink",
-      "winner_helmet": {
-        "pattern": 66,
-        "color1": "ec232d",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 10,
-      "strength_of_field": 1615,
-      "subsession_id": 82731118,
-      "old_sub_level": 185,
-      "new_sub_level": 146,
-      "oldi_rating": 1602,
-      "newi_rating": 1528,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
