@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 15,
+      "session_start_time": "2026-01-23T19:45:00Z",
+      "winner_group_id": 580610,
+      "winner_name": "Mex Jansen",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "00fdff",
+        "color3": "ff00e1",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 10,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 153,
+      "strength_of_field": 3591,
+      "subsession_id": 82967272,
+      "old_sub_level": 300,
+      "new_sub_level": 306,
+      "oldi_rating": 3995,
+      "newi_rating": 4030,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 15,
       "session_start_time": "2026-01-23T18:45:00Z",
       "winner_group_id": 959684,
       "winner_name": "Miguel Carias",
@@ -43,7 +91,7 @@
         "track_id": 180,
         "track_name": "Oulton Park Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
-    },
-    {
-      "season_id": 5911,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 165,
-      "car_class_id": 4018,
-      "livery": {
-        "car_id": 165,
-        "pattern": 13,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-01-10T17:30:00Z",
-      "winner_group_id": 819986,
-      "winner_name": "Tony Jupp2",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "80ed34",
-        "color2": "ffffff",
-        "color3": "faff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 160,
-      "strength_of_field": 3409,
-      "subsession_id": 82618524,
-      "old_sub_level": 355,
-      "new_sub_level": 348,
-      "oldi_rating": 3615,
-      "newi_rating": 3672,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 872525
