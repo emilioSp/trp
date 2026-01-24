@@ -14,6 +14,54 @@
         "color3": "1A1A1A"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-24T00:00:00Z",
+      "winner_group_id": 1141479,
+      "winner_name": "William Lira",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "120f13",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 8,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 86,
+      "strength_of_field": 1955,
+      "subsession_id": 82972749,
+      "old_sub_level": 256,
+      "new_sub_level": 264,
+      "oldi_rating": 2032,
+      "newi_rating": 2069,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 20,
+        "color1": "1A1A1A",
+        "color2": "E54B33",
+        "color3": "1A1A1A"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-23T00:00:00Z",
       "winner_group_id": 628747,
       "winner_name": "Yannick Van Puyvelde",
@@ -43,7 +91,7 @@
         "track_id": 509,
         "track_name": "Algarve International Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -423,54 +471,6 @@
       "new_sub_level": 269,
       "oldi_rating": 2172,
       "newi_rating": 2139,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 20,
-        "color1": "EBFF00",
-        "color2": "7CE632",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-09T23:45:00Z",
-      "winner_group_id": 848693,
-      "winner_name": "Paolo Dung Pastori",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "ffffff",
-        "color2": "ff00b0",
-        "color3": "0012ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 17,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 45,
-      "strength_of_field": 2882,
-      "subsession_id": 82597731,
-      "old_sub_level": 266,
-      "new_sub_level": 252,
-      "oldi_rating": 2194,
-      "newi_rating": 2172,
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"
