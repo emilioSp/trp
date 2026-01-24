@@ -4,6 +4,54 @@
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-24T12:00:00Z",
+      "winner_group_id": 774898,
+      "winner_name": "Shawn Butler4",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 2,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 115,
+      "strength_of_field": 2539,
+      "subsession_id": 82985808,
+      "old_sub_level": 233,
+      "new_sub_level": 216,
+      "oldi_rating": 2608,
+      "newi_rating": 2651,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
       "car_id": 185,
       "car_class_id": 4091,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6043,
-      "series_id": 320,
-      "series_name": "13th Week iRacing Porsche Cup",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "efe600",
-        "color2": "000000",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-14T18:45:00Z",
-      "winner_group_id": 1009537,
-      "winner_name": "Jakub Kormanski",
-      "winner_helmet": {
-        "pattern": 48,
-        "color1": "000000",
-        "color2": "fdfb00",
-        "color3": "6414b5",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 16,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 105,
-      "strength_of_field": 2574,
-      "subsession_id": 81903760,
-      "old_sub_level": 277,
-      "new_sub_level": 267,
-      "oldi_rating": 2528,
-      "newi_rating": 2559,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1107481
