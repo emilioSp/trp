@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5924,
+      "series_id": 237,
+      "series_name": "GT Endurance Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "1C1FED",
+        "color2": "000000",
+        "color3": "F3F3F3"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-24T19:00:00Z",
+      "winner_group_id": -381175,
+      "winner_name": "Grid-and-Go.com eSports",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 27,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 105,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 207,
+      "strength_of_field": 4319,
+      "subsession_id": 82994620,
+      "old_sub_level": 352,
+      "new_sub_level": 377,
+      "oldi_rating": 4066,
+      "newi_rating": 4126,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 22,
-        "color1": "0325b6",
-        "color2": "fbfeff",
-        "color3": "111111"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-14T22:00:00Z",
-      "winner_group_id": 673445,
-      "winner_name": "Noah Eder",
-      "winner_helmet": {
-        "pattern": 6,
-        "color1": "ff0000",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 19,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 18,
-      "points": 79,
-      "strength_of_field": 4665,
-      "subsession_id": 82732113,
-      "old_sub_level": 244,
-      "new_sub_level": 204,
-      "oldi_rating": 3944,
-      "newi_rating": 3924,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
