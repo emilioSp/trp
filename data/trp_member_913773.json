@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-24T20:45:00Z",
+      "winner_group_id": 903832,
+      "winner_name": "Daniel Moore11",
+      "winner_helmet": {
+        "pattern": 9,
+        "color1": "cd1515",
+        "color2": "631eb1",
+        "color3": "3a1852",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 16,
+      "start_position": 15,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 6,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 3,
+      "strength_of_field": 1824,
+      "subsession_id": 82997150,
+      "old_sub_level": 173,
+      "new_sub_level": 133,
+      "oldi_rating": 1853,
+      "newi_rating": 1758,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 148,
       "oldi_rating": 1508,
       "newi_rating": 1605,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 128,
-      "car_class_id": 2523,
-      "livery": {
-        "car_id": 128,
-        "pattern": 9,
-        "color1": "B82F37",
-        "color2": "111111",
-        "color3": "284A94"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-16T21:45:00Z",
-      "winner_group_id": 1012366,
-      "winner_name": "Robert Rathbun",
-      "winner_helmet": {
-        "pattern": 34,
-        "color1": "ffffff",
-        "color2": "752a2a",
-        "color3": "892626",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 8,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 35,
-      "strength_of_field": 1422,
-      "subsession_id": 82784023,
-      "old_sub_level": 146,
-      "new_sub_level": 141,
-      "oldi_rating": 1528,
-      "newi_rating": 1508,
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"
