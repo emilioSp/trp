@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5909,
+      "series_id": 503,
+      "series_name": "TCR Virtual Challenge",
+      "car_id": 153,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 153,
+        "pattern": 17,
+        "color1": "797a7c",
+        "color2": "c9e80d",
+        "color3": "12e6ec"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-01-24T13:45:00Z",
+      "winner_group_id": 1006499,
+      "winner_name": "Anthony Lammer",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "ffffff",
+        "color2": "920606",
+        "color3": "920000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 3,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 100,
+      "strength_of_field": 2164,
+      "subsession_id": 82987922,
+      "old_sub_level": 453,
+      "new_sub_level": 462,
+      "oldi_rating": 3722,
+      "newi_rating": 3747,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5908,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 23,
-        "color1": "595c5c",
-        "color2": "cbe81e",
-        "color3": "790ce6"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-01-19T13:45:00Z",
-      "winner_group_id": 111169,
-      "winner_name": "Daniel Juncadella",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "ed2129",
-        "color2": "ffffff",
-        "color3": "137be8",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 2,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 174,
-      "strength_of_field": 2997,
-      "subsession_id": 82856791,
-      "old_sub_level": 393,
-      "new_sub_level": 355,
-      "oldi_rating": 3455,
-      "newi_rating": 3535,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
