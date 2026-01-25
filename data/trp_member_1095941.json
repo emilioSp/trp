@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-25T00:00:00Z",
+      "winner_group_id": 1248614,
+      "winner_name": "Ellis Bell",
+      "winner_helmet": {
+        "pattern": 9,
+        "color1": "b4862d",
+        "color2": "ffffff",
+        "color3": "0185ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 9,
+      "finish_position": 25,
+      "qualifying_time": 0,
+      "laps": 16,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 15,
+      "strength_of_field": 3265,
+      "subsession_id": 83001825,
+      "old_sub_level": 200,
+      "new_sub_level": 205,
+      "oldi_rating": 3247,
+      "newi_rating": 3171,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5903,
       "series_id": 559,
       "series_name": "Rain Master Challenge",
@@ -283,7 +331,7 @@
         "track_id": 509,
         "track_name": "Algarve International Circuit"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -423,54 +471,6 @@
       "new_sub_level": 152,
       "oldi_rating": 3402,
       "newi_rating": 3299,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-18T18:45:00Z",
-      "winner_group_id": 400051,
-      "winner_name": "Elliot Parlett",
-      "winner_helmet": {
-        "pattern": 6,
-        "color1": "E4891B",
-        "color2": "000000",
-        "color3": "E66C0F",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 7,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 173,
-      "strength_of_field": 2857,
-      "subsession_id": 82835441,
-      "old_sub_level": 147,
-      "new_sub_level": 184,
-      "oldi_rating": 3320,
-      "newi_rating": 3402,
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"
