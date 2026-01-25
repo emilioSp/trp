@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-25T21:15:00Z",
+      "winner_group_id": 1273780,
+      "winner_name": "Cesc Albet",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "002e6b",
+        "color2": "ffff00",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 10,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 21,
+      "points": 2,
+      "strength_of_field": 1705,
+      "subsession_id": 83027543,
+      "old_sub_level": 143,
+      "new_sub_level": 94,
+      "oldi_rating": 1770,
+      "newi_rating": 1673,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-19T18:45:00Z",
-      "winner_group_id": 1327861,
-      "winner_name": "Pascal Steiner",
-      "winner_helmet": {
-        "pattern": 5,
-        "color1": "6012d0",
-        "color2": "ffffff",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 5,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 1,
-      "incidents": 8,
-      "points": 70,
-      "strength_of_field": 1572,
-      "subsession_id": 82862160,
-      "old_sub_level": 148,
-      "new_sub_level": 144,
-      "oldi_rating": 1605,
-      "newi_rating": 1645,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4

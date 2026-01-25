@@ -24,10 +24,10 @@
     "name": "Salvatore Reddavid",
     "memberSince": "2023-06-17",
     "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 1.43,
-    "iRating": 1770
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 1.51,
+    "iRating": 1673
   },
   {
     "id": 1153360,
@@ -36,8 +36,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.57,
-    "iRating": 3360
+    "safetyRating": 2.44,
+    "iRating": 3403
   },
   {
     "id": 740041,
