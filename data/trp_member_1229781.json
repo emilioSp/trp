@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 11,
+      "session_start_time": "2026-01-25T14:15:00Z",
+      "winner_group_id": 769233,
+      "winner_name": "Michal Zajac2",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "00ff03",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 10,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 80,
+      "strength_of_field": 2138,
+      "subsession_id": 83017498,
+      "old_sub_level": 360,
+      "new_sub_level": 360,
+      "oldi_rating": 1695,
+      "newi_rating": 1733,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5945,
+      "series_id": 541,
+      "series_name": "FIA F4 Esports Regional Tour - America",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 11,
       "session_start_time": "2026-01-25T10:15:00Z",
       "winner_group_id": 1147321,
       "winner_name": "Chico Bala",
@@ -187,7 +235,7 @@
         "track_id": 572,
         "track_name": "Autódromo Hermanos Rodríguez"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -428,54 +476,6 @@
         "track_name": "Miami International Autodrome"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5937,
-      "series_id": 455,
-      "series_name": "Formula Vee Series by trophi.ai",
-      "car_id": 142,
-      "car_class_id": 3002,
-      "livery": {
-        "car_id": 142,
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "ed1c24",
-        "color3": "cfdd28"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-01-10T17:30:00Z",
-      "winner_group_id": 975712,
-      "winner_name": "Emanuele Cervetti",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "ff0000",
-        "color2": "ffffff",
-        "color3": "139d02",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 7,
-      "start_position": 6,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 18,
-      "strength_of_field": 1527,
-      "subsession_id": 82618536,
-      "old_sub_level": 311,
-      "new_sub_level": 255,
-      "oldi_rating": 1629,
-      "newi_rating": 1571,
-      "track": {
-        "track_id": 353,
-        "track_name": "Lime Rock Park"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
