@@ -14,6 +14,54 @@
         "color3": "9dd1c6"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-25T16:45:00Z",
+      "winner_group_id": 570854,
+      "winner_name": "Luke Smoker",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "f32121",
+        "color2": "f32121",
+        "color3": "f32121",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 8,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 25,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 110,
+      "strength_of_field": 2453,
+      "subsession_id": 83020688,
+      "old_sub_level": 247,
+      "new_sub_level": 257,
+      "oldi_rating": 3328,
+      "newi_rating": 3360,
+      "track": {
+        "track_id": 478,
+        "track_name": "MotorLand Aragón"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 23,
+        "color1": "eaf3eb",
+        "color2": "065ff6",
+        "color3": "9dd1c6"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-25T14:45:00Z",
       "winner_group_id": 571096,
       "winner_name": "Julien Rety",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 23,
-        "color1": "eaf3eb",
-        "color2": "065ff6",
-        "color3": "9dd1c6"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-10T23:45:00Z",
-      "winner_group_id": 1080044,
-      "winner_name": "Julian Zigelski",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "ff0000",
-        "color2": "000000",
-        "color3": "ffcf00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 13,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 132,
-      "strength_of_field": 3000,
-      "subsession_id": 82627060,
-      "old_sub_level": 246,
-      "new_sub_level": 251,
-      "oldi_rating": 3246,
-      "newi_rating": 3287,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1153360

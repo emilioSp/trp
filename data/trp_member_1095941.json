@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5945,
+      "series_id": 541,
+      "series_name": "FIA F4 Esports Regional Tour - America",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 21,
+        "color1": "2A3795",
+        "color2": "FFFFFF",
+        "color3": "ED2129"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-01-25T17:15:00Z",
+      "winner_group_id": 1238436,
+      "winner_name": "Avi Malavalli",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "f2d900",
+        "color2": "bc0000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 7,
+      "start_position": 7,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 2,
+      "incidents": 13,
+      "points": 91,
+      "strength_of_field": 1515,
+      "subsession_id": 83021385,
+      "old_sub_level": 214,
+      "new_sub_level": 217,
+      "oldi_rating": 1591,
+      "newi_rating": 1675,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-22T14:00:00Z",
-      "winner_group_id": 270254,
-      "winner_name": "Lasse Bak",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "777777",
-        "color2": "000000",
-        "color3": "fe365f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 27,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 110,
-      "strength_of_field": 4838,
-      "subsession_id": 82936018,
-      "old_sub_level": 152,
-      "new_sub_level": 193,
-      "oldi_rating": 3299,
-      "newi_rating": 3318,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
       },
       "drop_race": false,
       "season_year": 2026,
