@@ -4,6 +4,54 @@
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-25T10:45:00Z",
+      "winner_group_id": 1358202,
+      "winner_name": "Fernando Sacramento",
+      "winner_helmet": {
+        "pattern": 62,
+        "color1": "fdff00",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 16,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 25,
+      "strength_of_field": 2435,
+      "subsession_id": 83013768,
+      "old_sub_level": 288,
+      "new_sub_level": 265,
+      "oldi_rating": 2092,
+      "newi_rating": 2045,
+      "track": {
+        "track_id": 478,
+        "track_name": "MotorLand Aragón"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
       "car_id": 132,
       "car_class_id": 4011,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 20,
-        "color1": "1A1A1A",
-        "color2": "E54B33",
-        "color3": "1A1A1A"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-11T17:45:00Z",
-      "winner_group_id": 1113539,
-      "winner_name": "Lucas Starling Oliveira",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "372a75",
-        "color3": "f1732e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 29,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 58,
-      "strength_of_field": 2080,
-      "subsession_id": 82648185,
-      "old_sub_level": 269,
-      "new_sub_level": 290,
-      "oldi_rating": 2139,
-      "newi_rating": 2126,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1205476
