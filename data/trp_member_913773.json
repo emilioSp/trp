@@ -13,6 +13,54 @@
         "color2": "111111",
         "color3": "284a94"
       },
+      "license_level": 13,
+      "session_start_time": "2026-01-26T13:15:00Z",
+      "winner_group_id": 471641,
+      "winner_name": "Scott J Lindgren",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "262627",
+        "color2": "2b2122",
+        "color3": "eeeeee",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 13,
+      "strength_of_field": 1288,
+      "subsession_id": 83045347,
+      "old_sub_level": 151,
+      "new_sub_level": 147,
+      "oldi_rating": 1673,
+      "newi_rating": 1593,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
       "license_level": 17,
       "session_start_time": "2026-01-25T21:15:00Z",
       "winner_group_id": 1273780,
@@ -427,58 +475,10 @@
         "track_id": 509,
         "track_name": "Algarve International Circuit"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-19T21:15:00Z",
-      "winner_group_id": 287462,
-      "winner_name": "Cory Otsuji2",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "fffc00",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 11,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 59,
-      "strength_of_field": 1595,
-      "subsession_id": 82865541,
-      "old_sub_level": 144,
-      "new_sub_level": 103,
-      "oldi_rating": 1645,
-      "newi_rating": 1663,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
     }
   ],
   "cust_id": 913773
