@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 206,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 206,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-27T20:45:00Z",
+      "winner_group_id": 970997,
+      "winner_name": "Thomas Olivati",
+      "winner_helmet": {
+        "pattern": 18,
+        "color1": "7de54c",
+        "color2": "ffffff",
+        "color3": "1f2892",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 12,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 163,
+      "strength_of_field": 3650,
+      "subsession_id": 83080708,
+      "old_sub_level": 221,
+      "new_sub_level": 244,
+      "oldi_rating": 3456,
+      "newi_rating": 3511,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -91,7 +139,7 @@
         "track_id": 434,
         "track_name": "Watkins Glen International"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
@@ -423,54 +471,6 @@
       "new_sub_level": 259,
       "oldi_rating": 3629,
       "newi_rating": 3680,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 12,
-        "color1": "00FF10",
-        "color2": "FFFFFF",
-        "color3": "DBFF00"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-18T21:45:00Z",
-      "winner_group_id": 267623,
-      "winner_name": "Reid Sweeney",
-      "winner_helmet": {
-        "pattern": 60,
-        "color1": "ffffff",
-        "color2": "588efa",
-        "color3": "cc4420",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 8,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 15,
-      "strength_of_field": 4059,
-      "subsession_id": 82839821,
-      "old_sub_level": 190,
-      "new_sub_level": 185,
-      "oldi_rating": 3695,
-      "newi_rating": 3629,
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"
