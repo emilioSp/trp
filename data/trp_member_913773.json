@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-01-27T21:45:00Z",
+      "winner_group_id": 483084,
+      "winner_name": "Yuri Sunyaev",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "000000",
+        "color2": "f71c06",
+        "color3": "fafaf7",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 5,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 91,
+      "strength_of_field": 1727,
+      "subsession_id": 83081987,
+      "old_sub_level": 169,
+      "new_sub_level": 241,
+      "oldi_rating": 1719,
+      "newi_rating": 1788,
+      "track": {
+        "track_id": 475,
+        "track_name": "MotorLand Aragón"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Oulton Park Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-21T19:15:00Z",
-      "winner_group_id": 944213,
-      "winner_name": "Matthew Hollinger",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "000000",
-        "color2": "eb00ff",
-        "color3": "00eeff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 95,
-      "strength_of_field": 1741,
-      "subsession_id": 82915572,
-      "old_sub_level": 131,
-      "new_sub_level": 157,
-      "oldi_rating": 1670,
-      "newi_rating": 1747,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
