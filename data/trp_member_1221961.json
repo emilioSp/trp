@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 206,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 206,
+        "pattern": 22,
+        "color1": "0400FF",
+        "color2": "391010",
+        "color3": "AF1010"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-28T18:45:00Z",
+      "winner_group_id": 1137903,
+      "winner_name": "Dirk Stiegler",
+      "winner_helmet": {
+        "pattern": 49,
+        "color1": "a6bf43",
+        "color2": "2c9f9f",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 3,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 18,
+      "points": 52,
+      "strength_of_field": 4081,
+      "subsession_id": 83103872,
+      "old_sub_level": 339,
+      "new_sub_level": 249,
+      "oldi_rating": 4645,
+      "newi_rating": 4579,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5931,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 18,
-        "color1": "020202",
-        "color2": "000000",
-        "color3": "f3f3f3"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-01-11T14:00:00Z",
-      "winner_group_id": -293653,
-      "winner_name": "SOELPEC Precision Racing #118",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 20,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 76,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 174,
-      "strength_of_field": 4349,
-      "subsession_id": 82643299,
-      "old_sub_level": 344,
-      "new_sub_level": 387,
-      "oldi_rating": 4423,
-      "newi_rating": 4439,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
     }
   ],
   "cust_id": 1221961

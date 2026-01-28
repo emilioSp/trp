@@ -100,6 +100,16 @@
     "iRating": 717
   },
   {
+    "id": 386839,
+    "name": "Giulio Posillico",
+    "memberSince": "2019-07-08",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.44,
+    "iRating": 5405
+  },
+  {
     "id": 1095941,
     "name": "Mario Bellotti",
     "memberSince": "2024-07-28",
@@ -136,8 +146,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.39,
-    "iRating": 4645
+    "safetyRating": 2.49,
+    "iRating": 4579
   },
   {
     "id": 420122,

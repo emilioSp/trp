@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 236,
+    "wins": 50,
+    "top5": 115,
+    "avg_start_position": 6,
+    "avg_finish_position": 8,
+    "laps": 3402,
+    "laps_led": 400,
+    "favorite_car": {
+      "car_id": 185,
+      "car_name": "Ford Mustang GT3",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_185/fordmustanggt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix",
+      "track_id": 509,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/algarve-logo.png",
+      "track_name": "Algarve International Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 386839
+}
