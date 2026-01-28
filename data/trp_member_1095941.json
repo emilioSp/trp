@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-28T22:00:00Z",
+      "winner_group_id": 328176,
+      "winner_name": "Lucas Hermann",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "f1ef24",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 16,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 131,
+      "strength_of_field": 2934,
+      "subsession_id": 83107814,
+      "old_sub_level": 150,
+      "new_sub_level": 150,
+      "oldi_rating": 3198,
+      "newi_rating": 3238,
+      "track": {
+        "track_id": 541,
+        "track_name": "Shell V-Power Motorsport Park at The Bend"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
       "season_id": 5945,
       "series_id": 541,
       "series_name": "FIA F4 Esports Regional Tour - America",
@@ -428,54 +476,6 @@
         "track_name": "Algarve International Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5903,
-      "series_id": 559,
-      "series_name": "Rain Master Challenge",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-22T15:15:00Z",
-      "winner_group_id": 1048667,
-      "winner_name": "Ilan Meurs",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "ff0d0d",
-        "color2": "1238ff",
-        "color3": "efefef",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 4,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 82,
-      "strength_of_field": 1571,
-      "subsession_id": 82937081,
-      "old_sub_level": 193,
-      "new_sub_level": 170,
-      "oldi_rating": 3318,
-      "newi_rating": 3341,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
