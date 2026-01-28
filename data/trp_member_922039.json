@@ -4,6 +4,54 @@
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
+      "car_id": 132,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 132,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-01-28T20:45:00Z",
+      "winner_group_id": 157095,
+      "winner_name": "Andrew Coody",
+      "winner_helmet": {
+        "pattern": 33,
+        "color1": "160c7f",
+        "color2": "ff0d10",
+        "color3": "ffd409",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 22,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 102,
+      "strength_of_field": 2008,
+      "subsession_id": 83106298,
+      "old_sub_level": 214,
+      "new_sub_level": 202,
+      "oldi_rating": 2149,
+      "newi_rating": 2203,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
       "car_id": 156,
       "car_class_id": 4011,
       "livery": {
@@ -91,7 +139,7 @@
         "track_id": 434,
         "track_name": "Watkins Glen International"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 128,
-      "car_class_id": 2523,
-      "livery": {
-        "car_id": 128,
-        "pattern": 20,
-        "color1": "000000",
-        "color2": "2bff00",
-        "color3": "5200ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-12T20:45:00Z",
-      "winner_group_id": 102446,
-      "winner_name": "Ulrik Jensen",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "5e5e5e",
-        "color2": "111111",
-        "color3": "135324",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 4,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 31,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 43,
-      "strength_of_field": 1575,
-      "subsession_id": 82678303,
-      "old_sub_level": 204,
-      "new_sub_level": 146,
-      "oldi_rating": 2012,
-      "newi_rating": 1996,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 922039
