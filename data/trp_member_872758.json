@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 23,
+        "color1": "f3f4f3",
+        "color2": "0025e8",
+        "color3": "111111"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-27T22:45:00Z",
+      "winner_group_id": 1067094,
+      "winner_name": "Augustin Bernier2",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "003cd7",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 19,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 84,
+      "strength_of_field": 5507,
+      "subsession_id": 83083237,
+      "old_sub_level": 377,
+      "new_sub_level": 368,
+      "oldi_rating": 4126,
+      "newi_rating": 4120,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
       "season_id": 5924,
       "series_id": 237,
       "series_name": "GT Endurance Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 166,
       "oldi_rating": 3854,
       "newi_rating": 3903,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5928,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 22,
-        "color1": "0325b6",
-        "color2": "fbfeff",
-        "color3": "111111"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-15T20:45:00Z",
-      "winner_group_id": 197655,
-      "winner_name": "Kai Dalziel",
-      "winner_helmet": {
-        "pattern": 34,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "0030db",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 16,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 2,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 13,
-      "strength_of_field": 4349,
-      "subsession_id": 82756516,
-      "old_sub_level": 204,
-      "new_sub_level": 142,
-      "oldi_rating": 3924,
-      "newi_rating": 3854,
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"
