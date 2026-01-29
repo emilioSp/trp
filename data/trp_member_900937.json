@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-29T09:45:00Z",
+      "winner_group_id": 966264,
+      "winner_name": "Santiago González Soriano",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ffffff",
+        "color2": "ff0808",
+        "color3": "6b6b6b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 6,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 39,
+      "strength_of_field": 3112,
+      "subsession_id": 83120164,
+      "old_sub_level": 239,
+      "new_sub_level": 231,
+      "oldi_rating": 3445,
+      "newi_rating": 3387,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 206,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 206,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-28T21:45:00Z",
       "winner_group_id": 384222,
       "winner_name": "Matt J. Farrow",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 12,
-        "color1": "00FF10",
-        "color2": "FFFFFF",
-        "color3": "DBFF00"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-19T22:45:00Z",
-      "winner_group_id": 456918,
-      "winner_name": "Jeffrey Lawler",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 8,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 0,
-      "strength_of_field": 3873,
-      "subsession_id": 82867471,
-      "old_sub_level": 242,
-      "new_sub_level": 227,
-      "oldi_rating": 3644,
-      "newi_rating": 3559,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
     }
   ],
   "cust_id": 900937
