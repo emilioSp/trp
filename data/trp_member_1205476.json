@@ -4,6 +4,54 @@
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 132,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 132,
+        "pattern": 20,
+        "color1": "EBFF00",
+        "color2": "7CE632",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-01-29T23:45:00Z",
+      "winner_group_id": 994462,
+      "winner_name": "Martin Taylor4",
+      "winner_helmet": {
+        "pattern": 37,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "00baff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 5,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 103,
+      "strength_of_field": 1885,
+      "subsession_id": 83134599,
+      "old_sub_level": 363,
+      "new_sub_level": 371,
+      "oldi_rating": 2076,
+      "newi_rating": 2140,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
       "car_id": 156,
       "car_class_id": 4011,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 20,
-        "color1": "1A1A1A",
-        "color2": "E54B33",
-        "color3": "1A1A1A"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-17T11:45:00Z",
-      "winner_group_id": 1235891,
-      "winner_name": "Sergey Bogdanov",
-      "winner_helmet": {
-        "pattern": 18,
-        "color1": "ffffff",
-        "color2": "000000",
-        "color3": "2b0087",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 1,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 101,
-      "strength_of_field": 1699,
-      "subsession_id": 82799537,
-      "old_sub_level": 227,
-      "new_sub_level": 246,
-      "oldi_rating": 2016,
-      "newi_rating": 2091,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
     }
   ],
   "cust_id": 1205476
