@@ -14,6 +14,54 @@
         "color3": "ED00F2"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-31T16:45:00Z",
+      "winner_group_id": 1262617,
+      "winner_name": "Donovan Budhoo Iii",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "010101",
+        "color2": "FFCA0B",
+        "color3": "EE3124",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 2,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 15,
+      "points": 33,
+      "strength_of_field": 1310,
+      "subsession_id": 83178395,
+      "old_sub_level": 200,
+      "new_sub_level": 138,
+      "oldi_rating": 728,
+      "newi_rating": 742,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 206,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 206,
+        "pattern": 18,
+        "color1": "7E00FC",
+        "color2": "00F218",
+        "color3": "ED00F2"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-31T08:45:00Z",
       "winner_group_id": 839420,
       "winner_name": "Jonas Tuán Theander",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 188,
-        "pattern": 6,
-        "color1": "0083FC",
-        "color2": "FFFFFF",
-        "color3": "00F218"
-      },
-      "license_level": 14,
-      "session_start_time": "2025-10-08T16:00:00Z",
-      "winner_group_id": 1243666,
-      "winner_name": "Asiera Madeu",
-      "winner_helmet": {
-        "pattern": 19,
-        "color1": "0ada00",
-        "color2": "ff0000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 11,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 36,
-      "strength_of_field": 953,
-      "subsession_id": 80389634,
-      "old_sub_level": 225,
-      "new_sub_level": 240,
-      "oldi_rating": 503,
-      "newi_rating": 558,
-      "track": {
-        "track_id": 345,
-        "track_name": "Circuit de Barcelona Catalunya"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1152067
