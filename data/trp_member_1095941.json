@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-01-31T22:00:00Z",
+      "winner_group_id": 328176,
+      "winner_name": "Lucas Hermann",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "f1ef24",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 17,
+      "finish_position": 23,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 45,
+      "strength_of_field": 3010,
+      "subsession_id": 83185673,
+      "old_sub_level": 102,
+      "new_sub_level": 145,
+      "oldi_rating": 3101,
+      "newi_rating": 3053,
+      "track": {
+        "track_id": 541,
+        "track_name": "Shell V-Power Motorsport Park at The Bend"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
       "season_id": 5922,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -428,54 +476,6 @@
         "track_name": "Algarve International Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5937,
-      "series_id": 455,
-      "series_name": "Formula Vee Series by trophi.ai",
-      "car_id": 142,
-      "car_class_id": 3002,
-      "livery": {
-        "car_id": 142,
-        "pattern": 1,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-01-24T01:00:00Z",
-      "winner_group_id": 843819,
-      "winner_name": "Travis Henning",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "de6b0d",
-        "color2": "114749",
-        "color3": "72ee5e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 9,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 0,
-      "strength_of_field": 2044,
-      "subsession_id": 82974082,
-      "old_sub_level": 234,
-      "new_sub_level": 214,
-      "oldi_rating": 1666,
-      "newi_rating": 1591,
-      "track": {
-        "track_id": 202,
-        "track_name": "Oran Park Raceway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
