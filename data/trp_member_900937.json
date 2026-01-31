@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 18,
+      "session_start_time": "2026-01-30T22:45:00Z",
+      "winner_group_id": 1134346,
+      "winner_name": "George Cross",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "ffffff",
+        "color2": "0610ff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 15,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 141,
+      "strength_of_field": 3976,
+      "subsession_id": 83158859,
+      "old_sub_level": 286,
+      "new_sub_level": 347,
+      "oldi_rating": 3570,
+      "newi_rating": 3602,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 206,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 206,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-30T16:45:00Z",
       "winner_group_id": 573806,
       "winner_name": "Giovanni Fini",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 12,
-        "color1": "00FF10",
-        "color2": "FFFFFF",
-        "color3": "DBFF00"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-26T14:00:00Z",
-      "winner_group_id": 546817,
-      "winner_name": "Ryan van de Grijp",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "cf0000",
-        "color2": "ffc30f",
-        "color3": "ff5c00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 8,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 19,
-      "points": 41,
-      "strength_of_field": 3231,
-      "subsession_id": 83046011,
-      "old_sub_level": 244,
-      "new_sub_level": 207,
-      "oldi_rating": 3479,
-      "newi_rating": 3422,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
     }
   ],
   "cust_id": 900937
