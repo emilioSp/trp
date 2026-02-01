@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5975,
+      "series_id": 538,
+      "series_name": "Draft Master Challenge by Simagic",
+      "car_id": 141,
+      "car_class_id": 4040,
+      "livery": {
+        "car_id": 141,
+        "pattern": 4,
+        "color1": "EFE600",
+        "color2": "000000",
+        "color3": "000000"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-02-01T21:00:00Z",
+      "winner_group_id": 1156340,
+      "winner_name": "Diogo S Ferreira",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "fff503",
+        "color2": "90fffc",
+        "color3": "ff6cf9",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 86,
+      "strength_of_field": 1440,
+      "subsession_id": 83212783,
+      "old_sub_level": 264,
+      "new_sub_level": 275,
+      "oldi_rating": 1424,
+      "newi_rating": 1512,
+      "track": {
+        "track_id": 191,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
-    },
-    {
-      "season_id": 5895,
-      "series_id": 514,
-      "series_name": "Toyota GR86 Cup by SIMAGIC",
-      "car_id": 160,
-      "car_class_id": 4012,
-      "livery": {
-        "car_id": 160,
-        "pattern": 2,
-        "color1": "f3da00",
-        "color2": "000000",
-        "color3": "a50c0c"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-20T17:45:00Z",
-      "winner_group_id": 644579,
-      "winner_name": "Xela Lewis",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "ff2222",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 12,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 86,
-      "strength_of_field": 2725,
-      "subsession_id": 82043614,
-      "old_sub_level": 258,
-      "new_sub_level": 242,
-      "oldi_rating": 2529,
-      "newi_rating": 2541,
-      "track": {
-        "track_id": 465,
-        "track_name": "Virginia International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1107481
