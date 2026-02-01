@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5934,
+      "series_id": 419,
+      "series_name": "IMSA Endurance Series",
+      "car_id": 206,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 206,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-01T14:00:00Z",
+      "winner_group_id": -443706,
+      "winner_name": "Aquila Motorsport I",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 13,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 91,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 185,
+      "strength_of_field": 3674,
+      "subsession_id": 83203247,
+      "old_sub_level": 347,
+      "new_sub_level": 371,
+      "oldi_rating": 3602,
+      "newi_rating": 3670,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Watkins Glen International"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-27T14:45:00Z",
-      "winner_group_id": 506758,
-      "winner_name": "Sean Moriarty",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "050f92",
-        "color2": "9c9f02",
-        "color3": "2540f4",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 9,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 47,
-      "strength_of_field": 3154,
-      "subsession_id": 83073743,
-      "old_sub_level": 207,
-      "new_sub_level": 200,
-      "oldi_rating": 3422,
-      "newi_rating": 3367,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
