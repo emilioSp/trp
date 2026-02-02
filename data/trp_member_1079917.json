@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5907,
+      "series_id": 210,
+      "series_name": "Global Sports Car Challenge by Fanatec",
+      "car_id": 41,
+      "car_class_id": 45,
+      "livery": {
+        "car_id": 41,
+        "pattern": 0,
+        "color1": "cccccc",
+        "color2": "ed1c24",
+        "color3": "111111"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-02-02T13:30:00Z",
+      "winner_group_id": 1269963,
+      "winner_name": "Eldar Khakimov",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "00f7ff",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 4,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 76,
+      "strength_of_field": 2015,
+      "subsession_id": 83230546,
+      "old_sub_level": 418,
+      "new_sub_level": 410,
+      "oldi_rating": 3638,
+      "newi_rating": 3628,
+      "track": {
+        "track_id": 18,
+        "track_name": "Road America"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
       "season_id": 5909,
       "series_id": 503,
       "series_name": "TCR Virtual Challenge",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 478,
         "track_name": "MotorLand Aragón"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5909,
-      "series_id": 503,
-      "series_name": "TCR Virtual Challenge",
-      "car_id": 153,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 153,
-        "pattern": 17,
-        "color1": "797a7c",
-        "color2": "c9e80d",
-        "color3": "12e6ec"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-01-24T13:45:00Z",
-      "winner_group_id": 1006499,
-      "winner_name": "Anthony Lammer",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "ffffff",
-        "color2": "920606",
-        "color3": "920000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 100,
-      "strength_of_field": 2164,
-      "subsession_id": 82987922,
-      "old_sub_level": 453,
-      "new_sub_level": 462,
-      "oldi_rating": 3722,
-      "newi_rating": 3747,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
       },
       "drop_race": true,
       "season_year": 2026,
