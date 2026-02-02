@@ -14,6 +14,54 @@
         "color3": "bf2304"
       },
       "license_level": 18,
+      "session_start_time": "2026-02-02T21:45:00Z",
+      "winner_group_id": 993697,
+      "winner_name": "Jimmy Carroll",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "150094",
+        "color2": "ffffff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 7,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 64,
+      "strength_of_field": 2241,
+      "subsession_id": 83239388,
+      "old_sub_level": 210,
+      "new_sub_level": 212,
+      "oldi_rating": 2438,
+      "newi_rating": 2427,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 206,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 206,
+        "pattern": 2,
+        "color1": "0fa105",
+        "color2": "f7f7f7",
+        "color3": "bf2304"
+      },
+      "license_level": 18,
       "session_start_time": "2026-01-31T21:45:00Z",
       "winner_group_id": 976787,
       "winner_name": "Arthur Zajac",
@@ -43,7 +91,7 @@
         "track_id": 434,
         "track_name": "Watkins Glen International"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
@@ -423,54 +471,6 @@
       "new_sub_level": 180,
       "oldi_rating": 2371,
       "newi_rating": 2341,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 12,
-        "color1": "f7f7f7",
-        "color2": "0fa105",
-        "color3": "bf2304"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-12-01T20:00:00Z",
-      "winner_group_id": 828731,
-      "winner_name": "Nelson Ricardo",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "009b03",
-        "color2": "ff0000",
-        "color3": "ffff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 12,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 93,
-      "strength_of_field": 2377,
-      "subsession_id": 81651707,
-      "old_sub_level": 180,
-      "new_sub_level": 179,
-      "oldi_rating": 2345,
-      "newi_rating": 2371,
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"
