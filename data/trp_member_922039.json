@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 16,
+        "color1": "C4FF00",
+        "color2": "C4FF00",
+        "color3": "C2FC00"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-02-03T21:45:00Z",
+      "winner_group_id": 827616,
+      "winner_name": "Riccardo Groppi",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "fffc00",
+        "color2": "fffc00",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 6,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 104,
+      "strength_of_field": 2224,
+      "subsession_id": 83264820,
+      "old_sub_level": 202,
+      "new_sub_level": 237,
+      "oldi_rating": 2203,
+      "newi_rating": 2255,
+      "track": {
+        "track_id": 474,
+        "track_name": "Circuito de Jerez - Ángel Nieto"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "C4FF00",
-        "color2": "C4FF00",
-        "color3": "C2FC00"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-15T21:45:00Z",
-      "winner_group_id": 495576,
-      "winner_name": "Kaden Bristow",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "0157b7",
-        "color2": "0157b7",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 12,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 49,
-      "strength_of_field": 1963,
-      "subsession_id": 82757819,
-      "old_sub_level": 146,
-      "new_sub_level": 131,
-      "oldi_rating": 1996,
-      "newi_rating": 1978,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
