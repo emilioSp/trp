@@ -13,6 +13,54 @@
         "color2": "111111",
         "color3": "284a94"
       },
+      "license_level": 13,
+      "session_start_time": "2026-02-03T21:45:00Z",
+      "winner_group_id": 876386,
+      "winner_name": "Tom Baud",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "2d2d2d",
+        "color2": "000000",
+        "color3": "ff3d00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 5,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 17,
+      "points": 31,
+      "strength_of_field": 1833,
+      "subsession_id": 83264816,
+      "old_sub_level": 157,
+      "new_sub_level": 126,
+      "oldi_rating": 1702,
+      "newi_rating": 1666,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
       "license_level": 14,
       "session_start_time": "2026-02-03T20:45:00Z",
       "winner_group_id": 1102888,
@@ -43,7 +91,7 @@
         "track_id": 403,
         "track_name": "Red Bull Ring"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 509,
         "track_name": "Algarve International Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-24T21:45:00Z",
-      "winner_group_id": 1072830,
-      "winner_name": "Timothy Hastings",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "eaff00",
-        "color2": "ff0000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 5,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 60,
-      "strength_of_field": 1694,
-      "subsession_id": 82998634,
-      "old_sub_level": 133,
-      "new_sub_level": 143,
-      "oldi_rating": 1758,
-      "newi_rating": 1770,
-      "track": {
-        "track_id": 180,
-        "track_name": "Oulton Park Circuit"
       },
       "drop_race": true,
       "season_year": 2026,
