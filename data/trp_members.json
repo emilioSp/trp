@@ -1,5 +1,15 @@
 [
   {
+    "id": 872525,
+    "name": "Vito Fatalino",
+    "memberSince": "2023-02-14",
+    "country": "Italy",
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 2.51,
+    "iRating": 4020
+  },
+  {
     "id": 1153360,
     "name": "Simone Masi2",
     "memberSince": "2024-12-03",
@@ -68,6 +78,16 @@
     "className": "A",
     "safetyRating": 3.5,
     "iRating": 3601
+  },
+  {
+    "id": 812737,
+    "name": "Alberto Testi2",
+    "memberSince": "2022-08-15",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.7,
+    "iRating": 2065
   },
   {
     "id": 1152067,
@@ -238,25 +258,5 @@
     "className": "A",
     "safetyRating": 4.19,
     "iRating": 3644
-  },
-  {
-    "id": 812737,
-    "name": "Alberto Testi2",
-    "memberSince": "2022-08-15",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 2.7,
-    "iRating": 2065
-  },
-  {
-    "id": 872525,
-    "name": "Vito Fatalino",
-    "memberSince": "2023-02-14",
-    "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 2.51,
-    "iRating": 4020
   }
 ]
