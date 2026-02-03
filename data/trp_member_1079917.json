@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 23,
+        "color1": "595c5c",
+        "color2": "cbe81e",
+        "color3": "790ce6"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-02-03T20:00:00Z",
+      "winner_group_id": 852264,
+      "winner_name": "Landon Loy",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "5e5e5e",
+        "color2": "111111",
+        "color3": "135324",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 16,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 121,
+      "strength_of_field": 3448,
+      "subsession_id": 83262951,
+      "old_sub_level": 419,
+      "new_sub_level": 412,
+      "oldi_rating": 3644,
+      "newi_rating": 3652,
+      "track": {
+        "track_id": 247,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
       "season_id": 5908,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "MotorLand Aragón"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 23,
-        "color1": "595c5c",
-        "color2": "cbe81e",
-        "color3": "790ce6"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-01-26T18:00:00Z",
-      "winner_group_id": 546817,
-      "winner_name": "Ryan van de Grijp",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "cf0000",
-        "color2": "ffc30f",
-        "color3": "ff5c00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 28,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 118,
-      "strength_of_field": 4047,
-      "subsession_id": 83050216,
-      "old_sub_level": 470,
-      "new_sub_level": 431,
-      "oldi_rating": 3736,
-      "newi_rating": 3745,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
