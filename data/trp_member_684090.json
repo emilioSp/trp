@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5928,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 2,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "eeeeee"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-02-05T15:45:00Z",
+      "winner_group_id": 328982,
+      "winner_name": "Quentin J Guillouet",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "efd600",
+        "color2": "111111",
+        "color3": "d7162d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 14,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 72,
+      "strength_of_field": 2856,
+      "subsession_id": 83308744,
+      "old_sub_level": 162,
+      "new_sub_level": 141,
+      "oldi_rating": 3189,
+      "newi_rating": 3165,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 345,
       "oldi_rating": 3125,
       "newi_rating": 3181,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-11-29T15:15:00Z",
-      "winner_group_id": 1169733,
-      "winner_name": "Marc-André Kastenholz",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "8a0000",
-        "color2": "000000",
-        "color3": "7213fe",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 6,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 152,
-      "strength_of_field": 2841,
-      "subsession_id": 81598239,
-      "old_sub_level": 277,
-      "new_sub_level": 283,
-      "oldi_rating": 3058,
-      "newi_rating": 3125,
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"
