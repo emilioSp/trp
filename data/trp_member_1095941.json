@@ -14,6 +14,54 @@
         "color3": "ed2129"
       },
       "license_level": 17,
+      "session_start_time": "2026-02-05T22:00:00Z",
+      "winner_group_id": 1153078,
+      "winner_name": "Benjamin G Massey",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "102595",
+        "color2": "0d7995",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 10,
+      "incidents": 1,
+      "points": 168,
+      "strength_of_field": 2823,
+      "subsession_id": 83316035,
+      "old_sub_level": 126,
+      "new_sub_level": 157,
+      "oldi_rating": 2988,
+      "newi_rating": 3072,
+      "track": {
+        "track_id": 247,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 17,
       "session_start_time": "2026-02-04T08:00:00Z",
       "winner_group_id": 223584,
       "winner_name": "Lubomir Schiwietz",
@@ -43,7 +91,7 @@
         "track_id": 247,
         "track_name": "Autodromo Nazionale Monza"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
-    },
-    {
-      "season_id": 5945,
-      "series_id": 541,
-      "series_name": "FIA F4 Esports Regional Tour - America",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 21,
-        "color1": "2A3795",
-        "color2": "FFFFFF",
-        "color3": "ED2129"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-01-25T17:15:00Z",
-      "winner_group_id": 1238436,
-      "winner_name": "Avi Malavalli",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "f2d900",
-        "color2": "bc0000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 7,
-      "start_position": 7,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 2,
-      "incidents": 13,
-      "points": 91,
-      "strength_of_field": 1515,
-      "subsession_id": 83021385,
-      "old_sub_level": 214,
-      "new_sub_level": 217,
-      "oldi_rating": 1591,
-      "newi_rating": 1675,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1095941
