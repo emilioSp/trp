@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 2,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "eeeeee"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-02-06T16:00:00Z",
+      "winner_group_id": 1127766,
+      "winner_name": "Lee W Smith",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "0139ff",
+        "color2": "f70f24",
+        "color3": "efd600",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 6,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 3,
+      "incidents": 7,
+      "points": 182,
+      "strength_of_field": 3048,
+      "subsession_id": 83335108,
+      "old_sub_level": 141,
+      "new_sub_level": 145,
+      "oldi_rating": 3165,
+      "newi_rating": 3250,
+      "track": {
+        "track_id": 247,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
       "season_id": 5928,
       "series_id": 595,
       "series_name": "iRacing GT3 Regional Tour - Americas",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-11-29T16:00:00Z",
-      "winner_group_id": 955794,
-      "winner_name": "Bruno Nunes Morais",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "063b35",
-        "color2": "f4f3f3",
-        "color3": "d75221",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 16,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 152,
-      "strength_of_field": 3104,
-      "subsession_id": 81599033,
-      "old_sub_level": 283,
-      "new_sub_level": 345,
-      "oldi_rating": 3125,
-      "newi_rating": 3181,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
     }
   ],
   "cust_id": 684090
