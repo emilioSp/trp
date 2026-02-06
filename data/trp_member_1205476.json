@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 16,
+        "color1": "EBFF00",
+        "color2": "7CE632",
+        "color3": "000000"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-02-05T23:15:00Z",
+      "winner_group_id": 125352,
+      "winner_name": "Connor Brannon",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "008fff",
+        "color2": "00bbff",
+        "color3": "d5ff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 12,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 5,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 41,
+      "strength_of_field": 2136,
+      "subsession_id": 83317542,
+      "old_sub_level": 260,
+      "new_sub_level": 246,
+      "oldi_rating": 2069,
+      "newi_rating": 2037,
+      "track": {
+        "track_id": 247,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 263,
       "oldi_rating": 2045,
       "newi_rating": 1966,
-      "track": {
-        "track_id": 478,
-        "track_name": "MotorLand Aragón"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 188,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 188,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-25T10:45:00Z",
-      "winner_group_id": 1358202,
-      "winner_name": "Fernando Sacramento",
-      "winner_helmet": {
-        "pattern": 62,
-        "color1": "fdff00",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 16,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 25,
-      "strength_of_field": 2435,
-      "subsession_id": 83013768,
-      "old_sub_level": 288,
-      "new_sub_level": 265,
-      "oldi_rating": 2092,
-      "newi_rating": 2045,
       "track": {
         "track_id": 478,
         "track_name": "MotorLand Aragón"
