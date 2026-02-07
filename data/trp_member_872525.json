@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "1C1FED",
+        "color2": "000000",
+        "color3": "F3F3F3"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-02-07T07:00:00Z",
+      "winner_group_id": -139642,
+      "winner_name": "Switch It - Sapphire",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 110,
+      "laps_led": 0,
+      "incidents": 20,
+      "points": 143,
+      "strength_of_field": 3504,
+      "subsession_id": 83353386,
+      "old_sub_level": 226,
+      "new_sub_level": 361,
+      "oldi_rating": 4118,
+      "newi_rating": 4127,
+      "track": {
+        "track_id": 474,
+        "track_name": "Circuito de Jerez - Ángel Nieto"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 5,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-01-18T18:00:00Z",
-      "winner_group_id": 808067,
-      "winner_name": "Ákos Borsányi",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "ff0000",
-        "color2": "ffffff",
-        "color3": "0e4a00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 225,
-      "strength_of_field": 3836,
-      "subsession_id": 82834364,
-      "old_sub_level": 365,
-      "new_sub_level": 368,
-      "oldi_rating": 3814,
-      "newi_rating": 3908,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4

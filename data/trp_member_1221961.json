@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "1C1FED",
+        "color2": "000000",
+        "color3": "F3F3F3"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-07T07:00:00Z",
+      "winner_group_id": -139642,
+      "winner_name": "Switch It - Sapphire",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 108,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 143,
+      "strength_of_field": 3504,
+      "subsession_id": 83353386,
+      "old_sub_level": 365,
+      "new_sub_level": 448,
+      "oldi_rating": 4955,
+      "newi_rating": 4963,
+      "track": {
+        "track_id": 474,
+        "track_name": "Circuito de Jerez - Ángel Nieto"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 6,
-        "color1": "0400FF",
-        "color2": "391010",
-        "color3": "AF1010"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-01-19T12:45:00Z",
-      "winner_group_id": 1075703,
-      "winner_name": "Daniel Gorochov",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "ffffff",
-        "color2": "000000",
-        "color3": "590381",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 4,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 25,
-      "strength_of_field": 4128,
-      "subsession_id": 82855162,
-      "old_sub_level": 491,
-      "new_sub_level": 454,
-      "oldi_rating": 4649,
-      "newi_rating": 4569,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4

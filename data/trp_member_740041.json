@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5928,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 2,
+        "color1": "0fa105",
+        "color2": "f7f7f7",
+        "color3": "bf2304"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-02-07T13:45:00Z",
+      "winner_group_id": 1242981,
+      "winner_name": "Wesley Izaks2",
+      "winner_helmet": {
+        "pattern": 42,
+        "color1": "ffffff",
+        "color2": "ee5600",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 11,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 92,
+      "strength_of_field": 2619,
+      "subsession_id": 83359972,
+      "old_sub_level": 212,
+      "new_sub_level": 225,
+      "oldi_rating": 2427,
+      "newi_rating": 2448,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
       "season_id": 5936,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
-    },
-    {
-      "season_id": 5760,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 12,
-        "color1": "f7f7f7",
-        "color2": "0fa105",
-        "color3": "bf2304"
-      },
-      "license_level": 17,
-      "session_start_time": "2025-12-01T21:15:00Z",
-      "winner_group_id": 543059,
-      "winner_name": "Rui Costa7",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "bdff00",
-        "color2": "ff0054",
-        "color3": "1d99ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 9,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 48,
-      "strength_of_field": 2504,
-      "subsession_id": 81653086,
-      "old_sub_level": 179,
-      "new_sub_level": 180,
-      "oldi_rating": 2371,
-      "newi_rating": 2341,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
     }
   ],
   "cust_id": 740041
