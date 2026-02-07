@@ -4,6 +4,54 @@
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "78ff00",
+        "color3": "6900ff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-02-07T20:45:00Z",
+      "winner_group_id": 1227695,
+      "winner_name": "Saad Abkari",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "000000",
+        "color2": "48421f",
+        "color3": "ffd700",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 3,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 28,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 73,
+      "strength_of_field": 1834,
+      "subsession_id": 83369043,
+      "old_sub_level": 268,
+      "new_sub_level": 284,
+      "oldi_rating": 2328,
+      "newi_rating": 2339,
+      "track": {
+        "track_id": 474,
+        "track_name": "Circuito de Jerez - Ángel Nieto"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
       "car_id": 133,
       "car_class_id": 4011,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6072,
-      "series_id": 298,
-      "series_name": "Daytona 24",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 2,
-        "color1": "DACB04",
-        "color2": "387337",
-        "color3": "4677B4"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-17T07:00:00Z",
-      "winner_group_id": -429840,
-      "winner_name": "Filière Performance eSport 1",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 10,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 149,
-      "laps_led": 0,
-      "incidents": 19,
-      "points": 121,
-      "strength_of_field": 2628,
-      "subsession_id": 82795333,
-      "old_sub_level": 113,
-      "new_sub_level": 294,
-      "oldi_rating": 1907,
-      "newi_rating": 1916,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
     }
   ],
   "cust_id": 922039
