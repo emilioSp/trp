@@ -14,6 +14,54 @@
         "color3": "0a35e9"
       },
       "license_level": 20,
+      "session_start_time": "2026-02-07T13:45:00Z",
+      "winner_group_id": 637477,
+      "winner_name": "Gianluca Alberici",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "adff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 4,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 95,
+      "strength_of_field": 2012,
+      "subsession_id": 83359985,
+      "old_sub_level": 437,
+      "new_sub_level": 450,
+      "oldi_rating": 3824,
+      "newi_rating": 3833,
+      "track": {
+        "track_id": 474,
+        "track_name": "Circuito de Jerez - Ángel Nieto"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 18,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 20,
       "session_start_time": "2026-02-05T13:45:00Z",
       "winner_group_id": 981846,
       "winner_name": "Michael J Edwards",
@@ -235,7 +283,7 @@
         "track_id": 474,
         "track_name": "Circuito de Jerez - Ángel Nieto"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 9,
         "track_name": "Summit Point Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5943,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 14,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 5,
-      "session_start_time": "2026-01-28T21:00:00Z",
-      "winner_group_id": 346339,
-      "winner_name": "Stephane Cove",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "b82f37",
-        "color2": "284a94",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 7,
-      "start_position": 10,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 10,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 103,
-      "strength_of_field": 1822,
-      "subsession_id": 83106663,
-      "old_sub_level": 180,
-      "new_sub_level": 199,
-      "oldi_rating": 1741,
-      "newi_rating": 1823,
-      "track": {
-        "track_id": 180,
-        "track_name": "Oulton Park Circuit"
       },
       "drop_race": false,
       "season_year": 2026,
