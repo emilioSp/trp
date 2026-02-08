@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-02-08T17:15:00Z",
+      "winner_group_id": 593272,
+      "winner_name": "Juan Ibiapina",
+      "winner_helmet": {
+        "pattern": 62,
+        "color1": "e1fd72",
+        "color2": "2200ff",
+        "color3": "59ff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 16,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 68,
+      "strength_of_field": 2680,
+      "subsession_id": 83393453,
+      "old_sub_level": 241,
+      "new_sub_level": 230,
+      "oldi_rating": 2635,
+      "newi_rating": 2622,
+      "track": {
+        "track_id": 247,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
       "season_id": 5975,
       "series_id": 538,
       "series_name": "Draft Master Challenge by Simagic",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-04T22:00:00Z",
-      "winner_group_id": 857815,
-      "winner_name": "Leon Mischke",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "372a75",
-        "color3": "f1732e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 14,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 30,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 136,
-      "strength_of_field": 3272,
-      "subsession_id": 82463324,
-      "old_sub_level": 242,
-      "new_sub_level": 278,
-      "oldi_rating": 2541,
-      "newi_rating": 2600,
-      "track": {
-        "track_id": 580,
-        "track_name": "Adelaide Street Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
     }
   ],
   "cust_id": 1107481
