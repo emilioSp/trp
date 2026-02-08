@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5908,
+      "series_id": 430,
+      "series_name": "TCR Virtual Challenge - Fixed",
+      "car_id": 146,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 146,
+        "pattern": 9,
+        "color1": "09ffc2",
+        "color2": "0080ff",
+        "color3": "fffa00"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-08T12:45:00Z",
+      "winner_group_id": 654515,
+      "winner_name": "Mikka Santa Helena",
+      "winner_helmet": {
+        "pattern": 54,
+        "color1": "000000",
+        "color2": "00a3ff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 1,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 5,
+      "incidents": 1,
+      "points": 86,
+      "strength_of_field": 1583,
+      "subsession_id": 83387421,
+      "old_sub_level": 338,
+      "new_sub_level": 342,
+      "oldi_rating": 4084,
+      "newi_rating": 4098,
+      "track": {
+        "track_id": 247,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 7
+    },
+    {
       "season_id": 5913,
       "series_id": 492,
       "series_name": "IMSA Michelin Pilot Challenge Series",
@@ -91,7 +139,7 @@
         "track_id": 247,
         "track_name": "Autodromo Nazionale Monza"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
@@ -423,54 +471,6 @@
       "new_sub_level": 270,
       "oldi_rating": 3942,
       "newi_rating": 3989,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5908,
-      "series_id": 430,
-      "series_name": "TCR Virtual Challenge - Fixed",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-22T18:45:00Z",
-      "winner_group_id": 528243,
-      "winner_name": "David K Johansson",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "000000",
-        "color2": "05c8f3",
-        "color3": "ae23f9",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 116,
-      "strength_of_field": 2205,
-      "subsession_id": 82940807,
-      "old_sub_level": 199,
-      "new_sub_level": 253,
-      "oldi_rating": 3910,
-      "newi_rating": 3942,
       "track": {
         "track_id": 179,
         "track_name": "Long Beach Street Circuit"
