@@ -4,10 +4,10 @@
     "name": "Vito Fatalino",
     "memberSince": "2023-02-14",
     "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 3.65,
-    "iRating": 4127
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.46,
+    "iRating": 4151
   },
   {
     "id": 1153360,
@@ -146,8 +146,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 4.48,
-    "iRating": 4963
+    "safetyRating": 4.99,
+    "iRating": 4987
   },
   {
     "id": 420122,
@@ -176,8 +176,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.23,
-    "iRating": 5013
+    "safetyRating": 3.83,
+    "iRating": 5037
   },
   {
     "id": 913773,

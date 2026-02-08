@@ -13,6 +13,54 @@
         "color2": "000000",
         "color3": "F3F3F3"
       },
+      "license_level": 20,
+      "session_start_time": "2026-02-08T14:00:00Z",
+      "winner_group_id": -472533,
+      "winner_name": "Owned Esport",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 73,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 215,
+      "strength_of_field": 3743,
+      "subsession_id": 83389315,
+      "old_sub_level": 448,
+      "new_sub_level": 499,
+      "oldi_rating": 4963,
+      "newi_rating": 4987,
+      "track": {
+        "track_id": 474,
+        "track_name": "Circuito de Jerez - Ángel Nieto"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "1C1FED",
+        "color2": "000000",
+        "color3": "F3F3F3"
+      },
       "license_level": 19,
       "session_start_time": "2026-02-07T07:00:00Z",
       "winner_group_id": -139642,
@@ -43,7 +91,7 @@
         "track_id": 474,
         "track_name": "Circuito de Jerez - Ángel Nieto"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 6,
-        "color1": "0400FF",
-        "color2": "391010",
-        "color3": "AF1010"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-01-19T14:00:00Z",
-      "winner_group_id": 993147,
-      "winner_name": "Jan B Saamer",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "000000",
-        "color2": "fff600",
-        "color3": "fff800",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 4,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 2,
-      "incidents": 6,
-      "points": 204,
-      "strength_of_field": 3453,
-      "subsession_id": 82857025,
-      "old_sub_level": 454,
-      "new_sub_level": 439,
-      "oldi_rating": 4569,
-      "newi_rating": 4638,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
