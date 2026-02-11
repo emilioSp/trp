@@ -14,8 +14,6 @@ const fetchWithRetry = async (
   url: string,
   options?: RequestInit,
 ): Promise<Response> => {
-  let lastError: Error | undefined;
-
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
     if (attempt > 0) {
       const delay = INITIAL_DELAY_MS * 2 ** (attempt - 1);
@@ -30,28 +28,27 @@ const fetchWithRetry = async (
         return response;
       }
 
-      if (!RETRYABLE_STATUS_CODES.has(response.status)) {
+      if (
+        !RETRYABLE_STATUS_CODES.has(response.status) ||
+        attempt === MAX_RETRIES
+      ) {
         throw new Error(
           `Failed to fetch data from ${url}: ${response.status} ${response.statusText}`,
         );
       }
-
-      lastError = new Error(
-        `Failed to fetch data from ${url}: ${response.status} ${response.statusText}`,
-      );
     } catch (error) {
-      lastError = error instanceof Error ? error : new Error(String(error));
-
-      // Do not retry non-network, non-retryable errors
-      if (lastError.message.startsWith('Failed to fetch data from')) {
-        throw lastError;
+      if (
+        attempt === MAX_RETRIES ||
+        (error instanceof Error &&
+          error.message.startsWith('Failed to fetch data from'))
+      ) {
+        throw error;
       }
     }
   }
 
-  throw (
-    lastError ??
-    new Error(`Failed to fetch data from ${url} after ${MAX_RETRIES} retries`)
+  throw new Error(
+    `Failed to fetch data from ${url} after ${MAX_RETRIES} retries`,
   );
 };
 
