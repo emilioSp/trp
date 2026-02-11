@@ -21,29 +21,29 @@ const fetchWithRetry = async (
       await sleep(delay);
     }
 
+    let response: Response;
     try {
-      const response = await fetch(url, options);
-
-      if (response.ok) {
-        return response;
-      }
-
-      if (
-        !RETRYABLE_STATUS_CODES.has(response.status) ||
-        attempt === MAX_RETRIES
-      ) {
+      response = await fetch(url, options);
+    } catch {
+      if (attempt === MAX_RETRIES) {
         throw new Error(
-          `Failed to fetch data from ${url}: ${response.status} ${response.statusText}`,
+          `Failed to fetch data from ${url} after ${MAX_RETRIES} retries`,
         );
       }
-    } catch (error) {
-      if (
-        attempt === MAX_RETRIES ||
-        (error instanceof Error &&
-          error.message.startsWith('Failed to fetch data from'))
-      ) {
-        throw error;
-      }
+      continue;
+    }
+
+    if (response.ok) {
+      return response;
+    }
+
+    if (
+      !RETRYABLE_STATUS_CODES.has(response.status) ||
+      attempt === MAX_RETRIES
+    ) {
+      throw new Error(
+        `Failed to fetch data from ${url}: ${response.status} ${response.statusText}`,
+      );
     }
   }
 
