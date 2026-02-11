@@ -49,7 +49,10 @@ const fetchWithRetry = async (
     }
   }
 
-  throw lastError;
+  throw (
+    lastError ??
+    new Error(`Failed to fetch data from ${url} after ${MAX_RETRIES} retries`)
+  );
 };
 
 export const fetchData = async (url: string) => {
