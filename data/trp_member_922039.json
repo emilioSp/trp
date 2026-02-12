@@ -14,6 +14,54 @@
         "color3": "C2FC00"
       },
       "license_level": 18,
+      "session_start_time": "2026-02-12T20:45:00Z",
+      "winner_group_id": 426292,
+      "winner_name": "Ben Groeneveld",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "000000",
+        "color2": "ffd700",
+        "color3": "d8dbe2",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 6,
+      "finish_position": 27,
+      "qualifying_time": 0,
+      "laps": 2,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 13,
+      "strength_of_field": 2075,
+      "subsession_id": 83499151,
+      "old_sub_level": 263,
+      "new_sub_level": 249,
+      "oldi_rating": 2190,
+      "newi_rating": 2110,
+      "track": {
+        "track_id": 18,
+        "track_name": "Road America"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 5935,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 6,
+        "color1": "C4FF00",
+        "color2": "C4FF00",
+        "color3": "C2FC00"
+      },
+      "license_level": 18,
       "session_start_time": "2026-02-11T20:45:00Z",
       "winner_group_id": 1181311,
       "winner_name": "Bartłomiej Pastuszka",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "C4FF00",
-        "color2": "C4FF00",
-        "color3": "C2FC00"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-24T20:45:00Z",
-      "winner_group_id": 456918,
-      "winner_name": "Jeffrey Lawler",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 13,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 108,
-      "strength_of_field": 2246,
-      "subsession_id": 82997158,
-      "old_sub_level": 233,
-      "new_sub_level": 244,
-      "oldi_rating": 2069,
-      "newi_rating": 2131,
-      "track": {
-        "track_id": 478,
-        "track_name": "MotorLand Aragón"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
     }
   ],
   "cust_id": 922039
