@@ -4,6 +4,54 @@ type ApiLinkResponse = {
   link: string;
 };
 
+const MAX_RETRIES = 3;
+const INITIAL_DELAY_MS = 2_000;
+const RETRYABLE_STATUS_CODES = new Set([429, 502, 503, 504]);
+
+const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
+const fetchWithRetry = async (
+  url: string,
+  options?: RequestInit,
+): Promise<Response> => {
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    if (attempt > 0) {
+      const delay = INITIAL_DELAY_MS * 2 ** (attempt - 1);
+      console.log(`Retry ${attempt}/${MAX_RETRIES} for ${url} in ${delay}ms`);
+      await sleep(delay);
+    }
+
+    let response: Response;
+    try {
+      response = await fetch(url, options);
+    } catch {
+      if (attempt === MAX_RETRIES) {
+        throw new Error(
+          `Failed to fetch data from ${url} after ${MAX_RETRIES} retries`,
+        );
+      }
+      continue;
+    }
+
+    if (response.ok) {
+      return response;
+    }
+
+    if (
+      !RETRYABLE_STATUS_CODES.has(response.status) ||
+      attempt === MAX_RETRIES
+    ) {
+      throw new Error(
+        `Failed to fetch data from ${url}: ${response.status} ${response.statusText}`,
+      );
+    }
+  }
+
+  throw new Error(
+    `Failed to fetch data from ${url} after ${MAX_RETRIES} retries`,
+  );
+};
+
 export const fetchData = async (url: string) => {
   const store = storage.getStore();
   if (!store) {
@@ -13,22 +61,14 @@ export const fetchData = async (url: string) => {
   const headers = new Headers();
   headers.append('Authorization', `Bearer ${accessToken.access_token}`);
 
-  const response = await fetch(url, {
+  const response = await fetchWithRetry(url, {
     method: 'GET',
     headers,
     redirect: 'follow',
   });
 
-  if (!response.ok) {
-    throw new Error(`Failed to fetch data from ${url}: ${response.statusText}`);
-  }
-
   const body = (await response.json()) as ApiLinkResponse;
 
-  if (!response.ok) {
-    throw new Error(JSON.stringify(body));
-  }
-
-  const data = await fetch(body.link).then((response) => response.json());
+  const data = await fetchWithRetry(body.link).then((res) => res.json());
   return data;
 };
