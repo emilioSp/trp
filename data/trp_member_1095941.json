@@ -14,6 +14,54 @@
         "color3": "ed2129"
       },
       "license_level": 17,
+      "session_start_time": "2026-02-13T16:00:00Z",
+      "winner_group_id": 1125165,
+      "winner_name": "Marcell Morocz",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "111111",
+        "color3": "5481fc",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 23,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 121,
+      "strength_of_field": 4244,
+      "subsession_id": 83518925,
+      "old_sub_level": 111,
+      "new_sub_level": 151,
+      "oldi_rating": 3042,
+      "newi_rating": 3073,
+      "track": {
+        "track_id": 465,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 17,
       "session_start_time": "2026-02-12T14:00:00Z",
       "winner_group_id": 16775,
       "winner_name": "Dario Frattini",
@@ -43,7 +91,7 @@
         "track_id": 465,
         "track_name": "Virginia International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Nazionale Monza"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5921,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-30T07:45:00Z",
-      "winner_group_id": 1300761,
-      "winner_name": "Josh Zhang2",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "ffffff",
-        "color2": "b100ff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 19,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 27,
-      "strength_of_field": 3283,
-      "subsession_id": 83143320,
-      "old_sub_level": 146,
-      "new_sub_level": 113,
-      "oldi_rating": 3272,
-      "newi_rating": 3206,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
