@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 11,
+      "session_start_time": "2026-02-15T12:15:00Z",
+      "winner_group_id": 512694,
+      "winner_name": "William Calleja",
+      "winner_helmet": {
+        "pattern": 67,
+        "color1": "000000",
+        "color2": "ebb30b",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 9,
+      "start_position": 13,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 15,
+      "points": 19,
+      "strength_of_field": 2052,
+      "subsession_id": 83567843,
+      "old_sub_level": 360,
+      "new_sub_level": 340,
+      "oldi_rating": 1733,
+      "newi_rating": 1681,
+      "track": {
+        "track_id": 467,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 5945,
+      "series_id": 541,
+      "series_name": "FIA F4 Esports Regional Tour - America",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 11,
       "session_start_time": "2026-01-25T14:15:00Z",
       "winner_group_id": 769233,
       "winner_name": "Michal Zajac2",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5928,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-01-12T16:45:00Z",
-      "winner_group_id": 846394,
-      "winner_name": "Sebastian Trejo",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "ffffff",
-        "color2": "ff4d0b",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 14,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 44,
-      "strength_of_field": 1852,
-      "subsession_id": 82673625,
-      "old_sub_level": 231,
-      "new_sub_level": 253,
-      "oldi_rating": 2055,
-      "newi_rating": 2029,
-      "track": {
-        "track_id": 539,
-        "track_name": "Miami International Autodrome"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1229781
