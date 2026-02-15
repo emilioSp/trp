@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 11,
+      "session_start_time": "2026-02-15T14:15:00Z",
+      "winner_group_id": 1259774,
+      "winner_name": "Bruce Velasquez",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "111111",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 2,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 4,
+      "incidents": 2,
+      "points": 87,
+      "strength_of_field": 1592,
+      "subsession_id": 83570493,
+      "old_sub_level": 347,
+      "new_sub_level": 360,
+      "oldi_rating": 1669,
+      "newi_rating": 1740,
+      "track": {
+        "track_id": 467,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 5945,
+      "series_id": 541,
+      "series_name": "FIA F4 Esports Regional Tour - America",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 11,
       "session_start_time": "2026-02-15T13:15:00Z",
       "winner_group_id": 685751,
       "winner_name": "Stepan Suslov",
@@ -43,7 +91,7 @@
         "track_id": 467,
         "track_name": "Virginia International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
@@ -423,54 +471,6 @@
       "new_sub_level": 278,
       "oldi_rating": 1609,
       "newi_rating": 1684,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5945,
-      "series_id": 541,
-      "series_name": "FIA F4 Esports Regional Tour - America",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 10,
-      "session_start_time": "2026-01-21T14:15:00Z",
-      "winner_group_id": 1296118,
-      "winner_name": "Haoyi Zhu",
-      "winner_helmet": {
-        "pattern": 50,
-        "color1": "f00040",
-        "color2": "ffffff",
-        "color3": "ddf087",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 7,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 76,
-      "strength_of_field": 2249,
-      "subsession_id": 82910217,
-      "old_sub_level": 255,
-      "new_sub_level": 259,
-      "oldi_rating": 1571,
-      "newi_rating": 1609,
       "track": {
         "track_id": 572,
         "track_name": "Autódromo Hermanos Rodríguez"
