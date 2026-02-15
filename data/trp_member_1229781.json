@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 11,
+      "session_start_time": "2026-02-15T17:15:00Z",
+      "winner_group_id": 1313368,
+      "winner_name": "Lukas Babacek",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "ffffff",
+        "color2": "00ffa0",
+        "color3": "d700ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 16,
+      "start_position": 17,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 56,
+      "strength_of_field": 2174,
+      "subsession_id": 83574200,
+      "old_sub_level": 365,
+      "new_sub_level": 351,
+      "oldi_rating": 1762,
+      "newi_rating": 1761,
+      "track": {
+        "track_id": 467,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 5945,
+      "series_id": 541,
+      "series_name": "FIA F4 Esports Regional Tour - America",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 11,
       "session_start_time": "2026-02-15T16:15:00Z",
       "winner_group_id": 962965,
       "winner_name": "Carla Randolph",
@@ -43,7 +91,7 @@
         "track_id": 467,
         "track_name": "Virginia International Raceway"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
@@ -423,54 +471,6 @@
       "new_sub_level": 348,
       "oldi_rating": 1677,
       "newi_rating": 1710,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5945,
-      "series_id": 541,
-      "series_name": "FIA F4 Esports Regional Tour - America",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 10,
-      "session_start_time": "2026-01-22T16:15:00Z",
-      "winner_group_id": 466222,
-      "winner_name": "Thomas Grondal Eeles",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "0030ff",
-        "color2": "ffffff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 5,
-      "start_position": 23,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 48,
-      "strength_of_field": 2353,
-      "subsession_id": 82938085,
-      "old_sub_level": 278,
-      "new_sub_level": 289,
-      "oldi_rating": 1684,
-      "newi_rating": 1677,
       "track": {
         "track_id": 572,
         "track_name": "Autódromo Hermanos Rodríguez"
