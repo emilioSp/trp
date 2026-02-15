@@ -4,6 +4,54 @@
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 20,
+        "color1": "1A1A1A",
+        "color2": "E54B33",
+        "color3": "1A1A1A"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-02-15T00:00:00Z",
+      "winner_group_id": 341849,
+      "winner_name": "Jesse L Pate",
+      "winner_helmet": {
+        "pattern": 34,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 12,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 96,
+      "strength_of_field": 1911,
+      "subsession_id": 83555248,
+      "old_sub_level": 279,
+      "new_sub_level": 361,
+      "oldi_rating": 2022,
+      "newi_rating": 2077,
+      "track": {
+        "track_id": 465,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
       "car_id": 156,
       "car_class_id": 4091,
       "livery": {
@@ -91,7 +139,7 @@
         "track_id": 465,
         "track_name": "Virginia International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
@@ -428,54 +476,6 @@
         "track_name": "Watkins Glen International"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 20,
-        "color1": "EBFF00",
-        "color2": "7CE632",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-01T10:45:00Z",
-      "winner_group_id": 1098805,
-      "winner_name": "Zhao Jie Yin",
-      "winner_helmet": {
-        "pattern": 6,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 18,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 84,
-      "strength_of_field": 2284,
-      "subsession_id": 83199982,
-      "old_sub_level": 371,
-      "new_sub_level": 340,
-      "oldi_rating": 2140,
-      "newi_rating": 2164,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
