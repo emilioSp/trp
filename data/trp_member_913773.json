@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-02-16T22:00:00Z",
+      "winner_group_id": 281672,
+      "winner_name": "Marcos Urtubey",
+      "winner_helmet": {
+        "pattern": 14,
+        "color1": "C20900",
+        "color2": "FFFFFF",
+        "color3": "100F0F",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 10,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 84,
+      "strength_of_field": 1798,
+      "subsession_id": 83606284,
+      "old_sub_level": 284,
+      "new_sub_level": 360,
+      "oldi_rating": 1803,
+      "newi_rating": 1851,
+      "track": {
+        "track_id": 465,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 8
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -91,7 +139,7 @@
         "track_id": 465,
         "track_name": "Virginia International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
@@ -423,54 +471,6 @@
       "new_sub_level": 227,
       "oldi_rating": 1683,
       "newi_rating": 1745,
-      "track": {
-        "track_id": 475,
-        "track_name": "MotorLand Aragón"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-01-30T20:45:00Z",
-      "winner_group_id": 1193190,
-      "winner_name": "Matthias Witschel",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "2907f7",
-        "color2": "e9f505",
-        "color3": "e59730",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 13,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 21,
-      "strength_of_field": 1781,
-      "subsession_id": 83156357,
-      "old_sub_level": 224,
-      "new_sub_level": 213,
-      "oldi_rating": 1737,
-      "newi_rating": 1683,
       "track": {
         "track_id": 475,
         "track_name": "MotorLand Aragón"
