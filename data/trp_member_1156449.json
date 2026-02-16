@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-02-16T14:00:00Z",
+      "winner_group_id": 1244260,
+      "winner_name": "David Leo Martinez",
+      "winner_helmet": {
+        "pattern": 7,
+        "color1": "0085ff",
+        "color2": "6a6868",
+        "color3": "01102d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 22,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 17,
+      "points": 78,
+      "strength_of_field": 2791,
+      "subsession_id": 83597004,
+      "old_sub_level": 204,
+      "new_sub_level": 212,
+      "oldi_rating": 2495,
+      "newi_rating": 2497,
+      "track": {
+        "track_id": 465,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 8
+    },
+    {
       "season_id": 5967,
       "series_id": 564,
       "series_name": "Mini Stock Rookie Series by Thrustmaster",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-01-21T17:15:00Z",
-      "winner_group_id": 1240255,
-      "winner_name": "Mike Pereira",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "f6f6f6",
-        "color2": "000000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 10,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 110,
-      "strength_of_field": 2732,
-      "subsession_id": 82913158,
-      "old_sub_level": 313,
-      "new_sub_level": 309,
-      "oldi_rating": 2720,
-      "newi_rating": 2752,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1156449
