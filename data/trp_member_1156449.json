@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-02-16T20:00:00Z",
+      "winner_group_id": 1155236,
+      "winner_name": "Victor Roldan Franca",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "f200a7",
+        "color2": "ffffff",
+        "color3": "1401ec",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 22,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 96,
+      "strength_of_field": 2458,
+      "subsession_id": 83603733,
+      "old_sub_level": 212,
+      "new_sub_level": 257,
+      "oldi_rating": 2497,
+      "newi_rating": 2520,
+      "track": {
+        "track_id": 465,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 8
+    },
+    {
       "season_id": 5967,
       "series_id": 564,
       "series_name": "Mini Stock Rookie Series by Thrustmaster",
@@ -139,7 +187,7 @@
         "track_id": 465,
         "track_name": "Virginia International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
@@ -428,54 +476,6 @@
         "track_name": "Road America"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5922,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-12T14:45:00Z",
-      "winner_group_id": 1402171,
-      "winner_name": "Dennis Byqvist",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ec232d",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 21,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 99,
-      "strength_of_field": 2659,
-      "subsession_id": 83492611,
-      "old_sub_level": 258,
-      "new_sub_level": 258,
-      "oldi_rating": 2766,
-      "newi_rating": 2783,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
