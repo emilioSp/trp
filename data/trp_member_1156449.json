@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5967,
+      "series_id": 564,
+      "series_name": "Mini Stock Rookie Series by Thrustmaster",
+      "car_id": 191,
+      "car_class_id": 4069,
+      "livery": {
+        "car_id": 191,
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "0ada00",
+        "color3": "111111"
+      },
+      "license_level": 2,
+      "session_start_time": "2026-02-16T12:15:00Z",
+      "winner_group_id": 106209,
+      "winner_name": "Peter Mailer",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "ff8900",
+        "color2": "3d3d3d",
+        "color3": "ff8900",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 7,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 35,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 43,
+      "strength_of_field": 1493,
+      "subsession_id": 83595118,
+      "old_sub_level": 246,
+      "new_sub_level": 269,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 161,
+        "track_name": "Thompson Speedway Motorsports Park"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 8
+    },
+    {
       "season_id": 5934,
       "series_id": 419,
       "series_name": "IMSA Endurance Series",
@@ -428,54 +476,6 @@
         "track_name": "Algarve International Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-01-21T15:15:00Z",
-      "winner_group_id": 248974,
-      "winner_name": "Ivan Carretero",
-      "winner_helmet": {
-        "pattern": 50,
-        "color1": "c4ff00",
-        "color2": "400146",
-        "color3": "050404",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 14,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 72,
-      "strength_of_field": 2948,
-      "subsession_id": 82911122,
-      "old_sub_level": 328,
-      "new_sub_level": 313,
-      "oldi_rating": 2729,
-      "newi_rating": 2720,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
