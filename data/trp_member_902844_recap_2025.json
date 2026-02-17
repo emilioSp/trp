@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 76,
+    "wins": 2,
+    "top5": 20,
+    "avg_start_position": 11,
+    "avg_finish_position": 15,
+    "laps": 2497,
+    "laps_led": 114,
+    "favorite_car": {
+      "car_id": 188,
+      "car_name": "McLaren 720S GT3 EVO",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_188/mclaren720sgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Road Course",
+      "track_id": 192,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/daytonainternationalspeedway-logo.png",
+      "track_name": "Daytona International Speedway"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 902844
+}
