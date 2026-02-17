@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 19,
+        "color1": "0400FF",
+        "color2": "391010",
+        "color3": "AF1010"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-02-17T22:00:00Z",
+      "winner_group_id": 686197,
+      "winner_name": "Hyu Barter",
+      "winner_helmet": {
+        "pattern": 64,
+        "color1": "0a0a0a",
+        "color2": "ffffff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 14,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 210,
+      "strength_of_field": 6044,
+      "subsession_id": 83633357,
+      "old_sub_level": 499,
+      "new_sub_level": 498,
+      "oldi_rating": 4987,
+      "newi_rating": 5034,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5931,
       "series_id": 331,
       "series_name": "Global Endurance Tour",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 6,
-        "color1": "0400FF",
-        "color2": "391010",
-        "color3": "AF1010"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-01-19T22:00:00Z",
-      "winner_group_id": 993147,
-      "winner_name": "Jan B Saamer",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "000000",
-        "color2": "fff600",
-        "color3": "fff800",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 26,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 186,
-      "strength_of_field": 3710,
-      "subsession_id": 82866557,
-      "old_sub_level": 439,
-      "new_sub_level": 355,
-      "oldi_rating": 4638,
-      "newi_rating": 4680,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
     }
   ],
   "cust_id": 1221961

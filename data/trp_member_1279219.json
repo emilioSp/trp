@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 7,
+        "color1": "135324",
+        "color2": "111111",
+        "color3": "535353"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-17T22:00:00Z",
+      "winner_group_id": 686197,
+      "winner_name": "Hyu Barter",
+      "winner_helmet": {
+        "pattern": 64,
+        "color1": "0a0a0a",
+        "color2": "ffffff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 24,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 17,
+      "points": 148,
+      "strength_of_field": 6044,
+      "subsession_id": 83633357,
+      "old_sub_level": 383,
+      "new_sub_level": 330,
+      "oldi_rating": 5037,
+      "newi_rating": 5049,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5931,
       "series_id": 331,
       "series_name": "Global Endurance Tour",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 3,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-01-20T22:45:00Z",
-      "winner_group_id": 1235145,
-      "winner_name": "Yoan Neshev",
-      "winner_helmet": {
-        "pattern": 30,
-        "color1": "ffffff",
-        "color2": "1cfd00",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 4,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 157,
-      "strength_of_field": 3006,
-      "subsession_id": 82894005,
-      "old_sub_level": 481,
-      "new_sub_level": 460,
-      "oldi_rating": 4587,
-      "newi_rating": 4622,
-      "track": {
-        "track_id": 180,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1279219
