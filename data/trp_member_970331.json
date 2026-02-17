@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 5,
+        "color1": "b5b5b5",
+        "color2": "00c4ff",
+        "color3": "0070ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-17T19:15:00Z",
+      "winner_group_id": 1155992,
+      "winner_name": "Timofey Tyutkov",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 4,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 138,
+      "strength_of_field": 3706,
+      "subsession_id": 83629812,
+      "old_sub_level": 342,
+      "new_sub_level": 351,
+      "oldi_rating": 3994,
+      "newi_rating": 4011,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Long Beach Street Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5909,
-      "series_id": 503,
-      "series_name": "TCR Virtual Challenge",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-24T13:45:00Z",
-      "winner_group_id": 1006499,
-      "winner_name": "Anthony Lammer",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "ffffff",
-        "color2": "920606",
-        "color3": "920000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 112,
-      "strength_of_field": 2164,
-      "subsession_id": 82987922,
-      "old_sub_level": 270,
-      "new_sub_level": 286,
-      "oldi_rating": 3989,
-      "newi_rating": 4027,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
