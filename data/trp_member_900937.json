@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-17T21:45:00Z",
+      "winner_group_id": 1241239,
+      "winner_name": "David R Fernandes",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffce00",
+        "color2": "1b1366",
+        "color3": "0abff8",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 12,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 36,
+      "strength_of_field": 3922,
+      "subsession_id": 83633103,
+      "old_sub_level": 344,
+      "new_sub_level": 337,
+      "oldi_rating": 3743,
+      "newi_rating": 3686,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 239,
       "oldi_rating": 3434,
       "newi_rating": 3445,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-28T20:45:00Z",
-      "winner_group_id": 1134346,
-      "winner_name": "George Cross",
-      "winner_helmet": {
-        "pattern": 60,
-        "color1": "ffffff",
-        "color2": "0610ff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 6,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 12,
-      "strength_of_field": 3730,
-      "subsession_id": 83106293,
-      "old_sub_level": 244,
-      "new_sub_level": 223,
-      "oldi_rating": 3511,
-      "newi_rating": 3434,
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"
