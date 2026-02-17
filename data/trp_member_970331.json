@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 5,
+        "color1": "b5b5b5",
+        "color2": "00c4ff",
+        "color3": "0070ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-17T18:00:00Z",
+      "winner_group_id": 1123044,
+      "winner_name": "Denniel Kiner",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "ff0000",
+        "color2": "000000",
+        "color3": "ffc700",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 30,
+      "finish_position": 30,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 0,
+      "strength_of_field": 3789,
+      "subsession_id": 83628370,
+      "old_sub_level": 342,
+      "new_sub_level": 342,
+      "oldi_rating": 4098,
+      "newi_rating": 3994,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5908,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Long Beach Street Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5908,
-      "series_id": 430,
-      "series_name": "TCR Virtual Challenge - Fixed",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-24T10:45:00Z",
-      "winner_group_id": 970331,
-      "winner_name": "Salvatore Gueli",
-      "winner_helmet": {
-        "pattern": 17,
-        "color1": "00ffbf",
-        "color2": "8b21ed",
-        "color3": "d9ffdd",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 2,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 8,
-      "incidents": 0,
-      "points": 103,
-      "strength_of_field": 1968,
-      "subsession_id": 82984596,
-      "old_sub_level": 253,
-      "new_sub_level": 270,
-      "oldi_rating": 3942,
-      "newi_rating": 3989,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5

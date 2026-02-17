@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-17T18:00:00Z",
+      "winner_group_id": 663835,
+      "winner_name": "Tobias Herrmann",
+      "winner_helmet": {
+        "pattern": 50,
+        "color1": "7800ff",
+        "color2": "ecf900",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 4,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 243,
+      "strength_of_field": 4308,
+      "subsession_id": 83628369,
+      "old_sub_level": 346,
+      "new_sub_level": 356,
+      "oldi_rating": 4151,
+      "newi_rating": 4238,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5931,
       "series_id": 331,
       "series_name": "Global Endurance Tour",
@@ -423,54 +471,6 @@
       "new_sub_level": 321,
       "oldi_rating": 4003,
       "newi_rating": 4053,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 5,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-01-19T18:00:00Z",
-      "winner_group_id": 857815,
-      "winner_name": "Leon Mischke",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "372a75",
-        "color3": "f1732e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 151,
-      "strength_of_field": 4249,
-      "subsession_id": 82861195,
-      "old_sub_level": 335,
-      "new_sub_level": 319,
-      "oldi_rating": 3976,
-      "newi_rating": 4003,
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"
