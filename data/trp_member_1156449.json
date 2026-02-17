@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-02-17T13:45:00Z",
+      "winner_group_id": 499023,
+      "winner_name": "Alexander Kramarsky2",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "0c35e7",
+        "color2": "03bbbd",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 6,
+      "finish_position": 20,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 3,
+      "strength_of_field": 2303,
+      "subsession_id": 83623836,
+      "old_sub_level": 264,
+      "new_sub_level": 234,
+      "oldi_rating": 2513,
+      "newi_rating": 2412,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 230,
       "oldi_rating": 2705,
       "newi_rating": 2600,
-      "track": {
-        "track_id": 18,
-        "track_name": "Road America"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5933,
-      "series_id": 457,
-      "series_name": "Prototype  Challenge – Fixed",
-      "car_id": 174,
-      "car_class_id": 4029,
-      "livery": {
-        "car_id": 174,
-        "pattern": 2,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-13T14:00:00Z",
-      "winner_group_id": 99540,
-      "winner_name": "Fabio Damm",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "ed2129",
-        "color2": "ffffff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 3,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 60,
-      "strength_of_field": 1575,
-      "subsession_id": 83517047,
-      "old_sub_level": 248,
-      "new_sub_level": 238,
-      "oldi_rating": 2707,
-      "newi_rating": 2705,
       "track": {
         "track_id": 18,
         "track_name": "Road America"
