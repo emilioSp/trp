@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 14,
+      "session_start_time": "2026-02-18T20:00:00Z",
+      "winner_group_id": 463338,
+      "winner_name": "Marcus Apeland Lid",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "0ada00",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 19,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 110,
+      "strength_of_field": 2431,
+      "subsession_id": 83656534,
+      "old_sub_level": 265,
+      "new_sub_level": 299,
+      "oldi_rating": 2450,
+      "newi_rating": 2492,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
       "session_start_time": "2026-02-18T18:00:00Z",
       "winner_group_id": 519068,
       "winner_name": "Sebastiano Scifo",
@@ -43,7 +91,7 @@
         "track_id": 219,
         "track_name": "Mount Panorama Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
@@ -421,54 +469,6 @@
       "subsession_id": 83600210,
       "old_sub_level": 263,
       "new_sub_level": 262,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 161,
-        "track_name": "Thompson Speedway Motorsports Park"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5967,
-      "series_id": 564,
-      "series_name": "Mini Stock Rookie Series by Thrustmaster",
-      "car_id": 191,
-      "car_class_id": 4069,
-      "livery": {
-        "car_id": 191,
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "0ada00",
-        "color3": "111111"
-      },
-      "license_level": 2,
-      "session_start_time": "2026-02-16T16:45:00Z",
-      "winner_group_id": 496264,
-      "winner_name": "Timothy Jung",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "f06e34",
-        "color2": "111111",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 1,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 34,
-      "laps_led": 14,
-      "incidents": 17,
-      "points": 27,
-      "strength_of_field": 1107,
-      "subsession_id": 83599667,
-      "old_sub_level": 269,
-      "new_sub_level": 263,
       "oldi_rating": -1,
       "newi_rating": -1,
       "track": {
