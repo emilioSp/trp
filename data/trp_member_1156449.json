@@ -14,6 +14,54 @@
         "color3": "111111"
       },
       "license_level": 2,
+      "session_start_time": "2026-02-18T13:30:00Z",
+      "winner_group_id": 317751,
+      "winner_name": "Michael Grimmett",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "111111",
+        "color3": "fc0706",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 5,
+      "start_position": 2,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 3,
+      "incidents": 10,
+      "points": 18,
+      "strength_of_field": 764,
+      "subsession_id": 83649512,
+      "old_sub_level": 253,
+      "new_sub_level": 250,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 556,
+        "track_name": "Charlotte Motor Speedway "
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 5968,
+      "series_id": 182,
+      "series_name": "Rookie Street Stock Series by Fanatec",
+      "car_id": 36,
+      "car_class_id": 4064,
+      "livery": {
+        "car_id": 36,
+        "pattern": 16,
+        "color1": "ffffff",
+        "color2": "0ada00",
+        "color3": "111111"
+      },
+      "license_level": 2,
       "session_start_time": "2026-02-17T18:30:00Z",
       "winner_group_id": 1060494,
       "winner_name": "Charles Smith30",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
-    },
-    {
-      "season_id": 5934,
-      "series_id": 419,
-      "series_name": "IMSA Endurance Series",
-      "car_id": 174,
-      "car_class_id": 4029,
-      "livery": {
-        "car_id": 174,
-        "pattern": 2,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-15T14:00:00Z",
-      "winner_group_id": -82028,
-      "winner_name": "Goudy Brothers Racing",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 7,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 29,
-      "laps_led": 0,
-      "incidents": 21,
-      "points": 13,
-      "strength_of_field": 2725,
-      "subsession_id": 83570248,
-      "old_sub_level": 201,
-      "new_sub_level": 204,
-      "oldi_rating": 2566,
-      "newi_rating": 2495,
-      "track": {
-        "track_id": 18,
-        "track_name": "Road America"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
     }
   ],
   "cust_id": 1156449
