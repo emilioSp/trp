@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-02-19T20:00:00Z",
+      "winner_group_id": 768195,
+      "winner_name": "Keith Doekhi",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "00b2ff",
+        "color2": "00334c",
+        "color3": "1a4b9b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 22,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 117,
+      "strength_of_field": 2495,
+      "subsession_id": 83682574,
+      "old_sub_level": 355,
+      "new_sub_level": 386,
+      "oldi_rating": 2490,
+      "newi_rating": 2538,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 556,
         "track_name": "Charlotte Motor Speedway "
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-17T13:45:00Z",
-      "winner_group_id": 499023,
-      "winner_name": "Alexander Kramarsky2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "0c35e7",
-        "color2": "03bbbd",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 6,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 3,
-      "strength_of_field": 2303,
-      "subsession_id": 83623836,
-      "old_sub_level": 264,
-      "new_sub_level": 234,
-      "oldi_rating": 2513,
-      "newi_rating": 2412,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
       },
       "drop_race": false,
       "season_year": 2026,
