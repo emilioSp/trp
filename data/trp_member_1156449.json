@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-02-19T15:15:00Z",
+      "winner_group_id": 854163,
+      "winner_name": "Tamas Toth3",
+      "winner_helmet": {
+        "pattern": 66,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 16,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 112,
+      "strength_of_field": 2587,
+      "subsession_id": 83677133,
+      "old_sub_level": 299,
+      "new_sub_level": 363,
+      "oldi_rating": 2492,
+      "newi_rating": 2537,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Virginia International Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5967,
-      "series_id": 564,
-      "series_name": "Mini Stock Rookie Series by Thrustmaster",
-      "car_id": 191,
-      "car_class_id": 4069,
-      "livery": {
-        "car_id": 191,
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "0ada00",
-        "color3": "111111"
-      },
-      "license_level": 2,
-      "session_start_time": "2026-02-16T17:15:00Z",
-      "winner_group_id": 1018441,
-      "winner_name": "Francis Blais2",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "000000",
-        "color2": "111111",
-        "color3": "cccccc",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 9,
-      "start_position": 4,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 34,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 12,
-      "strength_of_field": 904,
-      "subsession_id": 83600210,
-      "old_sub_level": 263,
-      "new_sub_level": 262,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 161,
-        "track_name": "Thompson Speedway Motorsports Park"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
