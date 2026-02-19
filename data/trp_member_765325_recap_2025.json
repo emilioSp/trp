@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 119,
+    "wins": 2,
+    "top5": 18,
+    "avg_start_position": 12,
+    "avg_finish_position": 14,
+    "laps": 4652,
+    "laps_led": 26,
+    "favorite_car": {
+      "car_id": 184,
+      "car_name": "Chevrolet Corvette Z06 GT3.R",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_184/chevyvettez06rgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "International",
+      "track_id": 95,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/sebringinternationalraceway-logo.png",
+      "track_name": "Sebring International Raceway"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 765325
+}
