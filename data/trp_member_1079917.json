@@ -14,6 +14,54 @@
         "color3": "0a35e9"
       },
       "license_level": 19,
+      "session_start_time": "2026-02-19T13:45:00Z",
+      "winner_group_id": 753872,
+      "winner_name": "Caleb Boemer",
+      "winner_helmet": {
+        "pattern": 3,
+        "color1": "000000",
+        "color2": "0066ff",
+        "color3": "0066ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 7,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 124,
+      "strength_of_field": 2426,
+      "subsession_id": 83675746,
+      "old_sub_level": 340,
+      "new_sub_level": 358,
+      "oldi_rating": 3708,
+      "newi_rating": 3744,
+      "track": {
+        "track_id": 212,
+        "track_name": "Autódromo José Carlos Pace"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 18,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 19,
       "session_start_time": "2026-02-18T19:45:00Z",
       "winner_group_id": 409610,
       "winner_name": "Arsen Kardanov",
@@ -43,7 +91,7 @@
         "track_id": 212,
         "track_name": "Autódromo José Carlos Pace"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
@@ -428,54 +476,6 @@
         "track_name": "Circuito de Jerez - Ángel Nieto"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 18,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-02-03T21:45:00Z",
-      "winner_group_id": 827616,
-      "winner_name": "Riccardo Groppi",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "fffc00",
-        "color2": "fffc00",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 130,
-      "strength_of_field": 2224,
-      "subsession_id": 83264820,
-      "old_sub_level": 412,
-      "new_sub_level": 406,
-      "oldi_rating": 3652,
-      "newi_rating": 3702,
-      "track": {
-        "track_id": 474,
-        "track_name": "Circuito de Jerez - Ángel Nieto"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
