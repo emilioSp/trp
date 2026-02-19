@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 19,
+      "session_start_time": "2026-02-19T18:00:00Z",
+      "winner_group_id": 297390,
+      "winner_name": "Roberto Suárez",
+      "winner_helmet": {
+        "pattern": 63,
+        "color1": "fffc00",
+        "color2": "14fa00",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 7,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 1,
+      "incidents": 12,
+      "points": 197,
+      "strength_of_field": 4102,
+      "subsession_id": 83680109,
+      "old_sub_level": 355,
+      "new_sub_level": 334,
+      "oldi_rating": 4406,
+      "newi_rating": 4455,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 19,
       "session_start_time": "2026-02-18T22:00:00Z",
       "winner_group_id": 816580,
       "winner_name": "Vert Wheeler",
@@ -91,7 +139,7 @@
         "track_id": 219,
         "track_name": "Mount Panorama Circuit"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 11,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-01-23T20:45:00Z",
-      "winner_group_id": 580610,
-      "winner_name": "Mex Jansen",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "00fdff",
-        "color3": "ff00e1",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 12,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 102,
-      "strength_of_field": 3649,
-      "subsession_id": 82968565,
-      "old_sub_level": 306,
-      "new_sub_level": 251,
-      "oldi_rating": 4030,
-      "newi_rating": 4020,
-      "track": {
-        "track_id": 180,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
     }
   ],
   "cust_id": 872525
