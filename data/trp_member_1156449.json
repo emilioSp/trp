@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-02-19T17:15:00Z",
+      "winner_group_id": 1190566,
+      "winner_name": "Teddy Schelcker",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "c8102e",
+        "color2": "00b2a9",
+        "color3": "f6eb61",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 16,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 79,
+      "strength_of_field": 2614,
+      "subsession_id": 83679225,
+      "old_sub_level": 352,
+      "new_sub_level": 355,
+      "oldi_rating": 2486,
+      "newi_rating": 2490,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-16T22:00:00Z",
-      "winner_group_id": 1036575,
-      "winner_name": "Joao Castro5",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "05ff00",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 29,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 67,
-      "strength_of_field": 3394,
-      "subsession_id": 83606282,
-      "old_sub_level": 257,
-      "new_sub_level": 264,
-      "oldi_rating": 2520,
-      "newi_rating": 2513,
-      "track": {
-        "track_id": 465,
-        "track_name": "Virginia International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
     }
   ],
   "cust_id": 1156449
