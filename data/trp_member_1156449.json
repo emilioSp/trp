@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-02-20T13:15:00Z",
+      "winner_group_id": 1129722,
+      "winner_name": "Jake Mccloskey",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "ffffff",
+        "color2": "00ffff",
+        "color3": "f5f928",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 13,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 16,
+      "strength_of_field": 2428,
+      "subsession_id": 83701400,
+      "old_sub_level": 386,
+      "new_sub_level": 368,
+      "oldi_rating": 2538,
+      "newi_rating": 2461,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Charlotte Motor Speedway "
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5968,
-      "series_id": 182,
-      "series_name": "Rookie Street Stock Series by Fanatec",
-      "car_id": 36,
-      "car_class_id": 4064,
-      "livery": {
-        "car_id": 36,
-        "pattern": 16,
-        "color1": "ffffff",
-        "color2": "0ada00",
-        "color3": "111111"
-      },
-      "license_level": 2,
-      "session_start_time": "2026-02-17T18:00:00Z",
-      "winner_group_id": 1415480,
-      "winner_name": "Tuğra Yılmaz Heşe",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "0094ff",
-        "color2": "24ed38",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 2,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 1,
-      "incidents": 6,
-      "points": 25,
-      "strength_of_field": 1009,
-      "subsession_id": 83628339,
-      "old_sub_level": 262,
-      "new_sub_level": 264,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 556,
-        "track_name": "Charlotte Motor Speedway "
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
