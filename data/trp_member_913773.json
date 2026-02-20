@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5966,
+      "series_id": 483,
+      "series_name": "Rookie Legends Cup by Simshop",
+      "car_id": 5,
+      "car_class_id": 5,
+      "livery": {
+        "car_id": 5,
+        "pattern": 7,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-02-20T21:00:00Z",
+      "winner_group_id": 1377565,
+      "winner_name": "Rosco Smidt",
+      "winner_helmet": {
+        "pattern": 32,
+        "color1": "000000",
+        "color2": "1400fd",
+        "color3": "f40707",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 7,
+      "start_position": 5,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 39,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 24,
+      "strength_of_field": 1271,
+      "subsession_id": 83709898,
+      "old_sub_level": 254,
+      "new_sub_level": 259,
+      "oldi_rating": 1324,
+      "newi_rating": 1292,
+      "track": {
+        "track_id": 17,
+        "track_name": "Lanier National Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-01-31T21:45:00Z",
-      "winner_group_id": 1379074,
-      "winner_name": "Anton Buchmüller",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "d9ff00",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 4,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 81,
-      "strength_of_field": 1545,
-      "subsession_id": 83185320,
-      "old_sub_level": 213,
-      "new_sub_level": 227,
-      "oldi_rating": 1683,
-      "newi_rating": 1745,
-      "track": {
-        "track_id": 475,
-        "track_name": "MotorLand Aragón"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 913773
