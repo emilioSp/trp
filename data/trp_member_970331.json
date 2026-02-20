@@ -14,6 +14,54 @@
         "color3": "0070ff"
       },
       "license_level": 19,
+      "session_start_time": "2026-02-20T16:00:00Z",
+      "winner_group_id": 297390,
+      "winner_name": "Roberto Suárez",
+      "winner_helmet": {
+        "pattern": 63,
+        "color1": "fffc00",
+        "color2": "14fa00",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 19,
+      "finish_position": 24,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 42,
+      "strength_of_field": 3920,
+      "subsession_id": 83703959,
+      "old_sub_level": 305,
+      "new_sub_level": 311,
+      "oldi_rating": 3631,
+      "newi_rating": 3577,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 5,
+        "color1": "b5b5b5",
+        "color2": "00c4ff",
+        "color3": "0070ff"
+      },
+      "license_level": 19,
       "session_start_time": "2026-02-19T18:00:00Z",
       "winner_group_id": 1134346,
       "winner_name": "George Cross",
@@ -139,7 +187,7 @@
         "track_id": 219,
         "track_name": "Mount Panorama Circuit"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
-    },
-    {
-      "season_id": 5908,
-      "series_id": 430,
-      "series_name": "TCR Virtual Challenge - Fixed",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-06T18:45:00Z",
-      "winner_group_id": 425713,
-      "winner_name": "Mathias Dall",
-      "winner_helmet": {
-        "pattern": 60,
-        "color1": "ff0a14",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 1,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 35,
-      "strength_of_field": 2192,
-      "subsession_id": 83338201,
-      "old_sub_level": 332,
-      "new_sub_level": 327,
-      "oldi_rating": 4179,
-      "newi_rating": 4091,
-      "track": {
-        "track_id": 247,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
     }
   ],
   "cust_id": 970331
