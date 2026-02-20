@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-02-20T14:00:00Z",
+      "winner_group_id": 416545,
+      "winner_name": "Martin Hobson",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "184252",
+        "color2": "111111",
+        "color3": "03bbbd",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 4,
+      "finish_position": 28,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 0,
+      "strength_of_field": 2468,
+      "subsession_id": 83702037,
+      "old_sub_level": 368,
+      "new_sub_level": 357,
+      "oldi_rating": 2461,
+      "newi_rating": 2365,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -421,54 +469,6 @@
       "subsession_id": 83649512,
       "old_sub_level": 253,
       "new_sub_level": 250,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 556,
-        "track_name": "Charlotte Motor Speedway "
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5968,
-      "series_id": 182,
-      "series_name": "Rookie Street Stock Series by Fanatec",
-      "car_id": 36,
-      "car_class_id": 4064,
-      "livery": {
-        "car_id": 36,
-        "pattern": 16,
-        "color1": "ffffff",
-        "color2": "0ada00",
-        "color3": "111111"
-      },
-      "license_level": 2,
-      "session_start_time": "2026-02-17T18:30:00Z",
-      "winner_group_id": 1060494,
-      "winner_name": "Charles Smith30",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "003076",
-        "color2": "111111",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 1,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 1,
-      "incidents": 14,
-      "points": 18,
-      "strength_of_field": 724,
-      "subsession_id": 83628887,
-      "old_sub_level": 264,
-      "new_sub_level": 253,
       "oldi_rating": -1,
       "newi_rating": -1,
       "track": {
