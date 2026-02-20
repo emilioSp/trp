@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5928,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-02-20T21:45:00Z",
+      "winner_group_id": 986597,
+      "winner_name": "Joshua Wilford",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 17,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 9,
+      "strength_of_field": 2670,
+      "subsession_id": 83710832,
+      "old_sub_level": 360,
+      "new_sub_level": 358,
+      "oldi_rating": 1851,
+      "newi_rating": 1798,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5966,
       "series_id": 483,
       "series_name": "Rookie Legends Cup by Simshop",
@@ -423,54 +471,6 @@
       "new_sub_level": 126,
       "oldi_rating": 1702,
       "newi_rating": 1666,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-03T20:45:00Z",
-      "winner_group_id": 1102888,
-      "winner_name": "Ronnie Stavin",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "f8fd0b",
-        "color2": "0d46fc",
-        "color3": "0047e6",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 6,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 17,
-      "points": 29,
-      "strength_of_field": 1700,
-      "subsession_id": 83263624,
-      "old_sub_level": 227,
-      "new_sub_level": 157,
-      "oldi_rating": 1745,
-      "newi_rating": 1702,
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"
