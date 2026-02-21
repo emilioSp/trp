@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-02-21T17:15:00Z",
+      "winner_group_id": 688575,
+      "winner_name": "Patrick Siegertsleithner",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "111111",
+        "color2": "fc0706",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 13,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 86,
+      "strength_of_field": 2234,
+      "subsession_id": 83732828,
+      "old_sub_level": 350,
+      "new_sub_level": 357,
+      "oldi_rating": 2290,
+      "newi_rating": 2313,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 265,
       "oldi_rating": 2415,
       "newi_rating": 2450,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-18T16:00:00Z",
-      "winner_group_id": 1359189,
-      "winner_name": "Tóth Károly",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 20,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 19,
-      "points": 77,
-      "strength_of_field": 2398,
-      "subsession_id": 83651873,
-      "old_sub_level": 234,
-      "new_sub_level": 228,
-      "oldi_rating": 2412,
-      "newi_rating": 2415,
       "track": {
         "track_id": 219,
         "track_name": "Mount Panorama Circuit"
