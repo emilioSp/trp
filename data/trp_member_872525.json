@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6215,
+      "series_id": 329,
+      "series_name": "Bathurst 12 Hour",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 17,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-21T07:00:00Z",
+      "winner_group_id": -332403,
+      "winner_name": "Aero Esport",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 32,
+      "finish_position": 24,
+      "qualifying_time": 0,
+      "laps": 152,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 166,
+      "strength_of_field": 5056,
+      "subsession_id": 83722289,
+      "old_sub_level": 321,
+      "new_sub_level": 499,
+      "oldi_rating": 4352,
+      "newi_rating": 4360,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Nazionale Monza"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 5,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-03T20:00:00Z",
-      "winner_group_id": 1142983,
-      "winner_name": "Niklas Lynn",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "3cff01",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 16,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 172,
-      "strength_of_field": 4770,
-      "subsession_id": 83262950,
-      "old_sub_level": 229,
-      "new_sub_level": 237,
-      "oldi_rating": 4041,
-      "newi_rating": 4082,
-      "track": {
-        "track_id": 247,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6215,
+      "series_id": 329,
+      "series_name": "Bathurst 12 Hour",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 17,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-21T07:00:00Z",
+      "winner_group_id": -332403,
+      "winner_name": "Aero Esport",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 32,
+      "finish_position": 24,
+      "qualifying_time": 0,
+      "laps": 180,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 166,
+      "strength_of_field": 5056,
+      "subsession_id": 83722289,
+      "old_sub_level": 330,
+      "new_sub_level": 499,
+      "oldi_rating": 5049,
+      "newi_rating": 5058,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 10,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-01-28T21:45:00Z",
-      "winner_group_id": 384222,
-      "winner_name": "Matt J. Farrow",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "000000",
-        "color2": "FFFFFF",
-        "color3": "FFFFFF",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 5,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 181,
-      "strength_of_field": 4248,
-      "subsession_id": 83107467,
-      "old_sub_level": 460,
-      "new_sub_level": 439,
-      "oldi_rating": 4622,
-      "newi_rating": 4663,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1279219
