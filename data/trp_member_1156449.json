@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5911,
+      "series_id": 502,
+      "series_name": "Sports Car Challenge by Falken Tyre",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 16,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-02-22T13:30:00Z",
+      "winner_group_id": 1152452,
+      "winner_name": "Mads Artheo Scheel-Bech",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "01003c",
+        "color2": "01003c",
+        "color3": "372a75",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 8,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 21,
+      "points": 14,
+      "strength_of_field": 2478,
+      "subsession_id": 83756693,
+      "old_sub_level": 351,
+      "new_sub_level": 311,
+      "oldi_rating": 2373,
+      "newi_rating": 2305,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Mount Panorama Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-18T20:00:00Z",
-      "winner_group_id": 463338,
-      "winner_name": "Marcus Apeland Lid",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "000000",
-        "color2": "0ada00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 19,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 110,
-      "strength_of_field": 2431,
-      "subsession_id": 83656534,
-      "old_sub_level": 265,
-      "new_sub_level": 299,
-      "oldi_rating": 2450,
-      "newi_rating": 2492,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
