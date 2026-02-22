@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 18,
+      "session_start_time": "2026-02-22T12:00:00Z",
+      "winner_group_id": 1327023,
+      "winner_name": "Jack L Taylor",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "f26722",
+        "color3": "808080",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 16,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 128,
+      "strength_of_field": 2796,
+      "subsession_id": 83754323,
+      "old_sub_level": 263,
+      "new_sub_level": 346,
+      "oldi_rating": 2592,
+      "newi_rating": 2644,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
       "session_start_time": "2026-02-20T20:00:00Z",
       "winner_group_id": 870210,
       "winner_name": "Tom Jackson6",
@@ -43,7 +91,7 @@
         "track_id": 219,
         "track_name": "Mount Panorama Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 16,
-        "color1": "EFE600",
-        "color2": "000000",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-10T09:45:00Z",
-      "winner_group_id": 913334,
-      "winner_name": "Carlo Maria Barberi",
-      "winner_helmet": {
-        "pattern": 19,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 74,
-      "strength_of_field": 2687,
-      "subsession_id": 82609098,
-      "old_sub_level": 236,
-      "new_sub_level": 225,
-      "oldi_rating": 2545,
-      "newi_rating": 2546,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1107481
