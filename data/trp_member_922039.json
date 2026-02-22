@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 23,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "fffefe"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-02-22T14:00:00Z",
+      "winner_group_id": -490652,
+      "winner_name": "DKB Racing Team GTP",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 3,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 107,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 160,
+      "strength_of_field": 2643,
+      "subsession_id": 83757229,
+      "old_sub_level": 245,
+      "new_sub_level": 442,
+      "oldi_rating": 2146,
+      "newi_rating": 2190,
+      "track": {
+        "track_id": 212,
+        "track_name": "Autódromo José Carlos Pace"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Circuito de Jerez - Ángel Nieto"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 133,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 133,
-        "pattern": 16,
-        "color1": "C4FF00",
-        "color2": "C4FF00",
-        "color3": "C2FC00"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-02-04T20:45:00Z",
-      "winner_group_id": 1123900,
-      "winner_name": "Marius Gendre",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 28,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 112,
-      "strength_of_field": 1908,
-      "subsession_id": 83289486,
-      "old_sub_level": 237,
-      "new_sub_level": 268,
-      "oldi_rating": 2255,
-      "newi_rating": 2328,
-      "track": {
-        "track_id": 474,
-        "track_name": "Circuito de Jerez - Ángel Nieto"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7

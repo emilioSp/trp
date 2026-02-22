@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5924,
+      "series_id": 237,
+      "series_name": "GT Endurance Series by Simucube",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-02-22T17:00:00Z",
+      "winner_group_id": -407376,
+      "winner_name": "PMU Klebar Team",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 37,
+      "finish_position": 47,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 32,
+      "points": 29,
+      "strength_of_field": 2357,
+      "subsession_id": 83760850,
+      "old_sub_level": 311,
+      "new_sub_level": 238,
+      "oldi_rating": 2305,
+      "newi_rating": 2247,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5937,
       "series_id": 455,
       "series_name": "Formula Vee Series by trophi.ai",
@@ -423,54 +471,6 @@
       "new_sub_level": 355,
       "oldi_rating": 2486,
       "newi_rating": 2490,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-02-19T16:00:00Z",
-      "winner_group_id": 1379143,
-      "winner_name": "Arthur Buschmann",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "24ede1",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 19,
-      "finish_position": 23,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 35,
-      "strength_of_field": 2645,
-      "subsession_id": 83677927,
-      "old_sub_level": 363,
-      "new_sub_level": 352,
-      "oldi_rating": 2537,
-      "newi_rating": 2486,
       "track": {
         "track_id": 219,
         "track_name": "Mount Panorama Circuit"

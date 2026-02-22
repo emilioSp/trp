@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5931,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 23,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "fffefe"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-22T14:00:00Z",
+      "winner_group_id": -490652,
+      "winner_name": "DKB Racing Team GTP",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 3,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 40,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 160,
+      "strength_of_field": 2643,
+      "subsession_id": 83757229,
+      "old_sub_level": 359,
+      "new_sub_level": 382,
+      "oldi_rating": 4085,
+      "newi_rating": 4101,
+      "track": {
+        "track_id": 212,
+        "track_name": "Autódromo José Carlos Pace"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Algarve International Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-20T02:00:00Z",
-      "winner_group_id": 125274,
-      "winner_name": "Jordy Lopez",
-      "winner_helmet": {
-        "pattern": 36,
-        "color1": "f7f501",
-        "color2": "0013bf",
-        "color3": "f10c0c",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 5,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 138,
-      "strength_of_field": 3637,
-      "subsession_id": 82872346,
-      "old_sub_level": 260,
-      "new_sub_level": 273,
-      "oldi_rating": 3873,
-      "newi_rating": 3897,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
