@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6215,
+      "series_id": 329,
+      "series_name": "Bathurst 12 Hour",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-21T12:00:00Z",
+      "winner_group_id": -260357,
+      "winner_name": "Flying Arrow Racing",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 7,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 86,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 174,
+      "strength_of_field": 3457,
+      "subsession_id": 83727024,
+      "old_sub_level": 311,
+      "new_sub_level": 447,
+      "oldi_rating": 3577,
+      "newi_rating": 3591,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5913,
-      "series_id": 492,
-      "series_name": "IMSA Michelin Pilot Challenge Series",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-07T15:00:00Z",
-      "winner_group_id": 980858,
-      "winner_name": "Dani Santo",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "ffffff",
-        "color2": "00ffc0",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 10,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 37,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 86,
-      "strength_of_field": 4871,
-      "subsession_id": 83361386,
-      "old_sub_level": 327,
-      "new_sub_level": 338,
-      "oldi_rating": 4091,
-      "newi_rating": 4084,
-      "track": {
-        "track_id": 247,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 970331

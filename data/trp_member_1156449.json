@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-02-22T00:00:00Z",
+      "winner_group_id": 470895,
+      "winner_name": "Gary J Paffett",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "ed2129",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 24,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 118,
+      "strength_of_field": 2392,
+      "subsession_id": 83741494,
+      "old_sub_level": 357,
+      "new_sub_level": 351,
+      "oldi_rating": 2313,
+      "newi_rating": 2373,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 299,
       "oldi_rating": 2450,
       "newi_rating": 2492,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-18T18:00:00Z",
-      "winner_group_id": 519068,
-      "winner_name": "Sebastiano Scifo",
-      "winner_helmet": {
-        "pattern": 63,
-        "color1": "000000",
-        "color2": "2c00ff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 10,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 103,
-      "strength_of_field": 2434,
-      "subsession_id": 83654042,
-      "old_sub_level": 228,
-      "new_sub_level": 265,
-      "oldi_rating": 2415,
-      "newi_rating": 2450,
       "track": {
         "track_id": 219,
         "track_name": "Mount Panorama Circuit"

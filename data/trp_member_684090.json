@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6215,
+      "series_id": 329,
+      "series_name": "Bathurst 12 Hour",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-02-21T12:00:00Z",
+      "winner_group_id": -260357,
+      "winner_name": "Flying Arrow Racing",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 7,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 90,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 174,
+      "strength_of_field": 3457,
+      "subsession_id": 83727024,
+      "old_sub_level": 106,
+      "new_sub_level": 499,
+      "oldi_rating": 3205,
+      "newi_rating": 3219,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5769,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-07T20:45:00Z",
-      "winner_group_id": 1240028,
-      "winner_name": "Sergey Skidanov",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "ff0000",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 2,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 169,
-      "strength_of_field": 2803,
-      "subsession_id": 81801409,
-      "old_sub_level": 314,
-      "new_sub_level": 255,
-      "oldi_rating": 3173,
-      "newi_rating": 3257,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 684090

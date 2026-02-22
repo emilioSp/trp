@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6215,
+      "series_id": 329,
+      "series_name": "Bathurst 12 Hour",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-02-21T12:00:00Z",
+      "winner_group_id": -260357,
+      "winner_name": "Flying Arrow Racing",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 7,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 79,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 174,
+      "strength_of_field": 3457,
+      "subsession_id": 83727024,
+      "old_sub_level": 369,
+      "new_sub_level": 462,
+      "oldi_rating": 2949,
+      "newi_rating": 2962,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6072,
       "series_id": 298,
       "series_name": "Daytona 24",
@@ -428,54 +476,6 @@
         "track_name": "Circuito de Navarra"
       },
       "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5763,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 19,
-        "color1": "D0C40B",
-        "color2": "FFFFFF",
-        "color3": "111111"
-      },
-      "license_level": 15,
-      "session_start_time": "2025-11-30T17:45:00Z",
-      "winner_group_id": 406383,
-      "winner_name": "Jean-Luc D'Auria",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "3a3232",
-        "color2": "2c003e",
-        "color3": "ed2229",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 4,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 117,
-      "strength_of_field": 2766,
-      "subsession_id": 81625779,
-      "old_sub_level": 346,
-      "new_sub_level": 357,
-      "oldi_rating": 2988,
-      "newi_rating": 3022,
-      "track": {
-        "track_id": 515,
-        "track_name": "Circuito de Navarra"
-      },
-      "drop_race": false,
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 10
