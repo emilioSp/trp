@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 6,
+      "session_start_time": "2026-02-23T19:45:00Z",
+      "winner_group_id": 971103,
+      "winner_name": "Loris Petersen",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 3,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 87,
+      "strength_of_field": 1475,
+      "subsession_id": 83793093,
+      "old_sub_level": 250,
+      "new_sub_level": 268,
+      "oldi_rating": 1641,
+      "newi_rating": 1719,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 5946,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 19,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "000000"
+      },
+      "license_level": 6,
       "session_start_time": "2026-02-23T16:45:00Z",
       "winner_group_id": 1156449,
       "winner_name": "Tommaso Baseggio",
@@ -43,7 +91,7 @@
         "track_id": 390,
         "track_name": "Hockenheimring Baden-Württemberg"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
@@ -423,54 +471,6 @@
       "new_sub_level": 357,
       "oldi_rating": 2290,
       "newi_rating": 2313,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-02-21T12:00:00Z",
-      "winner_group_id": 1272586,
-      "winner_name": "Egor Gnedushkin",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "E91E31",
-        "color2": "F36F28",
-        "color3": "E8E516",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 17,
-      "finish_position": 25,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 19,
-      "strength_of_field": 2175,
-      "subsession_id": 83726643,
-      "old_sub_level": 357,
-      "new_sub_level": 350,
-      "oldi_rating": 2365,
-      "newi_rating": 2290,
       "track": {
         "track_id": 219,
         "track_name": "Mount Panorama Circuit"
