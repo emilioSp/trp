@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 5,
+        "color1": "b5b5b5",
+        "color2": "00c4ff",
+        "color3": "0070ff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-02-23T18:00:00Z",
+      "winner_group_id": 474984,
+      "winner_name": "Alex Dunne",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "0b33e1",
+        "color2": "4994e3",
+        "color3": "efefef",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 27,
+      "finish_position": 25,
+      "qualifying_time": 0,
+      "laps": 2,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 39,
+      "strength_of_field": 4654,
+      "subsession_id": 83790950,
+      "old_sub_level": 453,
+      "new_sub_level": 420,
+      "oldi_rating": 3600,
+      "newi_rating": 3561,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Mount Panorama Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 5,
-        "color1": "b5b5b5",
-        "color2": "00c4ff",
-        "color3": "0070ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-17T18:00:00Z",
-      "winner_group_id": 1123044,
-      "winner_name": "Denniel Kiner",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "ff0000",
-        "color2": "000000",
-        "color3": "ffc700",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 30,
-      "finish_position": 30,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 0,
-      "strength_of_field": 3789,
-      "subsession_id": 83628370,
-      "old_sub_level": 342,
-      "new_sub_level": 342,
-      "oldi_rating": 4098,
-      "newi_rating": 3994,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
