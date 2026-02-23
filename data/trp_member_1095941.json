@@ -14,6 +14,54 @@
         "color3": "ed2129"
       },
       "license_level": 17,
+      "session_start_time": "2026-02-23T22:00:00Z",
+      "winner_group_id": 1309345,
+      "winner_name": "Neftali Casas",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "ffffff",
+        "color2": "b49e29",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 24,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 17,
+      "points": 84,
+      "strength_of_field": 2822,
+      "subsession_id": 83795814,
+      "old_sub_level": 150,
+      "new_sub_level": 142,
+      "oldi_rating": 2999,
+      "newi_rating": 2991,
+      "track": {
+        "track_id": 219,
+        "track_name": "Mount Panorama Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 17,
       "session_start_time": "2026-02-21T16:00:00Z",
       "winner_group_id": 781617,
       "winner_name": "Tony Geffroy",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-02-01T14:00:00Z",
-      "winner_group_id": 328176,
-      "winner_name": "Lucas Hermann",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "f1ef24",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 21,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 72,
-      "strength_of_field": 3272,
-      "subsession_id": 83203238,
-      "old_sub_level": 128,
-      "new_sub_level": 156,
-      "oldi_rating": 2978,
-      "newi_rating": 2963,
-      "track": {
-        "track_id": 541,
-        "track_name": "Shell V-Power Motorsport Park at The Bend"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1095941
