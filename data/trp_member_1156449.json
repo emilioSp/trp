@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 6,
+      "session_start_time": "2026-02-23T20:45:00Z",
+      "winner_group_id": 1400277,
+      "winner_name": "Pedro Ángel Perez García",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ec232d",
+        "color2": "ffffff",
+        "color3": "2e358f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 7,
+      "start_position": 11,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 98,
+      "strength_of_field": 1706,
+      "subsession_id": 83794332,
+      "old_sub_level": 268,
+      "new_sub_level": 280,
+      "oldi_rating": 1719,
+      "newi_rating": 1798,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 5946,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 19,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "000000"
+      },
+      "license_level": 6,
       "session_start_time": "2026-02-23T19:45:00Z",
       "winner_group_id": 971103,
       "winner_name": "Loris Petersen",
@@ -43,7 +91,7 @@
         "track_id": 390,
         "track_name": "Hockenheimring Baden-Württemberg"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
@@ -428,54 +476,6 @@
         "track_name": "Mount Panorama Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-02-21T17:15:00Z",
-      "winner_group_id": 688575,
-      "winner_name": "Patrick Siegertsleithner",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "111111",
-        "color2": "fc0706",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 13,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 10,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 86,
-      "strength_of_field": 2234,
-      "subsession_id": 83732828,
-      "old_sub_level": 350,
-      "new_sub_level": 357,
-      "oldi_rating": 2290,
-      "newi_rating": 2313,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
