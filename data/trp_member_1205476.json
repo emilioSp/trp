@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 19,
+      "session_start_time": "2026-02-23T23:45:00Z",
+      "winner_group_id": 883563,
+      "winner_name": "Jokubas Vaicekauskas",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "fe3f93",
+        "color2": "ffffff",
+        "color3": "ffde00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 11,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 95,
+      "strength_of_field": 2248,
+      "subsession_id": 83798321,
+      "old_sub_level": 336,
+      "new_sub_level": 349,
+      "oldi_rating": 1982,
+      "newi_rating": 2027,
+      "track": {
+        "track_id": 212,
+        "track_name": "Autódromo José Carlos Pace"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 16,
+        "color1": "EBFF00",
+        "color2": "7CE632",
+        "color3": "000000"
+      },
+      "license_level": 19,
       "session_start_time": "2026-02-21T23:45:00Z",
       "winner_group_id": 464067,
       "winner_name": "Clement Feuillet",
@@ -91,7 +139,7 @@
         "track_id": 212,
         "track_name": "Autódromo José Carlos Pace"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
-    },
-    {
-      "season_id": 5928,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 20,
-        "color1": "EBFF00",
-        "color2": "7CE632",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-02-06T21:45:00Z",
-      "winner_group_id": 1376778,
-      "winner_name": "Shaun Martin4",
-      "winner_helmet": {
-        "pattern": 34,
-        "color1": "bbbbbb",
-        "color2": "000000",
-        "color3": "2c5612",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 4,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 82,
-      "strength_of_field": 2007,
-      "subsession_id": 83342046,
-      "old_sub_level": 239,
-      "new_sub_level": 231,
-      "oldi_rating": 1978,
-      "newi_rating": 2010,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
     }
   ],
   "cust_id": 1205476
