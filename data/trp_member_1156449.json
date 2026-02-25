@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5943,
+      "series_id": 498,
+      "series_name": "FIA Formula 4 Challenge - Fixed",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 19,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "000000"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-02-25T15:00:00Z",
+      "winner_group_id": 1156449,
+      "winner_name": "Tommaso Baseggio",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 9,
+      "incidents": 0,
+      "points": 75,
+      "strength_of_field": 1213,
+      "subsession_id": 83839948,
+      "old_sub_level": 251,
+      "new_sub_level": 271,
+      "oldi_rating": 1624,
+      "newi_rating": 1699,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 10
+    },
+    {
       "season_id": 5946,
       "series_id": 542,
       "series_name": "FIA F4 Esports Regional Tour - Europe",
@@ -139,7 +187,7 @@
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
@@ -423,54 +471,6 @@
       "new_sub_level": 280,
       "oldi_rating": 1882,
       "newi_rating": 1947,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5946,
-      "series_id": 542,
-      "series_name": "FIA F4 Esports Regional Tour - Europe",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 19,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "000000"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-02-24T13:45:00Z",
-      "winner_group_id": 1138462,
-      "winner_name": "Julian Closmann",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "ffffff",
-        "color2": "f06109",
-        "color3": "3ffe29",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 9,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 10,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 77,
-      "strength_of_field": 2164,
-      "subsession_id": 83812853,
-      "old_sub_level": 263,
-      "new_sub_level": 260,
-      "oldi_rating": 1854,
-      "newi_rating": 1882,
       "track": {
         "track_id": 485,
         "track_name": "Circuit Zandvoort"
