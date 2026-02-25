@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 17,
+      "session_start_time": "2026-02-25T17:45:00Z",
+      "winner_group_id": 404584,
+      "winner_name": "Jamie Niks",
+      "winner_helmet": {
+        "pattern": 37,
+        "color1": "009227",
+        "color2": "520101",
+        "color3": "ca5500",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 14,
+      "finish_position": 37,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 21,
+      "points": 14,
+      "strength_of_field": 1410,
+      "subsession_id": 83842627,
+      "old_sub_level": 147,
+      "new_sub_level": 98,
+      "oldi_rating": 619,
+      "newi_rating": 599,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 10
+    },
+    {
+      "season_id": 5936,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 206,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 206,
+        "pattern": 2,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000"
+      },
+      "license_level": 17,
       "session_start_time": "2026-02-24T17:45:00Z",
       "winner_group_id": 325417,
       "winner_name": "Bruno D Minardi",
@@ -43,7 +91,7 @@
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
@@ -428,54 +476,6 @@
         "track_name": "Watkins Glen International"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 18,
-        "color1": "7E00FC",
-        "color2": "00F218",
-        "color3": "ED00F2"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-31T08:45:00Z",
-      "winner_group_id": 839420,
-      "winner_name": "Jonas Tuán Theander",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "c22c2c",
-        "color3": "00c2ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 19,
-      "finish_position": 26,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 34,
-      "strength_of_field": 1640,
-      "subsession_id": 83170175,
-      "old_sub_level": 218,
-      "new_sub_level": 200,
-      "oldi_rating": 717,
-      "newi_rating": 728,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
