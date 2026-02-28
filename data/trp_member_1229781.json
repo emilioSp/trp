@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 11,
+      "session_start_time": "2026-02-28T16:00:00Z",
+      "winner_group_id": 693419,
+      "winner_name": "Andreas Vik Osland",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "ffffff",
+        "color2": "1ec477",
+        "color3": "1ec477",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 100,
+      "strength_of_field": 1707,
+      "subsession_id": 83917448,
+      "old_sub_level": 321,
+      "new_sub_level": 326,
+      "oldi_rating": 1730,
+      "newi_rating": 1815,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 10
+    },
+    {
+      "season_id": 5943,
+      "series_id": 498,
+      "series_name": "FIA Formula 4 Challenge - Fixed",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 11,
       "session_start_time": "2026-02-28T14:00:00Z",
       "winner_group_id": 1229781,
       "winner_name": "Emanuelec Marsilla",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
-    },
-    {
-      "season_id": 5945,
-      "series_id": 541,
-      "series_name": "FIA F4 Esports Regional Tour - America",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-01-25T14:15:00Z",
-      "winner_group_id": 769233,
-      "winner_name": "Michal Zajac2",
-      "winner_helmet": {
-        "pattern": 60,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "00ff03",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 10,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 80,
-      "strength_of_field": 2138,
-      "subsession_id": 83017498,
-      "old_sub_level": 360,
-      "new_sub_level": 360,
-      "oldi_rating": 1695,
-      "newi_rating": 1733,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1229781
