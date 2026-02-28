@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 11,
+      "session_start_time": "2026-02-28T14:00:00Z",
+      "winner_group_id": 1229781,
+      "winner_name": "Emanuelec Marsilla",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "ed1c24",
+        "color3": "cfdd28",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 9,
+      "incidents": 1,
+      "points": 104,
+      "strength_of_field": 1685,
+      "subsession_id": 83915236,
+      "old_sub_level": 312,
+      "new_sub_level": 321,
+      "oldi_rating": 1633,
+      "newi_rating": 1730,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 10
+    },
+    {
+      "season_id": 5943,
+      "series_id": 498,
+      "series_name": "FIA Formula 4 Challenge - Fixed",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 10,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 11,
       "session_start_time": "2026-02-28T13:00:00Z",
       "winner_group_id": 926967,
       "winner_name": "Jakob Zeisler",
@@ -139,7 +187,7 @@
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
@@ -428,54 +476,6 @@
         "track_name": "Autódromo Hermanos Rodríguez"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5945,
-      "series_id": 541,
-      "series_name": "FIA F4 Esports Regional Tour - America",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-01-25T10:15:00Z",
-      "winner_group_id": 1147321,
-      "winner_name": "Chico Bala",
-      "winner_helmet": {
-        "pattern": 48,
-        "color1": "c0e411",
-        "color2": "2446c8",
-        "color3": "0a1160",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 10,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 4,
-      "strength_of_field": 2166,
-      "subsession_id": 83013282,
-      "old_sub_level": 373,
-      "new_sub_level": 360,
-      "oldi_rating": 1772,
-      "newi_rating": 1695,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
