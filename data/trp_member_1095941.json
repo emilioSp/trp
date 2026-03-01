@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-03-01T22:00:00Z",
+      "winner_group_id": 829050,
+      "winner_name": "Manuel Hidalgo",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ed2129",
+        "color2": "ffffff",
+        "color3": "2a3795",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 22,
+      "finish_position": 25,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 18,
+      "points": 8,
+      "strength_of_field": 3650,
+      "subsession_id": 83952549,
+      "old_sub_level": 140,
+      "new_sub_level": 131,
+      "oldi_rating": 2955,
+      "newi_rating": 2890,
+      "track": {
+        "track_id": 250,
+        "track_name": "Nürburgring Grand-Prix-Strecke"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 10
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 146,
       "oldi_rating": 3043,
       "newi_rating": 3032,
-      "track": {
-        "track_id": 465,
-        "track_name": "Virginia International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-02-14T16:00:00Z",
-      "winner_group_id": 701749,
-      "winner_name": "Romain Picart",
-      "winner_helmet": {
-        "pattern": 3,
-        "color1": "111111",
-        "color2": "ff0000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 27,
-      "finish_position": 22,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 55,
-      "strength_of_field": 3622,
-      "subsession_id": 83545362,
-      "old_sub_level": 151,
-      "new_sub_level": 147,
-      "oldi_rating": 3073,
-      "newi_rating": 3043,
       "track": {
         "track_id": 465,
         "track_name": "Virginia International Raceway"
