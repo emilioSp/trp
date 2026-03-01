@@ -14,6 +14,54 @@
         "color3": "284a94"
       },
       "license_level": 15,
+      "session_start_time": "2026-03-01T17:45:00Z",
+      "winner_group_id": 690472,
+      "winner_name": "Lewis Barlow",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "111111",
+        "color2": "821b1b",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 13,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 65,
+      "strength_of_field": 2480,
+      "subsession_id": 83946756,
+      "old_sub_level": 367,
+      "new_sub_level": 363,
+      "oldi_rating": 1826,
+      "newi_rating": 1838,
+      "track": {
+        "track_id": 233,
+        "track_name": "Donington Park Racing Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 10
+    },
+    {
+      "season_id": 5929,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 15,
       "session_start_time": "2026-02-28T16:45:00Z",
       "winner_group_id": 860541,
       "winner_name": "Maxime Lombet",
@@ -91,7 +139,7 @@
         "track_id": 233,
         "track_name": "Donington Park Racing Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
@@ -423,54 +471,6 @@
       "new_sub_level": 135,
       "oldi_rating": 1790,
       "newi_rating": 1735,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-02-12T14:45:00Z",
-      "winner_group_id": 1090406,
-      "winner_name": "Maarten Botman",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "a1a392",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 7,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 68,
-      "strength_of_field": 1613,
-      "subsession_id": 83492626,
-      "old_sub_level": 145,
-      "new_sub_level": 158,
-      "oldi_rating": 1762,
-      "newi_rating": 1790,
       "track": {
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
