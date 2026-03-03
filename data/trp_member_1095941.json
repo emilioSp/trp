@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-03-03T22:00:00Z",
+      "winner_group_id": 838949,
+      "winner_name": "Rémy Crozat",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "000000",
+        "color2": "a09a00",
+        "color3": "cdc600",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 13,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 128,
+      "strength_of_field": 3636,
+      "subsession_id": 84003869,
+      "old_sub_level": 266,
+      "new_sub_level": 282,
+      "oldi_rating": 2982,
+      "newi_rating": 3021,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -91,7 +139,7 @@
         "track_id": 501,
         "track_name": "Misano World Circuit Marco Simoncelli"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-02-23T22:00:00Z",
-      "winner_group_id": 1309345,
-      "winner_name": "Neftali Casas",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "ffffff",
-        "color2": "b49e29",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 24,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 17,
-      "points": 84,
-      "strength_of_field": 2822,
-      "subsession_id": 83795814,
-      "old_sub_level": 150,
-      "new_sub_level": 142,
-      "oldi_rating": 2999,
-      "newi_rating": 2991,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
     }
   ],
   "cust_id": 1095941
