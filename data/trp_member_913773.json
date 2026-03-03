@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-03-03T21:15:00Z",
+      "winner_group_id": 452114,
+      "winner_name": "Tomas Granzella",
+      "winner_helmet": {
+        "pattern": 67,
+        "color1": "000000",
+        "color2": "380505",
+        "color3": "b71b1b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 7,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 47,
+      "strength_of_field": 1992,
+      "subsession_id": 84002868,
+      "old_sub_level": 363,
+      "new_sub_level": 352,
+      "oldi_rating": 1838,
+      "newi_rating": 1823,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5929,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Motorsport Arena Oschersleben"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-02-13T21:45:00Z",
-      "winner_group_id": 835152,
-      "winner_name": "Yoann De Ghendt",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "ebff00",
-        "color2": "565454",
-        "color3": "b7b7b7",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 6,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 18,
-      "points": 23,
-      "strength_of_field": 1717,
-      "subsession_id": 83525447,
-      "old_sub_level": 158,
-      "new_sub_level": 135,
-      "oldi_rating": 1790,
-      "newi_rating": 1735,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8

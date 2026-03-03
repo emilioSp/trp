@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 4,
+        "color1": "2A3795",
+        "color2": "FFFFFF",
+        "color3": "ED2129"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-03-03T21:15:00Z",
+      "winner_group_id": 420122,
+      "winner_name": "David Pertile",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "D0C40B",
+        "color2": "ffffff",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 8,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 136,
+      "strength_of_field": 2535,
+      "subsession_id": 84002867,
+      "old_sub_level": 245,
+      "new_sub_level": 266,
+      "oldi_rating": 2920,
+      "newi_rating": 2982,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Mount Panorama Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-02-21T16:00:00Z",
-      "winner_group_id": 781617,
-      "winner_name": "Tony Geffroy",
-      "winner_helmet": {
-        "pattern": 25,
-        "color1": "fbfbfb",
-        "color2": "fafafa",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 17,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 1,
-      "incidents": 9,
-      "points": 95,
-      "strength_of_field": 2970,
-      "subsession_id": 83731356,
-      "old_sub_level": 122,
-      "new_sub_level": 150,
-      "oldi_rating": 2997,
-      "newi_rating": 2999,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9

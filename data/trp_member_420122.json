@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "D0C40B",
+        "color2": "FFFFFF",
+        "color3": "111111"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-03-03T21:15:00Z",
+      "winner_group_id": 420122,
+      "winner_name": "David Pertile",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "D0C40B",
+        "color2": "ffffff",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 3,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 2,
+      "incidents": 8,
+      "points": 153,
+      "strength_of_field": 2535,
+      "subsession_id": 84002867,
+      "old_sub_level": 462,
+      "new_sub_level": 434,
+      "oldi_rating": 2962,
+      "newi_rating": 3042,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 6215,
       "series_id": 329,
       "series_name": "Bathurst 12 Hour",
@@ -423,54 +471,6 @@
       "new_sub_level": 342,
       "oldi_rating": 2939,
       "newi_rating": 2884,
-      "track": {
-        "track_id": 515,
-        "track_name": "Circuito de Navarra"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5763,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 19,
-        "color1": "D0C40B",
-        "color2": "FFFFFF",
-        "color3": "111111"
-      },
-      "license_level": 15,
-      "session_start_time": "2025-12-01T18:45:00Z",
-      "winner_group_id": 1174159,
-      "winner_name": "Pintér Zsombi2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ccff00",
-        "color2": "391c83",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 5,
-      "strength_of_field": 3209,
-      "subsession_id": 81650306,
-      "old_sub_level": 357,
-      "new_sub_level": 363,
-      "oldi_rating": 3022,
-      "newi_rating": 2939,
       "track": {
         "track_id": 515,
         "track_name": "Circuito de Navarra"
