@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 26,
+    "wins": 3,
+    "top5": 7,
+    "avg_start_position": 10,
+    "avg_finish_position": 14,
+    "laps": 613,
+    "laps_led": 56,
+    "favorite_car": {
+      "car_id": 194,
+      "car_name": "Acura NSX GT3 EVO 22",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_194/acuransxevo22gt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Road Course",
+      "track_id": 192,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/daytonainternationalspeedway-logo.png",
+      "track_name": "Daytona International Speedway"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 18840
+}

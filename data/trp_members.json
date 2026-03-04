@@ -150,6 +150,16 @@
     "iRating": 3565
   },
   {
+    "id": 18840,
+    "name": "Claudio Maldi",
+    "memberSince": "2008-07-12",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.13,
+    "iRating": 2926
+  },
+  {
     "id": 1221961,
     "name": "Giaime M Cualbu",
     "memberSince": "2025-03-27",
@@ -158,6 +168,16 @@
     "className": "A",
     "safetyRating": 4.98,
     "iRating": 5034
+  },
+  {
+    "id": 1179726,
+    "name": "Joy Perez",
+    "memberSince": "2025-01-04",
+    "country": "Dominican Republic",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.65,
+    "iRating": 2589
   },
   {
     "id": 420122,
@@ -216,8 +236,8 @@
     "country": "Italy",
     "classOrder": 4,
     "className": "B",
-    "safetyRating": 2.13,
-    "iRating": 2214
+    "safetyRating": 1.49,
+    "iRating": 2161
   },
   {
     "id": 684090,
