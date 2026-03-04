@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5946,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 19,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "000000"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-03-04T13:45:00Z",
+      "winner_group_id": 583485,
+      "winner_name": "Jordan Labois",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "cccccc",
+        "color2": "ed1c24",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 15,
+      "finish_position": 20,
+      "qualifying_time": 0,
+      "laps": 3,
+      "laps_led": 0,
+      "incidents": 18,
+      "points": 6,
+      "strength_of_field": 2054,
+      "subsession_id": 84020786,
+      "old_sub_level": 285,
+      "new_sub_level": 254,
+      "oldi_rating": 1730,
+      "newi_rating": 1659,
+      "track": {
+        "track_id": 463,
+        "track_name": "Circuit de Nevers Magny-Cours"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Nürburgring Nordschleife"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5943,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 19,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "000000"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-02-25T16:00:00Z",
-      "winner_group_id": 1156449,
-      "winner_name": "Tommaso Baseggio",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 7,
-      "incidents": 0,
-      "points": 79,
-      "strength_of_field": 1279,
-      "subsession_id": 83840885,
-      "old_sub_level": 271,
-      "new_sub_level": 291,
-      "oldi_rating": 1699,
-      "newi_rating": 1775,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
