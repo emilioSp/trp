@@ -13,6 +13,54 @@
         "color2": "ff0000",
         "color3": "ffffff"
       },
+      "license_level": 13,
+      "session_start_time": "2026-03-04T17:15:00Z",
+      "winner_group_id": 1066421,
+      "winner_name": "Stefano Magliocco",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "f0001d",
+        "color2": "070707",
+        "color3": "010102",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 3,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 147,
+      "strength_of_field": 2589,
+      "subsession_id": 84024035,
+      "old_sub_level": 149,
+      "new_sub_level": 171,
+      "oldi_rating": 2161,
+      "newi_rating": 2259,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
       "license_level": 14,
       "session_start_time": "2026-03-04T15:15:00Z",
       "winner_group_id": 805551,
@@ -235,7 +283,7 @@
         "track_id": 501,
         "track_name": "Misano World Circuit Marco Simoncelli"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Nazionale Monza"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5943,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 19,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "000000"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-02-27T13:00:00Z",
-      "winner_group_id": 947139,
-      "winner_name": "Carson Leung",
-      "winner_helmet": {
-        "pattern": 61,
-        "color1": "ffffff",
-        "color2": "f767f1",
-        "color3": "00baff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 6,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 19,
-      "strength_of_field": 2420,
-      "subsession_id": 83888185,
-      "old_sub_level": 291,
-      "new_sub_level": 285,
-      "oldi_rating": 1775,
-      "newi_rating": 1730,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
