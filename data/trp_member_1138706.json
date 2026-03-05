@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 6,
+        "color1": "FFFFFF",
+        "color2": "2BFF00",
+        "color3": "FF0000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-05T20:00:00Z",
+      "winner_group_id": 741015,
+      "winner_name": "Giorgio Saggio",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "111111",
+        "color2": "ffee47",
+        "color3": "0300c2",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 4,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 168,
+      "strength_of_field": 3459,
+      "subsession_id": 84053336,
+      "old_sub_level": 369,
+      "new_sub_level": 384,
+      "oldi_rating": 2881,
+      "newi_rating": 2956,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5931,
       "series_id": 331,
       "series_name": "Global Endurance Tour",
@@ -423,54 +471,6 @@
       "new_sub_level": 340,
       "oldi_rating": 2765,
       "newi_rating": 2778,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 3,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5590,
-      "series_id": 237,
-      "series_name": "GT Endurance Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 188,
-        "pattern": 11,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-07-26T19:00:00Z",
-      "winner_group_id": -432854,
-      "winner_name": "LP7 Racing",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 32,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 37,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 130,
-      "strength_of_field": 2315,
-      "subsession_id": 78697029,
-      "old_sub_level": 367,
-      "new_sub_level": 398,
-      "oldi_rating": 2744,
-      "newi_rating": 2765,
       "track": {
         "track_id": 501,
         "track_name": "Misano World Circuit Marco Simoncelli"
