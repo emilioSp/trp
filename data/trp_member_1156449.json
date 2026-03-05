@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5945,
+      "series_id": 541,
+      "series_name": "FIA F4 Esports Regional Tour - America",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 19,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "000000"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-03-05T18:15:00Z",
+      "winner_group_id": 256046,
+      "winner_name": "Borja Zazo",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "29f2af",
+        "color2": "29f2af",
+        "color3": "29f2af",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 4,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 85,
+      "strength_of_field": 1853,
+      "subsession_id": 84051259,
+      "old_sub_level": 248,
+      "new_sub_level": 264,
+      "oldi_rating": 1679,
+      "newi_rating": 1736,
+      "track": {
+        "track_id": 566,
+        "track_name": "Sonoma Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 256,
       "oldi_rating": 2192,
       "newi_rating": 2251,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-03T15:15:00Z",
-      "winner_group_id": 813677,
-      "winner_name": "Ale Torchio",
-      "winner_helmet": {
-        "pattern": 4,
-        "color1": "f71111",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 4,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 115,
-      "strength_of_field": 2548,
-      "subsession_id": 83996028,
-      "old_sub_level": 189,
-      "new_sub_level": 199,
-      "oldi_rating": 2128,
-      "newi_rating": 2192,
       "track": {
         "track_id": 501,
         "track_name": "Misano World Circuit Marco Simoncelli"
