@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5893,
+      "series_id": 139,
+      "series_name": "Global Mazda MX-5 Cup by Fanatec",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 1,
+        "color1": "1f2892",
+        "color2": "7de54c",
+        "color3": "ffffff"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-03-06T21:30:00Z",
+      "winner_group_id": 1338098,
+      "winner_name": "Leonardo Rufino2",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 12,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 0,
+      "strength_of_field": 3224,
+      "subsession_id": 84080259,
+      "old_sub_level": 315,
+      "new_sub_level": 315,
+      "oldi_rating": 3888,
+      "newi_rating": 3781,
+      "track": {
+        "track_id": 9,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5945,
       "series_id": 541,
       "series_name": "FIA F4 Esports Regional Tour - America",
@@ -423,54 +471,6 @@
       "new_sub_level": 331,
       "oldi_rating": 4120,
       "newi_rating": 4011,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5893,
-      "series_id": 139,
-      "series_name": "Global Mazda MX-5 Cup by Fanatec",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "1f2892",
-        "color2": "7de54c",
-        "color3": "ffffff"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-25T00:30:00Z",
-      "winner_group_id": 878045,
-      "winner_name": "Gino Rocchio",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "f9f9f9",
-        "color2": "000000",
-        "color3": "42ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 2,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 5,
-      "laps_led": 3,
-      "incidents": 8,
-      "points": 43,
-      "strength_of_field": 2814,
-      "subsession_id": 82160658,
-      "old_sub_level": 364,
-      "new_sub_level": 349,
-      "oldi_rating": 4193,
-      "newi_rating": 4120,
       "track": {
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
