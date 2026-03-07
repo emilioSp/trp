@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-03-07T11:15:00Z",
+      "winner_group_id": 619688,
+      "winner_name": "Rocco Mazzola",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ff0000",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 14,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 84,
+      "strength_of_field": 3490,
+      "subsession_id": 84095356,
+      "old_sub_level": 190,
+      "new_sub_level": 248,
+      "oldi_rating": 2473,
+      "newi_rating": 2488,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Nevers Magny-Cours"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-04T17:15:00Z",
-      "winner_group_id": 1066421,
-      "winner_name": "Stefano Magliocco",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "f0001d",
-        "color2": "070707",
-        "color3": "010102",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 147,
-      "strength_of_field": 2589,
-      "subsession_id": 84024035,
-      "old_sub_level": 149,
-      "new_sub_level": 171,
-      "oldi_rating": 2161,
-      "newi_rating": 2259,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11
