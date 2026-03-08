@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5898,
+      "series_id": 112,
+      "series_name": "Production Car Challenge by Sim-Lab",
+      "car_id": 195,
+      "car_class_id": 4073,
+      "livery": {
+        "car_id": 195,
+        "pattern": 17,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-03-08T17:30:00Z",
+      "winner_group_id": 351766,
+      "winner_name": "Marcel Fleischmann",
+      "winner_helmet": {
+        "pattern": 36,
+        "color1": "0A0A0A",
+        "color2": "FFFFFF",
+        "color3": "E52D0B",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 5,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 16,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 113,
+      "strength_of_field": 2610,
+      "subsession_id": 84130552,
+      "old_sub_level": 339,
+      "new_sub_level": 359,
+      "oldi_rating": 3058,
+      "newi_rating": 3099,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-01T22:00:00Z",
-      "winner_group_id": 829050,
-      "winner_name": "Manuel Hidalgo",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ed2129",
-        "color2": "ffffff",
-        "color3": "2a3795",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 22,
-      "finish_position": 25,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 18,
-      "points": 8,
-      "strength_of_field": 3650,
-      "subsession_id": 83952549,
-      "old_sub_level": 140,
-      "new_sub_level": 131,
-      "oldi_rating": 2955,
-      "newi_rating": 2890,
-      "track": {
-        "track_id": 250,
-        "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1095941
