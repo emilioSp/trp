@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5925,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-03-08T22:00:00Z",
+      "winner_group_id": 994081,
+      "winner_name": "Cem Us",
+      "winner_helmet": {
+        "pattern": 61,
+        "color1": "adb7c8",
+        "color2": "4b6e8c",
+        "color3": "746173",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 11,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 148,
+      "strength_of_field": 2901,
+      "subsession_id": 84137057,
+      "old_sub_level": 359,
+      "new_sub_level": 344,
+      "oldi_rating": 3099,
+      "newi_rating": 3158,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5898,
       "series_id": 112,
       "series_name": "Production Car Challenge by Sim-Lab",
@@ -91,7 +139,7 @@
         "track_id": 501,
         "track_name": "Misano World Circuit Marco Simoncelli"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11
@@ -423,54 +471,6 @@
       "new_sub_level": 245,
       "oldi_rating": 2894,
       "newi_rating": 2920,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-03T14:00:00Z",
-      "winner_group_id": 372757,
-      "winner_name": "Abel Sallán",
-      "winner_helmet": {
-        "pattern": 67,
-        "color1": "f8f059",
-        "color2": "9a131b",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 13,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 82,
-      "strength_of_field": 3925,
-      "subsession_id": 83995004,
-      "old_sub_level": 131,
-      "new_sub_level": 174,
-      "oldi_rating": 2890,
-      "newi_rating": 2894,
       "track": {
         "track_id": 501,
         "track_name": "Misano World Circuit Marco Simoncelli"
