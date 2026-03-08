@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5910,
+      "series_id": 491,
+      "series_name": "GT4 Challenge by Falken Tyre",
+      "car_id": 119,
+      "car_class_id": 2268,
+      "livery": {
+        "car_id": 119,
+        "pattern": 4,
+        "color1": "f2ff00",
+        "color2": "21d5ed",
+        "color3": "ff00d6"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-03-08T18:30:00Z",
+      "winner_group_id": 432652,
+      "winner_name": "Valentin Kluss",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 19,
+      "finish_position": 27,
+      "qualifying_time": 0,
+      "laps": 4,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 13,
+      "strength_of_field": 2982,
+      "subsession_id": 84132013,
+      "old_sub_level": 315,
+      "new_sub_level": 309,
+      "oldi_rating": 3781,
+      "newi_rating": 3683,
+      "track": {
+        "track_id": 349,
+        "track_name": "Circuit de Barcelona Catalunya"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5893,
       "series_id": 139,
       "series_name": "Global Mazda MX-5 Cup by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 322,
       "oldi_rating": 4011,
       "newi_rating": 3913,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5893,
-      "series_id": 139,
-      "series_name": "Global Mazda MX-5 Cup by Fanatec",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "1f2892",
-        "color2": "7de54c",
-        "color3": "ffffff"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-25T18:30:00Z",
-      "winner_group_id": 1397935,
-      "winner_name": "Harald H Mathisen",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 4,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 8,
-      "strength_of_field": 3143,
-      "subsession_id": 82178745,
-      "old_sub_level": 349,
-      "new_sub_level": 331,
-      "oldi_rating": 4120,
-      "newi_rating": 4011,
       "track": {
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
