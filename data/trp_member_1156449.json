@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5930,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 109,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 109,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-03-08T19:00:00Z",
+      "winner_group_id": 414415,
+      "winner_name": "Antonio Mantero",
+      "winner_helmet": {
+        "pattern": 36,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "838383",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 21,
+      "finish_position": 20,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 34,
+      "strength_of_field": 2653,
+      "subsession_id": 84132766,
+      "old_sub_level": 357,
+      "new_sub_level": 365,
+      "oldi_rating": 2642,
+      "newi_rating": 2588,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Misano World Circuit Marco Simoncelli"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-05T13:15:00Z",
-      "winner_group_id": 682377,
-      "winner_name": "Peter Biedert",
-      "winner_helmet": {
-        "pattern": 36,
-        "color1": "000000",
-        "color2": "38dbff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 15,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 87,
-      "strength_of_field": 3138,
-      "subsession_id": 84046334,
-      "old_sub_level": 141,
-      "new_sub_level": 157,
-      "oldi_rating": 2220,
-      "newi_rating": 2244,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11

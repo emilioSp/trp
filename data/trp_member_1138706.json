@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5924,
+      "series_id": 237,
+      "series_name": "GT Endurance Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "1C1FED",
+        "color2": "000000",
+        "color3": "F3F3F3"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-08T17:00:00Z",
+      "winner_group_id": -122891,
+      "winner_name": "Velox Simsport Racing #488",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 36,
+      "laps_led": 35,
+      "incidents": 3,
+      "points": 159,
+      "strength_of_field": 3211,
+      "subsession_id": 84129895,
+      "old_sub_level": 384,
+      "new_sub_level": 450,
+      "oldi_rating": 2956,
+      "newi_rating": 2981,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 3,
       "race_week_num": 3
-    },
-    {
-      "season_id": 5591,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 188,
-        "pattern": 15,
-        "color1": "FFFFFF",
-        "color2": "2BFF00",
-        "color3": "FF0000"
-      },
-      "license_level": 15,
-      "session_start_time": "2025-07-28T20:00:00Z",
-      "winner_group_id": 746523,
-      "winner_name": "Paul Lobmaier",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "00aeef",
-        "color2": "f26522",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 8,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 97,
-      "strength_of_field": 3284,
-      "subsession_id": 78745036,
-      "old_sub_level": 345,
-      "new_sub_level": 340,
-      "oldi_rating": 2765,
-      "newi_rating": 2778,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 3,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1138706
