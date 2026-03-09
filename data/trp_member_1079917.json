@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 5926,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 22,
+        "color1": "24ACF9",
+        "color2": "1E20E8",
+        "color3": "0A35E9"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-03-09T19:15:00Z",
+      "winner_group_id": 380105,
+      "winner_name": "Pedro Espadinha",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "FFFFFF",
+        "color2": "111111",
+        "color3": "DA1600",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 7,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 132,
+      "strength_of_field": 3290,
+      "subsession_id": 84159487,
+      "old_sub_level": 264,
+      "new_sub_level": 278,
+      "oldi_rating": 3990,
+      "newi_rating": 4008,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 11
+    },
+    {
       "season_id": 5935,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -91,7 +139,7 @@
         "track_id": 501,
         "track_name": "Misano World Circuit Marco Simoncelli"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Nazionale Monza"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 18,
-        "color1": "030303",
-        "color2": "b40cf0",
-        "color3": "dde809"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-24T20:45:00Z",
-      "winner_group_id": 743078,
-      "winner_name": "Ben A Ford",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "a82727",
-        "color2": "ffc700",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 6,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 189,
-      "strength_of_field": 4605,
-      "subsession_id": 83820470,
-      "old_sub_level": 347,
-      "new_sub_level": 345,
-      "oldi_rating": 3796,
-      "newi_rating": 3860,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
