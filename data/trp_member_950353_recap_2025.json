@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 155,
+    "wins": 13,
+    "top5": 61,
+    "avg_start_position": 7,
+    "avg_finish_position": 8,
+    "laps": 2323,
+    "laps_led": 110,
+    "favorite_car": {
+      "car_id": 142,
+      "car_name": "Formula Vee",
+      "car_image": "https://images-static.iracing.com/img/cars/formulavee/formulavee-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Boot",
+      "track_id": 434,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/watkinsgleninternational-logo.png",
+      "track_name": "Watkins Glen International"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 950353
+}
