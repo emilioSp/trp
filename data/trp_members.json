@@ -66,8 +66,8 @@
     "country": "Italy",
     "classOrder": 4,
     "className": "B",
-    "safetyRating": 2.42,
-    "iRating": 1943
+    "safetyRating": 2.35,
+    "iRating": 1890
   },
   {
     "id": 1107481,
@@ -176,8 +176,8 @@
     "country": "Dominican Republic",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.42,
-    "iRating": 2627
+    "safetyRating": 3.37,
+    "iRating": 2644
   },
   {
     "id": 420122,
@@ -198,6 +198,16 @@
     "className": "A",
     "safetyRating": 2.14,
     "iRating": 2086
+  },
+  {
+    "id": 1086157,
+    "name": "Marco Aleandri",
+    "memberSince": "2024-07-09",
+    "country": "Italy",
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 1.53,
+    "iRating": 2202
   },
   {
     "id": 950353,
