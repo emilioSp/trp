@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6219,
+      "series_id": 602,
+      "series_name": "13th Week ARCA Cup",
+      "car_id": 199,
+      "car_class_id": 4086,
+      "livery": {
+        "car_id": 199,
+        "pattern": 23,
+        "color1": "daf200",
+        "color2": "071505",
+        "color3": "0014ff"
+      },
+      "license_level": 7,
+      "session_start_time": "2026-03-11T19:30:00Z",
+      "winner_group_id": 1337130,
+      "winner_name": "Totta Gonzalez",
+      "winner_helmet": {
+        "pattern": 32,
+        "color1": "000000",
+        "color2": "3a3a3a",
+        "color3": "0204a3",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 1,
+      "incidents": 0,
+      "points": 96,
+      "strength_of_field": 1613,
+      "subsession_id": 84187674,
+      "old_sub_level": 349,
+      "new_sub_level": 357,
+      "oldi_rating": 1588,
+      "newi_rating": 1675,
+      "track": {
+        "track_id": 191,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5968,
       "series_id": 182,
       "series_name": "Rookie Street Stock Series by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 343,
       "oldi_rating": 1661,
       "newi_rating": 1597,
-      "track": {
-        "track_id": 556,
-        "track_name": "Charlotte Motor Speedway "
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5968,
-      "series_id": 182,
-      "series_name": "Rookie Street Stock Series by Fanatec",
-      "car_id": 36,
-      "car_class_id": 4064,
-      "livery": {
-        "car_id": 36,
-        "pattern": 1,
-        "color1": "ed2129",
-        "color2": "2a3795",
-        "color3": "ffffff"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-02-23T19:00:00Z",
-      "winner_group_id": 1440101,
-      "winner_name": "Kayden C. Diederich",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 11,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 31,
-      "strength_of_field": 1571,
-      "subsession_id": 83792189,
-      "old_sub_level": 349,
-      "new_sub_level": 349,
-      "oldi_rating": 1697,
-      "newi_rating": 1661,
       "track": {
         "track_id": 556,
         "track_name": "Charlotte Motor Speedway "

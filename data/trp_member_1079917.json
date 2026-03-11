@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6245,
+      "series_id": 617,
+      "series_name": "13th Week Cross Car Cup",
+      "car_id": 207,
+      "car_class_id": 4092,
+      "livery": {
+        "car_id": 207,
+        "pattern": 3,
+        "color1": "24ACF9",
+        "color2": "1E20E8",
+        "color3": "0A35E9"
+      },
+      "license_level": 2,
+      "session_start_time": "2026-03-11T20:15:00Z",
+      "winner_group_id": 417897,
+      "winner_name": "Jonathan Aparicio",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "15e602",
+        "color2": "000000",
+        "color3": "0e0b09",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 7,
+      "start_position": 6,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 6,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 65,
+      "strength_of_field": 1417,
+      "subsession_id": 84188237,
+      "old_sub_level": 267,
+      "new_sub_level": 275,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 293,
+        "track_name": "Daytona Rallycross and Dirt Road"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 310,
       "oldi_rating": 3885,
       "newi_rating": 3896,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 18,
-        "color1": "030303",
-        "color2": "b40cf0",
-        "color3": "dde809"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-25T13:45:00Z",
-      "winner_group_id": 635791,
-      "winner_name": "Pedro Valencia",
-      "winner_helmet": {
-        "pattern": 36,
-        "color1": "00305d",
-        "color2": "ff3d00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 136,
-      "strength_of_field": 3248,
-      "subsession_id": 83838821,
-      "old_sub_level": 345,
-      "new_sub_level": 329,
-      "oldi_rating": 3860,
-      "newi_rating": 3885,
       "track": {
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
