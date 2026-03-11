@@ -14,6 +14,54 @@
         "color3": "808080"
       },
       "license_level": 19,
+      "session_start_time": "2026-03-11T17:15:00Z",
+      "winner_group_id": 468920,
+      "winner_name": "Matthijs van Erven",
+      "winner_helmet": {
+        "pattern": 11,
+        "color1": "ff0202",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 16,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 95,
+      "strength_of_field": 2997,
+      "subsession_id": 84186298,
+      "old_sub_level": 342,
+      "new_sub_level": 337,
+      "oldi_rating": 2627,
+      "newi_rating": 2644,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 6226,
+      "series_id": 449,
+      "series_name": "13th Week GT3 Challenge - Fixed",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 24,
+        "color1": "891505",
+        "color2": "111111",
+        "color3": "808080"
+      },
+      "license_level": 19,
       "session_start_time": "2026-03-11T16:15:00Z",
       "winner_group_id": 399097,
       "winner_name": "Javier Sierra",
@@ -139,7 +187,7 @@
         "track_id": 584,
         "track_name": "St. Petersburg Grand Prix"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 24,
-        "color1": "891505",
-        "color2": "111111",
-        "color3": "808080"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-01-19T16:00:00Z",
-      "winner_group_id": 672475,
-      "winner_name": "Alexandre Jaspard",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "000000",
-        "color2": "cdff36",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 16,
-      "start_position": 15,
-      "finish_position": 27,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 6,
-      "strength_of_field": 2643,
-      "subsession_id": 82858943,
-      "old_sub_level": 366,
-      "new_sub_level": 359,
-      "oldi_rating": 2481,
-      "newi_rating": 2398,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
