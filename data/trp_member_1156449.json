@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6226,
+      "series_id": 449,
+      "series_name": "13th Week GT3 Challenge - Fixed",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-03-12T13:45:00Z",
+      "winner_group_id": 1127766,
+      "winner_name": "Lee W Smith",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "0139ff",
+        "color2": "f70f24",
+        "color3": "efd600",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 18,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 70,
+      "strength_of_field": 2645,
+      "subsession_id": 84197780,
+      "old_sub_level": 335,
+      "new_sub_level": 329,
+      "oldi_rating": 2628,
+      "newi_rating": 2615,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 2
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-03-08T16:00:00Z",
-      "winner_group_id": 923713,
-      "winner_name": "Stefan Holz",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "ffffff",
-        "color2": "ff4d4d",
-        "color3": "0de8e0",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 8,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 1,
-      "incidents": 7,
-      "points": 130,
-      "strength_of_field": 2317,
-      "subsession_id": 84128539,
-      "old_sub_level": 351,
-      "new_sub_level": 357,
-      "oldi_rating": 2572,
-      "newi_rating": 2642,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
       },
       "drop_race": false,
       "season_year": 2026,
