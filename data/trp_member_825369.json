@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 11,
+      "session_start_time": "2026-03-14T09:30:00Z",
+      "winner_group_id": 825369,
+      "winner_name": "Simone Donchi",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 6,
+      "laps_led": 6,
+      "incidents": 1,
+      "points": 135,
+      "strength_of_field": 2224,
+      "subsession_id": 84222735,
+      "old_sub_level": 308,
+      "new_sub_level": 313,
+      "oldi_rating": 3776,
+      "newi_rating": 3829,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6222,
+      "series_id": 135,
+      "series_name": "13th Week Mazda Cup",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 1,
+        "color1": "1f2892",
+        "color2": "7de54c",
+        "color3": "ffffff"
+      },
+      "license_level": 11,
       "session_start_time": "2026-03-14T09:00:00Z",
       "winner_group_id": 468580,
       "winner_name": "Nieko Scolesy",
@@ -43,7 +91,7 @@
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -428,54 +476,6 @@
         "track_name": "Motorsport Arena Oschersleben"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5893,
-      "series_id": 139,
-      "series_name": "Global Mazda MX-5 Cup by Fanatec",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "1f2892",
-        "color2": "7de54c",
-        "color3": "ffffff"
-      },
-      "license_level": 11,
-      "session_start_time": "2025-12-29T17:30:00Z",
-      "winner_group_id": 543295,
-      "winner_name": "Harald Mathisen",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "8000ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 1,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 6,
-      "incidents": 4,
-      "points": 139,
-      "strength_of_field": 3434,
-      "subsession_id": 82287881,
-      "old_sub_level": 336,
-      "new_sub_level": 337,
-      "oldi_rating": 3919,
-      "newi_rating": 3951,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
