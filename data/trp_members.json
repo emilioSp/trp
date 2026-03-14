@@ -46,8 +46,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.33,
-    "iRating": 3703
+    "safetyRating": 3.2,
+    "iRating": 3744
   },
   {
     "id": 765325,
@@ -176,8 +176,8 @@
     "country": "Dominican Republic",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.22,
-    "iRating": 2732
+    "safetyRating": 2.51,
+    "iRating": 2708
   },
   {
     "id": 420122,
@@ -206,8 +206,8 @@
     "country": "Italy",
     "classOrder": 4,
     "className": "B",
-    "safetyRating": 1.79,
-    "iRating": 2254
+    "safetyRating": 1.77,
+    "iRating": 2167
   },
   {
     "id": 950353,
