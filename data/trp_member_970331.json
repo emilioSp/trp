@@ -14,6 +14,54 @@
         "color3": "fffa00"
       },
       "license_level": 19,
+      "session_start_time": "2026-03-14T19:45:00Z",
+      "winner_group_id": 385998,
+      "winner_name": "Markus Rauer",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "000000",
+        "color2": "f85907",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 108,
+      "strength_of_field": 2029,
+      "subsession_id": 84229162,
+      "old_sub_level": 345,
+      "new_sub_level": 358,
+      "oldi_rating": 3693,
+      "newi_rating": 3724,
+      "track": {
+        "track_id": 451,
+        "track_name": "Rudskogen Motorsenter"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6256,
+      "series_id": 421,
+      "series_name": "13th Week Shiny New Shakedown",
+      "car_id": 146,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 146,
+        "pattern": 9,
+        "color1": "09ffc2",
+        "color2": "0080ff",
+        "color3": "fffa00"
+      },
+      "license_level": 19,
       "session_start_time": "2026-03-14T10:15:00Z",
       "winner_group_id": 970331,
       "winner_name": "Salvatore Gueli",
@@ -43,7 +91,7 @@
         "track_id": 451,
         "track_name": "Rudskogen Motorsenter"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 5,
-        "color1": "b5b5b5",
-        "color2": "00c4ff",
-        "color3": "0070ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-20T16:00:00Z",
-      "winner_group_id": 297390,
-      "winner_name": "Roberto Suárez",
-      "winner_helmet": {
-        "pattern": 63,
-        "color1": "fffc00",
-        "color2": "14fa00",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 19,
-      "finish_position": 24,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 42,
-      "strength_of_field": 3920,
-      "subsession_id": 83703959,
-      "old_sub_level": 305,
-      "new_sub_level": 311,
-      "oldi_rating": 3631,
-      "newi_rating": 3577,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
     }
   ],
   "cust_id": 970331
