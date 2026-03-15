@@ -14,6 +14,54 @@
         "color3": "0014ff"
       },
       "license_level": 13,
+      "session_start_time": "2026-03-15T15:30:00Z",
+      "winner_group_id": 1139632,
+      "winner_name": "Janick Hilber",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "284a94",
+        "color2": "b82f37",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 8,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 73,
+      "strength_of_field": 2112,
+      "subsession_id": 84242189,
+      "old_sub_level": 197,
+      "new_sub_level": 247,
+      "oldi_rating": 2013,
+      "newi_rating": 2036,
+      "track": {
+        "track_id": 352,
+        "track_name": "Lime Rock Park"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6225,
+      "series_id": 607,
+      "series_name": "13th Week BMW M2 Cup",
+      "car_id": 195,
+      "car_class_id": 4073,
+      "livery": {
+        "car_id": 195,
+        "pattern": 9,
+        "color1": "daf200",
+        "color2": "071505",
+        "color3": "0014ff"
+      },
+      "license_level": 13,
       "session_start_time": "2026-03-15T14:45:00Z",
       "winner_group_id": 1339966,
       "winner_name": "Cassiano Heil2",
@@ -43,7 +91,7 @@
         "track_id": 352,
         "track_name": "Lime Rock Park"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -423,54 +471,6 @@
       "new_sub_level": 333,
       "oldi_rating": 1543,
       "newi_rating": 1511,
-      "track": {
-        "track_id": 191,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5975,
-      "series_id": 538,
-      "series_name": "Draft Master Challenge by Simagic",
-      "car_id": 123,
-      "car_class_id": 4040,
-      "livery": {
-        "car_id": 123,
-        "pattern": 3,
-        "color1": "DAF200",
-        "color2": "071505",
-        "color3": "0014FF"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-02-28T19:30:00Z",
-      "winner_group_id": 1440789,
-      "winner_name": "Vladislav Filatov",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 2,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 40,
-      "strength_of_field": 1547,
-      "subsession_id": 83921742,
-      "old_sub_level": 355,
-      "new_sub_level": 341,
-      "oldi_rating": 1559,
-      "newi_rating": 1543,
       "track": {
         "track_id": 191,
         "track_name": "Daytona International Speedway"
