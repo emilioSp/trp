@@ -1,6 +1,102 @@
 {
   "races": [
     {
+      "season_id": 6224,
+      "series_id": 320,
+      "series_name": "13th Week iRacing Porsche Cup",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-03-15T14:45:00Z",
+      "winner_group_id": 591858,
+      "winner_name": "Christina Jakobsen",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "1a4b9b",
+        "color2": "dff000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 23,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 66,
+      "strength_of_field": 1597,
+      "subsession_id": 84241691,
+      "old_sub_level": 185,
+      "new_sub_level": 183,
+      "oldi_rating": 1619,
+      "newi_rating": 1648,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6222,
+      "series_id": 135,
+      "series_name": "13th Week Mazda Cup",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "ed1c24",
+        "color3": "cfdd28"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-03-15T14:15:00Z",
+      "winner_group_id": 1062139,
+      "winner_name": "AJ Vincent",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "010101",
+        "color2": "20d015",
+        "color3": "f8f8f8",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 5,
+      "start_position": 16,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 30,
+      "strength_of_field": 1575,
+      "subsession_id": 84241361,
+      "old_sub_level": 178,
+      "new_sub_level": 185,
+      "oldi_rating": 1657,
+      "newi_rating": 1619,
+      "track": {
+        "track_id": 352,
+        "track_name": "Lime Rock Park"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6222,
       "series_id": 135,
       "series_name": "13th Week Mazda Cup",
@@ -187,7 +283,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -383,102 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
-    },
-    {
-      "season_id": 6222,
-      "series_id": 135,
-      "series_name": "13th Week Mazda Cup",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "ed1c24",
-        "color3": "cfdd28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-03-11T17:45:00Z",
-      "winner_group_id": 230419,
-      "winner_name": "Felipe Rodés",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "10d5a1",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 18,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 25,
-      "strength_of_field": 1972,
-      "subsession_id": 84186552,
-      "old_sub_level": 242,
-      "new_sub_level": 235,
-      "oldi_rating": 1943,
-      "newi_rating": 1890,
-      "track": {
-        "track_id": 181,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5943,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 10,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-03-02T18:00:00Z",
-      "winner_group_id": 1229781,
-      "winner_name": "Emanuelec Marsilla",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "ed1c24",
-        "color3": "cfdd28",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 2,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 3,
-      "incidents": 3,
-      "points": 98,
-      "strength_of_field": 1594,
-      "subsession_id": 83972826,
-      "old_sub_level": 306,
-      "new_sub_level": 310,
-      "oldi_rating": 1786,
-      "newi_rating": 1872,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1229781

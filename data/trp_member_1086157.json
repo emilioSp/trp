@@ -14,6 +14,54 @@
         "color3": "0014ff"
       },
       "license_level": 13,
+      "session_start_time": "2026-03-15T14:45:00Z",
+      "winner_group_id": 1339966,
+      "winner_name": "Cassiano Heil2",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "ffffff",
+        "color2": "2e358f",
+        "color3": "ec232d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 7,
+      "start_position": 9,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 54,
+      "strength_of_field": 2032,
+      "subsession_id": 84241698,
+      "old_sub_level": 184,
+      "new_sub_level": 197,
+      "oldi_rating": 2020,
+      "newi_rating": 2013,
+      "track": {
+        "track_id": 352,
+        "track_name": "Lime Rock Park"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6225,
+      "series_id": 607,
+      "series_name": "13th Week BMW M2 Cup",
+      "car_id": 195,
+      "car_class_id": 4073,
+      "livery": {
+        "car_id": 195,
+        "pattern": 9,
+        "color1": "daf200",
+        "color2": "071505",
+        "color3": "0014ff"
+      },
+      "license_level": 13,
       "session_start_time": "2026-03-15T12:00:00Z",
       "winner_group_id": 547155,
       "winner_name": "Björn Alfthan",
@@ -43,7 +91,7 @@
         "track_id": 352,
         "track_name": "Lime Rock Park"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -423,54 +471,6 @@
       "new_sub_level": 341,
       "oldi_rating": 1559,
       "newi_rating": 1543,
-      "track": {
-        "track_id": 191,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5975,
-      "series_id": 538,
-      "series_name": "Draft Master Challenge by Simagic",
-      "car_id": 123,
-      "car_class_id": 4040,
-      "livery": {
-        "car_id": 123,
-        "pattern": 3,
-        "color1": "DAF200",
-        "color2": "071505",
-        "color3": "0014FF"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-02-28T11:30:00Z",
-      "winner_group_id": 72783,
-      "winner_name": "Kyle Conaway",
-      "winner_helmet": {
-        "pattern": 44,
-        "color1": "000000",
-        "color2": "f70000",
-        "color3": "9f9f99",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 3,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 24,
-      "strength_of_field": 1517,
-      "subsession_id": 83912626,
-      "old_sub_level": 356,
-      "new_sub_level": 355,
-      "oldi_rating": 1607,
-      "newi_rating": 1559,
       "track": {
         "track_id": 191,
         "track_name": "Daytona International Speedway"

@@ -4,6 +4,54 @@
       "season_id": 6226,
       "series_id": 449,
       "series_name": "13th Week GT3 Challenge - Fixed",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 24,
+        "color1": "891505",
+        "color2": "111111",
+        "color3": "808080"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-03-15T14:45:00Z",
+      "winner_group_id": 468920,
+      "winner_name": "Matthijs van Erven",
+      "winner_helmet": {
+        "pattern": 11,
+        "color1": "ff0202",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 11,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 102,
+      "strength_of_field": 2984,
+      "subsession_id": 84241705,
+      "old_sub_level": 251,
+      "new_sub_level": 235,
+      "oldi_rating": 2708,
+      "newi_rating": 2732,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6226,
+      "series_id": 449,
+      "series_name": "13th Week GT3 Challenge - Fixed",
       "car_id": 185,
       "car_class_id": 2708,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
-    },
-    {
-      "season_id": 5968,
-      "series_id": 182,
-      "series_name": "Rookie Street Stock Series by Fanatec",
-      "car_id": 36,
-      "car_class_id": 4064,
-      "livery": {
-        "car_id": 36,
-        "pattern": 1,
-        "color1": "482574",
-        "color2": "111111",
-        "color3": "808080"
-      },
-      "license_level": 2,
-      "session_start_time": "2026-02-19T20:00:00Z",
-      "winner_group_id": 862059,
-      "winner_name": "Kyle Lanfear",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 5,
-      "start_position": 9,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 18,
-      "strength_of_field": 1204,
-      "subsession_id": 83682616,
-      "old_sub_level": 272,
-      "new_sub_level": 262,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 556,
-        "track_name": "Charlotte Motor Speedway "
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
     }
   ],
   "cust_id": 1179726
