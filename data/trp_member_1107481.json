@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6226,
+      "series_id": 449,
+      "series_name": "13th Week GT3 Challenge - Fixed",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-15T13:45:00Z",
+      "winner_group_id": 468920,
+      "winner_name": "Matthijs van Erven",
+      "winner_helmet": {
+        "pattern": 11,
+        "color1": "ff0202",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 8,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 52,
+      "strength_of_field": 2787,
+      "subsession_id": 84241089,
+      "old_sub_level": 344,
+      "new_sub_level": 329,
+      "oldi_rating": 2724,
+      "newi_rating": 2693,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Algarve International Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-21T22:00:00Z",
-      "winner_group_id": 345510,
-      "winner_name": "Nelson Costa De Sousa",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "ff3d00",
-        "color2": "060606",
-        "color3": "840202",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 19,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 116,
-      "strength_of_field": 2792,
-      "subsession_id": 82919036,
-      "old_sub_level": 210,
-      "new_sub_level": 233,
-      "oldi_rating": 2567,
-      "newi_rating": 2608,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
