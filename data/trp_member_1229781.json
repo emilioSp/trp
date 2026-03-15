@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 13,
+      "session_start_time": "2026-03-15T16:45:00Z",
+      "winner_group_id": 1252769,
+      "winner_name": "Samuel Reynolds",
+      "winner_helmet": {
+        "pattern": 11,
+        "color1": "ffffff",
+        "color2": "00e8ff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 17,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 84,
+      "strength_of_field": 1568,
+      "subsession_id": 84243084,
+      "old_sub_level": 192,
+      "new_sub_level": 242,
+      "oldi_rating": 1594,
+      "newi_rating": 1660,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6224,
+      "series_id": 320,
+      "series_name": "13th Week iRacing Porsche Cup",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 13,
       "session_start_time": "2026-03-15T15:45:00Z",
       "winner_group_id": 1379799,
       "winner_name": "Andre V Nogueira",
@@ -91,7 +139,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
@@ -423,54 +471,6 @@
       "new_sub_level": 204,
       "oldi_rating": 1799,
       "newi_rating": 1704,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6226,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 156,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-03-12T16:15:00Z",
-      "winner_group_id": 1419751,
-      "winner_name": "Flynn Lu",
-      "winner_helmet": {
-        "pattern": 27,
-        "color1": "ec232d",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 19,
-      "finish_position": 25,
-      "qualifying_time": 0,
-      "laps": 1,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 12,
-      "strength_of_field": 1801,
-      "subsession_id": 84198854,
-      "old_sub_level": 225,
-      "new_sub_level": 211,
-      "oldi_rating": 1876,
-      "newi_rating": 1799,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
