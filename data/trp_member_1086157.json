@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6225,
+      "series_id": 607,
+      "series_name": "13th Week BMW M2 Cup",
+      "car_id": 195,
+      "car_class_id": 4073,
+      "livery": {
+        "car_id": 195,
+        "pattern": 9,
+        "color1": "daf200",
+        "color2": "071505",
+        "color3": "0014ff"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-03-15T12:00:00Z",
+      "winner_group_id": 547155,
+      "winner_name": "Björn Alfthan",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 9,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 7,
+      "strength_of_field": 2470,
+      "subsession_id": 84240178,
+      "old_sub_level": 181,
+      "new_sub_level": 184,
+      "oldi_rating": 2094,
+      "newi_rating": 2020,
+      "track": {
+        "track_id": 352,
+        "track_name": "Lime Rock Park"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 1,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6226,
       "series_id": 449,
       "series_name": "13th Week GT3 Challenge - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5975,
-      "series_id": 538,
-      "series_name": "Draft Master Challenge by Simagic",
-      "car_id": 123,
-      "car_class_id": 4040,
-      "livery": {
-        "car_id": 123,
-        "pattern": 3,
-        "color1": "DAF200",
-        "color2": "071505",
-        "color3": "0014FF"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-02-25T19:00:00Z",
-      "winner_group_id": 1057537,
-      "winner_name": "RJ Arnold",
-      "winner_helmet": {
-        "pattern": 7,
-        "color1": "05fcd7",
-        "color2": "e42be8",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 3,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 74,
-      "strength_of_field": 1458,
-      "subsession_id": 83844155,
-      "old_sub_level": 357,
-      "new_sub_level": 356,
-      "oldi_rating": 1551,
-      "newi_rating": 1607,
-      "track": {
-        "track_id": 191,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
