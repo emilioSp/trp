@@ -104,9 +104,9 @@
     "name": "Luca Zinicola",
     "memberSince": "2024-12-02",
     "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 1.56,
+    "classOrder": 3,
+    "className": "C",
+    "safetyRating": 2.56,
     "iRating": 599
   },
   {
@@ -124,9 +124,9 @@
     "name": "Mario Bellotti",
     "memberSince": "2024-07-28",
     "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 3.24,
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.24,
     "iRating": 3185
   },
   {
@@ -134,9 +134,9 @@
     "name": "Simone Donchi",
     "memberSince": "2022-09-23",
     "country": "Italy",
-    "classOrder": 3,
-    "className": "C",
-    "safetyRating": 3,
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 2,
     "iRating": 3943
   },
   {
@@ -234,9 +234,9 @@
     "name": "Salvatore Reddavid",
     "memberSince": "2023-06-17",
     "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 3.55,
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.55,
     "iRating": 1844
   },
   {
