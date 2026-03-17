@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6110,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-03-17T15:45:00Z",
+      "winner_group_id": 591858,
+      "winner_name": "Christina Jakobsen",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "1a4b9b",
+        "color2": "dff000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 13,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 51,
+      "strength_of_field": 1633,
+      "subsession_id": 84279648,
+      "old_sub_level": 242,
+      "new_sub_level": 237,
+      "oldi_rating": 1660,
+      "newi_rating": 1659,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6224,
       "series_id": 320,
       "series_name": "13th Week iRacing Porsche Cup",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6226,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 156,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-03-12T16:45:00Z",
-      "winner_group_id": 1166071,
-      "winner_name": "Justin Henschke",
-      "winner_helmet": {
-        "pattern": 6,
-        "color1": "1a1a1a",
-        "color2": "e54b33",
-        "color3": "1a1a1a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 9,
-      "start_position": 7,
-      "finish_position": 29,
-      "qualifying_time": 0,
-      "laps": 1,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 2,
-      "strength_of_field": 1818,
-      "subsession_id": 84199123,
-      "old_sub_level": 211,
-      "new_sub_level": 204,
-      "oldi_rating": 1799,
-      "newi_rating": 1704,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
