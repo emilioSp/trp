@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-17T22:00:00Z",
+      "winner_group_id": 734413,
+      "winner_name": "Adrián Bermejo",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "efd600",
+        "color2": "111111",
+        "color3": "d7162d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 13,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 34,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 122,
+      "strength_of_field": 3335,
+      "subsession_id": 84287428,
+      "old_sub_level": 329,
+      "new_sub_level": 347,
+      "oldi_rating": 2693,
+      "newi_rating": 2734,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6226,
       "series_id": 449,
       "series_name": "13th Week GT3 Challenge - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-24T12:00:00Z",
-      "winner_group_id": 774898,
-      "winner_name": "Shawn Butler4",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 2,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 115,
-      "strength_of_field": 2539,
-      "subsession_id": 82985808,
-      "old_sub_level": 233,
-      "new_sub_level": 216,
-      "oldi_rating": 2608,
-      "newi_rating": 2651,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1107481
