@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-03-17T19:15:00Z",
+      "winner_group_id": 690513,
+      "winner_name": "DanieI Riess",
+      "winner_helmet": {
+        "pattern": 3,
+        "color1": "ff0000",
+        "color2": "ff0000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 14,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 4,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 5,
+      "strength_of_field": 1814,
+      "subsession_id": 84283735,
+      "old_sub_level": 255,
+      "new_sub_level": 235,
+      "oldi_rating": 1844,
+      "newi_rating": 1758,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5926,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Virginia International Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-02-15T10:00:00Z",
-      "winner_group_id": 841114,
-      "winner_name": "Sebastian Haiduc",
-      "winner_helmet": {
-        "pattern": 55,
-        "color1": "ff0000",
-        "color2": "5718ee",
-        "color3": "ffe300",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 12,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 36,
-      "strength_of_field": 1765,
-      "subsession_id": 83565758,
-      "old_sub_level": 171,
-      "new_sub_level": 255,
-      "oldi_rating": 1784,
-      "newi_rating": 1752,
-      "track": {
-        "track_id": 465,
-        "track_name": "Virginia International Raceway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8

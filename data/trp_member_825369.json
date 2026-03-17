@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6134,
+      "series_id": 541,
+      "series_name": "FIA F4 Esports Regional Tour - America",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 1,
+        "color1": "911f90",
+        "color2": "cb4ce6",
+        "color3": "ffffff"
+      },
+      "license_level": 5,
+      "session_start_time": "2026-03-17T19:15:00Z",
+      "winner_group_id": 1240934,
+      "winner_name": "Christopher Tufford",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "fff500",
+        "color2": "59f700",
+        "color3": "525252",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 2,
+      "finish_position": 24,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 0,
+      "strength_of_field": 2179,
+      "subsession_id": 84283755,
+      "old_sub_level": 190,
+      "new_sub_level": 176,
+      "oldi_rating": 2175,
+      "newi_rating": 2081,
+      "track": {
+        "track_id": 353,
+        "track_name": "Lime Rock Park"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6231,
       "series_id": 610,
       "series_name": "13th Week FIA F4 Challenge",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
-    },
-    {
-      "season_id": 6231,
-      "series_id": 610,
-      "series_name": "13th Week FIA F4 Challenge",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 1,
-        "color1": "911f90",
-        "color2": "cb4ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 5,
-      "session_start_time": "2026-03-11T20:00:00Z",
-      "winner_group_id": 618390,
-      "winner_name": "Savio Paniccia",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "ff0000",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 9,
-      "start_position": 21,
-      "finish_position": 23,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 3,
-      "strength_of_field": 2685,
-      "subsession_id": 84188066,
-      "old_sub_level": 186,
-      "new_sub_level": 175,
-      "oldi_rating": 2186,
-      "newi_rating": 2110,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
     }
   ],
   "cust_id": 825369

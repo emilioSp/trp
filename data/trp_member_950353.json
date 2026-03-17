@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6164,
+      "series_id": 538,
+      "series_name": "Draft Master Challenge by Simagic",
+      "car_id": 139,
+      "car_class_id": 4040,
+      "livery": {
+        "car_id": 139,
+        "pattern": 12,
+        "color1": "000000",
+        "color2": "320A5A",
+        "color3": "0F1562"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-03-17T19:00:00Z",
+      "winner_group_id": 1191401,
+      "winner_name": "Taylor Klimczak",
+      "winner_helmet": {
+        "pattern": 39,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 10,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 24,
+      "strength_of_field": 1980,
+      "subsession_id": 84283544,
+      "old_sub_level": 226,
+      "new_sub_level": 204,
+      "oldi_rating": 1777,
+      "newi_rating": 1728,
+      "track": {
+        "track_id": 116,
+        "track_name": "Talladega Superspeedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5937,
       "series_id": 455,
       "series_name": "Formula Vee Series by trophi.ai",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
-    },
-    {
-      "season_id": 5975,
-      "series_id": 538,
-      "series_name": "Draft Master Challenge by Simagic",
-      "car_id": 115,
-      "car_class_id": 4040,
-      "livery": {
-        "car_id": 115,
-        "pattern": 13,
-        "color1": "000000",
-        "color2": "320a5a",
-        "color3": "0f1562"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-02-15T17:30:00Z",
-      "winner_group_id": 1283783,
-      "winner_name": "Colin Kralj",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "898b8e",
-        "color3": "eb2227",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 5,
-      "start_position": 11,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 14,
-      "strength_of_field": 1792,
-      "subsession_id": 83574580,
-      "old_sub_level": 346,
-      "new_sub_level": 327,
-      "oldi_rating": 1825,
-      "newi_rating": 1753,
-      "track": {
-        "track_id": 191,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
     }
   ],
   "cust_id": 950353
