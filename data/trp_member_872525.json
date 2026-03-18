@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-03-18T20:00:00Z",
+      "winner_group_id": 423094,
+      "winner_name": "Florian Dührkop",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "ff00b0",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 14,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 34,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 109,
+      "strength_of_field": 4092,
+      "subsession_id": 84310395,
+      "old_sub_level": 462,
+      "new_sub_level": 461,
+      "oldi_rating": 4284,
+      "newi_rating": 4275,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Circuito de Jerez - Ángel Nieto"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 5931,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "1C1FED",
-        "color2": "000000",
-        "color3": "F3F3F3"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-02-07T07:00:00Z",
-      "winner_group_id": -139642,
-      "winner_name": "Switch It - Sapphire",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 1,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 110,
-      "laps_led": 0,
-      "incidents": 20,
-      "points": 143,
-      "strength_of_field": 3504,
-      "subsession_id": 83353386,
-      "old_sub_level": 226,
-      "new_sub_level": 361,
-      "oldi_rating": 4118,
-      "newi_rating": 4127,
-      "track": {
-        "track_id": 474,
-        "track_name": "Circuito de Jerez - Ángel Nieto"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
