@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 9,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-03-18T19:15:00Z",
+      "winner_group_id": 423094,
+      "winner_name": "Florian Dührkop",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "ff00b0",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 10,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 177,
+      "strength_of_field": 3904,
+      "subsession_id": 84309374,
+      "old_sub_level": 200,
+      "new_sub_level": 208,
+      "oldi_rating": 3943,
+      "newi_rating": 4000,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6134,
       "series_id": 541,
       "series_name": "FIA F4 Esports Regional Tour - America",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6231,
-      "series_id": 610,
-      "series_name": "13th Week FIA F4 Challenge",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 1,
-        "color1": "911f90",
-        "color2": "cb4ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 5,
-      "session_start_time": "2026-03-12T20:00:00Z",
-      "winner_group_id": 1256563,
-      "winner_name": "Mohamed Rabeea",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "ff0000",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 5,
-      "start_position": 9,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 5,
-      "strength_of_field": 1892,
-      "subsession_id": 84201223,
-      "old_sub_level": 175,
-      "new_sub_level": 171,
-      "oldi_rating": 2110,
-      "newi_rating": 2016,
-      "track": {
-        "track_id": 324,
-        "track_name": "Tsukuba Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
     }
   ],
   "cust_id": 825369
