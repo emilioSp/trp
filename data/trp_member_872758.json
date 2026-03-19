@@ -13,6 +13,54 @@
         "color2": "00FF00",
         "color3": "0000FF"
       },
+      "license_level": 18,
+      "session_start_time": "2026-03-18T22:45:00Z",
+      "winner_group_id": 456918,
+      "winner_name": "Jeffrey Lawler",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 194,
+      "strength_of_field": 3631,
+      "subsession_id": 84313852,
+      "old_sub_level": 253,
+      "new_sub_level": 271,
+      "oldi_rating": 3842,
+      "newi_rating": 3918,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 5,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
       "license_level": 19,
       "session_start_time": "2026-03-17T22:45:00Z",
       "winner_group_id": 508229,
@@ -43,7 +91,7 @@
         "track_id": 341,
         "track_name": "Silverstone Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 188,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 188,
-        "pattern": 23,
-        "color1": "f3f4f3",
-        "color2": "0025e8",
-        "color3": "111111"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-01-27T22:45:00Z",
-      "winner_group_id": 1067094,
-      "winner_name": "Augustin Bernier2",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "003cd7",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 19,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 84,
-      "strength_of_field": 5507,
-      "subsession_id": 83083237,
-      "old_sub_level": 377,
-      "new_sub_level": 368,
-      "oldi_rating": 4126,
-      "newi_rating": 4120,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 872758
