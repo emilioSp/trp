@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 9,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-03-19T17:15:00Z",
+      "winner_group_id": 267640,
+      "winner_name": "Arthur Leist",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "ff7b00",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 18,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 106,
+      "strength_of_field": 3900,
+      "subsession_id": 84331988,
+      "old_sub_level": 208,
+      "new_sub_level": 224,
+      "oldi_rating": 4000,
+      "newi_rating": 3995,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6132,
       "series_id": 498,
       "series_name": "FIA Formula 4 Challenge - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Motorsport Arena Oschersleben"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6222,
-      "series_id": 135,
-      "series_name": "13th Week Mazda Cup",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "1f2892",
-        "color2": "7de54c",
-        "color3": "ffffff"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-03-14T09:00:00Z",
-      "winner_group_id": 468580,
-      "winner_name": "Nieko Scolesy",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "ffffff",
-        "color2": "000000",
-        "color3": "00ff85",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 1,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 121,
-      "strength_of_field": 2369,
-      "subsession_id": 84222544,
-      "old_sub_level": 312,
-      "new_sub_level": 308,
-      "oldi_rating": 3746,
-      "newi_rating": 3776,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
