@@ -4,6 +4,54 @@
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 16,
+        "color1": "EBFF00",
+        "color2": "7CE632",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-19T22:45:00Z",
+      "winner_group_id": 290738,
+      "winner_name": "Robert J Moore",
+      "winner_helmet": {
+        "pattern": 49,
+        "color1": "000000",
+        "color2": "49d936",
+        "color3": "923dba",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 24,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 111,
+      "strength_of_field": 2239,
+      "subsession_id": 84338478,
+      "old_sub_level": 338,
+      "new_sub_level": 332,
+      "oldi_rating": 2204,
+      "newi_rating": 2262,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
       "car_id": 169,
       "car_class_id": 4011,
       "livery": {
@@ -43,7 +91,7 @@
         "track_id": 341,
         "track_name": "Silverstone Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
@@ -428,54 +476,6 @@
         "track_name": "Autódromo José Carlos Pace"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 16,
-        "color1": "EBFF00",
-        "color2": "7CE632",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-21T23:45:00Z",
-      "winner_group_id": 464067,
-      "winner_name": "Clement Feuillet",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "fa0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 6,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 1,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 3,
-      "strength_of_field": 2042,
-      "subsession_id": 83741193,
-      "old_sub_level": 361,
-      "new_sub_level": 336,
-      "oldi_rating": 2076,
-      "newi_rating": 1982,
-      "track": {
-        "track_id": 212,
-        "track_name": "Autódromo José Carlos Pace"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
