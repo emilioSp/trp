@@ -14,6 +14,54 @@
         "color3": "111111"
       },
       "license_level": 20,
+      "session_start_time": "2026-03-20T19:45:00Z",
+      "winner_group_id": 432652,
+      "winner_name": "Valentin Kluss",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 9,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 130,
+      "strength_of_field": 2866,
+      "subsession_id": 84359897,
+      "old_sub_level": 414,
+      "new_sub_level": 407,
+      "oldi_rating": 3080,
+      "newi_rating": 3126,
+      "track": {
+        "track_id": 166,
+        "track_name": "Okayama International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6116,
+      "series_id": 594,
+      "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 19,
+        "color1": "D0C40B",
+        "color2": "FFFFFF",
+        "color3": "111111"
+      },
+      "license_level": 20,
       "session_start_time": "2026-03-19T18:45:00Z",
       "winner_group_id": 961981,
       "winner_name": "Lean Weigel2",
@@ -43,7 +91,7 @@
         "track_id": 166,
         "track_name": "Okayama International Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 5930,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 102,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 102,
-        "pattern": 15,
-        "color1": "D0C40B",
-        "color2": "ffffff",
-        "color3": "111111"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-30T17:00:00Z",
-      "winner_group_id": 749780,
-      "winner_name": "Chris Fleischmann2",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "dbff00",
-        "color2": "36e809",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 10,
-      "finish_position": 22,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 9,
-      "strength_of_field": 3269,
-      "subsession_id": 82315487,
-      "old_sub_level": 242,
-      "new_sub_level": 255,
-      "oldi_rating": 2884,
-      "newi_rating": 2811,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
