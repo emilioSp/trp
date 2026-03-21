@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 14,
+      "session_start_time": "2026-03-21T16:00:00Z",
+      "winner_group_id": 1043334,
+      "winner_name": "Alex Sargsyan",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "9b5d09",
+        "color2": "ae0e0e",
+        "color3": "001581",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 19,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 3,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 76,
+      "strength_of_field": 2985,
+      "subsession_id": 84382408,
+      "old_sub_level": 225,
+      "new_sub_level": 231,
+      "oldi_rating": 2592,
+      "newi_rating": 2591,
+      "track": {
+        "track_id": 249,
+        "track_name": "Nürburgring Nordschleife"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6091,
+      "series_id": 526,
+      "series_name": "Ring Meister by LVRY",
+      "car_id": 165,
+      "car_class_id": 4048,
+      "livery": {
+        "car_id": 165,
+        "pattern": 16,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
       "session_start_time": "2026-03-21T12:00:00Z",
       "winner_group_id": 1295061,
       "winner_name": "Seth Maile",
@@ -43,7 +91,7 @@
         "track_id": 249,
         "track_name": "Nürburgring Nordschleife"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 2
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-03-09T20:00:00Z",
-      "winner_group_id": 922277,
-      "winner_name": "Jan Hilden",
-      "winner_helmet": {
-        "pattern": 60,
-        "color1": "080097",
-        "color2": "111111",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 19,
-      "finish_position": 24,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 30,
-      "strength_of_field": 3352,
-      "subsession_id": 84160499,
-      "old_sub_level": 329,
-      "new_sub_level": 335,
-      "oldi_rating": 2674,
-      "newi_rating": 2628,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1156449

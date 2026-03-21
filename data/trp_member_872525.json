@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 20,
+      "session_start_time": "2026-03-21T16:00:00Z",
+      "winner_group_id": 734413,
+      "winner_name": "Adrián Bermejo",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "efd600",
+        "color2": "111111",
+        "color3": "d7162d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 4,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 34,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 157,
+      "strength_of_field": 2811,
+      "subsession_id": 84382415,
+      "old_sub_level": 499,
+      "new_sub_level": 499,
+      "oldi_rating": 4558,
+      "newi_rating": 4597,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 20,
       "session_start_time": "2026-03-21T14:00:00Z",
       "winner_group_id": 872525,
       "winner_name": "Vito Fatalino",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-20T20:00:00Z",
-      "winner_group_id": 430741,
-      "winner_name": "Sergio Paulet",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "121212",
-        "color2": "000000",
-        "color3": "00c992",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 10,
-      "finish_position": 30,
-      "qualifying_time": 0,
-      "laps": 2,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 4,
-      "strength_of_field": 4162,
-      "subsession_id": 83708580,
-      "old_sub_level": 334,
-      "new_sub_level": 321,
-      "oldi_rating": 4455,
-      "newi_rating": 4352,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
     }
   ],
   "cust_id": 872525
