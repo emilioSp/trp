@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6123,
+      "series_id": 419,
+      "series_name": "IMSA Endurance Series",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-03-21T18:00:00Z",
+      "winner_group_id": -497183,
+      "winner_name": "D.M.R",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 3,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 77,
+      "laps_led": 0,
+      "incidents": 22,
+      "points": 91,
+      "strength_of_field": 2072,
+      "subsession_id": 84384945,
+      "old_sub_level": 258,
+      "new_sub_level": 348,
+      "oldi_rating": 2080,
+      "newi_rating": 2117,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6164,
       "series_id": 538,
       "series_name": "Draft Master Challenge by Simagic",
@@ -423,54 +471,6 @@
       "new_sub_level": 181,
       "oldi_rating": 2167,
       "newi_rating": 2094,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6226,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-14T21:15:00Z",
-      "winner_group_id": 382938,
-      "winner_name": "Thiago Reiser",
-      "winner_helmet": {
-        "pattern": 66,
-        "color1": "fffc00",
-        "color2": "78ff00",
-        "color3": "193681",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 12,
-      "finish_position": 27,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 9,
-      "strength_of_field": 2109,
-      "subsession_id": 84230312,
-      "old_sub_level": 179,
-      "new_sub_level": 177,
-      "oldi_rating": 2254,
-      "newi_rating": 2167,
       "track": {
         "track_id": 95,
         "track_name": "Sebring International Raceway"
