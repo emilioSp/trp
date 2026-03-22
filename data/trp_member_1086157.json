@@ -13,6 +13,54 @@
         "color2": "00FF00",
         "color3": "0000FF"
       },
+      "license_level": 15,
+      "session_start_time": "2026-03-22T14:00:00Z",
+      "winner_group_id": -486500,
+      "winner_name": "TeamWP300-BEC GTP",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 2,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 70,
+      "laps_led": 0,
+      "incidents": 35,
+      "points": 44,
+      "strength_of_field": 2135,
+      "subsession_id": 84407355,
+      "old_sub_level": 348,
+      "new_sub_level": 327,
+      "oldi_rating": 2117,
+      "newi_rating": 2081,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6123,
+      "series_id": 419,
+      "series_name": "IMSA Endurance Series",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
       "license_level": 14,
       "session_start_time": "2026-03-21T18:00:00Z",
       "winner_group_id": -497183,
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
-    },
-    {
-      "season_id": 6226,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-14T22:15:00Z",
-      "winner_group_id": 1354545,
-      "winner_name": "Jens Krämer",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 4,
-      "finish_position": 27,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 14,
-      "strength_of_field": 2249,
-      "subsession_id": 84231077,
-      "old_sub_level": 177,
-      "new_sub_level": 181,
-      "oldi_rating": 2167,
-      "newi_rating": 2094,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
     }
   ],
   "cust_id": 1086157

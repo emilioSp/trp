@@ -8,6 +8,54 @@
       "car_class_id": 4011,
       "livery": {
         "car_id": 133,
+        "pattern": 10,
+        "color1": "CD0A0A",
+        "color2": "DDD20E",
+        "color3": "224A68"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-03-22T14:00:00Z",
+      "winner_group_id": -459187,
+      "winner_name": "Jared Reinke",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 15,
+      "finish_position": 21,
+      "qualifying_time": 0,
+      "laps": 29,
+      "laps_led": 0,
+      "incidents": 27,
+      "points": 36,
+      "strength_of_field": 4817,
+      "subsession_id": 84407343,
+      "old_sub_level": 499,
+      "new_sub_level": 354,
+      "oldi_rating": 4511,
+      "newi_rating": 4448,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6123,
+      "series_id": 419,
+      "series_name": "IMSA Endurance Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
         "pattern": 18,
         "color1": "000000",
         "color2": "0003ff",
@@ -43,7 +91,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-02-22T12:00:00Z",
-      "winner_group_id": 839373,
-      "winner_name": "Mate Mihalidesz",
-      "winner_helmet": {
-        "pattern": 57,
-        "color1": "001e51",
-        "color2": "ffffff",
-        "color3": "00fff7",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 13,
-      "finish_position": 25,
-      "qualifying_time": 0,
-      "laps": 2,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 27,
-      "strength_of_field": 4104,
-      "subsession_id": 83754322,
-      "old_sub_level": 499,
-      "new_sub_level": 462,
-      "oldi_rating": 4360,
-      "newi_rating": 4284,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
     }
   ],
   "cust_id": 872525
