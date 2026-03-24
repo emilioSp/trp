@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 177,
+    "wins": 1,
+    "top5": 32,
+    "avg_start_position": 12,
+    "avg_finish_position": 13,
+    "laps": 2604,
+    "laps_led": 19,
+    "favorite_car": {
+      "car_id": 169,
+      "car_name": "Porsche 911 GT3 R (992)",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_169/porsche992rgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix Pits",
+      "track_id": 523,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/circuitdespafrancorchamps-logo.png",
+      "track_name": "Circuit de Spa-Francorchamps"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 476225
+}
