@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-03-24T14:45:00Z",
+      "winner_group_id": 1287188,
+      "winner_name": "Codrin Busuioc",
+      "winner_helmet": {
+        "pattern": 36,
+        "color1": "970000",
+        "color2": "b7951a",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 1,
+      "incidents": 12,
+      "points": 97,
+      "strength_of_field": 1631,
+      "subsession_id": 84460622,
+      "old_sub_level": 237,
+      "new_sub_level": 230,
+      "oldi_rating": 1659,
+      "newi_rating": 1744,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6110,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
-    },
-    {
-      "season_id": 6226,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 156,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-03-12T17:15:00Z",
-      "winner_group_id": 287915,
-      "winner_name": "Ricardo M Cardoso",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "1904ef",
-        "color2": "eff5f0",
-        "color3": "d1ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 5,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 84,
-      "strength_of_field": 1771,
-      "subsession_id": 84199386,
-      "old_sub_level": 204,
-      "new_sub_level": 211,
-      "oldi_rating": 1704,
-      "newi_rating": 1755,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
     }
   ],
   "cust_id": 1229781
