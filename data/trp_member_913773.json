@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "B82F37",
+        "color2": "111111",
+        "color3": "284A94"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-03-26T21:15:00Z",
+      "winner_group_id": 976559,
+      "winner_name": "Oscar Ferreiro",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "2a91eb",
+        "color2": "d30404",
+        "color3": "bdbb04",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 2,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 18,
+      "strength_of_field": 1954,
+      "subsession_id": 84518695,
+      "old_sub_level": 213,
+      "new_sub_level": 206,
+      "oldi_rating": 1917,
+      "newi_rating": 1854,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11
-    },
-    {
-      "season_id": 5929,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-03-01T17:45:00Z",
-      "winner_group_id": 690472,
-      "winner_name": "Lewis Barlow",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "111111",
-        "color2": "821b1b",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 13,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 65,
-      "strength_of_field": 2480,
-      "subsession_id": 83946756,
-      "old_sub_level": 367,
-      "new_sub_level": 363,
-      "oldi_rating": 1826,
-      "newi_rating": 1838,
-      "track": {
-        "track_id": 233,
-        "track_name": "Donington Park Racing Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
     }
   ],
   "cust_id": 913773
