@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 18,
+      "session_start_time": "2026-03-27T17:45:00Z",
+      "winner_group_id": 720188,
+      "winner_name": "Kyle Griffiths",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "ff0500",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 12,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 115,
+      "strength_of_field": 4109,
+      "subsession_id": 84539719,
+      "old_sub_level": 223,
+      "new_sub_level": 244,
+      "oldi_rating": 3670,
+      "newi_rating": 3686,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 6125,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 5,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 18,
       "session_start_time": "2026-03-26T17:45:00Z",
       "winner_group_id": 109169,
       "winner_name": "Dayne Warren",
@@ -43,7 +91,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Nazionale Monza"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-07T22:00:00Z",
-      "winner_group_id": 787607,
-      "winner_name": "Andrii Pozdniakov",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "0d00ff",
-        "color2": "0d00ff",
-        "color3": "ffd600",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 6,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 180,
-      "strength_of_field": 3626,
-      "subsession_id": 83370835,
-      "old_sub_level": 371,
-      "new_sub_level": 361,
-      "oldi_rating": 3670,
-      "newi_rating": 3731,
-      "track": {
-        "track_id": 247,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
