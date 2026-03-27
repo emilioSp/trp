@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6132,
+      "series_id": 498,
+      "series_name": "FIA Formula 4 Challenge - Fixed",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 19,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "000000"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-03-27T13:00:00Z",
+      "winner_group_id": 1456124,
+      "winner_name": "Zm Liang",
+      "winner_helmet": {
+        "pattern": 9,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 7,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 92,
+      "strength_of_field": 1592,
+      "subsession_id": 84535029,
+      "old_sub_level": 248,
+      "new_sub_level": 265,
+      "oldi_rating": 1631,
+      "newi_rating": 1713,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6117,
       "series_id": 595,
       "series_name": "iRacing GT3 Regional Tour - Americas",
@@ -187,7 +235,7 @@
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -423,54 +471,6 @@
       "new_sub_level": 295,
       "oldi_rating": 2615,
       "newi_rating": 2586,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6123,
-      "series_id": 419,
-      "series_name": "IMSA Endurance Series",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 10,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-03-22T14:00:00Z",
-      "winner_group_id": -340277,
-      "winner_name": "Arctic Sim Racing #338",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 16,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 78,
-      "laps_led": 0,
-      "incidents": 23,
-      "points": 100,
-      "strength_of_field": 2595,
-      "subsession_id": 84407351,
-      "old_sub_level": 231,
-      "new_sub_level": 288,
-      "oldi_rating": 2591,
-      "newi_rating": 2615,
       "track": {
         "track_id": 95,
         "track_name": "Sebring International Raceway"
