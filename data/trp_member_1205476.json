@@ -13,6 +13,54 @@
         "color2": "7ce632",
         "color3": "000000"
       },
+      "license_level": 18,
+      "session_start_time": "2026-03-28T14:00:00Z",
+      "winner_group_id": 1323915,
+      "winner_name": "Göran Solono",
+      "winner_helmet": {
+        "pattern": 66,
+        "color1": "cc00ff",
+        "color2": "ffffff",
+        "color3": "30363e",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 17,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 86,
+      "strength_of_field": 2117,
+      "subsession_id": 84562169,
+      "old_sub_level": 238,
+      "new_sub_level": 269,
+      "oldi_rating": 2121,
+      "newi_rating": 2150,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 16,
+        "color1": "ebff00",
+        "color2": "7ce632",
+        "color3": "000000"
+      },
       "license_level": 19,
       "session_start_time": "2026-03-28T12:00:00Z",
       "winner_group_id": 1326283,
@@ -139,7 +187,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Silverstone Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 20,
-        "color1": "1A1A1A",
-        "color2": "E54B33",
-        "color3": "1A1A1A"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-18T22:45:00Z",
-      "winner_group_id": 861721,
-      "winner_name": "Callum Gibson",
-      "winner_helmet": {
-        "pattern": 32,
-        "color1": "ff0099",
-        "color2": "199ccc",
-        "color3": "ff0ed3",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 29,
-      "finish_position": 22,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 50,
-      "strength_of_field": 2183,
-      "subsession_id": 84313853,
-      "old_sub_level": 364,
-      "new_sub_level": 338,
-      "oldi_rating": 2232,
-      "newi_rating": 2204,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
