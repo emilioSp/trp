@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-03-28T18:45:00Z",
+      "winner_group_id": 332331,
+      "winner_name": "Ruben couso",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "347EF0",
+        "color2": "111111",
+        "color3": "6DE641",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 14,
+      "finish_position": 20,
+      "qualifying_time": 0,
+      "laps": 5,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 24,
+      "strength_of_field": 1857,
+      "subsession_id": 84567697,
+      "old_sub_level": 228,
+      "new_sub_level": 223,
+      "oldi_rating": 1915,
+      "newi_rating": 1857,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6110,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -428,54 +476,6 @@
         "track_name": "Lime Rock Park"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6222,
-      "series_id": 135,
-      "series_name": "13th Week Mazda Cup",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "ed1c24",
-        "color3": "cfdd28"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-15T13:45:00Z",
-      "winner_group_id": 977476,
-      "winner_name": "Aleksandar S Marinov",
-      "winner_helmet": {
-        "pattern": 32,
-        "color1": "00052c",
-        "color2": "ceff00",
-        "color3": "00052c",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 9,
-      "start_position": 19,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 51,
-      "strength_of_field": 1655,
-      "subsession_id": 84241060,
-      "old_sub_level": 174,
-      "new_sub_level": 178,
-      "oldi_rating": 1658,
-      "newi_rating": 1657,
-      "track": {
-        "track_id": 352,
-        "track_name": "Lime Rock Park"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "B82F37",
+        "color2": "111111",
+        "color3": "284A94"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-03-28T18:45:00Z",
+      "winner_group_id": 1406307,
+      "winner_name": "Mathias Schürmann",
+      "winner_helmet": {
+        "pattern": 51,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "ec232d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 3,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 6,
+      "strength_of_field": 1923,
+      "subsession_id": 84567721,
+      "old_sub_level": 225,
+      "new_sub_level": 203,
+      "oldi_rating": 1891,
+      "newi_rating": 1809,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-03-06T21:15:00Z",
-      "winner_group_id": 1209756,
-      "winner_name": "Simon Engel2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "231f20",
-        "color2": "231f20",
-        "color3": "ffe901",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 14,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 70,
-      "strength_of_field": 1945,
-      "subsession_id": 84079966,
-      "old_sub_level": 352,
-      "new_sub_level": 355,
-      "oldi_rating": 1823,
-      "newi_rating": 1844,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
     }
   ],
   "cust_id": 913773
