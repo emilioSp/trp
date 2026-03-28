@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 15,
+      "session_start_time": "2026-03-28T10:00:00Z",
+      "winner_group_id": 1086157,
+      "winner_name": "Marco Aleandri",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "daf200",
+        "color2": "071505",
+        "color3": "0014ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 14,
+      "incidents": 1,
+      "points": 123,
+      "strength_of_field": 1985,
+      "subsession_id": 84557875,
+      "old_sub_level": 314,
+      "new_sub_level": 338,
+      "oldi_rating": 2007,
+      "newi_rating": 2102,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 15,
       "session_start_time": "2026-03-27T16:00:00Z",
       "winner_group_id": 1167002,
       "winner_name": "Ben-Luca Eckel",
@@ -91,7 +139,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -423,54 +471,6 @@
       "new_sub_level": 258,
       "oldi_rating": 2066,
       "newi_rating": 2080,
-      "track": {
-        "track_id": 352,
-        "track_name": "Lime Rock Park"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6225,
-      "series_id": 607,
-      "series_name": "13th Week BMW M2 Cup",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 9,
-        "color1": "daf200",
-        "color2": "071505",
-        "color3": "0014ff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-03-15T17:30:00Z",
-      "winner_group_id": 526144,
-      "winner_name": "Julius Michelsson",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "ff00e1",
-        "color2": "0000ff",
-        "color3": "01c1ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 5,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 15,
-      "strength_of_field": 3008,
-      "subsession_id": 84243671,
-      "old_sub_level": 266,
-      "new_sub_level": 253,
-      "oldi_rating": 2111,
-      "newi_rating": 2066,
       "track": {
         "track_id": 352,
         "track_name": "Lime Rock Park"
