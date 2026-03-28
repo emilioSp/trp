@@ -14,6 +14,54 @@
         "color3": "284A94"
       },
       "license_level": 18,
+      "session_start_time": "2026-03-28T20:45:00Z",
+      "winner_group_id": 819402,
+      "winner_name": "Mustafa Pars Ozdemir",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "b61799",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 6,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 88,
+      "strength_of_field": 1732,
+      "subsession_id": 84570172,
+      "old_sub_level": 203,
+      "new_sub_level": 216,
+      "oldi_rating": 1809,
+      "newi_rating": 1869,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "B82F37",
+        "color2": "111111",
+        "color3": "284A94"
+      },
+      "license_level": 18,
       "session_start_time": "2026-03-28T18:45:00Z",
       "winner_group_id": 1406307,
       "winner_name": "Mathias Schürmann",
@@ -43,7 +91,7 @@
         "track_id": 403,
         "track_name": "Red Bull Ring"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Silverstone Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-17T19:15:00Z",
-      "winner_group_id": 690513,
-      "winner_name": "DanieI Riess",
-      "winner_helmet": {
-        "pattern": 3,
-        "color1": "ff0000",
-        "color2": "ff0000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 14,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 5,
-      "strength_of_field": 1814,
-      "subsession_id": 84283735,
-      "old_sub_level": 255,
-      "new_sub_level": 235,
-      "oldi_rating": 1844,
-      "newi_rating": 1758,
-      "track": {
-        "track_id": 584,
-        "track_name": "St. Petersburg Grand Prix"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
