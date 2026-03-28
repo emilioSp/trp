@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 16,
+        "color1": "ebff00",
+        "color2": "7ce632",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-27T23:15:00Z",
+      "winner_group_id": 300900,
+      "winner_name": "Tommie Wittens",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "e6f3e5",
+        "color2": "050505",
+        "color3": "232638",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 13,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 29,
+      "strength_of_field": 2302,
+      "subsession_id": 84546553,
+      "old_sub_level": 344,
+      "new_sub_level": 319,
+      "oldi_rating": 2320,
+      "newi_rating": 2265,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Misano World Circuit Marco Simoncelli"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 20,
-        "color1": "1A1A1A",
-        "color2": "E54B33",
-        "color3": "1A1A1A"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-04T00:00:00Z",
-      "winner_group_id": 1306400,
-      "winner_name": "Rafael Tardelli",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "248000",
-        "color2": "ffcc00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 9,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 104,
-      "strength_of_field": 2554,
-      "subsession_id": 84006361,
-      "old_sub_level": 361,
-      "new_sub_level": 381,
-      "oldi_rating": 2086,
-      "newi_rating": 2134,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11
