@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 16,
+        "color1": "ebff00",
+        "color2": "7ce632",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-28T11:15:00Z",
+      "winner_group_id": 1308932,
+      "winner_name": "Aleyna Şimşek",
+      "winner_helmet": {
+        "pattern": 51,
+        "color1": "181527",
+        "color2": "ff3636",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 13,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 35,
+      "strength_of_field": 2095,
+      "subsession_id": 84559005,
+      "old_sub_level": 318,
+      "new_sub_level": 311,
+      "oldi_rating": 2234,
+      "newi_rating": 2187,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -91,7 +139,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Misano World Circuit Marco Simoncelli"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 20,
-        "color1": "1A1A1A",
-        "color2": "E54B33",
-        "color3": "1A1A1A"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-08T23:15:00Z",
-      "winner_group_id": 1352669,
-      "winner_name": "Caio Henrique Dias",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "000000",
-        "color2": "03ffe1",
-        "color3": "eb00ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 107,
-      "strength_of_field": 1886,
-      "subsession_id": 84138734,
-      "old_sub_level": 355,
-      "new_sub_level": 348,
-      "oldi_rating": 2135,
-      "newi_rating": 2207,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11
