@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 8,
+        "color1": "135324",
+        "color2": "111111",
+        "color3": "535353"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-03-29T20:45:00Z",
+      "winner_group_id": 1316900,
+      "winner_name": "Aleix Nogue",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "ed1c24",
+        "color3": "231f20",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 197,
+      "strength_of_field": 3248,
+      "subsession_id": 84596781,
+      "old_sub_level": 459,
+      "new_sub_level": 448,
+      "oldi_rating": 5144,
+      "newi_rating": 5199,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6260,
       "series_id": 271,
       "series_name": "12 Hours of Sebring",
@@ -91,7 +139,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
-    },
-    {
-      "season_id": 5931,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "1C1FED",
-        "color2": "000000",
-        "color3": "F3F3F3"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-08T14:00:00Z",
-      "winner_group_id": -472533,
-      "winner_name": "Owned Esport",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 74,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 215,
-      "strength_of_field": 3743,
-      "subsession_id": 83389315,
-      "old_sub_level": 323,
-      "new_sub_level": 383,
-      "oldi_rating": 5013,
-      "newi_rating": 5037,
-      "track": {
-        "track_id": 474,
-        "track_name": "Circuito de Jerez - Ángel Nieto"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1279219
