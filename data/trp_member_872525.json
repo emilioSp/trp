@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-29T12:45:00Z",
+      "winner_group_id": 1049767,
+      "winner_name": "Corey Price3",
+      "winner_helmet": {
+        "pattern": 5,
+        "color1": "ffffff",
+        "color2": "00ff03",
+        "color3": "00186e",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 5,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 193,
+      "strength_of_field": 3500,
+      "subsession_id": 84586928,
+      "old_sub_level": 390,
+      "new_sub_level": 370,
+      "oldi_rating": 4427,
+      "newi_rating": 4488,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6260,
       "series_id": 271,
       "series_name": "12 Hours of Sebring",
@@ -235,7 +283,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -423,54 +471,6 @@
       "new_sub_level": 499,
       "oldi_rating": 4501,
       "newi_rating": 4558,
-      "track": {
-        "track_id": 584,
-        "track_name": "St. Petersburg Grand Prix"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 11,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-21T12:00:00Z",
-      "winner_group_id": 294812,
-      "winner_name": "Egor D Ogorodnikov",
-      "winner_helmet": {
-        "pattern": 40,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 1,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 34,
-      "laps_led": 24,
-      "incidents": 4,
-      "points": 146,
-      "strength_of_field": 2451,
-      "subsession_id": 84378176,
-      "old_sub_level": 490,
-      "new_sub_level": 490,
-      "oldi_rating": 4457,
-      "newi_rating": 4501,
       "track": {
         "track_id": 584,
         "track_name": "St. Petersburg Grand Prix"
