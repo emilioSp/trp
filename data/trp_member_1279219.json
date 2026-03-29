@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6260,
+      "series_id": 271,
+      "series_name": "12 Hours of Sebring",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 18,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "ffffff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-03-28T12:00:00Z",
+      "winner_group_id": -181270,
+      "winner_name": "Switch It - Onyx",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 5,
+      "finish_position": 21,
+      "qualifying_time": 0,
+      "laps": 176,
+      "laps_led": 0,
+      "incidents": 22,
+      "points": 122,
+      "strength_of_field": 4907,
+      "subsession_id": 84560226,
+      "old_sub_level": 407,
+      "new_sub_level": 459,
+      "oldi_rating": 5153,
+      "newi_rating": 5144,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-06T16:45:00Z",
-      "winner_group_id": 620775,
-      "winner_name": "Daniel Molina",
-      "winner_helmet": {
-        "pattern": 63,
-        "color1": "72da17",
-        "color2": "fffefe",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 6,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 28,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 200,
-      "strength_of_field": 3870,
-      "subsession_id": 83335947,
-      "old_sub_level": 349,
-      "new_sub_level": 323,
-      "oldi_rating": 4954,
-      "newi_rating": 5013,
-      "track": {
-        "track_id": 474,
-        "track_name": "Circuito de Jerez - Ángel Nieto"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
     }
   ],
   "cust_id": 1279219

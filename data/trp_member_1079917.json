@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6260,
+      "series_id": 271,
+      "series_name": "12 Hours of Sebring",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 8,
+        "color1": "CD0A0A",
+        "color2": "DDD20E",
+        "color3": "224A68"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-28T12:00:00Z",
+      "winner_group_id": -356252,
+      "winner_name": "Tomas Enge Simracing",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 29,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 56,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 124,
+      "strength_of_field": 3704,
+      "subsession_id": 84560230,
+      "old_sub_level": 344,
+      "new_sub_level": 369,
+      "oldi_rating": 4164,
+      "newi_rating": 4165,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6125,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 22,
-        "color1": "24ACF9",
-        "color2": "1E20E8",
-        "color3": "0A35E9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-09T19:15:00Z",
-      "winner_group_id": 380105,
-      "winner_name": "Pedro Espadinha",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "FFFFFF",
-        "color2": "111111",
-        "color3": "DA1600",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 7,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 132,
-      "strength_of_field": 3290,
-      "subsession_id": 84159487,
-      "old_sub_level": 264,
-      "new_sub_level": 278,
-      "oldi_rating": 3990,
-      "newi_rating": 4008,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1079917

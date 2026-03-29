@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6260,
+      "series_id": 271,
+      "series_name": "12 Hours of Sebring",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 5,
+        "color1": "CD0A0A",
+        "color2": "DDD20E",
+        "color3": "224A68"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-03-28T12:00:00Z",
+      "winner_group_id": -197235,
+      "winner_name": "Gray Wolf Racing #888",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 24,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 84,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 137,
+      "strength_of_field": 3090,
+      "subsession_id": 84560234,
+      "old_sub_level": 214,
+      "new_sub_level": 354,
+      "oldi_rating": 3442,
+      "newi_rating": 3452,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5924,
       "series_id": 237,
       "series_name": "GT Endurance Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 194,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 194,
-        "pattern": 14,
-        "color1": "ffffff",
-        "color2": "fa0000",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-02T18:00:00Z",
-      "winner_group_id": 922869,
-      "winner_name": "Rubén Alonso",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "595959",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 13,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 206,
-      "strength_of_field": 4277,
-      "subsession_id": 81673880,
-      "old_sub_level": 229,
-      "new_sub_level": 226,
-      "oldi_rating": 3314,
-      "newi_rating": 3401,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 902844

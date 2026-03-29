@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6260,
+      "series_id": 271,
+      "series_name": "12 Hours of Sebring",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-28T12:00:00Z",
+      "winner_group_id": -417595,
+      "winner_name": "NotForSpeed",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 9,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 81,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 111,
+      "strength_of_field": 2595,
+      "subsession_id": 84560240,
+      "old_sub_level": 312,
+      "new_sub_level": 372,
+      "oldi_rating": 2916,
+      "newi_rating": 2925,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 194,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 194,
-        "pattern": 16,
-        "color1": "e9e9e9",
-        "color2": "ca4211",
-        "color3": "370ea0"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-10-13T14:00:00Z",
-      "winner_group_id": 528458,
-      "winner_name": "Teoman Sever",
-      "winner_helmet": {
-        "pattern": 38,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "ff0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 24,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 8,
-      "strength_of_field": 3302,
-      "subsession_id": 80504746,
-      "old_sub_level": 358,
-      "new_sub_level": 362,
-      "oldi_rating": 2970,
-      "newi_rating": 2896,
-      "track": {
-        "track_id": 345,
-        "track_name": "Circuit de Barcelona Catalunya"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 3
     }
   ],
   "cust_id": 18840

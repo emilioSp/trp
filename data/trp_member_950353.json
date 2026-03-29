@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6260,
+      "series_id": 271,
+      "series_name": "12 Hours of Sebring",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-28T12:00:00Z",
+      "winner_group_id": -417595,
+      "winner_name": "NotForSpeed",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 9,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 65,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 111,
+      "strength_of_field": 2595,
+      "subsession_id": 84560240,
+      "old_sub_level": 375,
+      "new_sub_level": 384,
+      "oldi_rating": 2097,
+      "newi_rating": 2104,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6164,
       "series_id": 538,
       "series_name": "Draft Master Challenge by Simagic",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 288,
         "track_name": "Lanier National Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5967,
-      "series_id": 564,
-      "series_name": "Mini Stock Rookie Series by Thrustmaster",
-      "car_id": 191,
-      "car_class_id": 4069,
-      "livery": {
-        "car_id": 191,
-        "pattern": 2,
-        "color1": "000000",
-        "color2": "320a5a",
-        "color3": "0f1562"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-02-17T21:15:00Z",
-      "winner_group_id": 941754,
-      "winner_name": "Shane Sheffield",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "ffffff",
-        "color2": "04b4ff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 3,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 10,
-      "strength_of_field": 2224,
-      "subsession_id": 83632397,
-      "old_sub_level": 330,
-      "new_sub_level": 324,
-      "oldi_rating": 1753,
-      "newi_rating": 1693,
-      "track": {
-        "track_id": 556,
-        "track_name": "Charlotte Motor Speedway "
       },
       "drop_race": false,
       "season_year": 2026,

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6260,
+      "series_id": 271,
+      "series_name": "12 Hours of Sebring",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 18,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "ffffff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-03-28T12:00:00Z",
+      "winner_group_id": -181270,
+      "winner_name": "Switch It - Onyx",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 5,
+      "finish_position": 21,
+      "qualifying_time": 0,
+      "laps": 169,
+      "laps_led": 0,
+      "incidents": 20,
+      "points": 122,
+      "strength_of_field": 4907,
+      "subsession_id": 84560226,
+      "old_sub_level": 460,
+      "new_sub_level": 487,
+      "oldi_rating": 4730,
+      "newi_rating": 4722,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5924,
       "series_id": 237,
       "series_name": "GT Endurance Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 312,
       "oldi_rating": 4555,
       "newi_rating": 4591,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5770,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 184,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 184,
-        "pattern": 0,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-08T21:45:00Z",
-      "winner_group_id": 73159,
-      "winner_name": "Sam Adams",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "ffffff",
-        "color2": "000000",
-        "color3": "ff5600",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 11,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 130,
-      "strength_of_field": 4492,
-      "subsession_id": 81828021,
-      "old_sub_level": 342,
-      "new_sub_level": 327,
-      "oldi_rating": 4552,
-      "newi_rating": 4555,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"

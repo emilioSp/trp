@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6260,
+      "series_id": 271,
+      "series_name": "12 Hours of Sebring",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 10,
+        "color1": "CD0A0A",
+        "color2": "DDD20E",
+        "color3": "224A68"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-03-28T12:00:00Z",
+      "winner_group_id": -50296,
+      "winner_name": "Gargamel",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 4,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 191,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 266,
+      "strength_of_field": 4481,
+      "subsession_id": 84560227,
+      "old_sub_level": 450,
+      "new_sub_level": 499,
+      "oldi_rating": 4983,
+      "newi_rating": 5030,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 22,
-        "color1": "0400FF",
-        "color2": "391010",
-        "color3": "AF1010"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-01-28T18:45:00Z",
-      "winner_group_id": 1137903,
-      "winner_name": "Dirk Stiegler",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "a6bf43",
-        "color2": "2c9f9f",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 3,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 18,
-      "points": 52,
-      "strength_of_field": 4081,
-      "subsession_id": 83103872,
-      "old_sub_level": 339,
-      "new_sub_level": 249,
-      "oldi_rating": 4645,
-      "newi_rating": 4579,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1221961
