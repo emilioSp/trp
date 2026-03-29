@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6120,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 23,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "fffefe"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-03-29T14:00:00Z",
+      "winner_group_id": -387561,
+      "winner_name": "Endurance Enjoyers Red",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 87,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 157,
+      "strength_of_field": 2701,
+      "subsession_id": 84588244,
+      "old_sub_level": 458,
+      "new_sub_level": 463,
+      "oldi_rating": 3153,
+      "newi_rating": 3184,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 3,
       "race_week_num": 10
-    },
-    {
-      "season_id": 5591,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 6,
-        "color1": "FFFFFF",
-        "color2": "2BFF00",
-        "color3": "FF0000"
-      },
-      "license_level": 15,
-      "session_start_time": "2025-08-25T20:00:00Z",
-      "winner_group_id": 1138706,
-      "winner_name": "Alessio M Doppio",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "ffffff",
-        "color2": "2bff00",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 19,
-      "incidents": 1,
-      "points": 163,
-      "strength_of_field": 2616,
-      "subsession_id": 79424882,
-      "old_sub_level": 352,
-      "new_sub_level": 377,
-      "oldi_rating": 2753,
-      "newi_rating": 2844,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 3,
-      "race_week_num": 9
     }
   ],
   "cust_id": 1138706
