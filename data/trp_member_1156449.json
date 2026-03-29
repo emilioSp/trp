@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6117,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 10,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-03-29T16:45:00Z",
+      "winner_group_id": 1133648,
+      "winner_name": "Gabriel Reis Paixão",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "5884eb",
+        "color2": "0a0a0a",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 3,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 151,
+      "strength_of_field": 2801,
+      "subsession_id": 84591514,
+      "old_sub_level": 330,
+      "new_sub_level": 336,
+      "oldi_rating": 2713,
+      "newi_rating": 2789,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6132,
       "series_id": 498,
       "series_name": "FIA Formula 4 Challenge - Fixed",
@@ -91,7 +139,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -423,54 +471,6 @@
       "new_sub_level": 269,
       "oldi_rating": 2602,
       "newi_rating": 2657,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6117,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 10,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-03-27T08:45:00Z",
-      "winner_group_id": 925616,
-      "winner_name": "Martin Lichner",
-      "winner_helmet": {
-        "pattern": 63,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 11,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 24,
-      "strength_of_field": 3506,
-      "subsession_id": 84530828,
-      "old_sub_level": 289,
-      "new_sub_level": 265,
-      "oldi_rating": 2645,
-      "newi_rating": 2602,
       "track": {
         "track_id": 95,
         "track_name": "Sebring International Raceway"
