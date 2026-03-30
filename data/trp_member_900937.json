@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 5,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-03-30T12:45:00Z",
+      "winner_group_id": 352512,
+      "winner_name": "Andrea Barilaro",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "000000",
+        "color2": "2bf000",
+        "color3": "085007",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 8,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 148,
+      "strength_of_field": 3367,
+      "subsession_id": 84612785,
+      "old_sub_level": 488,
+      "new_sub_level": 488,
+      "oldi_rating": 3634,
+      "newi_rating": 3675,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6260,
       "series_id": 271,
       "series_name": "12 Hours of Sebring",
@@ -283,7 +331,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 3
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-02T21:45:00Z",
-      "winner_group_id": 409610,
-      "winner_name": "Arsen Kardanov",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "919191",
-        "color2": "000000",
-        "color3": "1AFFC2",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 12,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 71,
-      "strength_of_field": 3699,
-      "subsession_id": 83977130,
-      "old_sub_level": 337,
-      "new_sub_level": 327,
-      "oldi_rating": 3686,
-      "newi_rating": 3660,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
     }
   ],
   "cust_id": 900937
