@@ -21,20 +21,20 @@
     {
       "category_id": 5,
       "category": "Sports Car",
-      "starts": 186,
+      "starts": 187,
       "wins": 22,
       "top5": 75,
       "poles": 22,
       "avg_start_position": 9,
       "avg_finish_position": 9,
-      "laps": 3936,
+      "laps": 3950,
       "laps_led": 205,
-      "avg_incidents": 6.0225,
+      "avg_incidents": 6.0335,
       "avg_points": 110,
-      "win_percentage": 11.83,
-      "top5_percentage": 40.32,
-      "laps_led_percentage": 5.21,
-      "poles_percentage": 11.83
+      "win_percentage": 11.76,
+      "top5_percentage": 40.11,
+      "laps_led_percentage": 5.19,
+      "poles_percentage": 11.76
     },
     {
       "category_id": 6,
