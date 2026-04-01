@@ -14,6 +14,54 @@
         "color3": "284A94"
       },
       "license_level": 18,
+      "session_start_time": "2026-04-01T17:45:00Z",
+      "winner_group_id": 485885,
+      "winner_name": "Michael Schwartz5",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "00fff2",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 17,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 100,
+      "strength_of_field": 1605,
+      "subsession_id": 84667617,
+      "old_sub_level": 226,
+      "new_sub_level": 242,
+      "oldi_rating": 1946,
+      "newi_rating": 2025,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6125,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "B82F37",
+        "color2": "111111",
+        "color3": "284A94"
+      },
+      "license_level": 18,
       "session_start_time": "2026-03-31T13:45:00Z",
       "winner_group_id": 710896,
       "winner_name": "Finn Harrison",
@@ -43,7 +91,7 @@
         "track_id": 390,
         "track_name": "Hockenheimring Baden-Württemberg"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 11,
-        "color1": "b82f37",
-        "color2": "111111",
-        "color3": "284a94"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-23T20:45:00Z",
-      "winner_group_id": 1299985,
-      "winner_name": "Kevin Thomas16",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "FFFFFF",
-        "color2": "EA0000",
-        "color3": "0052C9",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 7,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 88,
-      "strength_of_field": 1647,
-      "subsession_id": 84441332,
-      "old_sub_level": 279,
-      "new_sub_level": 264,
-      "oldi_rating": 1838,
-      "newi_rating": 1896,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 913773
