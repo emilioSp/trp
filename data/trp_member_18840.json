@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-03T18:45:00Z",
+      "winner_group_id": 1079148,
+      "winner_name": "Kamil Stanusz",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "111111",
+        "color3": "008cff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 12,
+      "finish_position": 23,
+      "qualifying_time": 0,
+      "laps": 1,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 8,
+      "strength_of_field": 3144,
+      "subsession_id": 84719397,
+      "old_sub_level": 327,
+      "new_sub_level": 254,
+      "oldi_rating": 2979,
+      "newi_rating": 2897,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 2,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-03T16:45:00Z",
       "winner_group_id": 531004,
       "winner_name": "Alexander Shchinov",
@@ -91,7 +139,7 @@
         "track_id": 390,
         "track_name": "Hockenheimring Baden-Württemberg"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6123,
-      "series_id": 419,
-      "series_name": "IMSA Endurance Series",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "1C1FED",
-        "color2": "000000",
-        "color3": "F3F3F3"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-22T14:00:00Z",
-      "winner_group_id": -391928,
-      "winner_name": "8K Squadra Corse",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 3,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 52,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 175,
-      "strength_of_field": 2860,
-      "subsession_id": 84407349,
-      "old_sub_level": 313,
-      "new_sub_level": 355,
-      "oldi_rating": 2926,
-      "newi_rating": 2989,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 18840
