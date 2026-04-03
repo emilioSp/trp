@@ -13,6 +13,54 @@
         "color2": "00ff00",
         "color3": "0000ff"
       },
+      "license_level": 18,
+      "session_start_time": "2026-04-03T20:45:00Z",
+      "winner_group_id": 316365,
+      "winner_name": "Jacomo Roder",
+      "winner_helmet": {
+        "pattern": 5,
+        "color1": "66c4eb",
+        "color2": "fffd0b",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 4,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 28,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 146,
+      "strength_of_field": 2815,
+      "subsession_id": 84721941,
+      "old_sub_level": 254,
+      "new_sub_level": 296,
+      "oldi_rating": 2897,
+      "newi_rating": 2962,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 2,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
       "license_level": 19,
       "session_start_time": "2026-04-03T18:45:00Z",
       "winner_group_id": 1079148,
@@ -139,7 +187,7 @@
         "track_id": 390,
         "track_name": "Hockenheimring Baden-Württemberg"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-27T18:00:00Z",
-      "winner_group_id": 1343796,
-      "winner_name": "Jacobo Lopez Lopez",
-      "winner_helmet": {
-        "pattern": 36,
-        "color1": "ffffff",
-        "color2": "246ded",
-        "color3": "de7010",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 19,
-      "finish_position": 25,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 25,
-      "strength_of_field": 2821,
-      "subsession_id": 84540027,
-      "old_sub_level": 355,
-      "new_sub_level": 312,
-      "oldi_rating": 2989,
-      "newi_rating": 2916,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 18840
