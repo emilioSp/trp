@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 55,
+    "wins": 1,
+    "top5": 16,
+    "avg_start_position": 12,
+    "avg_finish_position": 13,
+    "laps": 1338,
+    "laps_led": 4,
+    "favorite_car": {
+      "car_id": 132,
+      "car_name": "BMW M4 GT3 EVO",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_132/bmwm4gt3evo-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix",
+      "track_id": 390,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/hockenheimringbadenwurttemberg-logo.png",
+      "track_name": "Hockenheimring Baden-Württemberg"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1041926
+}
