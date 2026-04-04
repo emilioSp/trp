@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 132,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 132,
+        "pattern": 14,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-04-04T20:45:00Z",
+      "winner_group_id": 776894,
+      "winner_name": "Patryk Sebastian Nawrot",
+      "winner_helmet": {
+        "pattern": 3,
+        "color1": "211a28",
+        "color2": "833c82",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 26,
+      "finish_position": 24,
+      "qualifying_time": 0,
+      "laps": 27,
+      "laps_led": 0,
+      "incidents": 20,
+      "points": 60,
+      "strength_of_field": 2418,
+      "subsession_id": 84748110,
+      "old_sub_level": 134,
+      "new_sub_level": 120,
+      "oldi_rating": 1964,
+      "newi_rating": 1960,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6125,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -91,7 +139,7 @@
         "track_id": 390,
         "track_name": "Hockenheimring Baden-Württemberg"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
@@ -428,54 +476,6 @@
         "track_name": "Sebring International Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 14,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-03-26T14:00:00Z",
-      "winner_group_id": 925614,
-      "winner_name": "Patrick Grüneis",
-      "winner_helmet": {
-        "pattern": 57,
-        "color1": "1f0022",
-        "color2": "1f0022",
-        "color3": "1f0022",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 22,
-      "finish_position": 22,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 34,
-      "strength_of_field": 2208,
-      "subsession_id": 84510869,
-      "old_sub_level": 390,
-      "new_sub_level": 445,
-      "oldi_rating": 2096,
-      "newi_rating": 2052,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
