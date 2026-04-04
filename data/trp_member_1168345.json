@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6107,
+      "series_id": 231,
+      "series_name": "Advanced Mazda MX-5 Cup by Heusinkveld",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 19,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "01959a"
+      },
+      "license_level": 10,
+      "session_start_time": "2026-04-04T08:15:00Z",
+      "winner_group_id": 1456265,
+      "winner_name": "Adrian Cartero",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 12,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 28,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 92,
+      "strength_of_field": 1838,
+      "subsession_id": 84734589,
+      "old_sub_level": 213,
+      "new_sub_level": 234,
+      "oldi_rating": 2126,
+      "newi_rating": 2174,
+      "track": {
+        "track_id": 354,
+        "track_name": "Lime Rock Park"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6134,
       "series_id": 541,
       "series_name": "FIA F4 Esports Regional Tour - America",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 557,
         "track_name": "Charlotte Motor Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6228,
-      "series_id": 609,
-      "series_name": "13th Week GT4 Sprint",
-      "car_id": 119,
-      "car_class_id": 2268,
-      "livery": {
-        "car_id": 119,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 10,
-      "session_start_time": "2026-03-14T08:45:00Z",
-      "winner_group_id": 394253,
-      "winner_name": "Mikhail Mercieca",
-      "winner_helmet": {
-        "pattern": 37,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 18,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 108,
-      "strength_of_field": 1961,
-      "subsession_id": 84222466,
-      "old_sub_level": 289,
-      "new_sub_level": 271,
-      "oldi_rating": 2122,
-      "newi_rating": 2193,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
       "drop_race": false,
       "season_year": 2026,
