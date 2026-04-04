@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 11,
+      "session_start_time": "2026-04-04T08:45:00Z",
+      "winner_group_id": 129837,
+      "winner_name": "Tobias F. Olsson",
+      "winner_helmet": {
+        "pattern": 43,
+        "color1": "24069d",
+        "color2": "e4fc5f",
+        "color3": "061655",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 7,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 158,
+      "strength_of_field": 3550,
+      "subsession_id": 84734982,
+      "old_sub_level": 319,
+      "new_sub_level": 318,
+      "oldi_rating": 3054,
+      "newi_rating": 3119,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 11,
       "session_start_time": "2026-04-04T06:45:00Z",
       "winner_group_id": 69408,
       "winner_name": "Emil Henriksson",
@@ -91,7 +139,7 @@
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
@@ -428,54 +476,6 @@
         "track_name": "Hockenheimring Baden-Württemberg"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5922,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 10,
-      "session_start_time": "2026-03-02T02:45:00Z",
-      "winner_group_id": 1084898,
-      "winner_name": "Davide Macchiusi",
-      "winner_helmet": {
-        "pattern": 43,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 4,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 146,
-      "strength_of_field": 2660,
-      "subsession_id": 83958655,
-      "old_sub_level": 267,
-      "new_sub_level": 286,
-      "oldi_rating": 3000,
-      "newi_rating": 3068,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
