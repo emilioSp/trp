@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 128,
+    "wins": 16,
+    "top5": 70,
+    "avg_start_position": 5,
+    "avg_finish_position": 7,
+    "laps": 1189,
+    "laps_led": 194,
+    "favorite_car": {
+      "car_id": 203,
+      "car_name": "Ferrari 296 Challenge",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_203/ferrari296challenge-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix",
+      "track_id": 403,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/redbullring-logo.png",
+      "track_name": "Red Bull Ring"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 664614
+}

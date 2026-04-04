@@ -80,6 +80,16 @@
     "iRating": 1857
   },
   {
+    "id": 1168345,
+    "name": "Federico Gallini2",
+    "memberSince": "2024-12-25",
+    "country": "Italy",
+    "classOrder": 3,
+    "className": "C",
+    "safetyRating": 2.13,
+    "iRating": 2126
+  },
+  {
     "id": 1041926,
     "name": "Alessandro Casmiri",
     "memberSince": "2024-04-10",
@@ -176,8 +186,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.96,
-    "iRating": 2962
+    "safetyRating": 3.48,
+    "iRating": 2989
   },
   {
     "id": 1221961,
@@ -268,6 +278,16 @@
     "className": "A",
     "safetyRating": 2.49,
     "iRating": 2696
+  },
+  {
+    "id": 664614,
+    "name": "Davide Iozia",
+    "memberSince": "2021-07-26",
+    "country": "Italy",
+    "classOrder": 3,
+    "className": "C",
+    "safetyRating": 3.19,
+    "iRating": 3054
   },
   {
     "id": 871456,

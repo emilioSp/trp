@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 78,
+    "wins": 8,
+    "top5": 34,
+    "avg_start_position": 7,
+    "avg_finish_position": 8,
+    "laps": 828,
+    "laps_led": 106,
+    "favorite_car": {
+      "car_id": 148,
+      "car_name": "FIA F4",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_148/carid_148-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Classic",
+      "track_id": 352,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/limerockpark-logo.png",
+      "track_name": "Lime Rock Park"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1168345
+}

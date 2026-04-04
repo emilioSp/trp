@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 18,
+      "session_start_time": "2026-04-04T06:45:00Z",
+      "winner_group_id": 1019004,
+      "winner_name": "Marco Zaccari2",
+      "winner_helmet": {
+        "pattern": 49,
+        "color1": "ffffff",
+        "color2": "0100ff",
+        "color3": "f00000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 10,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 28,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 98,
+      "strength_of_field": 2058,
+      "subsession_id": 84733342,
+      "old_sub_level": 296,
+      "new_sub_level": 348,
+      "oldi_rating": 2962,
+      "newi_rating": 2989,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 2,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
       "session_start_time": "2026-04-03T20:45:00Z",
       "winner_group_id": 316365,
       "winner_name": "Jacomo Roder",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6260,
-      "series_id": 271,
-      "series_name": "12 Hours of Sebring",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-28T12:00:00Z",
-      "winner_group_id": -417595,
-      "winner_name": "NotForSpeed",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 9,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 81,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 111,
-      "strength_of_field": 2595,
-      "subsession_id": 84560240,
-      "old_sub_level": 312,
-      "new_sub_level": 372,
-      "oldi_rating": 2916,
-      "newi_rating": 2925,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 18840
