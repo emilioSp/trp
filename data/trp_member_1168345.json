@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6082,
+      "series_id": 139,
+      "series_name": "Global Mazda MX-5 Cup by Fanatec",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 19,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "01959a"
+      },
+      "license_level": 10,
+      "session_start_time": "2026-04-04T10:00:00Z",
+      "winner_group_id": 995175,
+      "winner_name": "Troy Hollingworth",
+      "winner_helmet": {
+        "pattern": 17,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 10,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 68,
+      "strength_of_field": 2621,
+      "subsession_id": 84736024,
+      "old_sub_level": 234,
+      "new_sub_level": 230,
+      "oldi_rating": 2174,
+      "newi_rating": 2180,
+      "track": {
+        "track_id": 9,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6107,
       "series_id": 231,
       "series_name": "Advanced Mazda MX-5 Cup by Heusinkveld",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 472,
         "track_name": "[Legacy] Phoenix Raceway - 2008"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6217,
-      "series_id": 134,
-      "series_name": "13th Week Street Stock Challenge",
-      "car_id": 36,
-      "car_class_id": 4064,
-      "livery": {
-        "car_id": 36,
-        "pattern": 0,
-        "color1": "0a0a0a",
-        "color2": "ffffff",
-        "color3": "ed1b29"
-      },
-      "license_level": 2,
-      "session_start_time": "2026-03-14T10:00:00Z",
-      "winner_group_id": 521420,
-      "winner_name": "Shawn Andrews",
-      "winner_helmet": {
-        "pattern": 46,
-        "color1": "070061",
-        "color2": "1622e9",
-        "color3": "bba107",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 2,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 50,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 70,
-      "strength_of_field": 1578,
-      "subsession_id": 84222942,
-      "old_sub_level": 245,
-      "new_sub_level": 275,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 557,
-        "track_name": "Charlotte Motor Speedway"
       },
       "drop_race": false,
       "season_year": 2026,

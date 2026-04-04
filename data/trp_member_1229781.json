@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6110,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-04-04T09:45:00Z",
+      "winner_group_id": 1167949,
+      "winner_name": "M Watts",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 4,
+      "incidents": 12,
+      "points": 101,
+      "strength_of_field": 1732,
+      "subsession_id": 84735805,
+      "old_sub_level": 228,
+      "new_sub_level": 219,
+      "oldi_rating": 1900,
+      "newi_rating": 1979,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6111,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -423,54 +471,6 @@
       "new_sub_level": 192,
       "oldi_rating": 1648,
       "newi_rating": 1594,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6224,
-      "series_id": 320,
-      "series_name": "13th Week iRacing Porsche Cup",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-15T14:45:00Z",
-      "winner_group_id": 591858,
-      "winner_name": "Christina Jakobsen",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "1a4b9b",
-        "color2": "dff000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 23,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 66,
-      "strength_of_field": 1597,
-      "subsession_id": 84241691,
-      "old_sub_level": 185,
-      "new_sub_level": 183,
-      "oldi_rating": 1619,
-      "newi_rating": 1648,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
