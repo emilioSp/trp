@@ -40,6 +40,16 @@
     "iRating": 3184
   },
   {
+    "id": 1378838,
+    "name": "Francesco Puleo",
+    "memberSince": "2025-11-27",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 1.35,
+    "iRating": 2054
+  },
+  {
     "id": 900937,
     "name": "Emilio Spatola",
     "memberSince": "2023-05-05",
@@ -266,8 +276,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.49,
-    "iRating": 1966
+    "safetyRating": 2.2,
+    "iRating": 2017
   },
   {
     "id": 976998,
@@ -338,6 +348,16 @@
     "className": "A",
     "safetyRating": 3.43,
     "iRating": 2190
+  },
+  {
+    "id": 430526,
+    "name": "Silvio Muoio2",
+    "memberSince": "2020-01-23",
+    "country": "Italy",
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 2.44,
+    "iRating": 1909
   },
   {
     "id": 922039,

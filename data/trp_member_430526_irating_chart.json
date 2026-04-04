@@ -1,0 +1,25 @@
+{
+  "blackout": false,
+  "category_id": 5,
+  "chart_type": 1,
+  "data": [
+    {
+      "when": "2024-03-06",
+      "value": 1969
+    },
+    {
+      "when": "2024-03-14",
+      "value": 2024
+    },
+    {
+      "when": "2024-03-18",
+      "value": 2004
+    },
+    {
+      "when": "2024-04-07",
+      "value": 1816
+    }
+  ],
+  "success": true,
+  "cust_id": 430526
+}

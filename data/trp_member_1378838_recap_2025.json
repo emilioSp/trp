@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 24,
+    "wins": 2,
+    "top5": 14,
+    "avg_start_position": 6,
+    "avg_finish_position": 5,
+    "laps": 216,
+    "laps_led": 13,
+    "favorite_car": {
+      "car_id": 195,
+      "car_name": "BMW M2 CS Racing",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_195/bmwm2csr-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Full Course",
+      "track_id": 166,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/okayamainternationalcircuit-logo.png",
+      "track_name": "Okayama International Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1378838
+}
