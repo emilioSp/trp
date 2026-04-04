@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 11,
+      "session_start_time": "2026-04-04T12:45:00Z",
+      "winner_group_id": 860289,
+      "winner_name": "Ramiz Akseki",
+      "winner_helmet": {
+        "pattern": 61,
+        "color1": "4a47b1",
+        "color2": "000000",
+        "color3": "e3f5a9",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 19,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 95,
+      "strength_of_field": 4470,
+      "subsession_id": 84738863,
+      "old_sub_level": 318,
+      "new_sub_level": 319,
+      "oldi_rating": 3119,
+      "newi_rating": 3131,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 11,
       "session_start_time": "2026-04-04T08:45:00Z",
       "winner_group_id": 129837,
       "winner_name": "Tobias F. Olsson",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5922,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 10,
-      "session_start_time": "2026-03-02T16:45:00Z",
-      "winner_group_id": 1229374,
-      "winner_name": "Théo Cailly",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "fff700",
-        "color2": "000000",
-        "color3": "8800ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 9,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 136,
-      "strength_of_field": 2684,
-      "subsession_id": 83971391,
-      "old_sub_level": 286,
-      "new_sub_level": 285,
-      "oldi_rating": 3068,
-      "newi_rating": 3119,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
     }
   ],
   "cust_id": 664614
