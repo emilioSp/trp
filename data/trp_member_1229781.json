@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6110,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-04-05T09:45:00Z",
+      "winner_group_id": 1411222,
+      "winner_name": "Iliya Amelkin",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "0075ff",
+        "color2": "ffffff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 22,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 15,
+      "points": 54,
+      "strength_of_field": 1892,
+      "subsession_id": 84761951,
+      "old_sub_level": 207,
+      "new_sub_level": 152,
+      "oldi_rating": 1897,
+      "newi_rating": 1889,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6111,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6224,
-      "series_id": 320,
-      "series_name": "13th Week iRacing Porsche Cup",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-15T16:45:00Z",
-      "winner_group_id": 1252769,
-      "winner_name": "Samuel Reynolds",
-      "winner_helmet": {
-        "pattern": 11,
-        "color1": "ffffff",
-        "color2": "00e8ff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 17,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 84,
-      "strength_of_field": 1568,
-      "subsession_id": 84243084,
-      "old_sub_level": 192,
-      "new_sub_level": 242,
-      "oldi_rating": 1594,
-      "newi_rating": 1660,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1229781
