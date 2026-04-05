@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-04-05T08:45:00Z",
+      "winner_group_id": 757924,
+      "winner_name": "Artur Halemba",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "ff0000",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 10,
+      "finish_position": 23,
+      "qualifying_time": 0,
+      "laps": 5,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 5,
+      "strength_of_field": 2112,
+      "subsession_id": 84761080,
+      "old_sub_level": 219,
+      "new_sub_level": 207,
+      "oldi_rating": 1979,
+      "newi_rating": 1897,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6110,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6224,
-      "series_id": 320,
-      "series_name": "13th Week iRacing Porsche Cup",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-03-15T15:45:00Z",
-      "winner_group_id": 1379799,
-      "winner_name": "Andre V Nogueira",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "e69f16",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 28,
-      "finish_position": 23,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 22,
-      "strength_of_field": 1668,
-      "subsession_id": 84242344,
-      "old_sub_level": 183,
-      "new_sub_level": 192,
-      "oldi_rating": 1648,
-      "newi_rating": 1594,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
