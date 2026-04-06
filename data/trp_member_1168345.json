@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 9,
+      "session_start_time": "2026-04-06T13:15:00Z",
+      "winner_group_id": 1120462,
+      "winner_name": "James I Roberts",
+      "winner_helmet": {
+        "pattern": 67,
+        "color1": "ff8200",
+        "color2": "000000",
+        "color3": "ff8a00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 5,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 32,
+      "strength_of_field": 1999,
+      "subsession_id": 84792285,
+      "old_sub_level": 165,
+      "new_sub_level": 167,
+      "oldi_rating": 2145,
+      "newi_rating": 2098,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6092,
+      "series_id": 559,
+      "series_name": "Rain Master Challenge",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 9,
       "session_start_time": "2026-04-06T09:15:00Z",
       "winner_group_id": 654511,
       "winner_name": "Ahbleza Pickersgill",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6222,
-      "series_id": 135,
-      "series_name": "13th Week Mazda Cup",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 19,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "01959a"
-      },
-      "license_level": 10,
-      "session_start_time": "2026-03-15T15:00:00Z",
-      "winner_group_id": 891096,
-      "winner_name": "Zac Green3",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "1a4b9b",
-        "color3": "dff000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 9,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 10,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 26,
-      "strength_of_field": 2721,
-      "subsession_id": 84241836,
-      "old_sub_level": 216,
-      "new_sub_level": 201,
-      "oldi_rating": 2110,
-      "newi_rating": 2067,
-      "track": {
-        "track_id": 352,
-        "track_name": "Lime Rock Park"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1168345
