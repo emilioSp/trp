@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6156,
+      "series_id": 564,
+      "series_name": "Mini Stock Rookie Series by Thrustmaster",
+      "car_id": 191,
+      "car_class_id": 4069,
+      "livery": {
+        "car_id": 191,
+        "pattern": 2,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ff0000"
+      },
+      "license_level": 2,
+      "session_start_time": "2026-04-06T19:15:00Z",
+      "winner_group_id": 1216045,
+      "winner_name": "Jonatan Harel",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "231f20",
+        "color2": "e32726",
+        "color3": "231f20",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 2,
+      "start_position": 1,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 35,
+      "laps_led": 4,
+      "incidents": 12,
+      "points": 43,
+      "strength_of_field": 901,
+      "subsession_id": 84798765,
+      "old_sub_level": 235,
+      "new_sub_level": 241,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 16,
+        "track_name": "USA International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6111,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -428,54 +476,6 @@
         "track_name": "[Retired] Charlotte Motor Speedway"
       },
       "drop_race": false,
-      "season_year": 2024,
-      "season_quarter": 2,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 4738,
-      "series_id": 353,
-      "series_name": "Ferrari 296 Challenge",
-      "car_id": 173,
-      "car_class_id": 4036,
-      "livery": {
-        "car_id": 173,
-        "pattern": 21,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "111111"
-      },
-      "license_level": 14,
-      "session_start_time": "2024-03-17T15:45:00Z",
-      "winner_group_id": 266638,
-      "winner_name": "Brandon Lemke",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "0a1385",
-        "color2": "d81818",
-        "color3": "52c841",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 14,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 35,
-      "strength_of_field": 1832,
-      "subsession_id": 67416055,
-      "old_sub_level": 287,
-      "new_sub_level": 267,
-      "oldi_rating": 2047,
-      "newi_rating": 2004,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": true,
       "season_year": 2024,
       "season_quarter": 2,
       "race_week_num": 0
