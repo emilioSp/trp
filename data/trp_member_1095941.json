@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-06T14:45:00Z",
+      "winner_group_id": 856494,
+      "winner_name": "Matthis Boucher",
+      "winner_helmet": {
+        "pattern": 46,
+        "color1": "e50101",
+        "color2": "e56720",
+        "color3": "ebe206",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 11,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 28,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 160,
+      "strength_of_field": 2872,
+      "subsession_id": 84793778,
+      "old_sub_level": 329,
+      "new_sub_level": 318,
+      "oldi_rating": 3306,
+      "newi_rating": 3373,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 2,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-05T22:45:00Z",
       "winner_group_id": 1250645,
       "winner_name": "Janos Podonyi",
@@ -379,7 +427,7 @@
         "track_id": 390,
         "track_name": "Hockenheimring Baden-Württemberg"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6260,
-      "series_id": 271,
-      "series_name": "12 Hours of Sebring",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 5,
-        "color1": "CD0A0A",
-        "color2": "DDD20E",
-        "color3": "224A68"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-28T12:00:00Z",
-      "winner_group_id": -197235,
-      "winner_name": "Gray Wolf Racing #888",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 24,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 142,
-      "laps_led": 0,
-      "incidents": 17,
-      "points": 137,
-      "strength_of_field": 3090,
-      "subsession_id": 84560234,
-      "old_sub_level": 345,
-      "new_sub_level": 454,
-      "oldi_rating": 3237,
-      "newi_rating": 3255,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1095941
