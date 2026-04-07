@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 6,
+        "color1": "c4ff00",
+        "color2": "c4ff00",
+        "color3": "c2fc00"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-04-07T21:15:00Z",
+      "winner_group_id": 845825,
+      "winner_name": "Rafael Major",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "4ced1c",
+        "color2": "cccccc",
+        "color3": "121212",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 13,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 50,
+      "strength_of_field": 2253,
+      "subsession_id": 84826829,
+      "old_sub_level": 468,
+      "new_sub_level": 419,
+      "oldi_rating": 2224,
+      "newi_rating": 2201,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Road America"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 6,
-        "color1": "C4FF00",
-        "color2": "C4FF00",
-        "color3": "C2FC00"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-02-15T21:45:00Z",
-      "winner_group_id": 16563,
-      "winner_name": "Doug Gegenheimer",
-      "winner_helmet": {
-        "pattern": 43,
-        "color1": "fc0706",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 12,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 28,
-      "strength_of_field": 2446,
-      "subsession_id": 83580156,
-      "old_sub_level": 254,
-      "new_sub_level": 234,
-      "oldi_rating": 2177,
-      "newi_rating": 2128,
-      "track": {
-        "track_id": 18,
-        "track_name": "Road America"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
