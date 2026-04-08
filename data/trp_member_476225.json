@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "f70606",
+        "color2": "fab207",
+        "color3": "f8f4f5"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-04-08T14:00:00Z",
+      "winner_group_id": 1110030,
+      "winner_name": "Brandon Stacy",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "cccccc",
+        "color2": "111111",
+        "color3": "ed1c24",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 23,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 107,
+      "strength_of_field": 2772,
+      "subsession_id": 84843960,
+      "old_sub_level": 402,
+      "new_sub_level": 343,
+      "oldi_rating": 2658,
+      "newi_rating": 2684,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6115,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 312,
       "oldi_rating": 2547,
       "newi_rating": 2497,
-      "track": {
-        "track_id": 250,
-        "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 12,
-        "color1": "f70606",
-        "color2": "fab207",
-        "color3": "f8f4f5"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-28T22:00:00Z",
-      "winner_group_id": 975236,
-      "winner_name": "Bastian Santana",
-      "winner_helmet": {
-        "pattern": 47,
-        "color1": "af00ff",
-        "color2": "000000",
-        "color3": "00b7ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 22,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 31,
-      "strength_of_field": 2573,
-      "subsession_id": 83924894,
-      "old_sub_level": 352,
-      "new_sub_level": 329,
-      "oldi_rating": 2605,
-      "newi_rating": 2547,
       "track": {
         "track_id": 250,
         "track_name": "Nürburgring Grand-Prix-Strecke"
