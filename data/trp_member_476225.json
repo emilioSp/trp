@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "f70606",
+        "color2": "fab207",
+        "color3": "f8f4f5"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-04-08T13:15:00Z",
+      "winner_group_id": 1080923,
+      "winner_name": "Hanrui Wu",
+      "winner_helmet": {
+        "pattern": 63,
+        "color1": "ebf00a",
+        "color2": "5b956b",
+        "color3": "2c1010",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 19,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 53,
+      "strength_of_field": 2810,
+      "subsession_id": 84843216,
+      "old_sub_level": 406,
+      "new_sub_level": 402,
+      "oldi_rating": 2689,
+      "newi_rating": 2658,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 12,
-        "color1": "f70606",
-        "color2": "fab207",
-        "color3": "f8f4f5"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-02-20T22:45:00Z",
-      "winner_group_id": 1287873,
-      "winner_name": "Luccas Matheus",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "0a0a0a",
-        "color2": "254192",
-        "color3": "016db8",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 10,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 30,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 99,
-      "strength_of_field": 2167,
-      "subsession_id": 83712152,
-      "old_sub_level": 292,
-      "new_sub_level": 352,
-      "oldi_rating": 2573,
-      "newi_rating": 2605,
-      "track": {
-        "track_id": 212,
-        "track_name": "Autódromo José Carlos Pace"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
     }
   ],
   "cust_id": 476225
