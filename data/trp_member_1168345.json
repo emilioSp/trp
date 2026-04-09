@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 9,
+      "session_start_time": "2026-04-09T17:15:00Z",
+      "winner_group_id": 705633,
+      "winner_name": "Leo JJ Tregurtha",
+      "winner_helmet": {
+        "pattern": 66,
+        "color1": "000000",
+        "color2": "0029ff",
+        "color3": "ccff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 9,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 112,
+      "strength_of_field": 2685,
+      "subsession_id": 84872258,
+      "old_sub_level": 158,
+      "new_sub_level": 166,
+      "oldi_rating": 2077,
+      "newi_rating": 2140,
+      "track": {
+        "track_id": 353,
+        "track_name": "Lime Rock Park"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6083,
+      "series_id": 571,
+      "series_name": "BMW M2 Cup by Nitro Concepts",
+      "car_id": 195,
+      "car_class_id": 4073,
+      "livery": {
+        "car_id": 195,
+        "pattern": 7,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 9,
       "session_start_time": "2026-04-07T15:45:00Z",
       "winner_group_id": 526144,
       "winner_name": "Julius Michelsson",
@@ -43,7 +91,7 @@
         "track_id": 353,
         "track_name": "Lime Rock Park"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 180,
         "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6082,
-      "series_id": 139,
-      "series_name": "Global Mazda MX-5 Cup by Fanatec",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 19,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "01959a"
-      },
-      "license_level": 10,
-      "session_start_time": "2026-04-04T10:00:00Z",
-      "winner_group_id": 995175,
-      "winner_name": "Troy Hollingworth",
-      "winner_helmet": {
-        "pattern": 17,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 10,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 68,
-      "strength_of_field": 2621,
-      "subsession_id": 84736024,
-      "old_sub_level": 234,
-      "new_sub_level": 230,
-      "oldi_rating": 2174,
-      "newi_rating": 2180,
-      "track": {
-        "track_id": 9,
-        "track_name": "Summit Point Raceway"
       },
       "drop_race": false,
       "season_year": 2026,
