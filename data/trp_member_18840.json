@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-09T16:00:00Z",
+      "winner_group_id": 1027894,
+      "winner_name": "Stavros Kovacs",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "000000",
+        "color2": "d7c100",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 9,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 90,
+      "strength_of_field": 3269,
+      "subsession_id": 84870875,
+      "old_sub_level": 350,
+      "new_sub_level": 334,
+      "oldi_rating": 3166,
+      "newi_rating": 3160,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Hockenheimring Baden-Württemberg"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-02T16:45:00Z",
-      "winner_group_id": 674976,
-      "winner_name": "Ville Löfgren",
-      "winner_helmet": {
-        "pattern": 57,
-        "color1": "ff0011",
-        "color2": "750000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 8,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 27,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 56,
-      "strength_of_field": 2618,
-      "subsession_id": 84691552,
-      "old_sub_level": 360,
-      "new_sub_level": 344,
-      "oldi_rating": 2887,
-      "newi_rating": 2849,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
