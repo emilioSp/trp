@@ -13,6 +13,54 @@
         "color2": "00FF00",
         "color3": "0000FF"
       },
+      "license_level": 19,
+      "session_start_time": "2026-04-10T16:45:00Z",
+      "winner_group_id": 363494,
+      "winner_name": "Jake Denehan",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "eb0000",
+        "color2": "000000",
+        "color3": "720000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 7,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 27,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 176,
+      "strength_of_field": 3545,
+      "subsession_id": 84896808,
+      "old_sub_level": 344,
+      "new_sub_level": 320,
+      "oldi_rating": 3743,
+      "newi_rating": 3802,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
       "license_level": 20,
       "session_start_time": "2026-04-10T12:45:00Z",
       "winner_group_id": 1081613,
@@ -43,7 +91,7 @@
         "track_id": 509,
         "track_name": "Algarve International Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
@@ -428,54 +476,6 @@
         "track_name": "Sebring International Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6125,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 5,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-26T17:45:00Z",
-      "winner_group_id": 109169,
-      "winner_name": "Dayne Warren",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "0fff9a",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 11,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 73,
-      "strength_of_field": 4384,
-      "subsession_id": 84514472,
-      "old_sub_level": 213,
-      "new_sub_level": 223,
-      "oldi_rating": 3687,
-      "newi_rating": 3670,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
