@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-04-11T08:45:00Z",
+      "winner_group_id": 1452601,
+      "winner_name": "Yevhenii Matusevych",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "0000ff",
+        "color2": "f5ff00",
+        "color3": "0000ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 11,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 99,
+      "strength_of_field": 1750,
+      "subsession_id": 84914223,
+      "old_sub_level": 152,
+      "new_sub_level": 189,
+      "oldi_rating": 1889,
+      "newi_rating": 1962,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6110,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6110,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-03-17T15:45:00Z",
-      "winner_group_id": 591858,
-      "winner_name": "Christina Jakobsen",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "1a4b9b",
-        "color2": "dff000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 13,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 51,
-      "strength_of_field": 1633,
-      "subsession_id": 84279648,
-      "old_sub_level": 242,
-      "new_sub_level": 237,
-      "oldi_rating": 1660,
-      "newi_rating": 1659,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1229781
