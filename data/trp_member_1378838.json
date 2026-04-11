@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 9,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-04-11T17:15:00Z",
+      "winner_group_id": 1256525,
+      "winner_name": "Marvin Driessen",
+      "winner_helmet": {
+        "pattern": 4,
+        "color1": "e90000",
+        "color2": "f9f9f9",
+        "color3": "020101",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 19,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 25,
+      "strength_of_field": 1954,
+      "subsession_id": 84922906,
+      "old_sub_level": 163,
+      "new_sub_level": 146,
+      "oldi_rating": 1930,
+      "newi_rating": 1876,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 231,
       "oldi_rating": 2076,
       "newi_rating": 2014,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 14,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-28T16:45:00Z",
-      "winner_group_id": 945167,
-      "winner_name": "Jan Meenhorst",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "ffffff",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 14,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 56,
-      "strength_of_field": 2177,
-      "subsession_id": 84565295,
-      "old_sub_level": 246,
-      "new_sub_level": 263,
-      "oldi_rating": 2087,
-      "newi_rating": 2076,
       "track": {
         "track_id": 95,
         "track_name": "Sebring International Raceway"
