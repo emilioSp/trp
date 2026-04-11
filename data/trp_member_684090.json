@@ -14,6 +14,54 @@
         "color3": "eeeeee"
       },
       "license_level": 20,
+      "session_start_time": "2026-04-11T16:00:00Z",
+      "winner_group_id": 254445,
+      "winner_name": "Aleksandr Artemyev",
+      "winner_helmet": {
+        "pattern": 50,
+        "color1": "22bdec",
+        "color2": "2a6e95",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 21,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 114,
+      "strength_of_field": 2976,
+      "subsession_id": 84921453,
+      "old_sub_level": 403,
+      "new_sub_level": 329,
+      "oldi_rating": 3124,
+      "newi_rating": 3143,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 2,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "eeeeee"
+      },
+      "license_level": 20,
       "session_start_time": "2026-04-11T14:00:00Z",
       "winner_group_id": 864299,
       "winner_name": "Caglar Oz",
@@ -43,7 +91,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
@@ -428,54 +476,6 @@
         "track_name": "Watkins Glen International"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 2,
-        "color1": "000000",
-        "color2": "0003ff",
-        "color3": "eeeeee"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-28T15:45:00Z",
-      "winner_group_id": 742217,
-      "winner_name": "Owen Carly",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "ff6c00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 17,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 19,
-      "points": 29,
-      "strength_of_field": 4356,
-      "subsession_id": 83100596,
-      "old_sub_level": 206,
-      "new_sub_level": 129,
-      "oldi_rating": 3140,
-      "newi_rating": 3102,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6

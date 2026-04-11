@@ -4,6 +4,54 @@
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 9,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-04-11T16:00:00Z",
+      "winner_group_id": 732130,
+      "winner_name": "Michael Eder2",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "4c4949",
+        "color2": "5a5353",
+        "color3": "514e52",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 11,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 92,
+      "strength_of_field": 1869,
+      "subsession_id": 84921460,
+      "old_sub_level": 134,
+      "new_sub_level": 163,
+      "oldi_rating": 1876,
+      "newi_rating": 1930,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
       "car_id": 185,
       "car_class_id": 4091,
       "livery": {
@@ -43,7 +91,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
@@ -428,54 +476,6 @@
         "track_name": "Sebring International Raceway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6117,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 14,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-28T15:45:00Z",
-      "winner_group_id": 1116519,
-      "winner_name": "Clayton Mcdonald3",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "7c0000",
-        "color2": "6b0000",
-        "color3": "030013",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 17,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 19,
-      "points": 22,
-      "strength_of_field": 2226,
-      "subsession_id": 84564090,
-      "old_sub_level": 351,
-      "new_sub_level": 246,
-      "oldi_rating": 2147,
-      "newi_rating": 2087,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
