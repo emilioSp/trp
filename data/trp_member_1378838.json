@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 9,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-04-11T20:00:00Z",
+      "winner_group_id": 1238652,
+      "winner_name": "Nikolay Selin2",
+      "winner_helmet": {
+        "pattern": 27,
+        "color1": "0021ff",
+        "color2": "ffffff",
+        "color3": "fc0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 29,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 96,
+      "strength_of_field": 1848,
+      "subsession_id": 84926377,
+      "old_sub_level": 152,
+      "new_sub_level": 168,
+      "oldi_rating": 1801,
+      "newi_rating": 1866,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6115,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -139,7 +187,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
@@ -423,54 +471,6 @@
       "new_sub_level": 228,
       "oldi_rating": 2101,
       "newi_rating": 2130,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6125,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 14,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-29T15:45:00Z",
-      "winner_group_id": 1284699,
-      "winner_name": "Linuz Mattsson",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "00050B",
-        "color2": "EE3A43",
-        "color3": "007AC3",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 7,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 118,
-      "strength_of_field": 2003,
-      "subsession_id": 84590276,
-      "old_sub_level": 231,
-      "new_sub_level": 252,
-      "oldi_rating": 2014,
-      "newi_rating": 2101,
       "track": {
         "track_id": 95,
         "track_name": "Sebring International Raceway"
