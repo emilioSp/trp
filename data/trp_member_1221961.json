@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6120,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "1C1FED",
+        "color2": "000000",
+        "color3": "F3F3F3"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-04-11T07:00:00Z",
+      "winner_group_id": -155654,
+      "winner_name": "Switch It - Topas",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 105,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 201,
+      "strength_of_field": 3256,
+      "subsession_id": 84912680,
+      "old_sub_level": 460,
+      "new_sub_level": 499,
+      "oldi_rating": 4958,
+      "newi_rating": 4990,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Circuito de Jerez - Ángel Nieto"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "0400FF",
-        "color2": "391010",
-        "color3": "AF1010"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-02-03T20:45:00Z",
-      "winner_group_id": 713984,
-      "winner_name": "Bart Marotel",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "00ff75",
-        "color2": "00c9ff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 2,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 28,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 270,
-      "strength_of_field": 4758,
-      "subsession_id": 83263628,
-      "old_sub_level": 266,
-      "new_sub_level": 275,
-      "oldi_rating": 4625,
-      "newi_rating": 4728,
-      "track": {
-        "track_id": 474,
-        "track_name": "Circuito de Jerez - Ángel Nieto"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
