@@ -4,6 +4,54 @@
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-11T14:00:00Z",
+      "winner_group_id": 463990,
+      "winner_name": "Leandro Bernhardt",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "1db1c4",
+        "color2": "000000",
+        "color3": "f6fcfd",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 17,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 104,
+      "strength_of_field": 2568,
+      "subsession_id": 84919218,
+      "old_sub_level": 330,
+      "new_sub_level": 333,
+      "oldi_rating": 2679,
+      "newi_rating": 2705,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
       "car_id": 156,
       "car_class_id": 4091,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5975,
-      "series_id": 538,
-      "series_name": "Draft Master Challenge by Simagic",
-      "car_id": 141,
-      "car_class_id": 4040,
-      "livery": {
-        "car_id": 141,
-        "pattern": 4,
-        "color1": "EFE600",
-        "color2": "000000",
-        "color3": "000000"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-02-01T21:00:00Z",
-      "winner_group_id": 1156340,
-      "winner_name": "Diogo S Ferreira",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "fff503",
-        "color2": "90fffc",
-        "color3": "ff6cf9",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 86,
-      "strength_of_field": 1440,
-      "subsession_id": 83212783,
-      "old_sub_level": 264,
-      "new_sub_level": 275,
-      "oldi_rating": 1424,
-      "newi_rating": 1512,
-      "track": {
-        "track_id": 191,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1107481

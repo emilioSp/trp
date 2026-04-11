@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 2,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "eeeeee"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-04-11T14:00:00Z",
+      "winner_group_id": 864299,
+      "winner_name": "Caglar Oz",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "ffffff",
+        "color2": "111111",
+        "color3": "fc0706",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 19,
+      "finish_position": 22,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 56,
+      "strength_of_field": 3318,
+      "subsession_id": 84919216,
+      "old_sub_level": 458,
+      "new_sub_level": 403,
+      "oldi_rating": 3162,
+      "newi_rating": 3124,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6260,
       "series_id": 271,
       "series_name": "12 Hours of Sebring",
@@ -423,54 +471,6 @@
       "new_sub_level": 129,
       "oldi_rating": 3140,
       "newi_rating": 3102,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 2,
-        "color1": "000000",
-        "color2": "0003ff",
-        "color3": "eeeeee"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-28T14:45:00Z",
-      "winner_group_id": 792024,
-      "winner_name": "Freddie Razzell",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "391c83",
-        "color2": "ccff00",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 13,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 10,
-      "strength_of_field": 2975,
-      "subsession_id": 83099670,
-      "old_sub_level": 243,
-      "new_sub_level": 206,
-      "oldi_rating": 3230,
-      "newi_rating": 3140,
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"
