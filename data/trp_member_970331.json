@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6098,
+      "series_id": 503,
+      "series_name": "TCR Virtual Challenge",
+      "car_id": 146,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 146,
+        "pattern": 9,
+        "color1": "09ffc2",
+        "color2": "0080ff",
+        "color3": "fffa00"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-11T09:45:00Z",
+      "winner_group_id": 1435640,
+      "winner_name": "Anto Jr El Ninho",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 2,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 73,
+      "strength_of_field": 1979,
+      "subsession_id": 84915102,
+      "old_sub_level": 329,
+      "new_sub_level": 327,
+      "oldi_rating": 3636,
+      "newi_rating": 3623,
+      "track": {
+        "track_id": 234,
+        "track_name": "Donington Park Racing Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6097,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -91,7 +139,7 @@
         "track_id": 234,
         "track_name": "Donington Park Racing Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
@@ -428,54 +476,6 @@
         "track_name": "Charlotte Motor Speedway "
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6098,
-      "series_id": 503,
-      "series_name": "TCR Virtual Challenge",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-21T15:45:00Z",
-      "winner_group_id": 486439,
-      "winner_name": "Dietmar Huhs",
-      "winner_helmet": {
-        "pattern": 10,
-        "color1": "ff5400",
-        "color2": "433d3d",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 4,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 138,
-      "strength_of_field": 2737,
-      "subsession_id": 84382052,
-      "old_sub_level": 439,
-      "new_sub_level": 433,
-      "oldi_rating": 3801,
-      "newi_rating": 3842,
-      "track": {
-        "track_id": 554,
-        "track_name": "Charlotte Motor Speedway "
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
