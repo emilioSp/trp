@@ -14,6 +14,54 @@
         "color3": "111111"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-11T22:45:00Z",
+      "winner_group_id": 84414,
+      "winner_name": "Maximilian Muir",
+      "winner_helmet": {
+        "pattern": 54,
+        "color1": "4748c4",
+        "color2": "68e3be",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 5,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 27,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 139,
+      "strength_of_field": 2703,
+      "subsession_id": 84929692,
+      "old_sub_level": 340,
+      "new_sub_level": 358,
+      "oldi_rating": 4024,
+      "newi_rating": 4064,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 24,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-07T22:45:00Z",
       "winner_group_id": 456918,
       "winner_name": "Jeffrey Lawler",
@@ -43,7 +91,7 @@
         "track_id": 509,
         "track_name": "Algarve International Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 5,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-05T22:00:00Z",
-      "winner_group_id": 957236,
-      "winner_name": "Caspar Ummelen",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "00ff06",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 8,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 93,
-      "strength_of_field": 3496,
-      "subsession_id": 84055711,
-      "old_sub_level": 343,
-      "new_sub_level": 319,
-      "oldi_rating": 3953,
-      "newi_rating": 3934,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
     }
   ],
   "cust_id": 872758

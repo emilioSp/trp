@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6120,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "1C1FED",
+        "color2": "000000",
+        "color3": "F3F3F3"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-11T18:00:00Z",
+      "winner_group_id": -317812,
+      "winner_name": "Sim City Racing 71",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 3,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 102,
+      "laps_led": 0,
+      "incidents": 20,
+      "points": 214,
+      "strength_of_field": 3682,
+      "subsession_id": 84923837,
+      "old_sub_level": 346,
+      "new_sub_level": 358,
+      "oldi_rating": 4496,
+      "newi_rating": 4531,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -91,7 +139,7 @@
         "track_id": 509,
         "track_name": "Algarve International Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Sebring International Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6123,
-      "series_id": 419,
-      "series_name": "IMSA Endurance Series",
-      "car_id": 133,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 133,
-        "pattern": 18,
-        "color1": "000000",
-        "color2": "0003ff",
-        "color3": "ffffff"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-21T18:00:00Z",
-      "winner_group_id": -455096,
-      "winner_name": "imfat",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 7,
-      "finish_position": 24,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 22,
-      "strength_of_field": 4944,
-      "subsession_id": 84384931,
-      "old_sub_level": 499,
-      "new_sub_level": 499,
-      "oldi_rating": 4597,
-      "newi_rating": 4511,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
