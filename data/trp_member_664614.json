@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 11,
+      "session_start_time": "2026-04-12T12:45:00Z",
+      "winner_group_id": 129837,
+      "winner_name": "Tobias F. Olsson",
+      "winner_helmet": {
+        "pattern": 43,
+        "color1": "24069d",
+        "color2": "e4fc5f",
+        "color3": "061655",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 13,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 132,
+      "strength_of_field": 3738,
+      "subsession_id": 84944934,
+      "old_sub_level": 343,
+      "new_sub_level": 341,
+      "oldi_rating": 3245,
+      "newi_rating": 3279,
+      "track": {
+        "track_id": 572,
+        "track_name": "Autódromo Hermanos Rodríguez"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 11,
       "session_start_time": "2026-04-12T00:45:00Z",
       "winner_group_id": 487540,
       "winner_name": "Matt J Caruana",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-03-20T02:45:00Z",
-      "winner_group_id": 1000146,
-      "winner_name": "Gabriel Parra Gonzalez",
-      "winner_helmet": {
-        "pattern": 60,
-        "color1": "faca00",
-        "color2": "e00000",
-        "color3": "0045f7",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 11,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 46,
-      "strength_of_field": 3670,
-      "subsession_id": 84343604,
-      "old_sub_level": 335,
-      "new_sub_level": 330,
-      "oldi_rating": 3096,
-      "newi_rating": 3059,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 664614
