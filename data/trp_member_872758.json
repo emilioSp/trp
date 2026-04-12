@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6120,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "1C1FED",
+        "color2": "000000",
+        "color3": "F3F3F3"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-12T14:00:00Z",
+      "winner_group_id": -326853,
+      "winner_name": "VULKAN Motorsports - HY",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 3,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 101,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 80,
+      "strength_of_field": 4083,
+      "subsession_id": 84946317,
+      "old_sub_level": 358,
+      "new_sub_level": 442,
+      "oldi_rating": 4064,
+      "newi_rating": 4056,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Silverstone Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 5,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-17T22:45:00Z",
-      "winner_group_id": 508229,
-      "winner_name": "Elias Sauer",
-      "winner_helmet": {
-        "pattern": 44,
-        "color1": "e3ff00",
-        "color2": "e3ff00",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 22,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 9,
-      "strength_of_field": 3555,
-      "subsession_id": 84288489,
-      "old_sub_level": 319,
-      "new_sub_level": 253,
-      "oldi_rating": 3934,
-      "newi_rating": 3842,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0

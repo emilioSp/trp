@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6120,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 15,
+        "color1": "1C1FED",
+        "color2": "000000",
+        "color3": "F3F3F3"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-12T14:00:00Z",
+      "winner_group_id": -326853,
+      "winner_name": "VULKAN Motorsports - HY",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 3,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 71,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 80,
+      "strength_of_field": 4083,
+      "subsession_id": 84946317,
+      "old_sub_level": 320,
+      "new_sub_level": 364,
+      "oldi_rating": 3802,
+      "newi_rating": 3796,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Sebring International Raceway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6125,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 5,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-27T17:45:00Z",
-      "winner_group_id": 720188,
-      "winner_name": "Kyle Griffiths",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "ff0500",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 12,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 115,
-      "strength_of_field": 4109,
-      "subsession_id": 84539719,
-      "old_sub_level": 223,
-      "new_sub_level": 244,
-      "oldi_rating": 3670,
-      "newi_rating": 3686,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
