@@ -14,6 +14,54 @@
         "color3": "bf2304"
       },
       "license_level": 18,
+      "session_start_time": "2026-04-13T20:45:00Z",
+      "winner_group_id": 640173,
+      "winner_name": "Adrian S Dieguez",
+      "winner_helmet": {
+        "pattern": 34,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "9d0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 3,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 114,
+      "strength_of_field": 1867,
+      "subsession_id": 84979072,
+      "old_sub_level": 243,
+      "new_sub_level": 266,
+      "oldi_rating": 2575,
+      "newi_rating": 2642,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 12,
+        "color1": "f7f7f7",
+        "color2": "0fa105",
+        "color3": "bf2304"
+      },
+      "license_level": 18,
       "session_start_time": "2026-04-12T20:45:00Z",
       "winner_group_id": 1097968,
       "winner_name": "Alexander Krawec",
@@ -43,7 +91,7 @@
         "track_id": 509,
         "track_name": "Algarve International Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 2,
-        "color1": "0fa105",
-        "color2": "f7f7f7",
-        "color3": "bf2304"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-02-02T21:45:00Z",
-      "winner_group_id": 993697,
-      "winner_name": "Jimmy Carroll",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "150094",
-        "color2": "ffffff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 7,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 64,
-      "strength_of_field": 2241,
-      "subsession_id": 83239388,
-      "old_sub_level": 210,
-      "new_sub_level": 212,
-      "oldi_rating": 2438,
-      "newi_rating": 2427,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 740041
