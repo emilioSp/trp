@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 185,
+        "pattern": 17,
+        "color1": "D0C40B",
+        "color2": "FFFFFF",
+        "color3": "111111"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-04-13T19:15:00Z",
+      "winner_group_id": 139682,
+      "winner_name": "Luke Cantor",
+      "winner_helmet": {
+        "pattern": 64,
+        "color1": "ebcd08",
+        "color2": "0c4306",
+        "color3": "ffd500",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 19,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 71,
+      "strength_of_field": 3252,
+      "subsession_id": 84977384,
+      "old_sub_level": 407,
+      "new_sub_level": 413,
+      "oldi_rating": 3126,
+      "newi_rating": 3105,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6116,
       "series_id": 594,
       "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5930,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 102,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 102,
-        "pattern": 15,
-        "color1": "D0C40B",
-        "color2": "ffffff",
-        "color3": "111111"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-31T17:00:00Z",
-      "winner_group_id": 975264,
-      "winner_name": "Miguel Leon",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "013990",
-        "color2": "ffffff",
-        "color3": "4bd3fd",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 7,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 19,
-      "strength_of_field": 3272,
-      "subsession_id": 82343600,
-      "old_sub_level": 255,
-      "new_sub_level": 241,
-      "oldi_rating": 2811,
-      "newi_rating": 2750,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 2
     }
   ],
   "cust_id": 420122
