@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6110,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-04-14T17:45:00Z",
+      "winner_group_id": 1053384,
+      "winner_name": "Jonghun Kim3",
+      "winner_helmet": {
+        "pattern": 19,
+        "color1": "599b5d",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 8,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 88,
+      "strength_of_field": 1963,
+      "subsession_id": 85000893,
+      "old_sub_level": 244,
+      "new_sub_level": 236,
+      "oldi_rating": 1950,
+      "newi_rating": 1994,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6093,
       "series_id": 557,
       "series_name": "BMW M Power Challenge",
@@ -423,54 +471,6 @@
       "new_sub_level": 219,
       "oldi_rating": 1900,
       "newi_rating": 1979,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-04-04T08:45:00Z",
-      "winner_group_id": 1134327,
-      "winner_name": "Enzo Perrot",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "111111",
-        "color2": "ccff00",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 14,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 83,
-      "strength_of_field": 1859,
-      "subsession_id": 84734984,
-      "old_sub_level": 223,
-      "new_sub_level": 228,
-      "oldi_rating": 1857,
-      "newi_rating": 1900,
       "track": {
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"
