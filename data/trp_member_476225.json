@@ -13,6 +13,54 @@
         "color2": "fab207",
         "color3": "f8f4f5"
       },
+      "license_level": 19,
+      "session_start_time": "2026-04-14T20:00:00Z",
+      "winner_group_id": 1117163,
+      "winner_name": "Tiago Caldeira",
+      "winner_helmet": {
+        "pattern": 10,
+        "color1": "e1ff00",
+        "color2": "ddff00",
+        "color3": "dbff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 22,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 121,
+      "strength_of_field": 2732,
+      "subsession_id": 85003398,
+      "old_sub_level": 343,
+      "new_sub_level": 342,
+      "oldi_rating": 2684,
+      "newi_rating": 2727,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "f70606",
+        "color2": "fab207",
+        "color3": "f8f4f5"
+      },
       "license_level": 20,
       "session_start_time": "2026-04-08T14:00:00Z",
       "winner_group_id": 1110030,
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 6
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 12,
-        "color1": "f70606",
-        "color2": "fab207",
-        "color3": "f8f4f5"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-28T23:15:00Z",
-      "winner_group_id": 1254369,
-      "winner_name": "Gerrit Schaefer",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ff2001",
-        "color2": "0a0a0a",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 11,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 35,
-      "strength_of_field": 2513,
-      "subsession_id": 83926420,
-      "old_sub_level": 329,
-      "new_sub_level": 312,
-      "oldi_rating": 2547,
-      "newi_rating": 2497,
-      "track": {
-        "track_id": 250,
-        "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 10
     }
   ],
   "cust_id": 476225

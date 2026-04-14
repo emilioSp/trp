@@ -4,6 +4,54 @@
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 5,
+        "color1": "C4FF00",
+        "color2": "C4FF00",
+        "color3": "C2FC00"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-04-14T20:00:00Z",
+      "winner_group_id": 878731,
+      "winner_name": "Javier Baccola",
+      "winner_helmet": {
+        "pattern": 50,
+        "color1": "ffffff",
+        "color2": "fc0706",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 23,
+      "finish_position": 28,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 0,
+      "strength_of_field": 2253,
+      "subsession_id": 85003399,
+      "old_sub_level": 414,
+      "new_sub_level": 341,
+      "oldi_rating": 2259,
+      "newi_rating": 2167,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
       "car_id": 156,
       "car_class_id": 4091,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
-    },
-    {
-      "season_id": 5931,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 23,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "fffefe"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-02-22T14:00:00Z",
-      "winner_group_id": -490652,
-      "winner_name": "DKB Racing Team GTP",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 3,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 107,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 160,
-      "strength_of_field": 2643,
-      "subsession_id": 83757229,
-      "old_sub_level": 245,
-      "new_sub_level": 442,
-      "oldi_rating": 2146,
-      "newi_rating": 2190,
-      "track": {
-        "track_id": 212,
-        "track_name": "Autódromo José Carlos Pace"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
     }
   ],
   "cust_id": 922039
