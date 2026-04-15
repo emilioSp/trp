@@ -14,6 +14,54 @@
         "color3": "f8f4f5"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-15T12:00:00Z",
+      "winner_group_id": 328176,
+      "winner_name": "Lucas Hermann",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "f1ef24",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 14,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 53,
+      "strength_of_field": 3538,
+      "subsession_id": 85019172,
+      "old_sub_level": 342,
+      "new_sub_level": 341,
+      "oldi_rating": 2727,
+      "newi_rating": 2707,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "f70606",
+        "color2": "fab207",
+        "color3": "f8f4f5"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-14T20:00:00Z",
       "winner_group_id": 1117163,
       "winner_name": "Tiago Caldeira",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6226,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 2,
-        "color1": "ffffff",
-        "color2": "54fff4",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-16T21:45:00Z",
-      "winner_group_id": 256408,
-      "winner_name": "Michael Parsons3",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "000000",
-        "color2": "cb1010",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 23,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 84,
-      "strength_of_field": 2619,
-      "subsession_id": 84261925,
-      "old_sub_level": 312,
-      "new_sub_level": 234,
-      "oldi_rating": 2497,
-      "newi_rating": 2504,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 476225
