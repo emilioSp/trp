@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-16T16:00:00Z",
+      "winner_group_id": 673445,
+      "winner_name": "Noah Eder",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "ff0000",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 18,
+      "finish_position": 26,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 38,
+      "strength_of_field": 4699,
+      "subsession_id": 85047687,
+      "old_sub_level": 363,
+      "new_sub_level": 312,
+      "oldi_rating": 3879,
+      "newi_rating": 3834,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-16T12:00:00Z",
       "winner_group_id": 607152,
       "winner_name": "Marley Joffe",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 5,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-30T12:45:00Z",
-      "winner_group_id": 352512,
-      "winner_name": "Andrea Barilaro",
-      "winner_helmet": {
-        "pattern": 60,
-        "color1": "000000",
-        "color2": "2bf000",
-        "color3": "085007",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 8,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 148,
-      "strength_of_field": 3367,
-      "subsession_id": 84612785,
-      "old_sub_level": 488,
-      "new_sub_level": 488,
-      "oldi_rating": 3634,
-      "newi_rating": 3675,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 900937
