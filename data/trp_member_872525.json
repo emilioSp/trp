@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-16T18:45:00Z",
+      "winner_group_id": 713998,
+      "winner_name": "Robin Schwanke",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "dbff00",
+        "color2": "ff0000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 9,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 34,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 192,
+      "strength_of_field": 4415,
+      "subsession_id": 85050502,
+      "old_sub_level": 340,
+      "new_sub_level": 325,
+      "oldi_rating": 4507,
+      "newi_rating": 4558,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-15T18:45:00Z",
       "winner_group_id": 1221143,
       "winner_name": "David J Adam2",
@@ -43,7 +91,7 @@
         "track_id": 179,
         "track_name": "Long Beach Street Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
@@ -428,54 +476,6 @@
         "track_name": "Sebring International Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 11,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-25T18:00:00Z",
-      "winner_group_id": 913763,
-      "winner_name": "Ansgar Altrichter",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 4,
-      "finish_position": 29,
-      "qualifying_time": 0,
-      "laps": 3,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 5,
-      "strength_of_field": 4780,
-      "subsession_id": 84489928,
-      "old_sub_level": 312,
-      "new_sub_level": 247,
-      "oldi_rating": 4473,
-      "newi_rating": 4389,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
