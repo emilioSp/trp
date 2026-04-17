@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6126,
+      "series_id": 455,
+      "series_name": "Formula Vee Series by trophi.ai",
+      "car_id": 142,
+      "car_class_id": 3002,
+      "livery": {
+        "car_id": 142,
+        "pattern": 22,
+        "color1": "a50e0e",
+        "color2": "072ae1",
+        "color3": "320548"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-04-17T16:30:00Z",
+      "winner_group_id": 983165,
+      "winner_name": "Dillon Gehring",
+      "winner_helmet": {
+        "pattern": 36,
+        "color1": "25624f",
+        "color2": "d8d4c5",
+        "color3": "b62b3f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 1,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 1,
+      "incidents": 4,
+      "points": 25,
+      "strength_of_field": 2168,
+      "subsession_id": 85072256,
+      "old_sub_level": 248,
+      "new_sub_level": 243,
+      "oldi_rating": 2799,
+      "newi_rating": 2726,
+      "track": {
+        "track_id": 516,
+        "track_name": "Circuito de Navarra"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6260,
       "series_id": 271,
       "series_name": "12 Hours of Sebring",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 582,
         "track_name": "Winton Motor Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5994,
-      "series_id": 315,
-      "series_name": "Dirt Legends Cup",
-      "car_id": 82,
-      "car_class_id": 89,
-      "livery": {
-        "car_id": 82,
-        "pattern": 1,
-        "color1": "fc0706",
-        "color2": "ffffff",
-        "color3": "111111"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-02-17T21:45:00Z",
-      "winner_group_id": 1364432,
-      "winner_name": "Tomi Papai",
-      "winner_helmet": {
-        "pattern": 33,
-        "color1": "ff0000",
-        "color2": "510000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 8,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 68,
-      "strength_of_field": 1318,
-      "subsession_id": 83633148,
-      "old_sub_level": 250,
-      "new_sub_level": 258,
-      "oldi_rating": 1377,
-      "newi_rating": 1444,
-      "track": {
-        "track_id": 288,
-        "track_name": "Lanier National Speedway"
       },
       "drop_race": false,
       "season_year": 2026,
