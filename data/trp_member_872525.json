@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-17T16:45:00Z",
+      "winner_group_id": 1394248,
+      "winner_name": "Dylan Leon",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "e6f200",
+        "color3": "008ef4",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 3,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 0,
+      "strength_of_field": 4582,
+      "subsession_id": 85072457,
+      "old_sub_level": 336,
+      "new_sub_level": 321,
+      "oldi_rating": 4570,
+      "newi_rating": 4480,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-16T20:45:00Z",
       "winner_group_id": 713998,
       "winner_name": "Robin Schwanke",
@@ -43,7 +91,7 @@
         "track_id": 179,
         "track_name": "Long Beach Street Circuit"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 133,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 133,
-        "pattern": 11,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-26T20:45:00Z",
-      "winner_group_id": 864043,
-      "winner_name": "Bradley Leenards",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "111111",
-        "color2": "fc0706",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 5,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 50,
-      "strength_of_field": 4813,
-      "subsession_id": 84518058,
-      "old_sub_level": 248,
-      "new_sub_level": 240,
-      "oldi_rating": 4436,
-      "newi_rating": 4388,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 872525
