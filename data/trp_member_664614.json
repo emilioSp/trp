@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 11,
+      "session_start_time": "2026-04-17T00:45:00Z",
+      "winner_group_id": 459916,
+      "winner_name": "Diego A Pérez",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "464648",
+        "color2": "d4d4d4",
+        "color3": "464648",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 6,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 156,
+      "strength_of_field": 3429,
+      "subsession_id": 85057179,
+      "old_sub_level": 343,
+      "new_sub_level": 342,
+      "oldi_rating": 3233,
+      "newi_rating": 3292,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 11,
       "session_start_time": "2026-04-16T22:45:00Z",
       "winner_group_id": 1067094,
       "winner_name": "Augustin Bernier2",
@@ -43,7 +91,7 @@
         "track_id": 179,
         "track_name": "Long Beach Street Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-03-26T00:45:00Z",
-      "winner_group_id": 283259,
-      "winner_name": "Alejo Mango",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "ffffff",
-        "color2": "00ff12",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 5,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 185,
-      "strength_of_field": 3183,
-      "subsession_id": 84498181,
-      "old_sub_level": 323,
-      "new_sub_level": 328,
-      "oldi_rating": 3096,
-      "newi_rating": 3188,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 664614
