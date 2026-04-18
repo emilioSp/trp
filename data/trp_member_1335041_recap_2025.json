@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 22,
+    "wins": 1,
+    "top5": 8,
+    "avg_start_position": 7,
+    "avg_finish_position": 8,
+    "laps": 143,
+    "laps_led": 7,
+    "favorite_car": {
+      "car_id": 163,
+      "car_name": "Ray FF1600",
+      "car_image": "https://images-static.iracing.com/img/cars/rayff1600/rayff1600-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "International",
+      "track_id": 180,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/oultonparkcircuit-logo.png",
+      "track_name": "Oulton Park Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1335041
+}

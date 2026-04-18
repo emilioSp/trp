@@ -170,6 +170,16 @@
     "iRating": 3307
   },
   {
+    "id": 1335041,
+    "name": "Pierpaolo Aletto",
+    "memberSince": "2025-09-11",
+    "country": "Italy",
+    "classOrder": 3,
+    "className": "C",
+    "safetyRating": 3.82,
+    "iRating": 1650
+  },
+  {
     "id": 825369,
     "name": "Simone Donchi",
     "memberSince": "2022-09-23",
@@ -256,8 +266,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.84,
-    "iRating": 2104
+    "safetyRating": 3.85,
+    "iRating": 2054
   },
   {
     "id": 1279219,
