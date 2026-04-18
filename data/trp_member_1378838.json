@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 9,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-04-18T15:15:00Z",
+      "winner_group_id": 615182,
+      "winner_name": "Nick Arnold",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "111111",
+        "color2": "ffffff",
+        "color3": "5481fc",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 17,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 82,
+      "strength_of_field": 1956,
+      "subsession_id": 85096381,
+      "old_sub_level": 246,
+      "new_sub_level": 250,
+      "oldi_rating": 1942,
+      "newi_rating": 1977,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 9,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-04-11T20:00:00Z",
-      "winner_group_id": 1238652,
-      "winner_name": "Nikolay Selin2",
-      "winner_helmet": {
-        "pattern": 27,
-        "color1": "0021ff",
-        "color2": "ffffff",
-        "color3": "fc0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 29,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 96,
-      "strength_of_field": 1848,
-      "subsession_id": 84926377,
-      "old_sub_level": 152,
-      "new_sub_level": 168,
-      "oldi_rating": 1801,
-      "newi_rating": 1866,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
