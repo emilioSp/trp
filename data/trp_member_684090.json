@@ -4,6 +4,54 @@
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 19,
+        "color1": "ffffff",
+        "color2": "0091ee",
+        "color3": "ff0000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-18T18:00:00Z",
+      "winner_group_id": 1412300,
+      "winner_name": "Frederik Sczepan",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "050404",
+        "color2": "f7efef",
+        "color3": "f00000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 5,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 52,
+      "strength_of_field": 2745,
+      "subsession_id": 85099425,
+      "old_sub_level": 328,
+      "new_sub_level": 302,
+      "oldi_rating": 3089,
+      "newi_rating": 3042,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
       "car_id": 169,
       "car_class_id": 4091,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 2,
-        "color1": "000000",
-        "color2": "0003ff",
-        "color3": "eeeeee"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-30T14:45:00Z",
-      "winner_group_id": 355708,
-      "winner_name": "Nick Westphal",
-      "winner_helmet": {
-        "pattern": 18,
-        "color1": "FFFFFF",
-        "color2": "ED2129",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 18,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 147,
-      "strength_of_field": 3177,
-      "subsession_id": 83149680,
-      "old_sub_level": 160,
-      "new_sub_level": 162,
-      "oldi_rating": 3136,
-      "newi_rating": 3189,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 684090
