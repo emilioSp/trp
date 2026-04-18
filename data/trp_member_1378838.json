@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 9,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-04-18T16:00:00Z",
+      "winner_group_id": 389959,
+      "winner_name": "William Leblond",
+      "winner_helmet": {
+        "pattern": 42,
+        "color1": "053363",
+        "color2": "ffffff",
+        "color3": "c61c2b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 23,
+      "finish_position": 25,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 12,
+      "strength_of_field": 1853,
+      "subsession_id": 85097217,
+      "old_sub_level": 250,
+      "new_sub_level": 241,
+      "oldi_rating": 1977,
+      "newi_rating": 1898,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6115,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 9,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-04-11T21:15:00Z",
-      "winner_group_id": 1014462,
-      "winner_name": "Lucas Obolari",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "0036ff",
-        "color2": "f4ff00",
-        "color3": "00ff1a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 17,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 78,
-      "strength_of_field": 1854,
-      "subsession_id": 84927909,
-      "old_sub_level": 168,
-      "new_sub_level": 157,
-      "oldi_rating": 1866,
-      "newi_rating": 1900,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
