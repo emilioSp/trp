@@ -14,6 +14,54 @@
         "color3": "ff0000"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-18T20:00:00Z",
+      "winner_group_id": 829050,
+      "winner_name": "Manuel Hidalgo",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ed2129",
+        "color2": "ffffff",
+        "color3": "2a3795",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 13,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 135,
+      "strength_of_field": 3553,
+      "subsession_id": 85101815,
+      "old_sub_level": 302,
+      "new_sub_level": 252,
+      "oldi_rating": 3042,
+      "newi_rating": 3083,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 19,
+        "color1": "ffffff",
+        "color2": "0091ee",
+        "color3": "ff0000"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-18T18:00:00Z",
       "winner_group_id": 1412300,
       "winner_name": "Frederik Sczepan",
@@ -43,7 +91,7 @@
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 247,
         "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 5928,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 2,
-        "color1": "000000",
-        "color2": "0003ff",
-        "color3": "eeeeee"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-02-05T15:45:00Z",
-      "winner_group_id": 328982,
-      "winner_name": "Quentin Guilbaud",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "efd600",
-        "color2": "111111",
-        "color3": "d7162d",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 14,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 72,
-      "strength_of_field": 2856,
-      "subsession_id": 83308744,
-      "old_sub_level": 162,
-      "new_sub_level": 141,
-      "oldi_rating": 3189,
-      "newi_rating": 3165,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
       },
       "drop_race": false,
       "season_year": 2026,

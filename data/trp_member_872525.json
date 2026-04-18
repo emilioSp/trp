@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6123,
+      "series_id": 419,
+      "series_name": "IMSA Endurance Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 18,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-18T18:00:00Z",
+      "winner_group_id": -483479,
+      "winner_name": "BS+HYBRID",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 6,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 121,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 269,
+      "strength_of_field": 4864,
+      "subsession_id": 85099434,
+      "old_sub_level": 360,
+      "new_sub_level": 485,
+      "oldi_rating": 4575,
+      "newi_rating": 4672,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6120,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "1C1FED",
-        "color2": "000000",
-        "color3": "F3F3F3"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-11T07:00:00Z",
-      "winner_group_id": -155654,
-      "winner_name": "Switch It - Topas",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 103,
-      "laps_led": 0,
-      "incidents": 21,
-      "points": 201,
-      "strength_of_field": 3256,
-      "subsession_id": 84912680,
-      "old_sub_level": 370,
-      "new_sub_level": 367,
-      "oldi_rating": 4488,
-      "newi_rating": 4519,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 872525
