@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 14,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-04-18T14:00:00Z",
+      "winner_group_id": 381252,
+      "winner_name": "Shane Edgar",
+      "winner_helmet": {
+        "pattern": 17,
+        "color1": "e3f302",
+        "color2": "20edf3",
+        "color3": "27ec11",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 15,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 21,
+      "points": 48,
+      "strength_of_field": 1991,
+      "subsession_id": 85095118,
+      "old_sub_level": 287,
+      "new_sub_level": 246,
+      "oldi_rating": 1963,
+      "newi_rating": 1942,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6115,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 168,
       "oldi_rating": 1801,
       "newi_rating": 1866,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 9,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-04-11T19:15:00Z",
-      "winner_group_id": 1368418,
-      "winner_name": "Pioter Piotrowski2",
-      "winner_helmet": {
-        "pattern": 67,
-        "color1": "6ec321",
-        "color2": "abc40b",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 12,
-      "strength_of_field": 1860,
-      "subsession_id": 84925434,
-      "old_sub_level": 146,
-      "new_sub_level": 152,
-      "oldi_rating": 1876,
-      "newi_rating": 1801,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
