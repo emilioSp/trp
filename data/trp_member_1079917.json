@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 3,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-04-18T12:45:00Z",
+      "winner_group_id": 1317903,
+      "winner_name": "Chris Van De Nesse2",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "231f20",
+        "color2": "808080",
+        "color3": "f26722",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 13,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 34,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 143,
+      "strength_of_field": 3604,
+      "subsession_id": 85093861,
+      "old_sub_level": 442,
+      "new_sub_level": 462,
+      "oldi_rating": 4168,
+      "newi_rating": 4185,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6125,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -91,7 +139,7 @@
         "track_id": 179,
         "track_name": "Long Beach Street Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6260,
-      "series_id": 271,
-      "series_name": "12 Hours of Sebring",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 8,
-        "color1": "CD0A0A",
-        "color2": "DDD20E",
-        "color3": "224A68"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-28T12:00:00Z",
-      "winner_group_id": -356252,
-      "winner_name": "Tomas Enge Simracing",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 29,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 56,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 124,
-      "strength_of_field": 3704,
-      "subsession_id": 84560230,
-      "old_sub_level": 344,
-      "new_sub_level": 369,
-      "oldi_rating": 4164,
-      "newi_rating": 4165,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1079917

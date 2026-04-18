@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-18T12:45:00Z",
+      "winner_group_id": 1317903,
+      "winner_name": "Chris Van De Nesse2",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "231f20",
+        "color2": "808080",
+        "color3": "f26722",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 34,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 185,
+      "strength_of_field": 3604,
+      "subsession_id": 85093861,
+      "old_sub_level": 321,
+      "new_sub_level": 332,
+      "oldi_rating": 4480,
+      "newi_rating": 4527,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-17T16:45:00Z",
       "winner_group_id": 1394248,
       "winner_name": "Dylan Leon",
@@ -91,7 +139,7 @@
         "track_id": 179,
         "track_name": "Long Beach Street Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6260,
-      "series_id": 271,
-      "series_name": "12 Hours of Sebring",
-      "car_id": 133,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 133,
-        "pattern": 10,
-        "color1": "CD0A0A",
-        "color2": "DDD20E",
-        "color3": "224A68"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-28T12:00:00Z",
-      "winner_group_id": -50296,
-      "winner_name": "Gargamel",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 4,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 161,
-      "laps_led": 0,
-      "incidents": 25,
-      "points": 266,
-      "strength_of_field": 4481,
-      "subsession_id": 84560227,
-      "old_sub_level": 240,
-      "new_sub_level": 390,
-      "oldi_rating": 4388,
-      "newi_rating": 4427,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 872525
