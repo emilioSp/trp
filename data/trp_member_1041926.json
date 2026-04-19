@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6094,
+      "series_id": 353,
+      "series_name": "Ferrari 296 Challenge",
+      "car_id": 203,
+      "car_class_id": 4082,
+      "livery": {
+        "car_id": 203,
+        "pattern": 22,
+        "color1": "E0002F",
+        "color2": "FFFBFB",
+        "color3": "050505"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-04-19T21:15:00Z",
+      "winner_group_id": 1041926,
+      "winner_name": "Alessandro Casmiri",
+      "winner_helmet": {
+        "pattern": 42,
+        "color1": "e0002f",
+        "color2": "fffbfb",
+        "color3": "050505",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 9,
+      "incidents": 1,
+      "points": 66,
+      "strength_of_field": 1099,
+      "subsession_id": 85129023,
+      "old_sub_level": 227,
+      "new_sub_level": 240,
+      "oldi_rating": 3020,
+      "newi_rating": 3052,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 5924,
-      "series_id": 237,
-      "series_name": "GT Endurance Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "ff0000"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-08T17:00:00Z",
-      "winner_group_id": -122891,
-      "winner_name": "Velox Simsport Racing #488",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 43,
-      "finish_position": 30,
-      "qualifying_time": 0,
-      "laps": 103,
-      "laps_led": 0,
-      "incidents": 31,
-      "points": 104,
-      "strength_of_field": 3211,
-      "subsession_id": 84129895,
-      "old_sub_level": 409,
-      "new_sub_level": 343,
-      "oldi_rating": 3060,
-      "newi_rating": 3068,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1041926
