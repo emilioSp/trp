@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6082,
+      "series_id": 139,
+      "series_name": "Global Mazda MX-5 Cup by Fanatec",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 1,
+        "color1": "1f2892",
+        "color2": "7de54c",
+        "color3": "ffffff"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-04-19T18:30:00Z",
+      "winner_group_id": 825369,
+      "winner_name": "Simone Donchi",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 3,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 7,
+      "incidents": 1,
+      "points": 174,
+      "strength_of_field": 3077,
+      "subsession_id": 85125575,
+      "old_sub_level": 150,
+      "new_sub_level": 160,
+      "oldi_rating": 4188,
+      "newi_rating": 4252,
+      "track": {
+        "track_id": 166,
+        "track_name": "Okayama International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 2,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-04-06T19:15:00Z",
-      "winner_group_id": 1042283,
-      "winner_name": "Ismail Pinarci",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ccff00",
-        "color2": "391c83",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 8,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 196,
-      "strength_of_field": 3486,
-      "subsession_id": 84798728,
-      "old_sub_level": 268,
-      "new_sub_level": 276,
-      "oldi_rating": 4092,
-      "newi_rating": 4163,
-      "track": {
-        "track_id": 9,
-        "track_name": "Summit Point Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
     }
   ],
   "cust_id": 825369
