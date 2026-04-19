@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "e50000",
+        "color3": "636363"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-04-19T20:00:00Z",
+      "winner_group_id": 148529,
+      "winner_name": "Kevin Ellis Jr",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "646464",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 25,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 105,
+      "strength_of_field": 3930,
+      "subsession_id": 85127538,
+      "old_sub_level": 233,
+      "new_sub_level": 227,
+      "oldi_rating": 3003,
+      "newi_rating": 3020,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 343,
       "oldi_rating": 3060,
       "newi_rating": 3068,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-07T18:00:00Z",
-      "winner_group_id": 1068408,
-      "winner_name": "Kacper Benedykt",
-      "winner_helmet": {
-        "pattern": 57,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 19,
-      "finish_position": 25,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 21,
-      "strength_of_field": 3123,
-      "subsession_id": 84102878,
-      "old_sub_level": 446,
-      "new_sub_level": 409,
-      "oldi_rating": 3133,
-      "newi_rating": 3060,
       "track": {
         "track_id": 501,
         "track_name": "Misano World Circuit Marco Simoncelli"
