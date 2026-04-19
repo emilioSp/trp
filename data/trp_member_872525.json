@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 20,
+      "session_start_time": "2026-04-19T12:45:00Z",
+      "winner_group_id": 1138415,
+      "winner_name": "Tobias Pasko3",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "ff0000",
+        "color2": "000000",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 7,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 34,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 198,
+      "strength_of_field": 3717,
+      "subsession_id": 85118904,
+      "old_sub_level": 462,
+      "new_sub_level": 409,
+      "oldi_rating": 4567,
+      "newi_rating": 4624,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 20,
       "session_start_time": "2026-04-19T10:45:00Z",
       "winner_group_id": 198842,
       "winner_name": "Aitor Gonzalez",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6120,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "1C1FED",
-        "color2": "000000",
-        "color3": "F3F3F3"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-11T18:00:00Z",
-      "winner_group_id": -317812,
-      "winner_name": "Sim City Racing 71",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 3,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 102,
-      "laps_led": 0,
-      "incidents": 20,
-      "points": 214,
-      "strength_of_field": 3682,
-      "subsession_id": 84923837,
-      "old_sub_level": 346,
-      "new_sub_level": 358,
-      "oldi_rating": 4496,
-      "newi_rating": 4531,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 872525
