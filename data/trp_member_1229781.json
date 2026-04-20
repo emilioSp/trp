@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6110,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-04-20T15:45:00Z",
+      "winner_group_id": 1373901,
+      "winner_name": "Adam Włoch",
+      "winner_helmet": {
+        "pattern": 42,
+        "color1": "ffffff",
+        "color2": "2e358f",
+        "color3": "ec232d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 14,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 81,
+      "strength_of_field": 2036,
+      "subsession_id": 85146372,
+      "old_sub_level": 225,
+      "new_sub_level": 242,
+      "oldi_rating": 2002,
+      "newi_rating": 2031,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6115,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 152,
       "oldi_rating": 1897,
       "newi_rating": 1889,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-04-05T08:45:00Z",
-      "winner_group_id": 757924,
-      "winner_name": "Artur Halemba",
-      "winner_helmet": {
-        "pattern": 6,
-        "color1": "ff0000",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 10,
-      "finish_position": 23,
-      "qualifying_time": 0,
-      "laps": 5,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 5,
-      "strength_of_field": 2112,
-      "subsession_id": 84761080,
-      "old_sub_level": 219,
-      "new_sub_level": 207,
-      "oldi_rating": 1979,
-      "newi_rating": 1897,
       "track": {
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"
