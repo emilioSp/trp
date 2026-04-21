@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 32,
+    "wins": 2,
+    "top5": 13,
+    "avg_start_position": 7,
+    "avg_finish_position": 8,
+    "laps": 201,
+    "laps_led": 20,
+    "favorite_car": {
+      "car_id": 195,
+      "car_name": "BMW M2 CS Racing",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_195/bmwm2csr-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Fosters",
+      "track_id": 181,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/oultonparkcircuit-logo.png",
+      "track_name": "Oulton Park Circuit"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 1356443
+}

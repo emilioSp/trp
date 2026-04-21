@@ -140,6 +140,16 @@
     "iRating": 2065
   },
   {
+    "id": 1356443,
+    "name": "Riccardo Ferro2",
+    "memberSince": "2025-10-17",
+    "country": "Italy",
+    "classOrder": 3,
+    "className": "C",
+    "safetyRating": 1.57,
+    "iRating": 1446
+  },
+  {
     "id": 1152067,
     "name": "Luca Zinicola",
     "memberSince": "2024-12-02",
@@ -166,8 +176,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.42,
-    "iRating": 3413
+    "safetyRating": 2.32,
+    "iRating": 3410
   },
   {
     "id": 1335041,
