@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 26,
+    "wins": 0,
+    "top5": 4,
+    "avg_start_position": 9,
+    "avg_finish_position": 13,
+    "laps": 534,
+    "laps_led": 0,
+    "favorite_car": {
+      "car_id": 127,
+      "car_name": "Chevrolet Corvette C8.R GTE",
+      "car_image": "https://images-static.iracing.com/img/cars/chevroletcorvettec8rgte/chevroletcorvettec8rgte-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "International",
+      "track_id": 95,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/sebringinternationalraceway-logo.png",
+      "track_name": "Sebring International Raceway"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 887863
+}
