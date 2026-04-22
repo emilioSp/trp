@@ -14,6 +14,54 @@
         "color3": "ed2129"
       },
       "license_level": 18,
+      "session_start_time": "2026-04-22T06:45:00Z",
+      "winner_group_id": 595647,
+      "winner_name": "Maximilian Desczyk",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "111111",
+        "color2": "ffffff",
+        "color3": "0ada00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 11,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 27,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 131,
+      "strength_of_field": 2489,
+      "subsession_id": 85188217,
+      "old_sub_level": 232,
+      "new_sub_level": 225,
+      "oldi_rating": 3410,
+      "newi_rating": 3454,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 15,
+        "color1": "2a3795",
+        "color2": "ffffff",
+        "color3": "ed2129"
+      },
+      "license_level": 18,
       "session_start_time": "2026-04-21T14:45:00Z",
       "winner_group_id": 875371,
       "winner_name": "John Paulo Yalung",
@@ -43,7 +91,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
@@ -428,54 +476,6 @@
         "track_name": "Long Beach Street Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "2a3795",
-        "color2": "ffffff",
-        "color3": "ed2129"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-15T14:45:00Z",
-      "winner_group_id": 1049974,
-      "winner_name": "David Gawronski",
-      "winner_helmet": {
-        "pattern": 18,
-        "color1": "0a0a0a",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 4,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 34,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 157,
-      "strength_of_field": 2793,
-      "subsession_id": 85022671,
-      "old_sub_level": 328,
-      "new_sub_level": 331,
-      "oldi_rating": 3306,
-      "newi_rating": 3371,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
