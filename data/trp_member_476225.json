@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "f70606",
+        "color2": "fab207",
+        "color3": "f8f4f5"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-22T16:00:00Z",
+      "winner_group_id": 1266202,
+      "winner_name": "Jason Drabble",
+      "winner_helmet": {
+        "pattern": 25,
+        "color1": "000000",
+        "color2": "d7162d",
+        "color3": "f9f0f0",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 21,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 114,
+      "strength_of_field": 2865,
+      "subsession_id": 85195869,
+      "old_sub_level": 336,
+      "new_sub_level": 339,
+      "oldi_rating": 2693,
+      "newi_rating": 2726,
+      "track": {
+        "track_id": 444,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6115,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
-    },
-    {
-      "season_id": 6260,
-      "series_id": 271,
-      "series_name": "12 Hours of Sebring",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 5,
-        "color1": "CD0A0A",
-        "color2": "DDD20E",
-        "color3": "224A68"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-28T12:00:00Z",
-      "winner_group_id": -197235,
-      "winner_name": "Gray Wolf Racing #888",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 24,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 122,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 137,
-      "strength_of_field": 3090,
-      "subsession_id": 84560234,
-      "old_sub_level": 286,
-      "new_sub_level": 473,
-      "oldi_rating": 2599,
-      "newi_rating": 2614,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 476225
