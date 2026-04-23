@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 11,
+      "session_start_time": "2026-04-23T04:45:00Z",
+      "winner_group_id": 305343,
+      "winner_name": "Marco Giltrap",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "6D6E71",
+        "color2": "111111",
+        "color3": "ED2129",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 1,
+      "incidents": 7,
+      "points": 136,
+      "strength_of_field": 2323,
+      "subsession_id": 85210141,
+      "old_sub_level": 319,
+      "new_sub_level": 316,
+      "oldi_rating": 3277,
+      "newi_rating": 3335,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 11,
       "session_start_time": "2026-04-23T00:45:00Z",
       "winner_group_id": 1088720,
       "winner_name": "Jackson Resende4",
@@ -43,7 +91,7 @@
         "track_id": 403,
         "track_name": "Red Bull Ring"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
@@ -423,54 +471,6 @@
       "new_sub_level": 334,
       "oldi_rating": 3167,
       "newi_rating": 3191,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-10T08:45:00Z",
-      "winner_group_id": 105833,
-      "winner_name": "Bernardo Faria",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "399dd6",
-        "color2": "f8d730",
-        "color3": "f8d730",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 4,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 124,
-      "strength_of_field": 2871,
-      "subsession_id": 84888532,
-      "old_sub_level": 319,
-      "new_sub_level": 327,
-      "oldi_rating": 3131,
-      "newi_rating": 3167,
       "track": {
         "track_id": 572,
         "track_name": "Autódromo Hermanos Rodríguez"
