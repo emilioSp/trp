@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 11,
+      "session_start_time": "2026-04-23T00:45:00Z",
+      "winner_group_id": 1088720,
+      "winner_name": "Jackson Resende4",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "184252",
+        "color2": "03bbbd",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 9,
+      "start_position": 8,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 113,
+      "strength_of_field": 3196,
+      "subsession_id": 85205802,
+      "old_sub_level": 340,
+      "new_sub_level": 319,
+      "oldi_rating": 3259,
+      "newi_rating": 3277,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 11,
       "session_start_time": "2026-04-22T22:45:00Z",
       "winner_group_id": 1088720,
       "winner_name": "Jackson Resende4",
@@ -43,7 +91,7 @@
         "track_id": 403,
         "track_name": "Red Bull Ring"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-04T12:45:00Z",
-      "winner_group_id": 860289,
-      "winner_name": "Ramiz Akseki",
-      "winner_helmet": {
-        "pattern": 61,
-        "color1": "4a47b1",
-        "color2": "000000",
-        "color3": "e3f5a9",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 19,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 95,
-      "strength_of_field": 4470,
-      "subsession_id": 84738863,
-      "old_sub_level": 318,
-      "new_sub_level": 319,
-      "oldi_rating": 3119,
-      "newi_rating": 3131,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
     }
   ],
   "cust_id": 664614
