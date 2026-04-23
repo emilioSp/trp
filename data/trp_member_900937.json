@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 18,
+      "session_start_time": "2026-04-23T20:45:00Z",
+      "winner_group_id": 904660,
+      "winner_name": "Francesco Sajetti",
+      "winner_helmet": {
+        "pattern": 42,
+        "color1": "ffffff",
+        "color2": "de060d",
+        "color3": "002a7f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 10,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 27,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 178,
+      "strength_of_field": 3966,
+      "subsession_id": 85225082,
+      "old_sub_level": 234,
+      "new_sub_level": 243,
+      "oldi_rating": 3953,
+      "newi_rating": 4004,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 18,
       "session_start_time": "2026-04-23T12:45:00Z",
       "winner_group_id": 1379508,
       "winner_name": "Andrea Muscolino2",
@@ -43,7 +91,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-10T16:45:00Z",
-      "winner_group_id": 363494,
-      "winner_name": "Jake Denehan",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "eb0000",
-        "color2": "000000",
-        "color3": "720000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 7,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 27,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 176,
-      "strength_of_field": 3545,
-      "subsession_id": 84896808,
-      "old_sub_level": 344,
-      "new_sub_level": 320,
-      "oldi_rating": 3743,
-      "newi_rating": 3802,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
     }
   ],
   "cust_id": 900937
