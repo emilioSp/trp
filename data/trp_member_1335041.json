@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-04-25T10:45:00Z",
+      "winner_group_id": 982023,
+      "winner_name": "Oliver Seiler",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "5401d9",
+        "color2": "59ffb7",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 4,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 2,
+      "incidents": 13,
+      "points": 115,
+      "strength_of_field": 1927,
+      "subsession_id": 85263373,
+      "old_sub_level": 395,
+      "new_sub_level": 371,
+      "oldi_rating": 1879,
+      "newi_rating": 1968,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6110,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -139,7 +187,7 @@
         "track_id": 403,
         "track_name": "Red Bull Ring"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
@@ -428,54 +476,6 @@
         "track_name": "Suzuka International Racing Course"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-02T16:45:00Z",
-      "winner_group_id": 1457354,
-      "winner_name": "Stefan Rosenberger",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "2e358f",
-        "color3": "ec232d",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 21,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 68,
-      "strength_of_field": 1564,
-      "subsession_id": 84691538,
-      "old_sub_level": 378,
-      "new_sub_level": 360,
-      "oldi_rating": 1538,
-      "newi_rating": 1576,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2

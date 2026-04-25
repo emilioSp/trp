@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 18,
+      "session_start_time": "2026-04-25T10:45:00Z",
+      "winner_group_id": 555925,
+      "winner_name": "Thomas Delcourt",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 12,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 112,
+      "strength_of_field": 3300,
+      "subsession_id": 85263386,
+      "old_sub_level": 243,
+      "new_sub_level": 234,
+      "oldi_rating": 4004,
+      "newi_rating": 3999,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 18,
       "session_start_time": "2026-04-23T20:45:00Z",
       "winner_group_id": 904660,
       "winner_name": "Francesco Sajetti",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6120,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "1C1FED",
-        "color2": "000000",
-        "color3": "F3F3F3"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-12T14:00:00Z",
-      "winner_group_id": -326853,
-      "winner_name": "VULKAN Motorsports - HY",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 3,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 71,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 80,
-      "strength_of_field": 4083,
-      "subsession_id": 84946317,
-      "old_sub_level": 320,
-      "new_sub_level": 364,
-      "oldi_rating": 3802,
-      "newi_rating": 3796,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 900937
