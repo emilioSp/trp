@@ -77,7 +77,7 @@
     "classOrder": 3,
     "className": "C",
     "safetyRating": 1.49,
-    "iRating": 1746
+    "iRating": 1652
   },
   {
     "id": 1168345,
@@ -176,8 +176,8 @@
     "country": "Italy",
     "classOrder": 3,
     "className": "C",
-    "safetyRating": 3.79,
-    "iRating": 2060
+    "safetyRating": 3.9,
+    "iRating": 2138
   },
   {
     "id": 825369,
@@ -196,8 +196,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.7,
-    "iRating": 3837
+    "safetyRating": 3.65,
+    "iRating": 3850
   },
   {
     "id": 18840,
@@ -336,8 +336,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 1.55,
-    "iRating": 2938
+    "safetyRating": 1.85,
+    "iRating": 3009
   },
   {
     "id": 902844,
@@ -406,7 +406,7 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 4.99,
-    "iRating": 4287
+    "safetyRating": 4.97,
+    "iRating": 4330
   }
 ]
