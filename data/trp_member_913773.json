@@ -14,6 +14,54 @@
         "color3": "284a94"
       },
       "license_level": 2,
+      "session_start_time": "2026-04-26T18:30:00Z",
+      "winner_group_id": 585735,
+      "winner_name": "Zander Taylor",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "0a0a0a",
+        "color2": "00aeef",
+        "color3": "f26522",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 2,
+      "start_position": 1,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 6,
+      "laps_led": 2,
+      "incidents": 6,
+      "points": 60,
+      "strength_of_field": 1319,
+      "subsession_id": 85298604,
+      "old_sub_level": 254,
+      "new_sub_level": 254,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 332,
+        "track_name": "Wild West Motorsports Park"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6211,
+      "series_id": 462,
+      "series_name": "Pro 2 Lite Off-Road Rookie Series by Trak Racer",
+      "car_id": 113,
+      "car_class_id": 1454,
+      "livery": {
+        "car_id": 113,
+        "pattern": 18,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 2,
       "session_start_time": "2026-04-26T18:00:00Z",
       "winner_group_id": 1083275,
       "winner_name": "Vita Ativ",
@@ -43,7 +91,7 @@
         "track_id": 332,
         "track_name": "Wild West Motorsports Park"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
@@ -428,54 +476,6 @@
         "track_name": "Hockenheimring Baden-Württemberg"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6125,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "B82F37",
-        "color2": "111111",
-        "color3": "284A94"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-31T13:45:00Z",
-      "winner_group_id": 710896,
-      "winner_name": "Finn Harrison",
-      "winner_helmet": {
-        "pattern": 67,
-        "color1": "69100a",
-        "color2": "6f6f6f",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 7,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 84,
-      "strength_of_field": 1600,
-      "subsession_id": 84638722,
-      "old_sub_level": 235,
-      "new_sub_level": 226,
-      "oldi_rating": 1892,
-      "newi_rating": 1946,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
