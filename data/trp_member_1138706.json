@@ -4,6 +4,54 @@
       "season_id": 6120,
       "series_id": 331,
       "series_name": "Global Endurance Tour",
+      "car_id": 132,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 132,
+        "pattern": 17,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "000000"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-04-26T14:00:00Z",
+      "winner_group_id": -187367,
+      "winner_name": "CASINO Mouth Team",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 25,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 164,
+      "strength_of_field": 3255,
+      "subsession_id": 85293246,
+      "old_sub_level": 446,
+      "new_sub_level": 454,
+      "oldi_rating": 3182,
+      "newi_rating": 3189,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6120,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
       "car_id": 185,
       "car_class_id": 4011,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 3,
       "race_week_num": 5
-    },
-    {
-      "season_id": 5591,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 6,
-        "color1": "FFFFFF",
-        "color2": "2BFF00",
-        "color3": "FF0000"
-      },
-      "license_level": 15,
-      "session_start_time": "2025-08-30T22:00:00Z",
-      "winner_group_id": 1253799,
-      "winner_name": "Malden Mliosevic",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 6,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 177,
-      "strength_of_field": 3277,
-      "subsession_id": 79545777,
-      "old_sub_level": 371,
-      "new_sub_level": 393,
-      "oldi_rating": 2758,
-      "newi_rating": 2848,
-      "track": {
-        "track_id": 255,
-        "track_name": "Nürburgring Grand-Prix-Strecke"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 3,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1138706

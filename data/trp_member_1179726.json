@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6120,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 0,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-26T14:00:00Z",
+      "winner_group_id": -187367,
+      "winner_name": "CASINO Mouth Team",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 7,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 67,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 41,
+      "strength_of_field": 3255,
+      "subsession_id": 85293246,
+      "old_sub_level": 364,
+      "new_sub_level": 362,
+      "oldi_rating": 2769,
+      "newi_rating": 2754,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6226,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 24,
-        "color1": "891505",
-        "color2": "111111",
-        "color3": "808080"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-11T17:15:00Z",
-      "winner_group_id": 468920,
-      "winner_name": "Matthijs van Erven",
-      "winner_helmet": {
-        "pattern": 11,
-        "color1": "ff0202",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 16,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 95,
-      "strength_of_field": 2997,
-      "subsession_id": 84186298,
-      "old_sub_level": 342,
-      "new_sub_level": 337,
-      "oldi_rating": 2627,
-      "newi_rating": 2644,
-      "track": {
-        "track_id": 584,
-        "track_name": "St. Petersburg Grand Prix"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
     }
   ],
   "cust_id": 1179726
