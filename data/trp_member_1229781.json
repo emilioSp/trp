@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 9,
+      "session_start_time": "2026-04-26T16:45:00Z",
+      "winner_group_id": 1085379,
+      "winner_name": "Hörður Arnarson",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "210ccc",
+        "color2": "ffffff",
+        "color3": "da0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 11,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 86,
+      "strength_of_field": 1666,
+      "subsession_id": 85296315,
+      "old_sub_level": 156,
+      "new_sub_level": 177,
+      "oldi_rating": 1698,
+      "newi_rating": 1760,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6110,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -283,7 +331,7 @@
         "track_id": 403,
         "track_name": "Red Bull Ring"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6093,
-      "series_id": 557,
-      "series_name": "BMW M Power Challenge",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 2,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-04-12T16:15:00Z",
-      "winner_group_id": 1418639,
-      "winner_name": "Guoguang Zhao",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "ef05fc",
-        "color2": "f307fa",
-        "color3": "f807f5",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 11,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 53,
-      "strength_of_field": 1482,
-      "subsession_id": 84948944,
-      "old_sub_level": 271,
-      "new_sub_level": 240,
-      "oldi_rating": 1952,
-      "newi_rating": 1950,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1229781

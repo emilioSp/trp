@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-04-26T16:45:00Z",
+      "winner_group_id": 1337593,
+      "winner_name": "Klaus Martin Fischer",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 10,
+      "finish_position": 21,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 21,
+      "strength_of_field": 2032,
+      "subsession_id": 85296312,
+      "old_sub_level": 381,
+      "new_sub_level": 358,
+      "oldi_rating": 2110,
+      "newi_rating": 2044,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6110,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
-    },
-    {
-      "season_id": 6093,
-      "series_id": 557,
-      "series_name": "BMW M Power Challenge",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 23,
-        "color1": "2f2994",
-        "color2": "a0ed21",
-        "color3": "31c1b8"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-12T16:15:00Z",
-      "winner_group_id": 1418639,
-      "winner_name": "Guoguang Zhao",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "ef05fc",
-        "color2": "f307fa",
-        "color3": "f807f5",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 9,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 72,
-      "strength_of_field": 1482,
-      "subsession_id": 84948944,
-      "old_sub_level": 370,
-      "new_sub_level": 380,
-      "oldi_rating": 1601,
-      "newi_rating": 1650,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1335041
