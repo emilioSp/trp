@@ -4,6 +4,54 @@
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-26T14:00:00Z",
+      "winner_group_id": 1440920,
+      "winner_name": "Anthony Stravato",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 10,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 128,
+      "strength_of_field": 2626,
+      "subsession_id": 85293240,
+      "old_sub_level": 320,
+      "new_sub_level": 325,
+      "oldi_rating": 2702,
+      "newi_rating": 2754,
+      "track": {
+        "track_id": 444,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
       "car_id": 156,
       "car_class_id": 4091,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-02-22T12:00:00Z",
-      "winner_group_id": 1327023,
-      "winner_name": "Jack L Taylor",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "f26722",
-        "color3": "808080",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 16,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 128,
-      "strength_of_field": 2796,
-      "subsession_id": 83754323,
-      "old_sub_level": 263,
-      "new_sub_level": 346,
-      "oldi_rating": 2592,
-      "newi_rating": 2644,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
     }
   ],
   "cust_id": 1107481
