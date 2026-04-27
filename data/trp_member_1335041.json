@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6110,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-04-27T15:45:00Z",
+      "winner_group_id": 1452087,
+      "winner_name": "Dylan Brevard",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "2e7d8f",
+        "color2": "ec232d",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 9,
+      "start_position": 22,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 57,
+      "strength_of_field": 2140,
+      "subsession_id": 85319381,
+      "old_sub_level": 362,
+      "new_sub_level": 364,
+      "oldi_rating": 2098,
+      "newi_rating": 2088,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6111,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -428,54 +476,6 @@
         "track_name": "Red Bull Ring"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6110,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-23T15:45:00Z",
-      "winner_group_id": 984091,
-      "winner_name": "Jacek Wiśniewski",
-      "winner_helmet": {
-        "pattern": 33,
-        "color1": "d5c92f",
-        "color2": "a68628",
-        "color3": "fffd2d",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 10,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 92,
-      "strength_of_field": 1636,
-      "subsession_id": 85219613,
-      "old_sub_level": 376,
-      "new_sub_level": 382,
-      "oldi_rating": 1713,
-      "newi_rating": 1788,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
