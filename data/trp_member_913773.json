@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 11,
+        "color1": "b82f37",
+        "color2": "111111",
+        "color3": "284a94"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-04-27T18:00:00Z",
+      "winner_group_id": 1077669,
+      "winner_name": "Matheus Wegermann",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "f7ff00",
+        "color2": "065a00",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 16,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 103,
+      "strength_of_field": 2041,
+      "subsession_id": 85321694,
+      "old_sub_level": 220,
+      "new_sub_level": 238,
+      "oldi_rating": 1987,
+      "newi_rating": 2048,
+      "track": {
+        "track_id": 444,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6211,
       "series_id": 462,
       "series_name": "Pro 2 Lite Off-Road Rookie Series by Trak Racer",
@@ -283,7 +331,7 @@
         "track_id": 444,
         "track_name": "Fuji International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
@@ -428,54 +476,6 @@
         "track_name": "Hockenheimring Baden-Württemberg"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6125,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "B82F37",
-        "color2": "111111",
-        "color3": "284A94"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-04-04T13:45:00Z",
-      "winner_group_id": 490067,
-      "winner_name": "Shane Wiski",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "a50a0a",
-        "color2": "000000",
-        "color3": "a50c0c",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 2,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 88,
-      "strength_of_field": 1679,
-      "subsession_id": 84739908,
-      "old_sub_level": 249,
-      "new_sub_level": 220,
-      "oldi_rating": 1966,
-      "newi_rating": 2017,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
