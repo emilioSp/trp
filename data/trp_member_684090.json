@@ -14,6 +14,54 @@
         "color3": "eeeeee"
       },
       "license_level": 17,
+      "session_start_time": "2026-04-27T10:00:00Z",
+      "winner_group_id": 814662,
+      "winner_name": "Alberto P Brocca",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "111111",
+        "color2": "ffed00",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 9,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 137,
+      "strength_of_field": 2843,
+      "subsession_id": 85314284,
+      "old_sub_level": 185,
+      "new_sub_level": 280,
+      "oldi_rating": 3009,
+      "newi_rating": 3063,
+      "track": {
+        "track_id": 444,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 2,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "eeeeee"
+      },
+      "license_level": 17,
       "session_start_time": "2026-04-25T16:00:00Z",
       "winner_group_id": 1266079,
       "winner_name": "Alionso Bizsel",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6260,
-      "series_id": 271,
-      "series_name": "12 Hours of Sebring",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 8,
-        "color1": "CD0A0A",
-        "color2": "DDD20E",
-        "color3": "224A68"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-28T12:00:00Z",
-      "winner_group_id": -417595,
-      "winner_name": "NotForSpeed",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 25,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 124,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 135,
-      "strength_of_field": 2595,
-      "subsession_id": 84560240,
-      "old_sub_level": 416,
-      "new_sub_level": 458,
-      "oldi_rating": 3140,
-      "newi_rating": 3162,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 684090
