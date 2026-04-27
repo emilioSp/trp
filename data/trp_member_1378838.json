@@ -9,6 +9,54 @@
       "livery": {
         "car_id": 169,
         "pattern": 7,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-04-27T21:15:00Z",
+      "winner_group_id": 1377357,
+      "winner_name": "Dylan Barysau",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ec232d",
+        "color2": "ffffff",
+        "color3": "2e358f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 6,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 86,
+      "strength_of_field": 1851,
+      "subsession_id": 85325306,
+      "old_sub_level": 229,
+      "new_sub_level": 224,
+      "oldi_rating": 1812,
+      "newi_rating": 1863,
+      "track": {
+        "track_id": 444,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6115,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 7,
         "color1": "2E358F",
         "color2": "EC232D",
         "color3": "0A0A0A"
@@ -43,7 +91,7 @@
         "track_id": 444,
         "track_name": "Fuji International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
@@ -423,54 +471,6 @@
       "new_sub_level": 127,
       "oldi_rating": 1775,
       "newi_rating": 1728,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 9,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-04-11T23:15:00Z",
-      "winner_group_id": 1073422,
-      "winner_name": "Travis Bumgarner",
-      "winner_helmet": {
-        "pattern": 34,
-        "color1": "0e0f0f",
-        "color2": "3ef20a",
-        "color3": "e91111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 12,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 24,
-      "strength_of_field": 1853,
-      "subsession_id": 84930240,
-      "old_sub_level": 138,
-      "new_sub_level": 138,
-      "oldi_rating": 1828,
-      "newi_rating": 1775,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
