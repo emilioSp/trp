@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 20,
+        "color1": "EBFF00",
+        "color2": "7CE632",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-28T22:45:00Z",
+      "winner_group_id": 1099250,
+      "winner_name": "Nicolas Lux",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "dff000",
+        "color2": "ffffff",
+        "color3": "1a4b9b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 17,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 58,
+      "strength_of_field": 3562,
+      "subsession_id": 85352598,
+      "old_sub_level": 349,
+      "new_sub_level": 365,
+      "oldi_rating": 2257,
+      "newi_rating": 2256,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 16,
-        "color1": "ebff00",
-        "color2": "7ce632",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-28T14:00:00Z",
-      "winner_group_id": 1323915,
-      "winner_name": "Göran Solono",
-      "winner_helmet": {
-        "pattern": 66,
-        "color1": "cc00ff",
-        "color2": "ffffff",
-        "color3": "30363e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 17,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 86,
-      "strength_of_field": 2117,
-      "subsession_id": 84562169,
-      "old_sub_level": 238,
-      "new_sub_level": 269,
-      "oldi_rating": 2121,
-      "newi_rating": 2150,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 1205476
