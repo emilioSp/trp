@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 173,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 173,
+        "pattern": 23,
+        "color1": "d00000",
+        "color2": "d80606",
+        "color3": "e10000"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-04-28T13:45:00Z",
+      "winner_group_id": 1099250,
+      "winner_name": "Nicolas Lux",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "dff000",
+        "color2": "ffffff",
+        "color3": "1a4b9b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 9,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 15,
+      "strength_of_field": 4563,
+      "subsession_id": 85342708,
+      "old_sub_level": 438,
+      "new_sub_level": 424,
+      "oldi_rating": 4095,
+      "newi_rating": 4032,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6120,
       "series_id": 331,
       "series_name": "Global Endurance Tour",
@@ -428,54 +476,6 @@
         "track_name": "Silverstone Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 5,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-23T22:45:00Z",
-      "winner_group_id": 904660,
-      "winner_name": "Francesco Sajetti",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "ffffff",
-        "color2": "de060d",
-        "color3": "002a7f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 129,
-      "strength_of_field": 3285,
-      "subsession_id": 84443789,
-      "old_sub_level": 274,
-      "new_sub_level": 245,
-      "oldi_rating": 3958,
-      "newi_rating": 3974,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
