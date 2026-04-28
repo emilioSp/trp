@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 23,
+        "color1": "D0C40B",
+        "color2": "FFFFFF",
+        "color3": "111111"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-04-28T19:45:00Z",
+      "winner_group_id": 743393,
+      "winner_name": "Lewi Neal",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "383838",
+        "color2": "00ffff",
+        "color3": "5e06b7",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 14,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 75,
+      "strength_of_field": 3887,
+      "subsession_id": 85349161,
+      "old_sub_level": 361,
+      "new_sub_level": 323,
+      "oldi_rating": 3176,
+      "newi_rating": 3166,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6125,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 11
-    },
-    {
-      "season_id": 6215,
-      "series_id": 329,
-      "series_name": "Bathurst 12 Hour",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 3,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-02-21T12:00:00Z",
-      "winner_group_id": -260357,
-      "winner_name": "Flying Arrow Racing",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 7,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 79,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 174,
-      "strength_of_field": 3457,
-      "subsession_id": 83727024,
-      "old_sub_level": 369,
-      "new_sub_level": 462,
-      "oldi_rating": 2949,
-      "newi_rating": 2962,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 0
     }
   ],
   "cust_id": 420122

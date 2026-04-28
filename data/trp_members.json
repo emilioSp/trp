@@ -76,8 +76,8 @@
     "country": "Italy",
     "classOrder": 3,
     "className": "C",
-    "safetyRating": 1.71,
-    "iRating": 1830
+    "safetyRating": 1.75,
+    "iRating": 1852
   },
   {
     "id": 1168345,
@@ -226,8 +226,8 @@
     "country": "Czechia",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.61,
-    "iRating": 3176
+    "safetyRating": 3.23,
+    "iRating": 3166
   },
   {
     "id": 581524,
