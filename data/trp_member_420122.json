@@ -14,6 +14,54 @@
         "color3": "111111"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-28T20:45:00Z",
+      "winner_group_id": 743393,
+      "winner_name": "Lewi Neal",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "383838",
+        "color2": "00ffff",
+        "color3": "5e06b7",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 13,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 179,
+      "strength_of_field": 4562,
+      "subsession_id": 85350306,
+      "old_sub_level": 323,
+      "new_sub_level": 320,
+      "oldi_rating": 3166,
+      "newi_rating": 3239,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 23,
+        "color1": "D0C40B",
+        "color2": "FFFFFF",
+        "color3": "111111"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-28T19:45:00Z",
       "winner_group_id": 743393,
       "winner_name": "Lewi Neal",
@@ -43,7 +91,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5926,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 15,
-        "color1": "D0C40B",
-        "color2": "FFFFFF",
-        "color3": "111111"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-03T21:15:00Z",
-      "winner_group_id": 420122,
-      "winner_name": "David Pertile",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "D0C40B",
-        "color2": "ffffff",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 3,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 2,
-      "incidents": 8,
-      "points": 153,
-      "strength_of_field": 2535,
-      "subsession_id": 84002867,
-      "old_sub_level": 462,
-      "new_sub_level": 434,
-      "oldi_rating": 2962,
-      "newi_rating": 3042,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
     }
   ],
   "cust_id": 420122

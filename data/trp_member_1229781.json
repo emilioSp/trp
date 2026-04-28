@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 9,
+      "session_start_time": "2026-04-28T20:15:00Z",
+      "winner_group_id": 1343246,
+      "winner_name": "Santi Álvarez",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "ffed00",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 13,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 86,
+      "strength_of_field": 1764,
+      "subsession_id": 85349575,
+      "old_sub_level": 175,
+      "new_sub_level": 172,
+      "oldi_rating": 1852,
+      "newi_rating": 1903,
+      "track": {
+        "track_id": 516,
+        "track_name": "Circuito de Navarra"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6084,
+      "series_id": 514,
+      "series_name": "Toyota GR86 Cup by SIMAGIC",
+      "car_id": 160,
+      "car_class_id": 4012,
+      "livery": {
+        "car_id": 160,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 9,
       "session_start_time": "2026-04-28T19:15:00Z",
       "winner_group_id": 961316,
       "winner_name": "Ryan Sharp11",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
-    },
-    {
-      "season_id": 6110,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-04-20T15:45:00Z",
-      "winner_group_id": 1373901,
-      "winner_name": "Adam Włoch",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "ffffff",
-        "color2": "2e358f",
-        "color3": "ec232d",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 14,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 81,
-      "strength_of_field": 2036,
-      "subsession_id": 85146372,
-      "old_sub_level": 225,
-      "new_sub_level": 242,
-      "oldi_rating": 2002,
-      "newi_rating": 2031,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 4
     }
   ],
   "cust_id": 1229781
