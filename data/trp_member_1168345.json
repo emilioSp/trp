@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6096,
+      "series_id": 210,
+      "series_name": "Global Sports Car Challenge by Fanatec",
+      "car_id": 41,
+      "car_class_id": 45,
+      "livery": {
+        "car_id": 41,
+        "pattern": 1,
+        "color1": "0a0a0a",
+        "color2": "ffffff",
+        "color3": "ed1b29"
+      },
+      "license_level": 9,
+      "session_start_time": "2026-04-28T12:30:00Z",
+      "winner_group_id": 1168345,
+      "winner_name": "Federico Gallini2",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "001b56",
+        "color2": "ffffff",
+        "color3": "cf0715",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 9,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 14,
+      "incidents": 10,
+      "points": 94,
+      "strength_of_field": 1859,
+      "subsession_id": 85341550,
+      "old_sub_level": 178,
+      "new_sub_level": 172,
+      "oldi_rating": 2246,
+      "newi_rating": 2313,
+      "track": {
+        "track_id": 244,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6087,
       "series_id": 112,
       "series_name": "Production Car Challenge by Sim-Lab",
@@ -428,54 +476,6 @@
         "track_name": "Oulton Park Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6092,
-      "series_id": 559,
-      "series_name": "Rain Master Challenge",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-04-06T09:15:00Z",
-      "winner_group_id": 654511,
-      "winner_name": "Ahbleza Pickersgill",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "70ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 5,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 96,
-      "strength_of_field": 1668,
-      "subsession_id": 84787769,
-      "old_sub_level": 152,
-      "new_sub_level": 165,
-      "oldi_rating": 2078,
-      "newi_rating": 2145,
-      "track": {
-        "track_id": 180,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
