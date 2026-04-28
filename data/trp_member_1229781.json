@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6084,
+      "series_id": 514,
+      "series_name": "Toyota GR86 Cup by SIMAGIC",
+      "car_id": 160,
+      "car_class_id": 4012,
+      "livery": {
+        "car_id": 160,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 9,
+      "session_start_time": "2026-04-28T17:45:00Z",
+      "winner_group_id": 1318941,
+      "winner_name": "Charlie Okane",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ffffff",
+        "color2": "1c57ed",
+        "color3": "de28d7",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 9,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 91,
+      "strength_of_field": 1651,
+      "subsession_id": 85346729,
+      "old_sub_level": 177,
+      "new_sub_level": 171,
+      "oldi_rating": 1760,
+      "newi_rating": 1830,
+      "track": {
+        "track_id": 516,
+        "track_name": "Circuito de Navarra"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6111,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6110,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-04-14T17:45:00Z",
-      "winner_group_id": 1053384,
-      "winner_name": "Jonghun Kim3",
-      "winner_helmet": {
-        "pattern": 19,
-        "color1": "599b5d",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 8,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 88,
-      "strength_of_field": 1963,
-      "subsession_id": 85000893,
-      "old_sub_level": 244,
-      "new_sub_level": 236,
-      "oldi_rating": 1950,
-      "newi_rating": 1994,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
       },
       "drop_race": false,
       "season_year": 2026,
