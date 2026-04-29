@@ -14,6 +14,54 @@
         "color3": "111111"
       },
       "license_level": 19,
+      "session_start_time": "2026-04-29T19:45:00Z",
+      "winner_group_id": 1099250,
+      "winner_name": "Nicolas Lux",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "dff000",
+        "color2": "ffffff",
+        "color3": "1a4b9b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 13,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 120,
+      "strength_of_field": 4402,
+      "subsession_id": 85374080,
+      "old_sub_level": 317,
+      "new_sub_level": 314,
+      "oldi_rating": 3183,
+      "newi_rating": 3214,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 23,
+        "color1": "D0C40B",
+        "color2": "FFFFFF",
+        "color3": "111111"
+      },
+      "license_level": 19,
       "session_start_time": "2026-04-29T18:45:00Z",
       "winner_group_id": 352572,
       "winner_name": "Alexander Wolters2",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6116,
-      "series_id": 594,
-      "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 19,
-        "color1": "D0C40B",
-        "color2": "FFFFFF",
-        "color3": "111111"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-20T19:45:00Z",
-      "winner_group_id": 432652,
-      "winner_name": "Valentin Kluss",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 9,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 130,
-      "strength_of_field": 2866,
-      "subsession_id": 84359897,
-      "old_sub_level": 414,
-      "new_sub_level": 407,
-      "oldi_rating": 3080,
-      "newi_rating": 3126,
-      "track": {
-        "track_id": 166,
-        "track_name": "Okayama International Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 420122
