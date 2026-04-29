@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 18,
+      "session_start_time": "2026-04-29T16:45:00Z",
+      "winner_group_id": 1042556,
+      "winner_name": "Gabrieł Ivanov",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "6522f2",
+        "color2": "e4f000",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 6,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 169,
+      "strength_of_field": 3791,
+      "subsession_id": 85370589,
+      "old_sub_level": 250,
+      "new_sub_level": 248,
+      "oldi_rating": 4083,
+      "newi_rating": 4133,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6117,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
       "session_start_time": "2026-04-28T13:45:00Z",
       "winner_group_id": 1138415,
       "winner_name": "Tobias Pasko3",
@@ -43,7 +91,7 @@
         "track_id": 434,
         "track_name": "Watkins Glen International"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-19T14:00:00Z",
-      "winner_group_id": 1053878,
-      "winner_name": "Jannik Steinhoff",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "03c5a8",
-        "color2": "2bb9ff",
-        "color3": "dffa00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 25,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 200,
-      "strength_of_field": 4013,
-      "subsession_id": 85120215,
-      "old_sub_level": 306,
-      "new_sub_level": 307,
-      "oldi_rating": 3866,
-      "newi_rating": 3935,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
