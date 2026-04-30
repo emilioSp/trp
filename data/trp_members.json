@@ -26,8 +26,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.66,
-    "iRating": 2642
+    "safetyRating": 1.43,
+    "iRating": 2595
   },
   {
     "id": 1138706,
@@ -240,6 +240,16 @@
     "iRating": 2086
   },
   {
+    "id": 931218,
+    "name": "Dmitro Koval",
+    "memberSince": "2023-08-14",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.04,
+    "iRating": 5133
+  },
+  {
     "id": 1086157,
     "name": "Marco Aleandri",
     "memberSince": "2024-07-09",
@@ -366,8 +376,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.27,
-    "iRating": 2201
+    "safetyRating": 3.32,
+    "iRating": 2226
   },
   {
     "id": 887863,

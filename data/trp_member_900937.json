@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 18,
+      "session_start_time": "2026-04-30T20:45:00Z",
+      "winner_group_id": 524963,
+      "winner_name": "Leif Sebastian",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "ff0000",
+        "color2": "ffc60f",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 10,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 91,
+      "strength_of_field": 4013,
+      "subsession_id": 85399027,
+      "old_sub_level": 220,
+      "new_sub_level": 225,
+      "oldi_rating": 4073,
+      "newi_rating": 4058,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6117,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
       "session_start_time": "2026-04-30T15:45:00Z",
       "winner_group_id": 1313368,
       "winner_name": "Lukas Babacek",
@@ -187,7 +235,7 @@
         "track_id": 434,
         "track_name": "Watkins Glen International"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-04-23T12:45:00Z",
-      "winner_group_id": 1379508,
-      "winner_name": "Andrea Muscolino2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ec232d",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 11,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 15,
-      "points": 128,
-      "strength_of_field": 3423,
-      "subsession_id": 85216922,
-      "old_sub_level": 264,
-      "new_sub_level": 234,
-      "oldi_rating": 3938,
-      "newi_rating": 3953,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5

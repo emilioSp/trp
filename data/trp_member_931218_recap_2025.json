@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 201,
+    "wins": 17,
+    "top5": 66,
+    "avg_start_position": 8,
+    "avg_finish_position": 11,
+    "laps": 4282,
+    "laps_led": 124,
+    "favorite_car": {
+      "car_id": 185,
+      "car_name": "Ford Mustang GT3",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_185/fordmustanggt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Full Course",
+      "track_id": 127,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/roadatlanta-logo.png",
+      "track_name": "Road Atlanta"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 931218
+}

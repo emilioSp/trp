@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 188,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 188,
+        "pattern": 13,
+        "color1": "0fa105",
+        "color2": "f7f7f7",
+        "color3": "bf2304"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-04-30T20:00:00Z",
+      "winner_group_id": 374266,
+      "winner_name": "Mat Monestier",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "fffd2e",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 12,
+      "finish_position": 22,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 26,
+      "points": 26,
+      "strength_of_field": 3452,
+      "subsession_id": 85398238,
+      "old_sub_level": 266,
+      "new_sub_level": 143,
+      "oldi_rating": 2642,
+      "newi_rating": 2595,
+      "track": {
+        "track_id": 145,
+        "track_name": "Brands Hatch Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 10
-    },
-    {
-      "season_id": 5928,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 2,
-        "color1": "0fa105",
-        "color2": "f7f7f7",
-        "color3": "bf2304"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-02-07T13:45:00Z",
-      "winner_group_id": 1242981,
-      "winner_name": "Wesley Izaks2",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "ffffff",
-        "color2": "ee5600",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 11,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 92,
-      "strength_of_field": 2619,
-      "subsession_id": 83359972,
-      "old_sub_level": 212,
-      "new_sub_level": 225,
-      "oldi_rating": 2427,
-      "newi_rating": 2448,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
     }
   ],
   "cust_id": 740041
