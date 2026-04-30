@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 80,
+    "wins": 0,
+    "top5": 17,
+    "avg_start_position": 10,
+    "avg_finish_position": 13,
+    "laps": 1832,
+    "laps_led": 19,
+    "favorite_car": {
+      "car_id": 194,
+      "car_name": "Acura NSX GT3 EVO 22",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_194/acuransxevo22gt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Grand Prix",
+      "track_id": 239,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/autodromonazionalemonza-logo.png",
+      "track_name": "Autodromo Nazionale Monza"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 887493
+}
