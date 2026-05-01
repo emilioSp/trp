@@ -86,8 +86,8 @@
     "country": "Italy",
     "classOrder": 3,
     "className": "C",
-    "safetyRating": 1.8,
-    "iRating": 2295
+    "safetyRating": 1.81,
+    "iRating": 2323
   },
   {
     "id": 887493,
@@ -308,6 +308,16 @@
     "className": "A",
     "safetyRating": 2.49,
     "iRating": 2696
+  },
+  {
+    "id": 885670,
+    "name": "Maurizio Caprino",
+    "memberSince": "2023-03-22",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.62,
+    "iRating": 2145
   },
   {
     "id": 664614,

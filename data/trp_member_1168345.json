@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6084,
+      "series_id": 514,
+      "series_name": "Toyota GR86 Cup by SIMAGIC",
+      "car_id": 160,
+      "car_class_id": 4012,
+      "livery": {
+        "car_id": 160,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "ffffff"
+      },
+      "license_level": 9,
+      "session_start_time": "2026-05-01T09:45:00Z",
+      "winner_group_id": 1389542,
+      "winner_name": "William Laukkanen",
+      "winner_helmet": {
+        "pattern": 62,
+        "color1": "ffffff",
+        "color2": "e9e141",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 18,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 90,
+      "strength_of_field": 2355,
+      "subsession_id": 85412424,
+      "old_sub_level": 180,
+      "new_sub_level": 181,
+      "oldi_rating": 2295,
+      "newi_rating": 2323,
+      "track": {
+        "track_id": 516,
+        "track_name": "Circuito de Navarra"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6096,
       "series_id": 210,
       "series_name": "Global Sports Car Challenge by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 158,
       "oldi_rating": 2062,
       "newi_rating": 2077,
-      "track": {
-        "track_id": 353,
-        "track_name": "Lime Rock Park"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6083,
-      "series_id": 571,
-      "series_name": "BMW M2 Cup by Nitro Concepts",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 7,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-04-07T15:15:00Z",
-      "winner_group_id": 1245750,
-      "winner_name": "Arthur De Doncker",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "323242",
-        "color2": "ffffff",
-        "color3": "4a9de7",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 2,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 9,
-      "strength_of_field": 1687,
-      "subsession_id": 84820032,
-      "old_sub_level": 177,
-      "new_sub_level": 173,
-      "oldi_rating": 2154,
-      "newi_rating": 2062,
       "track": {
         "track_id": 353,
         "track_name": "Lime Rock Park"

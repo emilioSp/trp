@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "stats": {
+    "starts": 26,
+    "wins": 0,
+    "top5": 2,
+    "avg_start_position": 13,
+    "avg_finish_position": 14,
+    "laps": 324,
+    "laps_led": 0,
+    "favorite_car": {
+      "car_id": 188,
+      "car_name": "McLaren 720S GT3 EVO",
+      "car_image": "https://images-static.iracing.com/img/cars/carid_188/mclaren720sgt3-small.jpg"
+    },
+    "favorite_track": {
+      "config_name": "Industriefahrten",
+      "track_id": 249,
+      "track_logo": "https://images-static.iracing.com/img/logos/tracks/nurburgring-logo.png",
+      "track_name": "Nürburgring Nordschleife"
+    }
+  },
+  "success": true,
+  "season": null,
+  "cust_id": 885670
+}
