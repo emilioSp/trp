@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 11,
+      "session_start_time": "2026-05-01T22:45:00Z",
+      "winner_group_id": 945954,
+      "winner_name": "Avery Miller",
+      "winner_helmet": {
+        "pattern": 36,
+        "color1": "9b0101",
+        "color2": "ff0000",
+        "color3": "6b0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 14,
+      "finish_position": 11,
+      "qualifying_time": 5020596,
+      "laps": 3,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 127,
+      "strength_of_field": 3616,
+      "subsession_id": 85426832,
+      "old_sub_level": 306,
+      "new_sub_level": 308,
+      "oldi_rating": 3315,
+      "newi_rating": 3342,
+      "track": {
+        "track_id": 252,
+        "track_name": "Nürburgring Combined"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 11,
       "session_start_time": "2026-05-01T12:45:00Z",
       "winner_group_id": 1059556,
       "winner_name": "Theresa Zirwes2",
@@ -43,7 +91,7 @@
         "track_id": 252,
         "track_name": "Nürburgring Combined"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-12T12:45:00Z",
-      "winner_group_id": 129837,
-      "winner_name": "Tobias F. Olsson",
-      "winner_helmet": {
-        "pattern": 43,
-        "color1": "24069d",
-        "color2": "e4fc5f",
-        "color3": "061655",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 13,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 132,
-      "strength_of_field": 3738,
-      "subsession_id": 84944934,
-      "old_sub_level": 343,
-      "new_sub_level": 341,
-      "oldi_rating": 3245,
-      "newi_rating": 3279,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
     }
   ],
   "cust_id": 664614
