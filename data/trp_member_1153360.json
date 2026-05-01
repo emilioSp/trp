@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6125,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 3,
+        "color1": "eaf3eb",
+        "color2": "065ff6",
+        "color3": "9dd1c6"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-05-01T13:45:00Z",
+      "winner_group_id": 902983,
+      "winner_name": "Carlos Lopez26",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 4,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 169,
+      "strength_of_field": 3125,
+      "subsession_id": 85416821,
+      "old_sub_level": 328,
+      "new_sub_level": 343,
+      "oldi_rating": 3418,
+      "newi_rating": 3492,
+      "track": {
+        "track_id": 47,
+        "track_name": "WeatherTech Raceway at Laguna Seca"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6148,
       "series_id": 536,
       "series_name": "Formula B - Super Formula Series",
@@ -139,7 +187,7 @@
         "track_id": 47,
         "track_name": "WeatherTech Raceway at Laguna Seca"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6125,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-29T15:45:00Z",
-      "winner_group_id": 713984,
-      "winner_name": "Bart Marotel",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "00ff75",
-        "color2": "00c9ff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 9,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 138,
-      "strength_of_field": 3854,
-      "subsession_id": 84590274,
-      "old_sub_level": 488,
-      "new_sub_level": 467,
-      "oldi_rating": 3471,
-      "newi_rating": 3507,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
       },
       "drop_race": false,
       "season_year": 2026,
