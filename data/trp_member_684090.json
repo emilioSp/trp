@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 173,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 173,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-05-01T08:45:00Z",
+      "winner_group_id": 373369,
+      "winner_name": "Daniel Sommer",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "0731ED",
+        "color2": "FFFFFF",
+        "color3": "6D6E71",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 6,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 163,
+      "strength_of_field": 3491,
+      "subsession_id": 85411576,
+      "old_sub_level": 288,
+      "new_sub_level": 299,
+      "oldi_rating": 3037,
+      "newi_rating": 3108,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 2,
-        "color1": "000000",
-        "color2": "0003ff",
-        "color3": "eeeeee"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-04-11T16:00:00Z",
-      "winner_group_id": 254445,
-      "winner_name": "Aleksandr Artemyev",
-      "winner_helmet": {
-        "pattern": 50,
-        "color1": "22bdec",
-        "color2": "2a6e95",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 21,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 114,
-      "strength_of_field": 2976,
-      "subsession_id": 84921453,
-      "old_sub_level": 403,
-      "new_sub_level": 329,
-      "oldi_rating": 3124,
-      "newi_rating": 3143,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
