@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 11,
+      "session_start_time": "2026-05-02T11:45:00Z",
+      "winner_group_id": 536068,
+      "winner_name": "Alvaro San martin2",
+      "winner_helmet": {
+        "pattern": 53,
+        "color1": "878585",
+        "color2": "ff0000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 10,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 68,
+      "strength_of_field": 2033,
+      "subsession_id": 85439767,
+      "old_sub_level": 377,
+      "new_sub_level": 381,
+      "oldi_rating": 2160,
+      "newi_rating": 2166,
+      "track": {
+        "track_id": 516,
+        "track_name": "Circuito de Navarra"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6084,
+      "series_id": 514,
+      "series_name": "Toyota GR86 Cup by SIMAGIC",
+      "car_id": 160,
+      "car_class_id": 4012,
+      "livery": {
+        "car_id": 160,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 11,
       "session_start_time": "2026-05-02T08:15:00Z",
       "winner_group_id": 1139941,
       "winner_name": "Jason Peck",
@@ -43,7 +91,7 @@
         "track_id": 516,
         "track_name": "Circuito de Navarra"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -423,54 +471,6 @@
       "new_sub_level": 379,
       "oldi_rating": 1997,
       "newi_rating": 2060,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-25T12:45:00Z",
-      "winner_group_id": 1327449,
-      "winner_name": "Alberto Bustamante",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "1a599d",
-        "color2": "0280cc",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 9,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 80,
-      "strength_of_field": 1982,
-      "subsession_id": 85265914,
-      "old_sub_level": 371,
-      "new_sub_level": 374,
-      "oldi_rating": 1968,
-      "newi_rating": 1997,
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"
