@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 11,
+      "session_start_time": "2026-05-02T00:45:00Z",
+      "winner_group_id": 503833,
+      "winner_name": "Dáire Richard McCormack",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "5e5e5e",
+        "color2": "111111",
+        "color3": "135324",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 11,
+      "finish_position": 9,
+      "qualifying_time": 5020596,
+      "laps": 3,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 136,
+      "strength_of_field": 3354,
+      "subsession_id": 85429157,
+      "old_sub_level": 308,
+      "new_sub_level": 320,
+      "oldi_rating": 3342,
+      "newi_rating": 3378,
+      "track": {
+        "track_id": 252,
+        "track_name": "Nürburgring Combined"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 11,
       "session_start_time": "2026-05-01T22:45:00Z",
       "winner_group_id": 945954,
       "winner_name": "Avery Miller",
@@ -43,7 +91,7 @@
         "track_id": 252,
         "track_name": "Nürburgring Combined"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -428,54 +476,6 @@
         "track_name": "Long Beach Street Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-16T22:45:00Z",
-      "winner_group_id": 1067094,
-      "winner_name": "Augustin Bernier2",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "003cd7",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 6,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 49,
-      "strength_of_field": 3206,
-      "subsession_id": 85054764,
-      "old_sub_level": 341,
-      "new_sub_level": 343,
-      "oldi_rating": 3279,
-      "newi_rating": 3233,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
