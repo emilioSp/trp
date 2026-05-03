@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6164,
+      "series_id": 538,
+      "series_name": "Draft Master Challenge by Simagic",
+      "car_id": 139,
+      "car_class_id": 4040,
+      "livery": {
+        "car_id": 139,
+        "pattern": 7,
+        "color1": "DAF200",
+        "color2": "071505",
+        "color3": "0014FF"
+      },
+      "license_level": 10,
+      "session_start_time": "2026-05-03T20:30:00Z",
+      "winner_group_id": 578579,
+      "winner_name": "Sven Bollen2",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "483561",
+        "color2": "46773f",
+        "color3": "46773f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 16,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 76,
+      "strength_of_field": 1783,
+      "subsession_id": 85474694,
+      "old_sub_level": 244,
+      "new_sub_level": 244,
+      "oldi_rating": 1650,
+      "newi_rating": 1690,
+      "track": {
+        "track_id": 191,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6114,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 312,
       "oldi_rating": 2118,
       "newi_rating": 2028,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-03-27T08:00:00Z",
-      "winner_group_id": 1352587,
-      "winner_name": "Alexandr Vetyugov",
-      "winner_helmet": {
-        "pattern": 63,
-        "color1": "ff0000",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 3,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 37,
-      "strength_of_field": 2219,
-      "subsession_id": 84530301,
-      "old_sub_level": 321,
-      "new_sub_level": 308,
-      "oldi_rating": 2160,
-      "newi_rating": 2118,
       "track": {
         "track_id": 95,
         "track_name": "Sebring International Raceway"
