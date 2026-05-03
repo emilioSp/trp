@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 18,
+      "session_start_time": "2026-05-03T22:00:00Z",
+      "winner_group_id": 191344,
+      "winner_name": "Ricardo Martins7",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "0cfaba",
+        "color2": "fffe2e",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 12,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 11,
+      "strength_of_field": 1883,
+      "subsession_id": 85476415,
+      "old_sub_level": 233,
+      "new_sub_level": 214,
+      "oldi_rating": 2125,
+      "newi_rating": 2041,
+      "track": {
+        "track_id": 145,
+        "track_name": "Brands Hatch Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 188,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 188,
+        "pattern": 0,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 18,
       "session_start_time": "2026-05-03T20:00:00Z",
       "winner_group_id": 711269,
       "winner_name": "Dominic Strelow",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5765,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 0,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-10-25T07:00:00Z",
-      "winner_group_id": -417595,
-      "winner_name": "NotForSpeed",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 10,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 64,
-      "strength_of_field": 2783,
-      "subsession_id": 80773331,
-      "old_sub_level": 334,
-      "new_sub_level": 319,
-      "oldi_rating": 2216,
-      "newi_rating": 2215,
-      "track": {
-        "track_id": 268,
-        "track_name": "Circuit des 24 Heures du Mans"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 2
     }
   ],
   "cust_id": 885670
