@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6099,
+      "series_id": 491,
+      "series_name": "GT4 Challenge by Falken Tyre",
+      "car_id": 119,
+      "car_class_id": 2268,
+      "livery": {
+        "car_id": 119,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 9,
+      "session_start_time": "2026-05-03T16:30:00Z",
+      "winner_group_id": 972524,
+      "winner_name": "Moritz Freitag",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "5481fc",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 21,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 97,
+      "strength_of_field": 2561,
+      "subsession_id": 85470019,
+      "old_sub_level": 178,
+      "new_sub_level": 175,
+      "oldi_rating": 2530,
+      "newi_rating": 2555,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6096,
       "series_id": 210,
       "series_name": "Global Sports Car Challenge by Fanatec",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
-    },
-    {
-      "season_id": 6083,
-      "series_id": 571,
-      "series_name": "BMW M2 Cup by Nitro Concepts",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 7,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-04-12T17:15:00Z",
-      "winner_group_id": 1188188,
-      "winner_name": "Erick Mora Báez",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "8a8a8a",
-        "color2": "000000",
-        "color3": "05ede6",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 5,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 112,
-      "strength_of_field": 2697,
-      "subsession_id": 84950213,
-      "old_sub_level": 179,
-      "new_sub_level": 180,
-      "oldi_rating": 2196,
-      "newi_rating": 2255,
-      "track": {
-        "track_id": 353,
-        "track_name": "Lime Rock Park"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1168345

@@ -46,8 +46,8 @@
     "country": "Italy",
     "classOrder": 4,
     "className": "B",
-    "safetyRating": 2.09,
-    "iRating": 1916
+    "safetyRating": 2.03,
+    "iRating": 1853
   },
   {
     "id": 900937,
@@ -86,8 +86,8 @@
     "country": "Italy",
     "classOrder": 3,
     "className": "C",
-    "safetyRating": 1.78,
-    "iRating": 2530
+    "safetyRating": 1.75,
+    "iRating": 2555
   },
   {
     "id": 887493,
@@ -366,8 +366,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.54,
-    "iRating": 3452
+    "safetyRating": 3.1,
+    "iRating": 3447
   },
   {
     "id": 1205476,
