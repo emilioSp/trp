@@ -14,6 +14,54 @@
         "color3": "FFFFFF"
       },
       "license_level": 6,
+      "session_start_time": "2026-05-03T17:30:00Z",
+      "winner_group_id": 1021183,
+      "winner_name": "Yago Souza",
+      "winner_helmet": {
+        "pattern": 34,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "b1b1b1",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 19,
+      "finish_position": 23,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 12,
+      "strength_of_field": 1654,
+      "subsession_id": 85471123,
+      "old_sub_level": 227,
+      "new_sub_level": 221,
+      "oldi_rating": 1688,
+      "newi_rating": 1614,
+      "track": {
+        "track_id": 191,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6164,
+      "series_id": 538,
+      "series_name": "Draft Master Challenge by Simagic",
+      "car_id": 141,
+      "car_class_id": 4040,
+      "livery": {
+        "car_id": 141,
+        "pattern": 2,
+        "color1": "D400FF",
+        "color2": "E24CE6",
+        "color3": "FFFFFF"
+      },
+      "license_level": 6,
       "session_start_time": "2026-05-03T16:30:00Z",
       "winner_group_id": 1444004,
       "winner_name": "Leo Lencina",
@@ -91,7 +139,7 @@
         "track_id": 191,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -428,54 +476,6 @@
         "track_name": "Brands Hatch Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6082,
-      "series_id": 139,
-      "series_name": "Global Mazda MX-5 Cup by Fanatec",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "1f2892",
-        "color2": "7de54c",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-05-02T13:00:00Z",
-      "winner_group_id": 1278055,
-      "winner_name": "Leon Sva",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "0610ff",
-        "color3": "ff6b00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 1,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 80,
-      "strength_of_field": 3130,
-      "subsession_id": 85441079,
-      "old_sub_level": 121,
-      "new_sub_level": 127,
-      "oldi_rating": 4314,
-      "newi_rating": 4279,
-      "track": {
-        "track_id": 181,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
