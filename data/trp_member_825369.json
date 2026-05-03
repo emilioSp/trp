@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6164,
+      "series_id": 538,
+      "series_name": "Draft Master Challenge by Simagic",
+      "car_id": 141,
+      "car_class_id": 4040,
+      "livery": {
+        "car_id": 141,
+        "pattern": 2,
+        "color1": "D400FF",
+        "color2": "E24CE6",
+        "color3": "FFFFFF"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-05-03T09:30:00Z",
+      "winner_group_id": 1143576,
+      "winner_name": "Dominic Darling",
+      "winner_helmet": {
+        "pattern": 66,
+        "color1": "ff91e4",
+        "color2": "000000",
+        "color3": "ff2fe3",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 7,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 41,
+      "strength_of_field": 1390,
+      "subsession_id": 85462490,
+      "old_sub_level": 243,
+      "new_sub_level": 232,
+      "oldi_rating": 1642,
+      "newi_rating": 1627,
+      "track": {
+        "track_id": 191,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6082,
       "series_id": 139,
       "series_name": "Global Mazda MX-5 Cup by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Oulton Park Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6082,
-      "series_id": 139,
-      "series_name": "Global Mazda MX-5 Cup by Fanatec",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "1f2892",
-        "color2": "7de54c",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-05-02T09:00:00Z",
-      "winner_group_id": 825369,
-      "winner_name": "Simone Donchi",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 2,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 10,
-      "incidents": 3,
-      "points": 144,
-      "strength_of_field": 2505,
-      "subsession_id": 85437352,
-      "old_sub_level": 123,
-      "new_sub_level": 133,
-      "oldi_rating": 4222,
-      "newi_rating": 4272,
-      "track": {
-        "track_id": 181,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
