@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6094,
+      "series_id": 353,
+      "series_name": "Ferrari 296 Challenge",
+      "car_id": 203,
+      "car_class_id": 4082,
+      "livery": {
+        "car_id": 203,
+        "pattern": 11,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 10,
+      "session_start_time": "2026-05-03T06:15:00Z",
+      "winner_group_id": 1140478,
+      "winner_name": "Josh Nicolo",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "ffffff",
+        "color2": "6800ad",
+        "color3": "05f0f7",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 9,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 46,
+      "strength_of_field": 1806,
+      "subsession_id": 85459645,
+      "old_sub_level": 273,
+      "new_sub_level": 292,
+      "oldi_rating": 1680,
+      "newi_rating": 1676,
+      "track": {
+        "track_id": 541,
+        "track_name": "Shell V-Power Motorsport Park at The Bend"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6084,
       "series_id": 514,
       "series_name": "Toyota GR86 Cup by SIMAGIC",
@@ -91,7 +139,7 @@
         "track_id": 541,
         "track_name": "Shell V-Power Motorsport Park at The Bend"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -428,54 +476,6 @@
         "track_name": "Red Bull Ring"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6110,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-04-25T15:45:00Z",
-      "winner_group_id": 1236109,
-      "winner_name": "Tomasz Slaczalek",
-      "winner_helmet": {
-        "pattern": 29,
-        "color1": "0a0a0a",
-        "color2": "29292f",
-        "color3": "c03b42",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 24,
-      "finish_position": 24,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 0,
-      "strength_of_field": 1774,
-      "subsession_id": 85269019,
-      "old_sub_level": 149,
-      "new_sub_level": 149,
-      "oldi_rating": 1746,
-      "newi_rating": 1652,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
