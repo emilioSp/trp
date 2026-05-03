@@ -13,6 +13,54 @@
         "color2": "00FF00",
         "color3": "0000FF"
       },
+      "license_level": 11,
+      "session_start_time": "2026-05-03T08:45:00Z",
+      "winner_group_id": 1125079,
+      "winner_name": "Kwok Clay",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "be0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 9,
+      "start_position": 11,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 44,
+      "strength_of_field": 1536,
+      "subsession_id": 85461770,
+      "old_sub_level": 348,
+      "new_sub_level": 351,
+      "oldi_rating": 1639,
+      "newi_rating": 1629,
+      "track": {
+        "track_id": 516,
+        "track_name": "Circuito de Navarra"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6084,
+      "series_id": 514,
+      "series_name": "Toyota GR86 Cup by SIMAGIC",
+      "car_id": 160,
+      "car_class_id": 4012,
+      "livery": {
+        "car_id": 160,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
       "license_level": 10,
       "session_start_time": "2026-05-03T07:45:00Z",
       "winner_group_id": 1464030,
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-04-26T16:45:00Z",
-      "winner_group_id": 1085379,
-      "winner_name": "Hörður Arnarson",
-      "winner_helmet": {
-        "pattern": 57,
-        "color1": "210ccc",
-        "color2": "ffffff",
-        "color3": "da0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 11,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 86,
-      "strength_of_field": 1666,
-      "subsession_id": 85296315,
-      "old_sub_level": 156,
-      "new_sub_level": 177,
-      "oldi_rating": 1698,
-      "newi_rating": 1760,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1229781

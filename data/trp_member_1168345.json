@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6096,
+      "series_id": 210,
+      "series_name": "Global Sports Car Challenge by Fanatec",
+      "car_id": 41,
+      "car_class_id": 45,
+      "livery": {
+        "car_id": 41,
+        "pattern": 1,
+        "color1": "0a0a0a",
+        "color2": "ffffff",
+        "color3": "ed1b29"
+      },
+      "license_level": 9,
+      "session_start_time": "2026-05-03T08:30:00Z",
+      "winner_group_id": 1168345,
+      "winner_name": "Federico Gallini2",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "001b56",
+        "color2": "ffffff",
+        "color3": "cf0715",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 9,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 10,
+      "incidents": 10,
+      "points": 119,
+      "strength_of_field": 2426,
+      "subsession_id": 85461585,
+      "old_sub_level": 178,
+      "new_sub_level": 173,
+      "oldi_rating": 2323,
+      "newi_rating": 2408,
+      "track": {
+        "track_id": 244,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6084,
       "series_id": 514,
       "series_name": "Toyota GR86 Cup by SIMAGIC",
@@ -187,7 +235,7 @@
         "track_id": 244,
         "track_name": "Autodromo Nazionale Monza"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -428,54 +476,6 @@
         "track_name": "Lime Rock Park"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6083,
-      "series_id": 571,
-      "series_name": "BMW M2 Cup by Nitro Concepts",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 7,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-04-07T15:45:00Z",
-      "winner_group_id": 526144,
-      "winner_name": "Julius Michelsson",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "ff00e1",
-        "color2": "0000ff",
-        "color3": "01c1ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 6,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 69,
-      "strength_of_field": 3093,
-      "subsession_id": 84820549,
-      "old_sub_level": 173,
-      "new_sub_level": 158,
-      "oldi_rating": 2062,
-      "newi_rating": 2077,
-      "track": {
-        "track_id": 353,
-        "track_name": "Lime Rock Park"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
