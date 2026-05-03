@@ -14,6 +14,54 @@
         "color3": "FFFFFF"
       },
       "license_level": 6,
+      "session_start_time": "2026-05-03T10:00:00Z",
+      "winner_group_id": 813815,
+      "winner_name": "Kristian Tinkler",
+      "winner_helmet": {
+        "pattern": 13,
+        "color1": "000000",
+        "color2": "2e2e2e",
+        "color3": "3c3c3c",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 86,
+      "strength_of_field": 1434,
+      "subsession_id": 85462949,
+      "old_sub_level": 232,
+      "new_sub_level": 243,
+      "oldi_rating": 1627,
+      "newi_rating": 1705,
+      "track": {
+        "track_id": 191,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6164,
+      "series_id": 538,
+      "series_name": "Draft Master Challenge by Simagic",
+      "car_id": 141,
+      "car_class_id": 4040,
+      "livery": {
+        "car_id": 141,
+        "pattern": 2,
+        "color1": "D400FF",
+        "color2": "E24CE6",
+        "color3": "FFFFFF"
+      },
+      "license_level": 6,
       "session_start_time": "2026-05-03T09:30:00Z",
       "winner_group_id": 1143576,
       "winner_name": "Dominic Darling",
@@ -43,7 +91,7 @@
         "track_id": 191,
         "track_name": "Daytona International Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -428,54 +476,6 @@
         "track_name": "Oulton Park Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6082,
-      "series_id": 139,
-      "series_name": "Global Mazda MX-5 Cup by Fanatec",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "1f2892",
-        "color2": "7de54c",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-05-02T11:30:00Z",
-      "winner_group_id": 642173,
-      "winner_name": "Georg Stã¶Ckl",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "0300c2",
-        "color2": "f6f5ed",
-        "color3": "e31b1b",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 8,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 6,
-      "incidents": 6,
-      "points": 151,
-      "strength_of_field": 2945,
-      "subsession_id": 85439585,
-      "old_sub_level": 133,
-      "new_sub_level": 135,
-      "oldi_rating": 4272,
-      "newi_rating": 4315,
-      "track": {
-        "track_id": 181,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
