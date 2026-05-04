@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6117,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 206,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 206,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-05-04T15:45:00Z",
+      "winner_group_id": 1313368,
+      "winner_name": "Lukas Babacek",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "ffffff",
+        "color2": "00ffa0",
+        "color3": "d700ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 11,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 31,
+      "strength_of_field": 3188,
+      "subsession_id": 85493566,
+      "old_sub_level": 221,
+      "new_sub_level": 220,
+      "oldi_rating": 4050,
+      "newi_rating": 3969,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6118,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-04-25T10:45:00Z",
-      "winner_group_id": 555925,
-      "winner_name": "Thomas Delcourt",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 12,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 112,
-      "strength_of_field": 3300,
-      "subsession_id": 85263386,
-      "old_sub_level": 243,
-      "new_sub_level": 234,
-      "oldi_rating": 4004,
-      "newi_rating": 3999,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
