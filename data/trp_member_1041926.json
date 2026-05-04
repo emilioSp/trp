@@ -4,6 +4,54 @@
       "season_id": 6118,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 133,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "e0002f",
+        "color2": "fffbfb",
+        "color3": "22797e"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-05-04T16:45:00Z",
+      "winner_group_id": 1099250,
+      "winner_name": "Nicolas Lux",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "dff000",
+        "color2": "ffffff",
+        "color3": "1a4b9b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 11,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 166,
+      "strength_of_field": 4826,
+      "subsession_id": 85494604,
+      "old_sub_level": 268,
+      "new_sub_level": 265,
+      "oldi_rating": 3130,
+      "newi_rating": 3196,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
       "car_id": 173,
       "car_class_id": 4091,
       "livery": {
@@ -43,7 +91,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6227,
-      "series_id": 608,
-      "series_name": "13th Week Toyota GR86 Challenge",
-      "car_id": 160,
-      "car_class_id": 4012,
-      "livery": {
-        "car_id": 160,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-03-15T16:15:00Z",
-      "winner_group_id": 1041926,
-      "winner_name": "Alessandro Casmiri",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "e0002f",
-        "color2": "fffbfb",
-        "color3": "050505",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 6,
-      "incidents": 5,
-      "points": 138,
-      "strength_of_field": 2305,
-      "subsession_id": 84242715,
-      "old_sub_level": 240,
-      "new_sub_level": 233,
-      "oldi_rating": 3027,
-      "newi_rating": 3100,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
