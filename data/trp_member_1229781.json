@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6094,
+      "series_id": 353,
+      "series_name": "Ferrari 296 Challenge",
+      "car_id": 203,
+      "car_class_id": 4082,
+      "livery": {
+        "car_id": 203,
+        "pattern": 11,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-05-04T17:15:00Z",
+      "winner_group_id": 957626,
+      "winner_name": "D. Nieto Marin",
+      "winner_helmet": {
+        "pattern": 14,
+        "color1": "1494dd",
+        "color2": "f7e600",
+        "color3": "f00000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 7,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 3,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 8,
+      "strength_of_field": 1215,
+      "subsession_id": 85495120,
+      "old_sub_level": 355,
+      "new_sub_level": 333,
+      "oldi_rating": 1590,
+      "newi_rating": 1506,
+      "track": {
+        "track_id": 541,
+        "track_name": "Shell V-Power Motorsport Park at The Bend"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6084,
       "series_id": 514,
       "series_name": "Toyota GR86 Cup by SIMAGIC",
@@ -423,54 +471,6 @@
       "new_sub_level": 172,
       "oldi_rating": 1852,
       "newi_rating": 1903,
-      "track": {
-        "track_id": 516,
-        "track_name": "Circuito de Navarra"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6084,
-      "series_id": 514,
-      "series_name": "Toyota GR86 Cup by SIMAGIC",
-      "car_id": 160,
-      "car_class_id": 4012,
-      "livery": {
-        "car_id": 160,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-04-28T19:15:00Z",
-      "winner_group_id": 961316,
-      "winner_name": "Ryan Sharp11",
-      "winner_helmet": {
-        "pattern": 54,
-        "color1": "326bff",
-        "color2": "ff0000",
-        "color3": "ffb800",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 16,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 68,
-      "strength_of_field": 1767,
-      "subsession_id": 85348422,
-      "old_sub_level": 171,
-      "new_sub_level": 175,
-      "oldi_rating": 1830,
-      "newi_rating": 1852,
       "track": {
         "track_id": 516,
         "track_name": "Circuito de Navarra"
