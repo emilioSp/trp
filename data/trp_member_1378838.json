@@ -14,6 +14,54 @@
         "color3": "0a0a0a"
       },
       "license_level": 14,
+      "session_start_time": "2026-05-04T20:45:00Z",
+      "winner_group_id": 1378838,
+      "winner_name": "Francesco Puleo",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 5,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 12,
+      "incidents": 2,
+      "points": 118,
+      "strength_of_field": 1919,
+      "subsession_id": 85499053,
+      "old_sub_level": 222,
+      "new_sub_level": 241,
+      "oldi_rating": 1895,
+      "newi_rating": 1990,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 7,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a"
+      },
+      "license_level": 14,
       "session_start_time": "2026-05-03T20:45:00Z",
       "winner_group_id": 1112215,
       "winner_name": "Arturo Martin",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 9,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-04-13T21:15:00Z",
-      "winner_group_id": 1348717,
-      "winner_name": "Aleksandr Pustovalov",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "0012ff",
-        "color2": "ffffff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 17,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 60,
-      "strength_of_field": 1979,
-      "subsession_id": 84979638,
-      "old_sub_level": 269,
-      "new_sub_level": 287,
-      "oldi_rating": 1962,
-      "newi_rating": 1963,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1378838

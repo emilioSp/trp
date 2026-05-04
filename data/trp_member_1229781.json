@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 11,
+      "session_start_time": "2026-05-04T20:15:00Z",
+      "winner_group_id": 45650,
+      "winner_name": "Steven van Helsdingen",
+      "winner_helmet": {
+        "pattern": 19,
+        "color1": "ffffff",
+        "color2": "fd3f05",
+        "color3": "fd3f05",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 7,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 32,
+      "strength_of_field": 1780,
+      "subsession_id": 85498479,
+      "old_sub_level": 346,
+      "new_sub_level": 360,
+      "oldi_rating": 1513,
+      "newi_rating": 1496,
+      "track": {
+        "track_id": 541,
+        "track_name": "Shell V-Power Motorsport Park at The Bend"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6094,
+      "series_id": 353,
+      "series_name": "Ferrari 296 Challenge",
+      "car_id": 203,
+      "car_class_id": 4082,
+      "livery": {
+        "car_id": 203,
+        "pattern": 11,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 11,
       "session_start_time": "2026-05-04T19:15:00Z",
       "winner_group_id": 208645,
       "winner_name": "Giovanni Tononi",
@@ -283,7 +331,7 @@
         "track_id": 541,
         "track_name": "Shell V-Power Motorsport Park at The Bend"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
@@ -423,54 +471,6 @@
       "new_sub_level": 193,
       "oldi_rating": 1855,
       "newi_rating": 1802,
-      "track": {
-        "track_id": 516,
-        "track_name": "Circuito de Navarra"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6084,
-      "series_id": 514,
-      "series_name": "Toyota GR86 Cup by SIMAGIC",
-      "car_id": 160,
-      "car_class_id": 4012,
-      "livery": {
-        "car_id": 160,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-04-29T16:45:00Z",
-      "winner_group_id": 1101374,
-      "winner_name": "Jorge Buiza Colas",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ed2129",
-        "color2": "2a3795",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 15,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 29,
-      "strength_of_field": 1738,
-      "subsession_id": 85370555,
-      "old_sub_level": 172,
-      "new_sub_level": 187,
-      "oldi_rating": 1903,
-      "newi_rating": 1855,
       "track": {
         "track_id": 516,
         "track_name": "Circuito de Navarra"
