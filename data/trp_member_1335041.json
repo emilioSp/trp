@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6092,
+      "series_id": 559,
+      "series_name": "Rain Master Challenge",
+      "car_id": 188,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 188,
+        "pattern": 3,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-05-05T16:15:00Z",
+      "winner_group_id": 1197894,
+      "winner_name": "Damian Zeller",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "231f20",
+        "color3": "ef3e22",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 10,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 5,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 4,
+      "strength_of_field": 1579,
+      "subsession_id": 85518959,
+      "old_sub_level": 385,
+      "new_sub_level": 381,
+      "oldi_rating": 2070,
+      "newi_rating": 1963,
+      "track": {
+        "track_id": 580,
+        "track_name": "Adelaide Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6084,
       "series_id": 514,
       "series_name": "Toyota GR86 Cup by SIMAGIC",
@@ -423,54 +471,6 @@
       "new_sub_level": 381,
       "oldi_rating": 2094,
       "newi_rating": 2110,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6110,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-26T09:45:00Z",
-      "winner_group_id": 604115,
-      "winner_name": "Nechita Robert3",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ed2129",
-        "color2": "2a3795",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 15,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 10,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 34,
-      "strength_of_field": 2161,
-      "subsession_id": 85288319,
-      "old_sub_level": 390,
-      "new_sub_level": 392,
-      "oldi_rating": 2138,
-      "newi_rating": 2094,
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"
