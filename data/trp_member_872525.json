@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 18,
+      "session_start_time": "2026-05-06T20:45:00Z",
+      "winner_group_id": 559940,
+      "winner_name": "Owen Caryl",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ff6c00",
+        "color2": "000000",
+        "color3": "e8e8e8",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 7,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 229,
+      "strength_of_field": 4826,
+      "subsession_id": 85547098,
+      "old_sub_level": 245,
+      "new_sub_level": 263,
+      "oldi_rating": 4592,
+      "newi_rating": 4660,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 18,
       "session_start_time": "2026-05-06T18:45:00Z",
       "winner_group_id": 852264,
       "winner_name": "Landon Loy",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 133,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 133,
-        "pattern": 11,
-        "color1": "17FF00",
-        "color2": "E9FF00",
-        "color3": "E3FF00"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-18T14:45:00Z",
-      "winner_group_id": 620347,
-      "winner_name": "Norbert Tamas",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 4,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 34,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 183,
-      "strength_of_field": 4164,
-      "subsession_id": 85095871,
-      "old_sub_level": 332,
-      "new_sub_level": 360,
-      "oldi_rating": 4527,
-      "newi_rating": 4575,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 4
     }
   ],
   "cust_id": 872525
