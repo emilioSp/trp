@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6082,
+      "series_id": 139,
+      "series_name": "Global Mazda MX-5 Cup by Fanatec",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 15,
+        "color1": "006ae6",
+        "color2": "e8a716",
+        "color3": "30b9be"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-05-07T15:00:00Z",
+      "winner_group_id": 1376682,
+      "winner_name": "Niklas Mühlenbruch2",
+      "winner_helmet": {
+        "pattern": 42,
+        "color1": "ff8200",
+        "color2": "ffffff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 7,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 51,
+      "strength_of_field": 1921,
+      "subsession_id": 85564899,
+      "old_sub_level": 381,
+      "new_sub_level": 386,
+      "oldi_rating": 1963,
+      "newi_rating": 1954,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6092,
       "series_id": 559,
       "series_name": "Rain Master Challenge",
@@ -352,7 +400,7 @@
       "license_level": 11,
       "session_start_time": "2026-04-27T12:45:00Z",
       "winner_group_id": 726452,
-      "winner_name": "Jannik Friedrich2",
+      "winner_name": "Jannik Friedrich",
       "winner_helmet": {
         "pattern": 28,
         "color1": "ffffff",
@@ -423,54 +471,6 @@
       "new_sub_level": 358,
       "oldi_rating": 2110,
       "newi_rating": 2044,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6110,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-26T15:45:00Z",
-      "winner_group_id": 1147081,
-      "winner_name": "Douglas Quintanilha",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "8f0000",
-        "color2": "ffffff",
-        "color3": "521f1f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 17,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 78,
-      "strength_of_field": 2347,
-      "subsession_id": 85295112,
-      "old_sub_level": 392,
-      "new_sub_level": 381,
-      "oldi_rating": 2094,
-      "newi_rating": 2110,
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"
