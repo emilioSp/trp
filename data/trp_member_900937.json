@@ -14,6 +14,54 @@
         "color3": "DBFF00"
       },
       "license_level": 17,
+      "session_start_time": "2026-05-07T12:45:00Z",
+      "winner_group_id": 578161,
+      "winner_name": "Jonathan Correrella",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "1f2892",
+        "color3": "7de54c",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 21,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 126,
+      "strength_of_field": 3901,
+      "subsession_id": 85562946,
+      "old_sub_level": 165,
+      "new_sub_level": 163,
+      "oldi_rating": 3696,
+      "newi_rating": 3709,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 12,
+        "color1": "00FF10",
+        "color2": "FFFFFF",
+        "color3": "DBFF00"
+      },
+      "license_level": 17,
       "session_start_time": "2026-05-06T20:45:00Z",
       "winner_group_id": 578161,
       "winner_name": "Jonathan Correrella",
@@ -91,7 +139,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 7
@@ -428,54 +476,6 @@
         "track_name": "Watkins Glen International"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6117,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-04-29T16:45:00Z",
-      "winner_group_id": 1042556,
-      "winner_name": "Gabrieł Ivanov",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "6522f2",
-        "color2": "e4f000",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 6,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 169,
-      "strength_of_field": 3791,
-      "subsession_id": 85370589,
-      "old_sub_level": 250,
-      "new_sub_level": 248,
-      "oldi_rating": 4083,
-      "newi_rating": 4133,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6

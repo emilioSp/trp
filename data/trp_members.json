@@ -56,8 +56,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 1.65,
-    "iRating": 3696
+    "safetyRating": 1.63,
+    "iRating": 3709
   },
   {
     "id": 476225,
@@ -74,9 +74,9 @@
     "name": "Emanuelec Marsilla",
     "memberSince": "2025-04-13",
     "country": "Italy",
-    "classOrder": 3,
-    "className": "C",
-    "safetyRating": 3.83,
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 3.44,
     "iRating": 1511
   },
   {
