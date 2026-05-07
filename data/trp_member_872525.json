@@ -14,6 +14,54 @@
         "color3": "E3FF00"
       },
       "license_level": 18,
+      "session_start_time": "2026-05-07T16:45:00Z",
+      "winner_group_id": 531004,
+      "winner_name": "Alexander Shchinov",
+      "winner_helmet": {
+        "pattern": 63,
+        "color1": "a74df7",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 5,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 209,
+      "strength_of_field": 4142,
+      "subsession_id": 85566708,
+      "old_sub_level": 263,
+      "new_sub_level": 279,
+      "oldi_rating": 4660,
+      "newi_rating": 4715,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 11,
+        "color1": "17FF00",
+        "color2": "E9FF00",
+        "color3": "E3FF00"
+      },
+      "license_level": 18,
       "session_start_time": "2026-05-06T20:45:00Z",
       "winner_group_id": 559940,
       "winner_name": "Owen Caryl",
@@ -43,7 +91,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 7
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6123,
-      "series_id": 419,
-      "series_name": "IMSA Endurance Series",
-      "car_id": 133,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 133,
-        "pattern": 18,
-        "color1": "000000",
-        "color2": "0003ff",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-18T18:00:00Z",
-      "winner_group_id": -483479,
-      "winner_name": "BS+HYBRID",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 6,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 121,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 269,
-      "strength_of_field": 4864,
-      "subsession_id": 85099434,
-      "old_sub_level": 360,
-      "new_sub_level": 485,
-      "oldi_rating": 4575,
-      "newi_rating": 4672,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
     }
   ],
   "cust_id": 872525
