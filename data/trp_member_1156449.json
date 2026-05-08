@@ -4,6 +4,54 @@
       "season_id": 6117,
       "series_id": 595,
       "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 173,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 173,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-05-08T15:45:00Z",
+      "winner_group_id": 480179,
+      "winner_name": "Shoma Shintani",
+      "winner_helmet": {
+        "pattern": 67,
+        "color1": "000c3d",
+        "color2": "ffffff",
+        "color3": "248bff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 6,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 115,
+      "strength_of_field": 3346,
+      "subsession_id": 85589693,
+      "old_sub_level": 167,
+      "new_sub_level": 186,
+      "oldi_rating": 2909,
+      "newi_rating": 2941,
+      "track": {
+        "track_id": 212,
+        "track_name": "Autódromo José Carlos Pace"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 6117,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
       "car_id": 133,
       "car_class_id": 4091,
       "livery": {
@@ -43,7 +91,7 @@
         "track_id": 212,
         "track_name": "Autódromo José Carlos Pace"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 7
@@ -423,54 +471,6 @@
       "new_sub_level": 257,
       "oldi_rating": 2934,
       "newi_rating": 2985,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-04-01T08:45:00Z",
-      "winner_group_id": 938538,
-      "winner_name": "Matvey Kazansky",
-      "winner_helmet": {
-        "pattern": 60,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "d2003c",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 13,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 28,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 127,
-      "strength_of_field": 3937,
-      "subsession_id": 84658753,
-      "old_sub_level": 248,
-      "new_sub_level": 264,
-      "oldi_rating": 2894,
-      "newi_rating": 2934,
       "track": {
         "track_id": 390,
         "track_name": "Hockenheimring Baden-Württemberg"
