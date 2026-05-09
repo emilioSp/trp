@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6099,
+      "series_id": 491,
+      "series_name": "GT4 Challenge by Falken Tyre",
+      "car_id": 119,
+      "car_class_id": 2268,
+      "livery": {
+        "car_id": 119,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 9,
+      "session_start_time": "2026-05-09T10:30:00Z",
+      "winner_group_id": 835181,
+      "winner_name": "Matteo Infanti",
+      "winner_helmet": {
+        "pattern": 60,
+        "color1": "a450f7",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 23,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 67,
+      "strength_of_field": 2602,
+      "subsession_id": 85609438,
+      "old_sub_level": 163,
+      "new_sub_level": 164,
+      "oldi_rating": 2485,
+      "newi_rating": 2475,
+      "track": {
+        "track_id": 47,
+        "track_name": "WeatherTech Raceway at Laguna Seca"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6100,
       "series_id": 502,
       "series_name": "Sports Car Challenge by Falken Tyre",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
-    },
-    {
-      "season_id": 6087,
-      "series_id": 112,
-      "series_name": "Production Car Challenge by Sim-Lab",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 7,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-04-26T13:30:00Z",
-      "winner_group_id": 1375668,
-      "winner_name": "Théo Rulmont",
-      "winner_helmet": {
-        "pattern": 43,
-        "color1": "000000",
-        "color2": "00ff57",
-        "color3": "c4ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 7,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 3,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 53,
-      "strength_of_field": 2601,
-      "subsession_id": 85292653,
-      "old_sub_level": 166,
-      "new_sub_level": 178,
-      "oldi_rating": 2256,
-      "newi_rating": 2246,
-      "track": {
-        "track_id": 252,
-        "track_name": "Nürburgring Combined"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
     }
   ],
   "cust_id": 1168345
