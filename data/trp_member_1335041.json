@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6092,
+      "series_id": 559,
+      "series_name": "Rain Master Challenge",
+      "car_id": 188,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 188,
+        "pattern": 3,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-05-10T08:15:00Z",
+      "winner_group_id": 590119,
+      "winner_name": "Benjamin Musico2",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "333333",
+        "color2": "96ff00",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 13,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 28,
+      "strength_of_field": 2099,
+      "subsession_id": 85633004,
+      "old_sub_level": 386,
+      "new_sub_level": 399,
+      "oldi_rating": 1954,
+      "newi_rating": 1910,
+      "track": {
+        "track_id": 580,
+        "track_name": "Adelaide Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6082,
       "series_id": 139,
       "series_name": "Global Mazda MX-5 Cup by Fanatec",
@@ -91,7 +139,7 @@
         "track_id": 580,
         "track_name": "Adelaide Street Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 7
@@ -428,54 +476,6 @@
         "track_name": "Red Bull Ring"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-26T16:45:00Z",
-      "winner_group_id": 1337593,
-      "winner_name": "Klaus Martin Fischer",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 10,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 21,
-      "strength_of_field": 2032,
-      "subsession_id": 85296312,
-      "old_sub_level": 381,
-      "new_sub_level": 358,
-      "oldi_rating": 2110,
-      "newi_rating": 2044,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
