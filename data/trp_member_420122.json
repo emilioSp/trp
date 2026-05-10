@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6120,
+      "series_id": 331,
+      "series_name": "Global Endurance Tour",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "fdfbfb"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-05-10T14:00:00Z",
+      "winner_group_id": -417595,
+      "winner_name": "NotForSpeed",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 8,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 79,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 209,
+      "strength_of_field": 3463,
+      "subsession_id": 85639298,
+      "old_sub_level": 314,
+      "new_sub_level": 458,
+      "oldi_rating": 3214,
+      "newi_rating": 3261,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6118,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 17,
-        "color1": "D0C40B",
-        "color2": "FFFFFF",
-        "color3": "111111"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-04-13T19:15:00Z",
-      "winner_group_id": 139682,
-      "winner_name": "Luke Cantor",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "ebcd08",
-        "color2": "0c4306",
-        "color3": "ffd500",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 19,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 71,
-      "strength_of_field": 3252,
-      "subsession_id": 84977384,
-      "old_sub_level": 407,
-      "new_sub_level": 413,
-      "oldi_rating": 3126,
-      "newi_rating": 3105,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
     }
   ],
   "cust_id": 420122
