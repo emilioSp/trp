@@ -13,6 +13,54 @@
         "color2": "ffe409",
         "color3": "f6e809"
       },
+      "license_level": 10,
+      "session_start_time": "2026-05-10T00:45:00Z",
+      "winner_group_id": 1447357,
+      "winner_name": "Mat Webb",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "000000",
+        "color2": "fd0000",
+        "color3": "e9e9e9",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 7,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 166,
+      "strength_of_field": 2961,
+      "subsession_id": 85625560,
+      "old_sub_level": 256,
+      "new_sub_level": 260,
+      "oldi_rating": 3444,
+      "newi_rating": 3513,
+      "track": {
+        "track_id": 234,
+        "track_name": "Donington Park Racing Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
       "license_level": 11,
       "session_start_time": "2026-05-08T00:45:00Z",
       "winner_group_id": 459916,
@@ -91,7 +139,7 @@
         "track_id": 234,
         "track_name": "Donington Park Racing Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 7
@@ -423,54 +471,6 @@
       "new_sub_level": 316,
       "oldi_rating": 3277,
       "newi_rating": 3335,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-23T00:45:00Z",
-      "winner_group_id": 1088720,
-      "winner_name": "Jackson Resende4",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "184252",
-        "color2": "03bbbd",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 9,
-      "start_position": 8,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 113,
-      "strength_of_field": 3196,
-      "subsession_id": 85205802,
-      "old_sub_level": 340,
-      "new_sub_level": 319,
-      "oldi_rating": 3259,
-      "newi_rating": 3277,
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"
