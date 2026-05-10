@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 13,
+      "session_start_time": "2026-05-10T15:45:00Z",
+      "winner_group_id": 993147,
+      "winner_name": "Jan B Saamer",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "fff600",
+        "color3": "fff800",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 11,
+      "finish_position": 20,
+      "qualifying_time": 0,
+      "laps": 2,
+      "laps_led": 0,
+      "incidents": 20,
+      "points": 5,
+      "strength_of_field": 3356,
+      "subsession_id": 85641170,
+      "old_sub_level": 186,
+      "new_sub_level": 127,
+      "oldi_rating": 2883,
+      "newi_rating": 2809,
+      "track": {
+        "track_id": 212,
+        "track_name": "Autódromo José Carlos Pace"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 6117,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 173,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 173,
+        "pattern": 3,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 13,
       "session_start_time": "2026-05-08T17:45:00Z",
       "winner_group_id": 873480,
       "winner_name": "Bruno Alves Ribeiro",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6082,
-      "series_id": 139,
-      "series_name": "Global Mazda MX-5 Cup by Fanatec",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 18,
-        "color1": "ffffff",
-        "color2": "ff0000",
-        "color3": "111111"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-04-01T13:00:00Z",
-      "winner_group_id": 1143564,
-      "winner_name": "Ramon Goede",
-      "winner_helmet": {
-        "pattern": 6,
-        "color1": "512828",
-        "color2": "03002e",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 12,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 3,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 8,
-      "strength_of_field": 3324,
-      "subsession_id": 84663002,
-      "old_sub_level": 257,
-      "new_sub_level": 221,
-      "oldi_rating": 2985,
-      "newi_rating": 2905,
-      "track": {
-        "track_id": 9,
-        "track_name": "Summit Point Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
     }
   ],
   "cust_id": 1156449
