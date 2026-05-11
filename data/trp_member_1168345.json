@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 9,
+      "session_start_time": "2026-05-11T14:15:00Z",
+      "winner_group_id": 1177802,
+      "winner_name": "Kevin Schweitzer",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "0a0a0a",
+        "color2": "466ebc",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 16,
+      "start_position": 7,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 79,
+      "strength_of_field": 2541,
+      "subsession_id": 85664100,
+      "old_sub_level": 129,
+      "new_sub_level": 138,
+      "oldi_rating": 2063,
+      "newi_rating": 2088,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 6083,
+      "series_id": 571,
+      "series_name": "BMW M2 Cup by Nitro Concepts",
+      "car_id": 195,
+      "car_class_id": 4073,
+      "livery": {
+        "car_id": 195,
+        "pattern": 7,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 9,
       "session_start_time": "2026-05-10T13:15:00Z",
       "winner_group_id": 893793,
       "winner_name": "Sergio Luiz Fernandes",
@@ -91,7 +139,7 @@
         "track_id": 180,
         "track_name": "Oulton Park Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 7
@@ -428,54 +476,6 @@
         "track_name": "WeatherTech Raceway at Laguna Seca"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 6099,
-      "series_id": 491,
-      "series_name": "GT4 Challenge by Falken Tyre",
-      "car_id": 119,
-      "car_class_id": 2268,
-      "livery": {
-        "car_id": 119,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-05-09T10:30:00Z",
-      "winner_group_id": 835181,
-      "winner_name": "Matteo Infanti",
-      "winner_helmet": {
-        "pattern": 60,
-        "color1": "a450f7",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 23,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 67,
-      "strength_of_field": 2602,
-      "subsession_id": 85609438,
-      "old_sub_level": 163,
-      "new_sub_level": 164,
-      "oldi_rating": 2485,
-      "newi_rating": 2475,
-      "track": {
-        "track_id": 47,
-        "track_name": "WeatherTech Raceway at Laguna Seca"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 7
