@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6107,
+      "series_id": 231,
+      "series_name": "Advanced Mazda MX-5 Cup by Heusinkveld",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 19,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "01959a"
+      },
+      "license_level": 9,
+      "session_start_time": "2026-05-12T14:15:00Z",
+      "winner_group_id": 1133130,
+      "winner_name": "Torben Torpedo",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "2a3795",
+        "color3": "ed2129",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 9,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 93,
+      "strength_of_field": 2084,
+      "subsession_id": 85689104,
+      "old_sub_level": 141,
+      "new_sub_level": 153,
+      "oldi_rating": 2104,
+      "newi_rating": 2148,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6083,
       "series_id": 571,
       "series_name": "BMW M2 Cup by Nitro Concepts",
@@ -423,54 +471,6 @@
       "new_sub_level": 139,
       "oldi_rating": 2313,
       "newi_rating": 2260,
-      "track": {
-        "track_id": 47,
-        "track_name": "WeatherTech Raceway at Laguna Seca"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 6099,
-      "series_id": 491,
-      "series_name": "GT4 Challenge by Falken Tyre",
-      "car_id": 119,
-      "car_class_id": 2268,
-      "livery": {
-        "car_id": 119,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-05-10T06:30:00Z",
-      "winner_group_id": 925616,
-      "winner_name": "Martin Lichner",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "ff00e6",
-        "color2": "8f00ff",
-        "color3": "ebff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 16,
-      "finish_position": 27,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 10,
-      "strength_of_field": 2338,
-      "subsession_id": 85631531,
-      "old_sub_level": 158,
-      "new_sub_level": 145,
-      "oldi_rating": 2395,
-      "newi_rating": 2313,
       "track": {
         "track_id": 47,
         "track_name": "WeatherTech Raceway at Laguna Seca"
