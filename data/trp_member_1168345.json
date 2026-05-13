@@ -14,6 +14,54 @@
         "color3": "01959a"
       },
       "license_level": 9,
+      "session_start_time": "2026-05-13T15:15:00Z",
+      "winner_group_id": 529007,
+      "winner_name": "Jesse Gonzalez",
+      "winner_helmet": {
+        "pattern": 16,
+        "color1": "8d2424",
+        "color2": "252846",
+        "color3": "252846",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 3,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 108,
+      "strength_of_field": 2162,
+      "subsession_id": 85714009,
+      "old_sub_level": 153,
+      "new_sub_level": 185,
+      "oldi_rating": 2148,
+      "newi_rating": 2207,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 6107,
+      "series_id": 231,
+      "series_name": "Advanced Mazda MX-5 Cup by Heusinkveld",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 19,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "01959a"
+      },
+      "license_level": 9,
       "session_start_time": "2026-05-12T14:15:00Z",
       "winner_group_id": 1133130,
       "winner_name": "Torben Torpedo",
@@ -43,7 +91,7 @@
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 8
@@ -423,54 +471,6 @@
       "new_sub_level": 131,
       "oldi_rating": 2260,
       "newi_rating": 2223,
-      "track": {
-        "track_id": 47,
-        "track_name": "WeatherTech Raceway at Laguna Seca"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 6100,
-      "series_id": 502,
-      "series_name": "Sports Car Challenge by Falken Tyre",
-      "car_id": 119,
-      "car_class_id": 2268,
-      "livery": {
-        "car_id": 119,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-05-10T07:30:00Z",
-      "winner_group_id": 1088989,
-      "winner_name": "Erik Rohus",
-      "winner_helmet": {
-        "pattern": 19,
-        "color1": "111111",
-        "color2": "b947ff",
-        "color3": "3330de",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 10,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 33,
-      "strength_of_field": 2074,
-      "subsession_id": 85632367,
-      "old_sub_level": 145,
-      "new_sub_level": 139,
-      "oldi_rating": 2313,
-      "newi_rating": 2260,
       "track": {
         "track_id": 47,
         "track_name": "WeatherTech Raceway at Laguna Seca"
