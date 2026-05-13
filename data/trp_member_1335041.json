@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6117,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 188,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 188,
+        "pattern": 3,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-05-13T16:45:00Z",
+      "winner_group_id": 1451120,
+      "winner_name": "Iván Pérez4",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "ffffff",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 14,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 64,
+      "strength_of_field": 1778,
+      "subsession_id": 85715496,
+      "old_sub_level": 332,
+      "new_sub_level": 348,
+      "oldi_rating": 1837,
+      "newi_rating": 1851,
+      "track": {
+        "track_id": 465,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6118,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Red Bull Ring"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6110,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-27T15:45:00Z",
-      "winner_group_id": 1452087,
-      "winner_name": "Dylan Brevard",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "2e7d8f",
-        "color2": "ec232d",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 9,
-      "start_position": 22,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 57,
-      "strength_of_field": 2140,
-      "subsession_id": 85319381,
-      "old_sub_level": 362,
-      "new_sub_level": 364,
-      "oldi_rating": 2098,
-      "newi_rating": 2088,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
