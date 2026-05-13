@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 13,
+      "session_start_time": "2026-05-13T12:45:00Z",
+      "winner_group_id": 1481956,
+      "winner_name": "Kevin Ellis Sr",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "4c4c4c",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 24,
+      "finish_position": 21,
+      "qualifying_time": 0,
+      "laps": 4,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 30,
+      "strength_of_field": 2987,
+      "subsession_id": 85711847,
+      "old_sub_level": 173,
+      "new_sub_level": 159,
+      "oldi_rating": 2767,
+      "newi_rating": 2710,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6117,
       "series_id": 595,
       "series_name": "iRacing GT3 Regional Tour - Americas",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 7
-    },
-    {
-      "season_id": 6117,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-04-30T19:45:00Z",
-      "winner_group_id": 524963,
-      "winner_name": "Leif Sebastian",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "ff0000",
-        "color2": "ffc60f",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 19,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 0,
-      "incidents": 22,
-      "points": 0,
-      "strength_of_field": 3566,
-      "subsession_id": 85397894,
-      "old_sub_level": 130,
-      "new_sub_level": 67,
-      "oldi_rating": 2952,
-      "newi_rating": 2899,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1156449
