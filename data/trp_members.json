@@ -170,14 +170,24 @@
     "iRating": 2226
   },
   {
+    "id": 1279219,
+    "name": "Gabriele Rosone",
+    "memberSince": "2025-07-03",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.13,
+    "iRating": 5111
+  },
+  {
     "id": 913773,
     "name": "Salvatore Reddavid",
     "memberSince": "2023-06-17",
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.56,
-    "iRating": 2071
+    "safetyRating": 2.66,
+    "iRating": 2065
   },
   {
     "id": 976998,
