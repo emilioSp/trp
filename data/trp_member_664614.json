@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 10,
+      "session_start_time": "2026-05-15T02:45:00Z",
+      "winner_group_id": 352274,
+      "winner_name": "Fidel Moreira",
+      "winner_helmet": {
+        "pattern": 66,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "090909",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 2,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 171,
+      "strength_of_field": 3392,
+      "subsession_id": 85750994,
+      "old_sub_level": 272,
+      "new_sub_level": 283,
+      "oldi_rating": 3563,
+      "newi_rating": 3625,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 10,
       "session_start_time": "2026-05-14T00:45:00Z",
       "winner_group_id": 234914,
       "winner_name": "Flavio Dantas",
@@ -43,7 +91,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 8
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-04-24T00:45:00Z",
-      "winner_group_id": 1074590,
-      "winner_name": "Leandro Lanzendorf",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "ae6a03",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 18,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 140,
-      "strength_of_field": 2946,
-      "subsession_id": 85229657,
-      "old_sub_level": 316,
-      "new_sub_level": 303,
-      "oldi_rating": 3335,
-      "newi_rating": 3381,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
     }
   ],
   "cust_id": 664614
