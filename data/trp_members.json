@@ -140,6 +140,16 @@
     "iRating": 3163
   },
   {
+    "id": 1221961,
+    "name": "Giaime M Cualbu",
+    "memberSince": "2025-03-27",
+    "country": "Italy",
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 4.6,
+    "iRating": 4961
+  },
+  {
     "id": 420122,
     "name": "David Pertile",
     "memberSince": "2019-12-14",
@@ -246,8 +256,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.59,
-    "iRating": 2141
+    "safetyRating": 2.66,
+    "iRating": 2174
   },
   {
     "id": 430526,
