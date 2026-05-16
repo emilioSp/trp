@@ -14,6 +14,54 @@
         "color3": "01959a"
       },
       "license_level": 10,
+      "session_start_time": "2026-05-16T10:15:00Z",
+      "winner_group_id": 1133130,
+      "winner_name": "Torben Torpedo",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "2a3795",
+        "color3": "ed2129",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 6,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 120,
+      "strength_of_field": 2767,
+      "subsession_id": 85781229,
+      "old_sub_level": 253,
+      "new_sub_level": 259,
+      "oldi_rating": 2268,
+      "newi_rating": 2326,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 6107,
+      "series_id": 231,
+      "series_name": "Advanced Mazda MX-5 Cup by Heusinkveld",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 19,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "01959a"
+      },
+      "license_level": 10,
       "session_start_time": "2026-05-16T09:15:00Z",
       "winner_group_id": 763457,
       "winner_name": "David Morales Galán",
@@ -187,7 +235,7 @@
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 8
@@ -423,54 +471,6 @@
       "new_sub_level": 128,
       "oldi_rating": 2064,
       "newi_rating": 2066,
-      "track": {
-        "track_id": 180,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 6083,
-      "series_id": 571,
-      "series_name": "BMW M2 Cup by Nitro Concepts",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 7,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-05-10T12:15:00Z",
-      "winner_group_id": 713595,
-      "winner_name": "Andrei Duna",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "372a75",
-        "color3": "f1732e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 7,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 23,
-      "strength_of_field": 2180,
-      "subsession_id": 85637459,
-      "old_sub_level": 117,
-      "new_sub_level": 119,
-      "oldi_rating": 2119,
-      "newi_rating": 2064,
       "track": {
         "track_id": 180,
         "track_name": "Oulton Park Circuit"
