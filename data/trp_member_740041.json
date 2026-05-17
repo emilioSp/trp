@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 173,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-05-17T16:00:00Z",
+      "winner_group_id": 1248442,
+      "winner_name": "Edgar Camacho",
+      "winner_helmet": {
+        "pattern": 14,
+        "color1": "fff500",
+        "color2": "f40101",
+        "color3": "1cadff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 19,
+      "finish_position": 26,
+      "qualifying_time": 0,
+      "laps": 1,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 11,
+      "strength_of_field": 2405,
+      "subsession_id": 85811402,
+      "old_sub_level": 153,
+      "new_sub_level": 137,
+      "oldi_rating": 2590,
+      "newi_rating": 2504,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5924,
-      "series_id": 237,
-      "series_name": "GT Endurance Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "1C1FED",
-        "color2": "000000",
-        "color3": "F3F3F3"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-03-08T17:00:00Z",
-      "winner_group_id": -122891,
-      "winner_name": "Velox Simsport Racing #488",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 1,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 71,
-      "laps_led": 13,
-      "incidents": 17,
-      "points": 159,
-      "strength_of_field": 3211,
-      "subsession_id": 84129895,
-      "old_sub_level": 150,
-      "new_sub_level": 257,
-      "oldi_rating": 2443,
-      "newi_rating": 2492,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 11
     }
   ],
   "cust_id": 740041
