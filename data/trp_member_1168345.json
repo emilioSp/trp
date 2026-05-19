@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6086,
+      "series_id": 519,
+      "series_name": "Renault Clio Cup",
+      "car_id": 162,
+      "car_class_id": 4015,
+      "livery": {
+        "car_id": 162,
+        "pattern": 8,
+        "color1": "001b56",
+        "color2": "ffffff",
+        "color3": "cf0715"
+      },
+      "license_level": 10,
+      "session_start_time": "2026-05-19T15:00:00Z",
+      "winner_group_id": 1168345,
+      "winner_name": "Federico Gallini2",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "001b56",
+        "color2": "ffffff",
+        "color3": "cf0715",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 2,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 4,
+      "incidents": 7,
+      "points": 100,
+      "strength_of_field": 1795,
+      "subsession_id": 85858938,
+      "old_sub_level": 259,
+      "new_sub_level": 255,
+      "oldi_rating": 2326,
+      "newi_rating": 2396,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 9
+    },
+    {
       "season_id": 6107,
       "series_id": 231,
       "series_name": "Advanced Mazda MX-5 Cup by Heusinkveld",
@@ -423,54 +471,6 @@
       "new_sub_level": 129,
       "oldi_rating": 2066,
       "newi_rating": 2063,
-      "track": {
-        "track_id": 180,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 6083,
-      "series_id": 571,
-      "series_name": "BMW M2 Cup by Nitro Concepts",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 7,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-05-10T12:45:00Z",
-      "winner_group_id": 1280628,
-      "winner_name": "Chen Calvin",
-      "winner_helmet": {
-        "pattern": 67,
-        "color1": "343538",
-        "color2": "38a4fe",
-        "color3": "fc2c37",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 8,
-      "start_position": 11,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 61,
-      "strength_of_field": 2331,
-      "subsession_id": 85637896,
-      "old_sub_level": 119,
-      "new_sub_level": 128,
-      "oldi_rating": 2064,
-      "newi_rating": 2066,
       "track": {
         "track_id": 180,
         "track_name": "Oulton Park Circuit"
