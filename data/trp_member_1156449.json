@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 6,
+      "session_start_time": "2026-05-22T13:45:00Z",
+      "winner_group_id": 1112908,
+      "winner_name": "Sam Graanboom",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 7,
+      "start_position": 13,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 15,
+      "points": 23,
+      "strength_of_field": 2092,
+      "subsession_id": 85930907,
+      "old_sub_level": 260,
+      "new_sub_level": 251,
+      "oldi_rating": 1816,
+      "newi_rating": 1766,
+      "track": {
+        "track_id": 345,
+        "track_name": "Circuit de Barcelona Catalunya"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 6135,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 19,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "000000"
+      },
+      "license_level": 6,
       "session_start_time": "2026-05-22T08:45:00Z",
       "winner_group_id": 1112908,
       "winner_name": "Sam Graanboom",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 8
-    },
-    {
-      "season_id": 6132,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 19,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "000000"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-05-11T13:00:00Z",
-      "winner_group_id": 1128103,
-      "winner_name": "Timo Jungling",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "2a3795",
-        "color2": "ed2229",
-        "color3": "eeeeee",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 5,
-      "start_position": 10,
-      "finish_position": 23,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 20,
-      "points": 0,
-      "strength_of_field": 1595,
-      "subsession_id": 85663094,
-      "old_sub_level": 294,
-      "new_sub_level": 244,
-      "oldi_rating": 1892,
-      "newi_rating": 1787,
-      "track": {
-        "track_id": 489,
-        "track_name": "Circuit de Lédenon"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 7
     }
   ],
   "cust_id": 1156449
