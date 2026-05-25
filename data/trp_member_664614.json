@@ -14,6 +14,54 @@
         "color3": "ff0000"
       },
       "license_level": 2,
+      "session_start_time": "2026-05-25T16:15:00Z",
+      "winner_group_id": 664614,
+      "winner_name": "Davide Iozia",
+      "winner_helmet": {
+        "pattern": 43,
+        "color1": "f7f7f7",
+        "color2": "fefefe",
+        "color3": "eeeeee",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 2,
+      "start_position": 3,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 15,
+      "incidents": 2,
+      "points": 74,
+      "strength_of_field": 1235,
+      "subsession_id": 86008584,
+      "old_sub_level": 268,
+      "new_sub_level": 275,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 556,
+        "track_name": "Charlotte Motor Speedway "
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 6156,
+      "series_id": 564,
+      "series_name": "Mini Stock Rookie Series by Thrustmaster",
+      "car_id": 191,
+      "car_class_id": 4069,
+      "livery": {
+        "car_id": 191,
+        "pattern": 2,
+        "color1": "ff0000",
+        "color2": "ff0000",
+        "color3": "ff0000"
+      },
+      "license_level": 2,
       "session_start_time": "2026-05-25T02:15:00Z",
       "winner_group_id": 1441161,
       "winner_name": "Daniel J Cage",
@@ -43,7 +91,7 @@
         "track_id": 556,
         "track_name": "Charlotte Motor Speedway "
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 9
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 8
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 10,
-      "session_start_time": "2026-05-10T00:45:00Z",
-      "winner_group_id": 1447357,
-      "winner_name": "Mat Webb",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "000000",
-        "color2": "fd0000",
-        "color3": "e9e9e9",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 7,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 166,
-      "strength_of_field": 2961,
-      "subsession_id": 85625560,
-      "old_sub_level": 256,
-      "new_sub_level": 260,
-      "oldi_rating": 3444,
-      "newi_rating": 3513,
-      "track": {
-        "track_id": 234,
-        "track_name": "Donington Park Racing Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 7
     }
   ],
   "cust_id": 664614
