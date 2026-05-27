@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 18,
+      "session_start_time": "2026-05-27T00:45:00Z",
+      "winner_group_id": 1269811,
+      "winner_name": "Leandro Peterzin",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "231f20",
+        "color2": "ffffff",
+        "color3": "ed1c2e",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 3,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 94,
+      "strength_of_field": 3235,
+      "subsession_id": 86044274,
+      "old_sub_level": 231,
+      "new_sub_level": 207,
+      "oldi_rating": 3463,
+      "newi_rating": 3457,
+      "track": {
+        "track_id": 580,
+        "track_name": "Adelaide Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 10
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 18,
       "session_start_time": "2026-05-26T12:45:00Z",
       "winner_group_id": 814383,
       "winner_name": "Oleksiy Bahriy",
@@ -43,7 +91,7 @@
         "track_id": 580,
         "track_name": "Adelaide Street Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
@@ -428,54 +476,6 @@
         "track_name": "Suzuka International Racing Course"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 10,
-      "session_start_time": "2026-05-17T00:45:00Z",
-      "winner_group_id": 959095,
-      "winner_name": "Hassaan Syed",
-      "winner_helmet": {
-        "pattern": 54,
-        "color1": "25e8c5",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 6,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 17,
-      "points": 38,
-      "strength_of_field": 3793,
-      "subsession_id": 85796680,
-      "old_sub_level": 283,
-      "new_sub_level": 264,
-      "oldi_rating": 3625,
-      "newi_rating": 3570,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 8
