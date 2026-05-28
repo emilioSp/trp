@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 10,
+      "session_start_time": "2026-05-28T16:45:00Z",
+      "winner_group_id": 448461,
+      "winner_name": "Asier Mentxaka Aurreko",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "E20315",
+        "color2": "FFFFFF",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 119,
+      "strength_of_field": 2258,
+      "subsession_id": 86084469,
+      "old_sub_level": 296,
+      "new_sub_level": 347,
+      "oldi_rating": 2442,
+      "newi_rating": 2511,
+      "track": {
+        "track_id": 324,
+        "track_name": "Tsukuba Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 10
+    },
+    {
+      "season_id": 6083,
+      "series_id": 571,
+      "series_name": "BMW M2 Cup by Nitro Concepts",
+      "car_id": 195,
+      "car_class_id": 4073,
+      "livery": {
+        "car_id": 195,
+        "pattern": 7,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 10,
       "session_start_time": "2026-05-27T13:15:00Z",
       "winner_group_id": 1174159,
       "winner_name": "Pintér Zsombi2",
@@ -235,7 +283,7 @@
         "track_id": 324,
         "track_name": "Tsukuba Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
@@ -423,54 +471,6 @@
       "new_sub_level": 253,
       "oldi_rating": 2161,
       "newi_rating": 2198,
-      "track": {
-        "track_id": 345,
-        "track_name": "Circuit de Barcelona Catalunya"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 6135,
-      "series_id": 542,
-      "series_name": "FIA F4 Esports Regional Tour - Europe",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "cf0715"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-05-24T13:45:00Z",
-      "winner_group_id": 692424,
-      "winner_name": "Camilo de Haan",
-      "winner_helmet": {
-        "pattern": 48,
-        "color1": "060606",
-        "color2": "fc7223",
-        "color3": "f1f1f1",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 7,
-      "start_position": 6,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 15,
-      "points": 81,
-      "strength_of_field": 2565,
-      "subsession_id": 85981032,
-      "old_sub_level": 264,
-      "new_sub_level": 254,
-      "oldi_rating": 2140,
-      "newi_rating": 2161,
       "track": {
         "track_id": 345,
         "track_name": "Circuit de Barcelona Catalunya"
