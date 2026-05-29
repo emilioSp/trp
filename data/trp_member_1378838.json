@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6117,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 169,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 169,
+        "pattern": 7,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-05-29T20:45:00Z",
+      "winner_group_id": 1420460,
+      "winner_name": "Julian Hakendahl",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "fffc00",
+        "color2": "00f0ff",
+        "color3": "5cf5ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 10,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 35,
+      "strength_of_field": 1526,
+      "subsession_id": 86113203,
+      "old_sub_level": 241,
+      "new_sub_level": 244,
+      "oldi_rating": 1990,
+      "newi_rating": 1951,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 10
+    },
+    {
       "season_id": 6118,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -423,54 +471,6 @@
       "new_sub_level": 250,
       "oldi_rating": 1942,
       "newi_rating": 1977,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 132,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 132,
-        "pattern": 14,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-04-18T14:00:00Z",
-      "winner_group_id": 381252,
-      "winner_name": "Shane Edgar",
-      "winner_helmet": {
-        "pattern": 17,
-        "color1": "e3f302",
-        "color2": "20edf3",
-        "color3": "27ec11",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 15,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 21,
-      "points": 48,
-      "strength_of_field": 1991,
-      "subsession_id": 85095118,
-      "old_sub_level": 287,
-      "new_sub_level": 246,
-      "oldi_rating": 1963,
-      "newi_rating": 1942,
       "track": {
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
