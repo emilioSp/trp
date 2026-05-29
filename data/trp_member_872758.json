@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6114,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 132,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 132,
+        "pattern": 23,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-05-29T22:00:00Z",
+      "winner_group_id": 183913,
+      "winner_name": "Diego Acebedo",
+      "winner_helmet": {
+        "pattern": 63,
+        "color1": "faec2e",
+        "color2": "387326",
+        "color3": "3d54ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 3,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 36,
+      "laps_led": 5,
+      "incidents": 0,
+      "points": 108,
+      "strength_of_field": 1812,
+      "subsession_id": 86114696,
+      "old_sub_level": 455,
+      "new_sub_level": 477,
+      "oldi_rating": 4192,
+      "newi_rating": 4221,
+      "track": {
+        "track_id": 532,
+        "track_name": "Thruxton Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 10
+    },
+    {
       "season_id": 6113,
       "series_id": 237,
       "series_name": "GT Endurance Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6120,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 15,
-        "color1": "1C1FED",
-        "color2": "000000",
-        "color3": "F3F3F3"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-12T14:00:00Z",
-      "winner_group_id": -326853,
-      "winner_name": "VULKAN Motorsports - HY",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 3,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 101,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 80,
-      "strength_of_field": 4083,
-      "subsession_id": 84946317,
-      "old_sub_level": 358,
-      "new_sub_level": 442,
-      "oldi_rating": 4064,
-      "newi_rating": 4056,
-      "track": {
-        "track_id": 509,
-        "track_name": "Algarve International Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 872758
