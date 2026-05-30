@@ -139,7 +139,7 @@
         "track_id": 324,
         "track_name": "Tsukuba Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
