@@ -14,6 +14,54 @@
         "color3": "f6e809"
       },
       "license_level": 18,
+      "session_start_time": "2026-06-02T12:45:00Z",
+      "winner_group_id": 991220,
+      "winner_name": "Pontus Eriksson3",
+      "winner_helmet": {
+        "pattern": 27,
+        "color1": "0040ff",
+        "color2": "f0d805",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 16,
+      "start_position": 2,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 137,
+      "strength_of_field": 2423,
+      "subsession_id": 86207950,
+      "old_sub_level": 224,
+      "new_sub_level": 256,
+      "oldi_rating": 3390,
+      "newi_rating": 3445,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 11
+    },
+    {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "ffe300",
+        "color2": "ffe409",
+        "color3": "f6e809"
+      },
+      "license_level": 18,
       "session_start_time": "2026-06-02T10:45:00Z",
       "winner_group_id": 697219,
       "winner_name": "Maksim Soldatov",
@@ -43,7 +91,7 @@
         "track_id": 584,
         "track_name": "St. Petersburg Grand Prix"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 11
@@ -428,54 +476,6 @@
         "track_name": "Circuit Zandvoort"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-05-21T02:45:00Z",
-      "winner_group_id": 912685,
-      "winner_name": "Ralph Benitez Machado2",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "0559e8",
-        "color2": "5fe620",
-        "color3": "ecf70f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 9,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 123,
-      "strength_of_field": 2842,
-      "subsession_id": 85897251,
-      "old_sub_level": 356,
-      "new_sub_level": 364,
-      "oldi_rating": 3518,
-      "newi_rating": 3543,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 9
