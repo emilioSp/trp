@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-06-02T08:45:00Z",
+      "winner_group_id": 1369001,
+      "winner_name": "Christian Guethlein",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "2e358f",
+        "color3": "ec232d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 9,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 84,
+      "strength_of_field": 2182,
+      "subsession_id": 86203631,
+      "old_sub_level": 268,
+      "new_sub_level": 270,
+      "oldi_rating": 1597,
+      "newi_rating": 1644,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 11
+    },
+    {
       "season_id": 6116,
       "series_id": 594,
       "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
@@ -428,54 +476,6 @@
         "track_name": "Red Bull Ring"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 6094,
-      "series_id": 353,
-      "series_name": "Ferrari 296 Challenge",
-      "car_id": 203,
-      "car_class_id": 4082,
-      "livery": {
-        "car_id": 203,
-        "pattern": 11,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-05-07T13:15:00Z",
-      "winner_group_id": 1453388,
-      "winner_name": "Aaron Hatcher",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ec232d",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 15,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 59,
-      "strength_of_field": 1843,
-      "subsession_id": 85563249,
-      "old_sub_level": 383,
-      "new_sub_level": 392,
-      "oldi_rating": 1511,
-      "newi_rating": 1531,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 7
