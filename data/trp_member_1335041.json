@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 9,
+        "color1": "F10C17",
+        "color2": "EFD41E",
+        "color3": "1E29C9"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-06-02T14:45:00Z",
+      "winner_group_id": 1373214,
+      "winner_name": "Ben Updegraff",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "54bbdb",
+        "color2": "3bf158",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 14,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 57,
+      "strength_of_field": 1691,
+      "subsession_id": 86209805,
+      "old_sub_level": 323,
+      "new_sub_level": 321,
+      "oldi_rating": 1714,
+      "newi_rating": 1723,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 11
+    },
+    {
       "season_id": 6116,
       "series_id": 594,
       "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 7
-    },
-    {
-      "season_id": 6084,
-      "series_id": 514,
-      "series_name": "Toyota GR86 Cup by SIMAGIC",
-      "car_id": 160,
-      "car_class_id": 4012,
-      "livery": {
-        "car_id": 160,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-05-03T14:45:00Z",
-      "winner_group_id": 847603,
-      "winner_name": "Jérémy St-Cyr",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "3199d4",
-        "color2": "ed2229",
-        "color3": "e16810",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 9,
-      "start_position": 12,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 3,
-      "strength_of_field": 2232,
-      "subsession_id": 85468008,
-      "old_sub_level": 392,
-      "new_sub_level": 385,
-      "oldi_rating": 2161,
-      "newi_rating": 2070,
-      "track": {
-        "track_id": 516,
-        "track_name": "Circuito de Navarra"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1335041
