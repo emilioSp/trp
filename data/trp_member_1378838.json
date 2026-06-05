@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6111,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 2,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-06-05T20:45:00Z",
+      "winner_group_id": 1439110,
+      "winner_name": "Kohr Kevin",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ec232d",
+        "color2": "ffffff",
+        "color3": "2e358f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 9,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 69,
+      "strength_of_field": 1812,
+      "subsession_id": 86291471,
+      "old_sub_level": 244,
+      "new_sub_level": 250,
+      "oldi_rating": 1951,
+      "newi_rating": 1968,
+      "track": {
+        "track_id": 584,
+        "track_name": "St. Petersburg Grand Prix"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 11
+    },
+    {
       "season_id": 6117,
       "series_id": 595,
       "series_name": "iRacing GT3 Regional Tour - Americas",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 9,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-04-18T15:15:00Z",
-      "winner_group_id": 615182,
-      "winner_name": "Nick Arnold",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "111111",
-        "color2": "ffffff",
-        "color3": "5481fc",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 17,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 82,
-      "strength_of_field": 1956,
-      "subsession_id": 85096381,
-      "old_sub_level": 246,
-      "new_sub_level": 250,
-      "oldi_rating": 1942,
-      "newi_rating": 1977,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
