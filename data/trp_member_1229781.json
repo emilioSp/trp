@@ -13,6 +13,54 @@
         "color2": "ED1C24",
         "color3": "CFDD28"
       },
+      "license_level": 15,
+      "session_start_time": "2026-06-06T12:45:00Z",
+      "winner_group_id": 1425653,
+      "winner_name": "Romy Fleury",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 96,
+      "strength_of_field": 1670,
+      "subsession_id": 86309002,
+      "old_sub_level": 360,
+      "new_sub_level": 370,
+      "oldi_rating": 1731,
+      "newi_rating": 1811,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 11
+    },
+    {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
       "license_level": 14,
       "session_start_time": "2026-06-06T09:45:00Z",
       "winner_group_id": 1335041,
@@ -187,7 +235,7 @@
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 11
@@ -428,54 +476,6 @@
         "track_name": "Adelaide Street Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6110,
-      "series_id": 299,
-      "series_name": "iRacing Porsche Cup by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-05-26T13:45:00Z",
-      "winner_group_id": 1371917,
-      "winner_name": "Samuel Slezák",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 14,
-      "finish_position": 23,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 0,
-      "strength_of_field": 1677,
-      "subsession_id": 86031813,
-      "old_sub_level": 312,
-      "new_sub_level": 252,
-      "oldi_rating": 1509,
-      "newi_rating": 1421,
-      "track": {
-        "track_id": 580,
-        "track_name": "Adelaide Street Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
