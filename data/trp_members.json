@@ -90,16 +90,6 @@
     "iRating": 691
   },
   {
-    "id": 386839,
-    "name": "Giulio Posillico",
-    "memberSince": "2019-07-08",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 2.35,
-    "iRating": 5432
-  },
-  {
     "id": 1335041,
     "name": "Pierpaolo Aletto",
     "memberSince": "2025-09-11",
@@ -140,16 +130,6 @@
     "iRating": 3163
   },
   {
-    "id": 1221961,
-    "name": "Giaime M Cualbu",
-    "memberSince": "2025-03-27",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 4.6,
-    "iRating": 4961
-  },
-  {
     "id": 420122,
     "name": "David Pertile",
     "memberSince": "2019-12-14",
@@ -178,16 +158,6 @@
     "className": "A",
     "safetyRating": 3.81,
     "iRating": 2226
-  },
-  {
-    "id": 1279219,
-    "name": "Gabriele Rosone",
-    "memberSince": "2025-07-03",
-    "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 2.95,
-    "iRating": 5351
   },
   {
     "id": 913773,
