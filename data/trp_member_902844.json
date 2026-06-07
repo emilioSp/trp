@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 19,
+      "session_start_time": "2026-06-07T16:45:00Z",
+      "winner_group_id": 1071244,
+      "winner_name": "Alexis Balzano",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "940000",
+        "color2": "ffffff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 9,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 165,
+      "strength_of_field": 3164,
+      "subsession_id": 86339192,
+      "old_sub_level": 303,
+      "new_sub_level": 300,
+      "oldi_rating": 3395,
+      "newi_rating": 3458,
+      "track": {
+        "track_id": 18,
+        "track_name": "Road America"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 11
+    },
+    {
+      "season_id": 6124,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
       "session_start_time": "2026-06-03T16:45:00Z",
       "winner_group_id": 1412300,
       "winner_name": "Frederik Sczepan",
@@ -43,7 +91,7 @@
         "track_id": 18,
         "track_name": "Road America"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 11
@@ -423,54 +471,6 @@
       "new_sub_level": 284,
       "oldi_rating": 3483,
       "newi_rating": 3541,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 194,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 194,
-        "pattern": 14,
-        "color1": "ffffff",
-        "color2": "fa0000",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-12-24T16:00:00Z",
-      "winner_group_id": 380755,
-      "winner_name": "Pedro T Martins",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "000000",
-        "color2": "dbdbdb",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 9,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 162,
-      "strength_of_field": 3712,
-      "subsession_id": 82151303,
-      "old_sub_level": 219,
-      "new_sub_level": 242,
-      "oldi_rating": 3430,
-      "newi_rating": 3483,
       "track": {
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
