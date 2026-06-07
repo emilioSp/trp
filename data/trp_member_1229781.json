@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 15,
+      "session_start_time": "2026-06-07T06:45:00Z",
+      "winner_group_id": 1053799,
+      "winner_name": "Luis Domínguez2",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 3,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 1,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 4,
+      "strength_of_field": 1876,
+      "subsession_id": 86329049,
+      "old_sub_level": 362,
+      "new_sub_level": 327,
+      "oldi_rating": 1731,
+      "newi_rating": 1645,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 11
+    },
+    {
+      "season_id": 6118,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 156,
+      "car_class_id": 4091,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 15,
       "session_start_time": "2026-06-06T13:45:00Z",
       "winner_group_id": 430091,
       "winner_name": "Hayden Stroh",
@@ -283,7 +331,7 @@
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 11
@@ -428,54 +476,6 @@
         "track_name": "Adelaide Street Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6116,
-      "series_id": 594,
-      "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-05-26T16:45:00Z",
-      "winner_group_id": 1345369,
-      "winner_name": "Stephan McTighe",
-      "winner_helmet": {
-        "pattern": 32,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "de0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 4,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 13,
-      "incidents": 4,
-      "points": 67,
-      "strength_of_field": 1196,
-      "subsession_id": 86034704,
-      "old_sub_level": 258,
-      "new_sub_level": 269,
-      "oldi_rating": 1489,
-      "newi_rating": 1554,
-      "track": {
-        "track_id": 580,
-        "track_name": "Adelaide Street Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
