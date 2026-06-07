@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6091,
+      "series_id": 526,
+      "series_name": "Ring Meister by LVRY",
+      "car_id": 189,
+      "car_class_id": 4048,
+      "livery": {
+        "car_id": 189,
+        "pattern": 22,
+        "color1": "313131",
+        "color2": "000000",
+        "color3": "977728"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-07T21:00:00Z",
+      "winner_group_id": 264582,
+      "winner_name": "Andreas Franze",
+      "winner_helmet": {
+        "pattern": 67,
+        "color1": "f9f9f9",
+        "color2": "2a2c3d",
+        "color3": "f40000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 7,
+      "finish_position": 12,
+      "qualifying_time": 4364592,
+      "laps": 3,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 81,
+      "strength_of_field": 2091,
+      "subsession_id": 86344707,
+      "old_sub_level": 223,
+      "new_sub_level": 242,
+      "oldi_rating": 2011,
+      "newi_rating": 2037,
+      "track": {
+        "track_id": 249,
+        "track_name": "Nürburgring Nordschleife"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 11
+    },
+    {
       "season_id": 6110,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -431,54 +479,6 @@
       "season_year": 2025,
       "season_quarter": 4,
       "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 188,
-        "pattern": 0,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-11-23T22:00:00Z",
-      "winner_group_id": 872525,
-      "winner_name": "Vito Fatalino",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "17ff00",
-        "color2": "e9ff00",
-        "color3": "e3ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 12,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 80,
-      "strength_of_field": 2477,
-      "subsession_id": 81466253,
-      "old_sub_level": 308,
-      "new_sub_level": 315,
-      "oldi_rating": 2213,
-      "newi_rating": 2225,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 9
     }
   ],
   "cust_id": 885670
