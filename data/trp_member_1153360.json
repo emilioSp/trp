@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6415,
+      "series_id": 341,
+      "series_name": "13th Week Dirt Street Stock Challenge",
+      "car_id": 79,
+      "car_class_id": 86,
+      "livery": {
+        "car_id": 79,
+        "pattern": 1,
+        "color1": "f18604",
+        "color2": "000000",
+        "color3": "000000"
+      },
+      "license_level": 2,
+      "session_start_time": "2026-06-10T16:30:00Z",
+      "winner_group_id": 1449266,
+      "winner_name": "Jennie Johnstone",
+      "winner_helmet": {
+        "pattern": 19,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 2,
+      "start_position": 8,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 8,
+      "strength_of_field": 1318,
+      "subsession_id": 86394619,
+      "old_sub_level": 269,
+      "new_sub_level": 269,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 288,
+        "track_name": "Lanier National Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6124,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 319,
       "oldi_rating": 3604,
       "newi_rating": 3578,
-      "track": {
-        "track_id": 47,
-        "track_name": "[Retired] WeatherTech Raceway at Laguna Seca"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 133,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 133,
-        "pattern": 3,
-        "color1": "eaf3eb",
-        "color2": "065ff6",
-        "color3": "9dd1c6"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-05-02T12:45:00Z",
-      "winner_group_id": 1156407,
-      "winner_name": "Paulo Andrade da Silva Garcia",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "7de54c",
-        "color2": "1f2892",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 11,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 33,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 139,
-      "strength_of_field": 3375,
-      "subsession_id": 85440868,
-      "old_sub_level": 332,
-      "new_sub_level": 327,
-      "oldi_rating": 3567,
-      "newi_rating": 3604,
       "track": {
         "track_id": 47,
         "track_name": "[Retired] WeatherTech Raceway at Laguna Seca"
