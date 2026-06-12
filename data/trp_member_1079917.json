@@ -14,6 +14,54 @@
         "color3": "0a35e9"
       },
       "license_level": 20,
+      "session_start_time": "2026-06-12T12:30:00Z",
+      "winner_group_id": 1005962,
+      "winner_name": "Pit Venanzi",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "ff0000",
+        "color2": "5500ff",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 3,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 6,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 50,
+      "strength_of_field": 2677,
+      "subsession_id": 86420452,
+      "old_sub_level": 443,
+      "new_sub_level": 435,
+      "oldi_rating": 4117,
+      "newi_rating": 4061,
+      "track": {
+        "track_id": 463,
+        "track_name": "Circuit de Nevers Magny-Cours"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6431,
+      "series_id": 607,
+      "series_name": "13th Week BMW M2 Cup",
+      "car_id": 216,
+      "car_class_id": 4108,
+      "livery": {
+        "car_id": 216,
+        "pattern": 3,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 20,
       "session_start_time": "2026-06-11T19:15:00Z",
       "winner_group_id": 1299037,
       "winner_name": "Felipe Tavares3",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 8
-    },
-    {
-      "season_id": 6125,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 22,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-05-11T17:45:00Z",
-      "winner_group_id": 1054907,
-      "winner_name": "Mattia Isetta",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 18,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 93,
-      "strength_of_field": 4594,
-      "subsession_id": 85667667,
-      "old_sub_level": 427,
-      "new_sub_level": 423,
-      "oldi_rating": 4320,
-      "newi_rating": 4301,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 7
     }
   ],
   "cust_id": 1079917
