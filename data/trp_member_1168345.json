@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6412,
+      "series_id": 568,
+      "series_name": "13th Week FF1600 Series",
+      "car_id": 163,
+      "car_class_id": 4016,
+      "livery": {
+        "car_id": 163,
+        "pattern": 13,
+        "color1": "c4ff00",
+        "color2": "520152",
+        "color3": "520152"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-06-14T10:00:00Z",
+      "winner_group_id": 334218,
+      "winner_name": "Jackson Barrie",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "d3c4bb",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 5,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 91,
+      "strength_of_field": 2132,
+      "subsession_id": 86445131,
+      "old_sub_level": 280,
+      "new_sub_level": 269,
+      "oldi_rating": 2307,
+      "newi_rating": 2341,
+      "track": {
+        "track_id": 9,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6414,
       "series_id": 610,
       "series_name": "13th Week FIA F4 Challenge",
@@ -428,54 +476,6 @@
         "track_name": "Tsukuba Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6083,
-      "series_id": 571,
-      "series_name": "BMW M2 Cup",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 7,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-05-31T12:15:00Z",
-      "winner_group_id": 1346338,
-      "winner_name": "Galder P Fer",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "ffffff",
-        "color2": "ebba51",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 140,
-      "strength_of_field": 2681,
-      "subsession_id": 86155482,
-      "old_sub_level": 370,
-      "new_sub_level": 382,
-      "oldi_rating": 2636,
-      "newi_rating": 2714,
-      "track": {
-        "track_id": 324,
-        "track_name": "Tsukuba Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
