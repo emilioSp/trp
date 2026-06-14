@@ -14,6 +14,54 @@
         "color3": "520152"
       },
       "license_level": 6,
+      "session_start_time": "2026-06-14T16:15:00Z",
+      "winner_group_id": 1445316,
+      "winner_name": "Louka Fouquet",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "00178c",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 7,
+      "start_position": 1,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 2,
+      "incidents": 1,
+      "points": 125,
+      "strength_of_field": 2219,
+      "subsession_id": 86449021,
+      "old_sub_level": 273,
+      "new_sub_level": 283,
+      "oldi_rating": 2371,
+      "newi_rating": 2448,
+      "track": {
+        "track_id": 9,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 2,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6412,
+      "series_id": 568,
+      "series_name": "13th Week FF1600 Series",
+      "car_id": 163,
+      "car_class_id": 4016,
+      "livery": {
+        "car_id": 163,
+        "pattern": 13,
+        "color1": "c4ff00",
+        "color2": "520152",
+        "color3": "520152"
+      },
+      "license_level": 6,
       "session_start_time": "2026-06-14T15:45:00Z",
       "winner_group_id": 413596,
       "winner_name": "Javier Casero romo",
@@ -91,7 +139,7 @@
         "track_id": 9,
         "track_name": "Summit Point Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
-    },
-    {
-      "season_id": 6083,
-      "series_id": 571,
-      "series_name": "BMW M2 Cup",
-      "car_id": 195,
-      "car_class_id": 4073,
-      "livery": {
-        "car_id": 195,
-        "pattern": 7,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-05-31T13:45:00Z",
-      "winner_group_id": 1168345,
-      "winner_name": "Federico Gallini2",
-      "winner_helmet": {
-        "pattern": 23,
-        "color1": "001b56",
-        "color2": "ffffff",
-        "color3": "cf0715",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 2,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 12,
-      "incidents": 4,
-      "points": 131,
-      "strength_of_field": 2262,
-      "subsession_id": 86157030,
-      "old_sub_level": 399,
-      "new_sub_level": 397,
-      "oldi_rating": 2738,
-      "newi_rating": 2814,
-      "track": {
-        "track_id": 324,
-        "track_name": "Tsukuba Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1168345
