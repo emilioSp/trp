@@ -14,9 +14,9 @@
     "name": "Michele Trillo",
     "memberSince": "2022-01-30",
     "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 1.37,
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 2.37,
     "iRating": 2504
   },
   {
@@ -44,9 +44,9 @@
     "name": "Emanuelec Marsilla",
     "memberSince": "2025-04-13",
     "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 3.27,
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.27,
     "iRating": 1645
   },
   {
@@ -54,9 +54,9 @@
     "name": "Federico Gallini2",
     "memberSince": "2024-12-25",
     "country": "Italy",
-    "classOrder": 3,
-    "className": "C",
-    "safetyRating": 3.97,
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 2.97,
     "iRating": 2814
   },
   {
@@ -104,9 +104,9 @@
     "name": "Pierpaolo Aletto",
     "memberSince": "2025-09-11",
     "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 3.64,
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.64,
     "iRating": 2105
   },
   {
