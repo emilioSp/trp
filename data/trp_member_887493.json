@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 19,
+      "session_start_time": "2026-06-17T15:00:00Z",
+      "winner_group_id": 684318,
+      "winner_name": "Constantin Gross",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "ee3442",
+        "color3": "447ac0",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 143,
+      "strength_of_field": 2564,
+      "subsession_id": 86513856,
+      "old_sub_level": 385,
+      "new_sub_level": 442,
+      "oldi_rating": 2879,
+      "newi_rating": 2954,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6306,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 127,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 127,
+        "pattern": 5,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
       "session_start_time": "2026-06-16T23:00:00Z",
       "winner_group_id": 487335,
       "winner_name": "Manuel Novoa",
@@ -43,7 +91,7 @@
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6119,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 102,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 102,
-        "pattern": 0,
-        "color1": "d4d81b",
-        "color2": "d1e300",
-        "color3": "000000"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-03-23T01:00:00Z",
-      "winner_group_id": 588418,
-      "winner_name": "Afonso Reis",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 4,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 31,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 142,
-      "strength_of_field": 2945,
-      "subsession_id": 84421836,
-      "old_sub_level": 422,
-      "new_sub_level": 451,
-      "oldi_rating": 2811,
-      "newi_rating": 2873,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 887493
