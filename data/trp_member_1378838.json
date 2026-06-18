@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6266,
+      "series_id": 571,
+      "series_name": "BMW M2 Cup",
+      "car_id": 216,
+      "car_class_id": 4108,
+      "livery": {
+        "car_id": 216,
+        "pattern": 3,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-06-18T20:15:00Z",
+      "winner_group_id": 1052337,
+      "winner_name": "Calvin Campbell",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "00fff0",
+        "color2": "ffffff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 8,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 64,
+      "strength_of_field": 2023,
+      "subsession_id": 86547054,
+      "old_sub_level": 233,
+      "new_sub_level": 228,
+      "oldi_rating": 1953,
+      "newi_rating": 1964,
+      "track": {
+        "track_id": 166,
+        "track_name": "Okayama International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6110,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -428,54 +476,6 @@
         "track_name": "Fuji International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 7,
-        "color1": "2E358F",
-        "color2": "EC232D",
-        "color3": "0A0A0A"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-04-26T21:15:00Z",
-      "winner_group_id": 1263892,
-      "winner_name": "Art Pyrov",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "0a0a0a",
-        "color2": "404040",
-        "color3": "52b5f6",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 5,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 3,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 6,
-      "strength_of_field": 1827,
-      "subsession_id": 85301958,
-      "old_sub_level": 241,
-      "new_sub_level": 229,
-      "oldi_rating": 1898,
-      "newi_rating": 1812,
-      "track": {
-        "track_id": 444,
-        "track_name": "Fuji International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
