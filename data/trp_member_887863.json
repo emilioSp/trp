@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6306,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 127,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 127,
+        "pattern": 0,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-06-18T15:00:00Z",
+      "winner_group_id": 372451,
+      "winner_name": "Vince Scorsad",
+      "winner_helmet": {
+        "pattern": 32,
+        "color1": "000000",
+        "color2": "d34e12",
+        "color3": "efa752",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 5,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 73,
+      "strength_of_field": 2820,
+      "subsession_id": 86539451,
+      "old_sub_level": 324,
+      "new_sub_level": 329,
+      "oldi_rating": 2593,
+      "newi_rating": 2592,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 5925,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 376,
       "oldi_rating": 2556,
       "newi_rating": 2511,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 18,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-05T18:00:00Z",
-      "winner_group_id": 328982,
-      "winner_name": "Quentin Guilbaud",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "efd600",
-        "color2": "111111",
-        "color3": "d7162d",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 5,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 113,
-      "strength_of_field": 2245,
-      "subsession_id": 81745833,
-      "old_sub_level": 388,
-      "new_sub_level": 384,
-      "oldi_rating": 2506,
-      "newi_rating": 2556,
       "track": {
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
