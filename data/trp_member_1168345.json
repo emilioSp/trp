@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6319,
+      "series_id": 498,
+      "series_name": "FIA Formula 4 Challenge - Fixed",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "cf0715"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-06-18T17:00:00Z",
+      "winner_group_id": 1369797,
+      "winner_name": "Daniel Achilles",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "dbff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 10,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 75,
+      "strength_of_field": 2608,
+      "subsession_id": 86541584,
+      "old_sub_level": 283,
+      "new_sub_level": 279,
+      "oldi_rating": 2448,
+      "newi_rating": 2450,
+      "track": {
+        "track_id": 345,
+        "track_name": "Circuit de Barcelona Catalunya"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6412,
       "series_id": 568,
       "series_name": "13th Week FF1600 Series",
@@ -428,54 +476,6 @@
         "track_name": "Summit Point Raceway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6414,
-      "series_id": 610,
-      "series_name": "13th Week FIA F4 Challenge",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "cf0715"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-06-11T12:00:00Z",
-      "winner_group_id": 396419,
-      "winner_name": "Marco González",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "ffff00",
-        "color2": "ec1212",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 7,
-      "start_position": 16,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 52,
-      "strength_of_field": 2567,
-      "subsession_id": 86405266,
-      "old_sub_level": 257,
-      "new_sub_level": 258,
-      "oldi_rating": 2238,
-      "newi_rating": 2219,
-      "track": {
-        "track_id": 181,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
