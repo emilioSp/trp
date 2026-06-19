@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6301,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 18,
+        "color1": "ebff00",
+        "color2": "7ce632",
+        "color3": "000000"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-19T22:00:00Z",
+      "winner_group_id": 380858,
+      "winner_name": "christophe Heyvaert",
+      "winner_helmet": {
+        "pattern": 37,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 5,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 110,
+      "strength_of_field": 1992,
+      "subsession_id": 86575140,
+      "old_sub_level": 222,
+      "new_sub_level": 225,
+      "oldi_rating": 2055,
+      "newi_rating": 2126,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6302,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -91,7 +139,7 @@
         "track_id": 434,
         "track_name": "Watkins Glen International"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
@@ -423,54 +471,6 @@
       "new_sub_level": 328,
       "oldi_rating": 2259,
       "newi_rating": 2222,
-      "track": {
-        "track_id": 444,
-        "track_name": "Fuji International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 20,
-        "color1": "1a1a1a",
-        "color2": "e54b33",
-        "color3": "1a1a1a"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-25T09:15:00Z",
-      "winner_group_id": 1381542,
-      "winner_name": "Marvin Kühr",
-      "winner_helmet": {
-        "pattern": 46,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 16,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 50,
-      "strength_of_field": 2390,
-      "subsession_id": 85262022,
-      "old_sub_level": 342,
-      "new_sub_level": 327,
-      "oldi_rating": 2282,
-      "newi_rating": 2259,
       "track": {
         "track_id": 444,
         "track_name": "Fuji International Speedway"
