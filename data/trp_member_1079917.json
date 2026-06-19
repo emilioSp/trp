@@ -14,6 +14,54 @@
         "color3": "12e6ec"
       },
       "license_level": 19,
+      "session_start_time": "2026-06-19T12:45:00Z",
+      "winner_group_id": 703434,
+      "winner_name": "Andrew Pike2",
+      "winner_helmet": {
+        "pattern": 36,
+        "color1": "078632",
+        "color2": "0a0a0a",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 5,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 120,
+      "strength_of_field": 2670,
+      "subsession_id": 86564895,
+      "old_sub_level": 312,
+      "new_sub_level": 317,
+      "oldi_rating": 3920,
+      "newi_rating": 3942,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6284,
+      "series_id": 430,
+      "series_name": "TCR Virtual Challenge - Fixed",
+      "car_id": 153,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 153,
+        "pattern": 17,
+        "color1": "797a7c",
+        "color2": "c9e80d",
+        "color3": "12e6ec"
+      },
+      "license_level": 19,
       "session_start_time": "2026-06-18T20:45:00Z",
       "winner_group_id": 992678,
       "winner_name": "Andrea Emanuele Sapuppo",
@@ -43,7 +91,7 @@
         "track_id": 180,
         "track_name": "Oulton Park Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6134,
-      "series_id": 541,
-      "series_name": "FIA F4 Esports Regional Tour - America",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 14,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-06-03T19:15:00Z",
-      "winner_group_id": 1258266,
-      "winner_name": "Harry Simon",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "ff0000",
-        "color2": "000000",
-        "color3": "f70707",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 7,
-      "start_position": 10,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 18,
-      "points": 4,
-      "strength_of_field": 1680,
-      "subsession_id": 86239576,
-      "old_sub_level": 257,
-      "new_sub_level": 233,
-      "oldi_rating": 1859,
-      "newi_rating": 1766,
-      "track": {
-        "track_id": 47,
-        "track_name": "[Retired] WeatherTech Raceway at Laguna Seca"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1079917
