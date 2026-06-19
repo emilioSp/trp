@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6298,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-19T16:45:00Z",
+      "winner_group_id": 1147081,
+      "winner_name": "Douglas Quintanilha",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "8f0000",
+        "color2": "ffffff",
+        "color3": "521f1f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 23,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 52,
+      "strength_of_field": 2352,
+      "subsession_id": 86568918,
+      "old_sub_level": 264,
+      "new_sub_level": 260,
+      "oldi_rating": 2105,
+      "newi_rating": 2088,
+      "track": {
+        "track_id": 465,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6118,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-05-18T16:00:00Z",
-      "winner_group_id": 1091420,
-      "winner_name": "Lukas Kern",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "000000",
-        "color2": "ffeb02",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 1,
-      "finish_position": 25,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 2,
-      "strength_of_field": 1872,
-      "subsession_id": 85834720,
-      "old_sub_level": 356,
-      "new_sub_level": 323,
-      "oldi_rating": 1841,
-      "newi_rating": 1747,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 8
     }
   ],
   "cust_id": 1335041
