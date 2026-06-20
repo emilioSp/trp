@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6436,
+      "series_id": 280,
+      "series_name": "6 Hours of the Glen",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-06-20T12:00:00Z",
+      "winner_group_id": -61124,
+      "winner_name": "IPM Gold",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 2,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 102,
+      "laps_led": 0,
+      "incidents": 15,
+      "points": 149,
+      "strength_of_field": 3988,
+      "subsession_id": 86589323,
+      "old_sub_level": 322,
+      "new_sub_level": 344,
+      "oldi_rating": 3377,
+      "newi_rating": 3387,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6411,
       "series_id": 449,
       "series_name": "13th Week GT3 Challenge - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
-    },
-    {
-      "season_id": 6120,
-      "series_id": 331,
-      "series_name": "Global Endurance Tour",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 17,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "000000"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-04-26T14:00:00Z",
-      "winner_group_id": -187367,
-      "winner_name": "CASINO Mouth Team",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 1,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 164,
-      "strength_of_field": 3255,
-      "subsession_id": 85293246,
-      "old_sub_level": 446,
-      "new_sub_level": 454,
-      "oldi_rating": 3182,
-      "newi_rating": 3189,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
     }
   ],
   "cust_id": 1138706

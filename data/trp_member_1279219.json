@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6436,
+      "series_id": 280,
+      "series_name": "6 Hours of the Glen",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "0003ff",
+        "color3": "ffffff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-20T12:00:00Z",
+      "winner_group_id": -61124,
+      "winner_name": "IPM Gold",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 2,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 97,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 149,
+      "strength_of_field": 3988,
+      "subsession_id": 86589323,
+      "old_sub_level": 220,
+      "new_sub_level": 282,
+      "oldi_rating": 5230,
+      "newi_rating": 5240,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6311,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 133,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 133,
-        "pattern": 8,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-05-21T21:15:00Z",
-      "winner_group_id": 601751,
-      "winner_name": "Fran Labrada",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "f1732e",
-        "color2": "ffffff",
-        "color3": "372a75",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 198,
-      "strength_of_field": 3700,
-      "subsession_id": 85914896,
-      "old_sub_level": 281,
-      "new_sub_level": 295,
-      "oldi_rating": 5304,
-      "newi_rating": 5351,
-      "track": {
-        "track_id": 463,
-        "track_name": "Circuit de Nevers Magny-Cours"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 9
     }
   ],
   "cust_id": 1279219

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6436,
+      "series_id": 280,
+      "series_name": "6 Hours of the Glen",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 11,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-06-20T12:00:00Z",
+      "winner_group_id": -519225,
+      "winner_name": "KRT SE Rogue",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 27,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 100,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 126,
+      "strength_of_field": 2487,
+      "subsession_id": 86589329,
+      "old_sub_level": 381,
+      "new_sub_level": 468,
+      "oldi_rating": 2226,
+      "newi_rating": 2257,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6351,
       "series_id": 538,
       "series_name": "Draft Master Challenge by Simagic",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
-    },
-    {
-      "season_id": 6126,
-      "series_id": 455,
-      "series_name": "Formula Vee Series by trophi.ai",
-      "car_id": 142,
-      "car_class_id": 3002,
-      "livery": {
-        "car_id": 142,
-        "pattern": 22,
-        "color1": "a50e0e",
-        "color2": "072ae1",
-        "color3": "320548"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-05-23T08:30:00Z",
-      "winner_group_id": 679831,
-      "winner_name": "Hervé Saint-Orens",
-      "winner_helmet": {
-        "pattern": 23,
-        "color1": "e90a0a",
-        "color2": "0416bd",
-        "color3": "f1e5ea",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 8,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 102,
-      "strength_of_field": 1922,
-      "subsession_id": 85950395,
-      "old_sub_level": 245,
-      "new_sub_level": 249,
-      "oldi_rating": 2639,
-      "newi_rating": 2692,
-      "track": {
-        "track_id": 467,
-        "track_name": "Virginia International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 9
     }
   ],
   "cust_id": 950353
