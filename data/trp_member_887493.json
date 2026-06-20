@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 20,
+      "session_start_time": "2026-06-20T13:00:00Z",
+      "winner_group_id": 372451,
+      "winner_name": "Vince Scorsad",
+      "winner_helmet": {
+        "pattern": 32,
+        "color1": "000000",
+        "color2": "d34e12",
+        "color3": "efa752",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 5,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 114,
+      "strength_of_field": 2034,
+      "subsession_id": 86590255,
+      "old_sub_level": 415,
+      "new_sub_level": 416,
+      "oldi_rating": 3122,
+      "newi_rating": 3171,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6306,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 127,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 127,
+        "pattern": 5,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 20,
       "session_start_time": "2026-06-20T09:00:00Z",
       "winner_group_id": 887493,
       "winner_name": "Massimiliano D'Agata",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 184,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 184,
-        "pattern": 0,
-        "color1": "d4d81b",
-        "color2": "d1e300",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-03-29T16:00:00Z",
-      "winner_group_id": 1043232,
-      "winner_name": "Matt Schultz4",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "111111",
-        "color2": "0e5702",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 5,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 144,
-      "strength_of_field": 2602,
-      "subsession_id": 84590558,
-      "old_sub_level": 343,
-      "new_sub_level": 370,
-      "oldi_rating": 2821,
-      "newi_rating": 2889,
-      "track": {
-        "track_id": 95,
-        "track_name": "Sebring International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 887493
