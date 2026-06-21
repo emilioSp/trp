@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6272,
+      "series_id": 519,
+      "series_name": "Renault Clio Cup",
+      "car_id": 162,
+      "car_class_id": 4015,
+      "livery": {
+        "car_id": 162,
+        "pattern": 3,
+        "color1": "ffffff",
+        "color2": "03d6f8",
+        "color3": "0800ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-06-21T16:00:00Z",
+      "winner_group_id": 934974,
+      "winner_name": "Márk Bérces",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "ffffff",
+        "color2": "ff0000",
+        "color3": "026600",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 4,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 91,
+      "strength_of_field": 1656,
+      "subsession_id": 86619522,
+      "old_sub_level": 372,
+      "new_sub_level": 376,
+      "oldi_rating": 4343,
+      "newi_rating": 4356,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6284,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -139,7 +187,7 @@
         "track_id": 180,
         "track_name": "Oulton Park Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
@@ -423,54 +471,6 @@
       "new_sub_level": 378,
       "oldi_rating": 4195,
       "newi_rating": 4243,
-      "track": {
-        "track_id": 532,
-        "track_name": "Thruxton Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6098,
-      "series_id": 503,
-      "series_name": "TCR Virtual Challenge",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-05-31T09:45:00Z",
-      "winner_group_id": 970331,
-      "winner_name": "Salvatore Gueli",
-      "winner_helmet": {
-        "pattern": 17,
-        "color1": "00ffbf",
-        "color2": "8b21ed",
-        "color3": "d9ffdd",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 13,
-      "incidents": 1,
-      "points": 118,
-      "strength_of_field": 2150,
-      "subsession_id": 86152737,
-      "old_sub_level": 370,
-      "new_sub_level": 375,
-      "oldi_rating": 4156,
-      "newi_rating": 4195,
       "track": {
         "track_id": 532,
         "track_name": "Thruxton Circuit"
