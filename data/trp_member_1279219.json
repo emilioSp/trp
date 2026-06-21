@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6266,
+      "series_id": 571,
+      "series_name": "BMW M2 Cup",
+      "car_id": 216,
+      "car_class_id": 4108,
+      "livery": {
+        "car_id": 216,
+        "pattern": 3,
+        "color1": "135324",
+        "color2": "111111",
+        "color3": "535353"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-21T20:45:00Z",
+      "winner_group_id": 987597,
+      "winner_name": "Logan McAlister",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ea0404",
+        "color2": "ffffff",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 1,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 165,
+      "strength_of_field": 3234,
+      "subsession_id": 86625365,
+      "old_sub_level": 282,
+      "new_sub_level": 259,
+      "oldi_rating": 5240,
+      "newi_rating": 5272,
+      "track": {
+        "track_id": 166,
+        "track_name": "Okayama International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6436,
       "series_id": 280,
       "series_name": "6 Hours of the Glen",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6411,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 133,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 133,
-        "pattern": 8,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-06-11T20:15:00Z",
-      "winner_group_id": 1136370,
-      "winner_name": "R. Rico Rodrigo",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "ffffff",
-        "color2": "f90d35",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 9,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 173,
-      "strength_of_field": 3734,
-      "subsession_id": 86412410,
-      "old_sub_level": 295,
-      "new_sub_level": 273,
-      "oldi_rating": 5351,
-      "newi_rating": 5367,
-      "track": {
-        "track_id": 433,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
     }
   ],
   "cust_id": 1279219
