@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6322,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 14,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-06-22T21:45:00Z",
+      "winner_group_id": 1062932,
+      "winner_name": "Gregory Kohler",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "ffffff",
+        "color2": "c2c2c2",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 8,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 87,
+      "strength_of_field": 1588,
+      "subsession_id": 86650420,
+      "old_sub_level": 236,
+      "new_sub_level": 246,
+      "oldi_rating": 1848,
+      "newi_rating": 1911,
+      "track": {
+        "track_id": 199,
+        "track_name": "Circuit Zolder"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6284,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
-    },
-    {
-      "season_id": 6431,
-      "series_id": 607,
-      "series_name": "13th Week BMW M2 Cup",
-      "car_id": 216,
-      "car_class_id": 4108,
-      "livery": {
-        "car_id": 216,
-        "pattern": 3,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-06-12T12:30:00Z",
-      "winner_group_id": 1005962,
-      "winner_name": "Pit Venanzi",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "ff0000",
-        "color2": "5500ff",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 3,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 50,
-      "strength_of_field": 2677,
-      "subsession_id": 86420452,
-      "old_sub_level": 443,
-      "new_sub_level": 435,
-      "oldi_rating": 4117,
-      "newi_rating": 4061,
-      "track": {
-        "track_id": 463,
-        "track_name": "Circuit de Nevers Magny-Cours"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1079917

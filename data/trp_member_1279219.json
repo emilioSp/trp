@@ -14,6 +14,54 @@
         "color3": "535353"
       },
       "license_level": 18,
+      "session_start_time": "2026-06-22T21:45:00Z",
+      "winner_group_id": 1221961,
+      "winner_name": "Giaime M Cualbu",
+      "winner_helmet": {
+        "pattern": 8,
+        "color1": "0400ff",
+        "color2": "391010",
+        "color3": "af1010",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 5,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 136,
+      "strength_of_field": 3330,
+      "subsession_id": 86650363,
+      "old_sub_level": 255,
+      "new_sub_level": 253,
+      "oldi_rating": 5375,
+      "newi_rating": 5376,
+      "track": {
+        "track_id": 166,
+        "track_name": "Okayama International Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6266,
+      "series_id": 571,
+      "series_name": "BMW M2 Cup",
+      "car_id": 216,
+      "car_class_id": 4108,
+      "livery": {
+        "car_id": 216,
+        "pattern": 3,
+        "color1": "135324",
+        "color2": "111111",
+        "color3": "535353"
+      },
+      "license_level": 18,
       "session_start_time": "2026-06-22T21:15:00Z",
       "winner_group_id": 1279219,
       "winner_name": "Gabriele Rosone",
@@ -187,7 +235,7 @@
         "track_id": 166,
         "track_name": "Okayama International Circuit"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
@@ -428,54 +476,6 @@
         "track_name": "Watkins Glen International"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6301,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 133,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 133,
-        "pattern": 8,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-06-17T22:00:00Z",
-      "winner_group_id": 854495,
-      "winner_name": "Adam Michalczenko",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "fffcfc",
-        "color2": "efefef",
-        "color3": "ff1616",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 6,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 201,
-      "strength_of_field": 3861,
-      "subsession_id": 86521915,
-      "old_sub_level": 248,
-      "new_sub_level": 254,
-      "oldi_rating": 5298,
-      "newi_rating": 5340,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
