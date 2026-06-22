@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6302,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 133,
+        "pattern": 1,
+        "color1": "F7F7F7",
+        "color2": "FEFEFE",
+        "color3": "EEEEEE"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-22T01:15:00Z",
+      "winner_group_id": 137605,
+      "winner_name": "Diego Krug",
+      "winner_helmet": {
+        "pattern": 64,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 4,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 115,
+      "strength_of_field": 3174,
+      "subsession_id": 86630691,
+      "old_sub_level": 256,
+      "new_sub_level": 214,
+      "oldi_rating": 3445,
+      "newi_rating": 3461,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6111,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -428,54 +476,6 @@
         "track_name": "Circuit Zandvoort"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-05-22T02:45:00Z",
-      "winner_group_id": 244232,
-      "winner_name": "Juan Felipe Ochoa",
-      "winner_helmet": {
-        "pattern": 4,
-        "color1": "ffffff",
-        "color2": "7de54c",
-        "color3": "1f2892",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 2,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 135,
-      "strength_of_field": 2652,
-      "subsession_id": 85921199,
-      "old_sub_level": 364,
-      "new_sub_level": 356,
-      "oldi_rating": 3543,
-      "newi_rating": 3585,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 9
