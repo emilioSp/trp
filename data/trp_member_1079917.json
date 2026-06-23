@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6311,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 169,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 169,
+        "pattern": 23,
+        "color1": "595c5c",
+        "color2": "cbe81e",
+        "color3": "790ce6"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-06-23T12:45:00Z",
+      "winner_group_id": 61411,
+      "winner_name": "Emil Bernstorff",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "ffe326",
+        "color2": "000000",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 6,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 25,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 135,
+      "strength_of_field": 2454,
+      "subsession_id": 86666955,
+      "old_sub_level": 342,
+      "new_sub_level": 321,
+      "oldi_rating": 3839,
+      "newi_rating": 3885,
+      "track": {
+        "track_id": 195,
+        "track_name": "Mobility Resort Motegi"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6322,
       "series_id": 542,
       "series_name": "FIA F4 Esports Regional Tour - Europe",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6411,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 156,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 156,
-        "pattern": 22,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-06-15T19:45:00Z",
-      "winner_group_id": 939279,
-      "winner_name": "Francisco Camilo",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "f06e34",
-        "color2": "ffffff",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 21,
-      "finish_position": 27,
-      "qualifying_time": 0,
-      "laps": 5,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 8,
-      "strength_of_field": 3538,
-      "subsession_id": 86464329,
-      "old_sub_level": 435,
-      "new_sub_level": 400,
-      "oldi_rating": 4061,
-      "newi_rating": 3964,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1079917
