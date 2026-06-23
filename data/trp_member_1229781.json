@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6298,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-23T14:45:00Z",
+      "winner_group_id": 1494031,
+      "winner_name": "Diego Espino",
+      "winner_helmet": {
+        "pattern": 3,
+        "color1": "ffffff",
+        "color2": "fffd0b",
+        "color3": "ff009d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 12,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 44,
+      "strength_of_field": 1639,
+      "subsession_id": 86668773,
+      "old_sub_level": 227,
+      "new_sub_level": 234,
+      "oldi_rating": 1645,
+      "newi_rating": 1633,
+      "track": {
+        "track_id": 444,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6118,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 11
-    },
-    {
-      "season_id": 6116,
-      "series_id": 594,
-      "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-05-27T13:45:00Z",
-      "winner_group_id": 1268189,
-      "winner_name": "Yannick Prillwitz",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "ffbf00",
-        "color2": "000000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 13,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 83,
-      "strength_of_field": 2621,
-      "subsession_id": 86056740,
-      "old_sub_level": 269,
-      "new_sub_level": 268,
-      "oldi_rating": 1554,
-      "newi_rating": 1597,
-      "track": {
-        "track_id": 580,
-        "track_name": "Adelaide Street Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1229781
