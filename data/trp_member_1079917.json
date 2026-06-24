@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6311,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 22,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-06-24T12:45:00Z",
+      "winner_group_id": 1228805,
+      "winner_name": "Téo Gigandet",
+      "winner_helmet": {
+        "pattern": 7,
+        "color1": "ff0000",
+        "color2": "0030ff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 7,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 25,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 121,
+      "strength_of_field": 2331,
+      "subsession_id": 86691929,
+      "old_sub_level": 322,
+      "new_sub_level": 328,
+      "oldi_rating": 3861,
+      "newi_rating": 3888,
+      "track": {
+        "track_id": 195,
+        "track_name": "Mobility Resort Motegi"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6312,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 539,
         "track_name": "Miami International Autodrome"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6312,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 0,
-        "color1": "636468",
-        "color2": "d7ed21",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-06-16T19:45:00Z",
-      "winner_group_id": 1003759,
-      "winner_name": "Andrea Muscolino",
-      "winner_helmet": {
-        "pattern": 48,
-        "color1": "000000",
-        "color2": "21e501",
-        "color3": "6401bc",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 13,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 146,
-      "strength_of_field": 3747,
-      "subsession_id": 86492984,
-      "old_sub_level": 345,
-      "new_sub_level": 324,
-      "oldi_rating": 3930,
-      "newi_rating": 3958,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
       },
       "drop_race": false,
       "season_year": 2026,
