@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6305,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 7,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-06-24T20:45:00Z",
+      "winner_group_id": 1190523,
+      "winner_name": "Giovanni Quaggia",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "2d2727",
+        "color2": "1c1b1f",
+        "color3": "241e1e",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 13,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 16,
+      "points": 58,
+      "strength_of_field": 2211,
+      "subsession_id": 86700098,
+      "old_sub_level": 206,
+      "new_sub_level": 150,
+      "oldi_rating": 1970,
+      "newi_rating": 1968,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6266,
       "series_id": 571,
       "series_name": "BMW M2 Cup",
@@ -423,54 +471,6 @@
       "new_sub_level": 203,
       "oldi_rating": 1916,
       "newi_rating": 1853,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6118,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 7,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-05-03T14:45:00Z",
-      "winner_group_id": 1157564,
-      "winner_name": "Riccardo Brambilla2",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "ff1919",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 9,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 15,
-      "points": 87,
-      "strength_of_field": 1811,
-      "subsession_id": 85468065,
-      "old_sub_level": 224,
-      "new_sub_level": 209,
-      "oldi_rating": 1863,
-      "newi_rating": 1916,
       "track": {
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
