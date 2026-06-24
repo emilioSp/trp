@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6351,
+      "series_id": 538,
+      "series_name": "Draft Master Challenge by Simagic",
+      "car_id": 139,
+      "car_class_id": 4040,
+      "livery": {
+        "car_id": 139,
+        "pattern": 12,
+        "color1": "000000",
+        "color2": "320A5A",
+        "color3": "0F1562"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-24T17:30:00Z",
+      "winner_group_id": 1202723,
+      "winner_name": "James Jakobowski",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "0047ff",
+        "color2": "0646ff",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 15,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 16,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 77,
+      "strength_of_field": 2208,
+      "subsession_id": 86696449,
+      "old_sub_level": 224,
+      "new_sub_level": 232,
+      "oldi_rating": 1642,
+      "newi_rating": 1676,
+      "track": {
+        "track_id": 116,
+        "track_name": "Talladega Superspeedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6436,
       "series_id": 280,
       "series_name": "6 Hours of the Glen",
@@ -423,54 +471,6 @@
       "new_sub_level": 358,
       "oldi_rating": 1280,
       "newi_rating": 1332,
-      "track": {
-        "track_id": 582,
-        "track_name": "Winton Motor Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6206,
-      "series_id": 599,
-      "series_name": "FIA Cross Car Championship",
-      "car_id": 207,
-      "car_class_id": 4092,
-      "livery": {
-        "car_id": 207,
-        "pattern": 18,
-        "color1": "000000",
-        "color2": "320A5A",
-        "color3": "0F1562"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-06-01T20:45:00Z",
-      "winner_group_id": 1388435,
-      "winner_name": "Janis Baumanis",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "ffffff",
-        "color2": "00c27e",
-        "color3": "07af0e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 8,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 22,
-      "strength_of_field": 1406,
-      "subsession_id": 86190312,
-      "old_sub_level": 357,
-      "new_sub_level": 356,
-      "oldi_rating": 1312,
-      "newi_rating": 1280,
       "track": {
         "track_id": 582,
         "track_name": "Winton Motor Raceway"
