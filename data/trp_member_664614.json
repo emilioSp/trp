@@ -13,6 +13,54 @@
         "color2": "FEFEFE",
         "color3": "EEEEEE"
       },
+      "license_level": 17,
+      "session_start_time": "2026-06-25T11:15:00Z",
+      "winner_group_id": 253165,
+      "winner_name": "Jarrod Hughes",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "ffffff",
+        "color2": "003aff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 8,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 32,
+      "strength_of_field": 2907,
+      "subsession_id": 86714404,
+      "old_sub_level": 144,
+      "new_sub_level": 137,
+      "oldi_rating": 3435,
+      "newi_rating": 3363,
+      "track": {
+        "track_id": 202,
+        "track_name": "Oran Park Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 6302,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 133,
+        "pattern": 1,
+        "color1": "F7F7F7",
+        "color2": "FEFEFE",
+        "color3": "EEEEEE"
+      },
       "license_level": 18,
       "session_start_time": "2026-06-22T23:15:00Z",
       "winner_group_id": 1036423,
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
-    },
-    {
-      "season_id": 6156,
-      "series_id": 564,
-      "series_name": "Mini Stock Rookie Series by Thrustmaster",
-      "car_id": 191,
-      "car_class_id": 4069,
-      "livery": {
-        "car_id": 191,
-        "pattern": 2,
-        "color1": "ff0000",
-        "color2": "ff0000",
-        "color3": "ff0000"
-      },
-      "license_level": 2,
-      "session_start_time": "2026-05-25T16:15:00Z",
-      "winner_group_id": 664614,
-      "winner_name": "Davide Iozia",
-      "winner_helmet": {
-        "pattern": 43,
-        "color1": "f7f7f7",
-        "color2": "fefefe",
-        "color3": "eeeeee",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 3,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 15,
-      "incidents": 2,
-      "points": 74,
-      "strength_of_field": 1235,
-      "subsession_id": 86008584,
-      "old_sub_level": 268,
-      "new_sub_level": 275,
-      "oldi_rating": -1,
-      "newi_rating": -1,
-      "track": {
-        "track_id": 556,
-        "track_name": "Charlotte Motor Speedway "
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 9
     }
   ],
   "cust_id": 664614
