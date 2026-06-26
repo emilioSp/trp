@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6358,
+      "series_id": 164,
+      "series_name": "NASCAR Class C Series - Fixed",
+      "car_id": 123,
+      "car_class_id": 71,
+      "livery": {
+        "car_id": 123,
+        "pattern": 20,
+        "color1": "000000",
+        "color2": "320A5A",
+        "color3": "0F1562"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-26T19:15:00Z",
+      "winner_group_id": 1078968,
+      "winner_name": "Kelly Moody",
+      "winner_helmet": {
+        "pattern": 7,
+        "color1": "ff8200",
+        "color2": "ffffff",
+        "color3": "1400ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 5,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 35,
+      "strength_of_field": 1688,
+      "subsession_id": 86746422,
+      "old_sub_level": 232,
+      "new_sub_level": 213,
+      "oldi_rating": 1676,
+      "newi_rating": 1645,
+      "track": {
+        "track_id": 191,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6351,
       "series_id": 538,
       "series_name": "Draft Master Challenge by Simagic",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6207,
-      "series_id": 459,
-      "series_name": "VW Lite iRX Rookie Series by Trak Racer",
-      "car_id": 138,
-      "car_class_id": 3001,
-      "livery": {
-        "car_id": 138,
-        "pattern": 14,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-06-01T21:15:00Z",
-      "winner_group_id": 1495003,
-      "winner_name": "Cedric Skalitzki",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "000000",
-        "color2": "a717eb",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 1,
-      "incidents": 2,
-      "points": 57,
-      "strength_of_field": 1337,
-      "subsession_id": 86190890,
-      "old_sub_level": 356,
-      "new_sub_level": 358,
-      "oldi_rating": 1280,
-      "newi_rating": 1332,
-      "track": {
-        "track_id": 582,
-        "track_name": "Winton Motor Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
     }
   ],
   "cust_id": 950353
