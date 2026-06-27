@@ -14,6 +14,54 @@
         "color3": "000000"
       },
       "license_level": 19,
+      "session_start_time": "2026-06-27T20:45:00Z",
+      "winner_group_id": 1138706,
+      "winner_name": "Alessio M Doppio",
+      "winner_helmet": {
+        "pattern": 26,
+        "color1": "ffffff",
+        "color2": "ff0505",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 7,
+      "incidents": 2,
+      "points": 170,
+      "strength_of_field": 3002,
+      "subsession_id": 86773724,
+      "old_sub_level": 336,
+      "new_sub_level": 335,
+      "oldi_rating": 3434,
+      "newi_rating": 3514,
+      "track": {
+        "track_id": 180,
+        "track_name": "Oulton Park Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 6266,
+      "series_id": 571,
+      "series_name": "BMW M2 Cup",
+      "car_id": 216,
+      "car_class_id": 4108,
+      "livery": {
+        "car_id": 216,
+        "pattern": 3,
+        "color1": "ffffff",
+        "color2": "ff0505",
+        "color3": "000000"
+      },
+      "license_level": 19,
       "session_start_time": "2026-06-26T22:15:00Z",
       "winner_group_id": 759511,
       "winner_name": "Shun Ito",
@@ -43,7 +91,7 @@
         "track_id": 180,
         "track_name": "Oulton Park Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "Thruxton Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 17,
-        "color1": "FFFFFF",
-        "color2": "2BFF00",
-        "color3": "FF0000"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-05-31T10:00:00Z",
-      "winner_group_id": 889024,
-      "winner_name": "Sergey Balandin",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "ebe00d",
-        "color2": "111111",
-        "color3": "ebef0d",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 16,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 36,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 98,
-      "strength_of_field": 1875,
-      "subsession_id": 86152994,
-      "old_sub_level": 478,
-      "new_sub_level": 470,
-      "oldi_rating": 3240,
-      "newi_rating": 3269,
-      "track": {
-        "track_id": 532,
-        "track_name": "Thruxton Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 10
