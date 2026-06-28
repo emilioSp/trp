@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6285,
+      "series_id": 503,
+      "series_name": "TCR Virtual Challenge",
+      "car_id": 210,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 210,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-06-28T09:45:00Z",
+      "winner_group_id": 970331,
+      "winner_name": "Salvatore Gueli",
+      "winner_helmet": {
+        "pattern": 17,
+        "color1": "00ffbf",
+        "color2": "8b21ed",
+        "color3": "d9ffdd",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 11,
+      "incidents": 1,
+      "points": 88,
+      "strength_of_field": 1441,
+      "subsession_id": 86787251,
+      "old_sub_level": 332,
+      "new_sub_level": 338,
+      "oldi_rating": 4388,
+      "newi_rating": 4411,
+      "track": {
+        "track_id": 434,
+        "track_name": "Watkins Glen International"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6289,
       "series_id": 492,
       "series_name": "IMSA Michelin Pilot Challenge Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 365,
       "oldi_rating": 4340,
       "newi_rating": 4281,
-      "track": {
-        "track_id": 153,
-        "track_name": "Mid-Ohio Sports Car Course"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 6098,
-      "series_id": 503,
-      "series_name": "TCR Virtual Challenge",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-06-03T17:45:00Z",
-      "winner_group_id": 849183,
-      "winner_name": "Manuel Saralegui",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "cccccc",
-        "color2": "ed1c24",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 16,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 116,
-      "strength_of_field": 2574,
-      "subsession_id": 86237811,
-      "old_sub_level": 398,
-      "new_sub_level": 399,
-      "oldi_rating": 4321,
-      "newi_rating": 4340,
       "track": {
         "track_id": 153,
         "track_name": "Mid-Ohio Sports Car Course"
