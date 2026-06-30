@@ -46,8 +46,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.08,
-    "iRating": 1583
+    "safetyRating": 2.21,
+    "iRating": 1632
   },
   {
     "id": 1168345,
@@ -296,7 +296,7 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.65,
-    "iRating": 3845
+    "safetyRating": 2.56,
+    "iRating": 3854
   }
 ]

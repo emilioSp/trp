@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6305,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 156,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-30T12:45:00Z",
+      "winner_group_id": 1374222,
+      "winner_name": "Josh Allison2",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "2e358f",
+        "color3": "ec232d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 5,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 66,
+      "strength_of_field": 1286,
+      "subsession_id": 86841964,
+      "old_sub_level": 208,
+      "new_sub_level": 221,
+      "oldi_rating": 1583,
+      "newi_rating": 1632,
+      "track": {
+        "track_id": 509,
+        "track_name": "Algarve International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6298,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -428,54 +476,6 @@
         "track_name": "Motorsport Arena Oschersleben"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 6118,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-06-02T14:45:00Z",
-      "winner_group_id": 1373214,
-      "winner_name": "Ben Updegraff",
-      "winner_helmet": {
-        "pattern": 57,
-        "color1": "54bbdb",
-        "color2": "3bf158",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 5,
-      "strength_of_field": 1691,
-      "subsession_id": 86209805,
-      "old_sub_level": 270,
-      "new_sub_level": 236,
-      "oldi_rating": 1644,
-      "newi_rating": 1563,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 11

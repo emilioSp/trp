@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6304,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 133,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 133,
+        "pattern": 3,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-30T12:45:00Z",
+      "winner_group_id": 583909,
+      "winner_name": "Daan Dekker",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ccff00",
+        "color2": "bd00ff",
+        "color3": "00ff9c",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 5,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 16,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 114,
+      "strength_of_field": 3464,
+      "subsession_id": 86841961,
+      "old_sub_level": 265,
+      "new_sub_level": 256,
+      "oldi_rating": 3845,
+      "newi_rating": 3854,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6311,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 333,
       "oldi_rating": 3942,
       "newi_rating": 3958,
-      "track": {
-        "track_id": 180,
-        "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6284,
-      "series_id": 430,
-      "series_name": "TCR Virtual Challenge - Fixed",
-      "car_id": 153,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 153,
-        "pattern": 17,
-        "color1": "797a7c",
-        "color2": "c9e80d",
-        "color3": "12e6ec"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-06-19T12:45:00Z",
-      "winner_group_id": 703434,
-      "winner_name": "Andrew Pike2",
-      "winner_helmet": {
-        "pattern": 36,
-        "color1": "078632",
-        "color2": "0a0a0a",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 5,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 120,
-      "strength_of_field": 2670,
-      "subsession_id": 86564895,
-      "old_sub_level": 312,
-      "new_sub_level": 317,
-      "oldi_rating": 3920,
-      "newi_rating": 3942,
       "track": {
         "track_id": 180,
         "track_name": "Oulton Park Circuit"
