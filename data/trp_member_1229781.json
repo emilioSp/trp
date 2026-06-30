@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6312,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-30T15:45:00Z",
+      "winner_group_id": 1189216,
+      "winner_name": "Victor Sal",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "00ff21",
+        "color2": "ffffff",
+        "color3": "14ff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 13,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 68,
+      "strength_of_field": 1278,
+      "subsession_id": 86844849,
+      "old_sub_level": 220,
+      "new_sub_level": 243,
+      "oldi_rating": 1658,
+      "newi_rating": 1705,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6305,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Motorsport Arena Oschersleben"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 6118,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-06-06T08:45:00Z",
-      "winner_group_id": 544449,
-      "winner_name": "Konstantin Aselbor",
-      "winner_helmet": {
-        "pattern": 30,
-        "color1": "000000",
-        "color2": "efefef",
-        "color3": "b70909",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 14,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 41,
-      "strength_of_field": 1804,
-      "subsession_id": 86304372,
-      "old_sub_level": 285,
-      "new_sub_level": 294,
-      "oldi_rating": 1663,
-      "newi_rating": 1646,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 11
