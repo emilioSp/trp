@@ -14,6 +14,54 @@
         "color3": "0a35e9"
       },
       "license_level": 18,
+      "session_start_time": "2026-06-30T20:45:00Z",
+      "winner_group_id": 82554,
+      "winner_name": "Casey Kirwan",
+      "winner_helmet": {
+        "pattern": 30,
+        "color1": "000000",
+        "color2": "fa5408",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 7,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 16,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 171,
+      "strength_of_field": 3636,
+      "subsession_id": 86850596,
+      "old_sub_level": 281,
+      "new_sub_level": 259,
+      "oldi_rating": 3794,
+      "newi_rating": 3858,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6304,
+      "series_id": 595,
+      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "car_id": 133,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 133,
+        "pattern": 3,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 18,
       "session_start_time": "2026-06-30T19:45:00Z",
       "winner_group_id": 436583,
       "winner_name": "Ted Bradbury",
@@ -91,7 +139,7 @@
         "track_id": 179,
         "track_name": "Long Beach Street Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 2
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6322,
-      "series_id": 542,
-      "series_name": "FIA F4 Esports Regional Tour - Europe",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 14,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-06-22T21:45:00Z",
-      "winner_group_id": 1062932,
-      "winner_name": "Gregory Kohler",
-      "winner_helmet": {
-        "pattern": 57,
-        "color1": "ffffff",
-        "color2": "c2c2c2",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 8,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 87,
-      "strength_of_field": 1588,
-      "subsession_id": 86650420,
-      "old_sub_level": 236,
-      "new_sub_level": 246,
-      "oldi_rating": 1848,
-      "newi_rating": 1911,
-      "track": {
-        "track_id": 199,
-        "track_name": "Circuit Zolder"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1079917
