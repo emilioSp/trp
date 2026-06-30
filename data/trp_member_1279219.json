@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6311,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 8,
+        "color1": "135324",
+        "color2": "111111",
+        "color3": "535353"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-30T20:45:00Z",
+      "winner_group_id": 864043,
+      "winner_name": "Bradley Leenards",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "111111",
+        "color2": "fc0706",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 3,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 280,
+      "strength_of_field": 5675,
+      "subsession_id": 86850602,
+      "old_sub_level": 248,
+      "new_sub_level": 260,
+      "oldi_rating": 5403,
+      "newi_rating": 5484,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6266,
       "series_id": 571,
       "series_name": "BMW M2 Cup",
@@ -423,54 +471,6 @@
       "new_sub_level": 220,
       "oldi_rating": 5341,
       "newi_rating": 5230,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6311,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 133,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 133,
-        "pattern": 8,
-        "color1": "135324",
-        "color2": "111111",
-        "color3": "535353"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-06-19T12:45:00Z",
-      "winner_group_id": 903845,
-      "winner_name": "Nicolò Fornaciari",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "ffe500",
-        "color2": "ffffff",
-        "color3": "536a91",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 7,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 181,
-      "strength_of_field": 5362,
-      "subsession_id": 86564912,
-      "old_sub_level": 251,
-      "new_sub_level": 217,
-      "oldi_rating": 5314,
-      "newi_rating": 5341,
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"
