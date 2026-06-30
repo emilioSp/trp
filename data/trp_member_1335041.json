@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6297,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 1,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-06-30T13:45:00Z",
+      "winner_group_id": 680914,
+      "winner_name": "Taichi Watarai",
+      "winner_helmet": {
+        "pattern": 67,
+        "color1": "ffde00",
+        "color2": "000000",
+        "color3": "e52f07",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 21,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 8,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 45,
+      "strength_of_field": 2167,
+      "subsession_id": 86842860,
+      "old_sub_level": 255,
+      "new_sub_level": 241,
+      "oldi_rating": 1999,
+      "newi_rating": 1974,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6319,
       "series_id": 498,
       "series_name": "FIA Formula 4 Challenge - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6118,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 173,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-06-08T15:45:00Z",
-      "winner_group_id": 1121565,
-      "winner_name": "Jan Hofbauer",
-      "winner_helmet": {
-        "pattern": 36,
-        "color1": "0290ce",
-        "color2": "eeeeee",
-        "color3": "0d0d0e",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 4,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 94,
-      "strength_of_field": 2146,
-      "subsession_id": 86363754,
-      "old_sub_level": 357,
-      "new_sub_level": 364,
-      "oldi_rating": 2060,
-      "newi_rating": 2105,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1335041
