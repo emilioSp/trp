@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6347,
+      "series_id": 167,
+      "series_name": "ARCA Menards Series",
+      "car_id": 199,
+      "car_class_id": 4086,
+      "livery": {
+        "car_id": 199,
+        "pattern": 8,
+        "color1": "000000",
+        "color2": "320a5a",
+        "color3": "0f1562"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-07-01T17:45:00Z",
+      "winner_group_id": 420714,
+      "winner_name": "Konrad Kula",
+      "winner_helmet": {
+        "pattern": 66,
+        "color1": "000000",
+        "color2": "00fff7",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 11,
+      "finish_position": 16,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 16,
+      "strength_of_field": 1650,
+      "subsession_id": 86871889,
+      "old_sub_level": 216,
+      "new_sub_level": 204,
+      "oldi_rating": 1645,
+      "newi_rating": 1583,
+      "track": {
+        "track_id": 522,
+        "track_name": "Indianapolis Motor Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6313,
       "series_id": 455,
       "series_name": "Formula Vee Series by trophi.ai",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6433,
-      "series_id": 621,
-      "series_name": "13th Week Formula Vee Series",
-      "car_id": 142,
-      "car_class_id": 4107,
-      "livery": {
-        "car_id": 142,
-        "pattern": 22,
-        "color1": "a50e0e",
-        "color2": "072ae1",
-        "color3": "320548"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-06-10T16:30:00Z",
-      "winner_group_id": 933391,
-      "winner_name": "Mizuki Narahara",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "ffffff",
-        "color2": "00ff3a",
-        "color3": "ff8200",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 2,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 102,
-      "strength_of_field": 2463,
-      "subsession_id": 86394643,
-      "old_sub_level": 247,
-      "new_sub_level": 245,
-      "oldi_rating": 2735,
-      "newi_rating": 2774,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 1
     }
   ],
   "cust_id": 950353
