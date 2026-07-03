@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6284,
+      "series_id": 430,
+      "series_name": "TCR Virtual Challenge - Fixed",
+      "car_id": 146,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 146,
+        "pattern": 9,
+        "color1": "09ffc2",
+        "color2": "0080ff",
+        "color3": "fffa00"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-07-03T14:45:00Z",
+      "winner_group_id": 623556,
+      "winner_name": "Bostjan Fujs",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "cccccc",
+        "color2": "111111",
+        "color3": "ed1c24",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 4,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 95,
+      "strength_of_field": 1942,
+      "subsession_id": 86919867,
+      "old_sub_level": 335,
+      "new_sub_level": 327,
+      "oldi_rating": 4455,
+      "newi_rating": 4461,
+      "track": {
+        "track_id": 127,
+        "track_name": "Road Atlanta"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6285,
       "series_id": 503,
       "series_name": "TCR Virtual Challenge",
@@ -428,54 +476,6 @@
         "track_name": "Watkins Glen International"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6285,
-      "series_id": 503,
-      "series_name": "TCR Virtual Challenge",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-06-25T15:45:00Z",
-      "winner_group_id": 1162355,
-      "winner_name": "Aleksei Amambaev",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "00d1ff",
-        "color2": "ffffff",
-        "color3": "0012ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 1,
-      "incidents": 4,
-      "points": 119,
-      "strength_of_field": 2212,
-      "subsession_id": 86718686,
-      "old_sub_level": 358,
-      "new_sub_level": 347,
-      "oldi_rating": 4425,
-      "newi_rating": 4449,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 1
