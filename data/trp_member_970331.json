@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6392,
+      "series_id": 599,
+      "series_name": "FIA Cross Car Championship",
+      "car_id": 207,
+      "car_class_id": 4092,
+      "livery": {
+        "car_id": 207,
+        "pattern": 19,
+        "color1": "00FFBF",
+        "color2": "8B21ED",
+        "color3": "D9FFDD"
+      },
+      "license_level": 2,
+      "session_start_time": "2026-07-04T15:45:00Z",
+      "winner_group_id": 1443335,
+      "winner_name": "Paul Breuhammer2",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 2,
+      "start_position": 4,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 0,
+      "strength_of_field": 1247,
+      "subsession_id": 86946205,
+      "old_sub_level": 277,
+      "new_sub_level": 275,
+      "oldi_rating": -1,
+      "newi_rating": -1,
+      "track": {
+        "track_id": 558,
+        "track_name": "Charlotte Motor Speedway "
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6284,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6289,
-      "series_id": 492,
-      "series_name": "IMSA Michelin Pilot Challenge Series",
-      "car_id": 210,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 210,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-06-27T15:00:00Z",
-      "winner_group_id": 846152,
-      "winner_name": "Karel Staut",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "c5ba2f",
-        "color2": "ff0000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 7,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 40,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 10,
-      "strength_of_field": 4526,
-      "subsession_id": 86767136,
-      "old_sub_level": 356,
-      "new_sub_level": 332,
-      "oldi_rating": 4474,
-      "newi_rating": 4388,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
     }
   ],
   "cust_id": 970331
