@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 18,
+      "session_start_time": "2026-07-05T15:45:00Z",
+      "winner_group_id": 1323733,
+      "winner_name": "Angel Marinski",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "fdffaf",
+        "color2": "fffc03",
+        "color3": "22f0c4",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 4,
+      "finish_position": 44,
+      "qualifying_time": 0,
+      "laps": 4,
+      "laps_led": 0,
+      "incidents": 15,
+      "points": 5,
+      "strength_of_field": 1827,
+      "subsession_id": 86971020,
+      "old_sub_level": 242,
+      "new_sub_level": 149,
+      "oldi_rating": 1686,
+      "newi_rating": 1603,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6312,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 5,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 18,
       "session_start_time": "2026-07-05T09:45:00Z",
       "winner_group_id": 1235107,
       "winner_name": "Karl Feldtmann",
@@ -91,7 +139,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 2
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6118,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-06-07T06:45:00Z",
-      "winner_group_id": 1053799,
-      "winner_name": "Luis Domínguez2",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 3,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 1,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 4,
-      "strength_of_field": 1876,
-      "subsession_id": 86329049,
-      "old_sub_level": 362,
-      "new_sub_level": 327,
-      "oldi_rating": 1731,
-      "newi_rating": 1645,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1229781
