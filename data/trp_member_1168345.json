@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6267,
+      "series_id": 514,
+      "series_name": "Toyota GR86 Cup by SIMAGIC",
+      "car_id": 160,
+      "car_class_id": 4012,
+      "livery": {
+        "car_id": 160,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-07-05T08:15:00Z",
+      "winner_group_id": 1484108,
+      "winner_name": "Luis Rey",
+      "winner_helmet": {
+        "pattern": 27,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 12,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 103,
+      "strength_of_field": 2011,
+      "subsession_id": 86963339,
+      "old_sub_level": 263,
+      "new_sub_level": 257,
+      "oldi_rating": 2942,
+      "newi_rating": 2978,
+      "track": {
+        "track_id": 9,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6317,
       "series_id": 521,
       "series_name": "Motorsport UK FF 1600 Trophy by Thrustmaster",
@@ -428,54 +476,6 @@
         "track_name": "Summit Point Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6412,
-      "series_id": 568,
-      "series_name": "13th Week FF1600 Series",
-      "car_id": 163,
-      "car_class_id": 4016,
-      "livery": {
-        "car_id": 163,
-        "pattern": 13,
-        "color1": "c4ff00",
-        "color2": "520152",
-        "color3": "520152"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-06-14T15:45:00Z",
-      "winner_group_id": 413596,
-      "winner_name": "Javier Casero romo",
-      "winner_helmet": {
-        "pattern": 37,
-        "color1": "0B10F4",
-        "color2": "F4E7E7",
-        "color3": "061132",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 3,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 48,
-      "strength_of_field": 1912,
-      "subsession_id": 86448643,
-      "old_sub_level": 279,
-      "new_sub_level": 273,
-      "oldi_rating": 2404,
-      "newi_rating": 2371,
-      "track": {
-        "track_id": 9,
-        "track_name": "Summit Point Raceway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 5
