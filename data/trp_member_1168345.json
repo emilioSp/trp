@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 14,
+      "session_start_time": "2026-07-06T07:15:00Z",
+      "winner_group_id": 1337257,
+      "winner_name": "Syaukat Takuma Soejatmo",
+      "winner_helmet": {
+        "pattern": 14,
+        "color1": "ec232d",
+        "color2": "ffffff",
+        "color3": "ff0b0b",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 7,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 105,
+      "strength_of_field": 2044,
+      "subsession_id": 86988115,
+      "old_sub_level": 261,
+      "new_sub_level": 262,
+      "oldi_rating": 2999,
+      "newi_rating": 3036,
+      "track": {
+        "track_id": 9,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6267,
+      "series_id": 514,
+      "series_name": "Toyota GR86 Cup by SIMAGIC",
+      "car_id": 160,
+      "car_class_id": 4012,
+      "livery": {
+        "car_id": 160,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
       "session_start_time": "2026-07-05T09:45:00Z",
       "winner_group_id": 624697,
       "winner_name": "Enver Demirel",
@@ -91,7 +139,7 @@
         "track_id": 9,
         "track_name": "Summit Point Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 2
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6319,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "cf0715"
-      },
-      "license_level": 6,
-      "session_start_time": "2026-06-18T17:00:00Z",
-      "winner_group_id": 1369797,
-      "winner_name": "Daniel Achilles",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "dbff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 10,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 75,
-      "strength_of_field": 2608,
-      "subsession_id": 86541584,
-      "old_sub_level": 283,
-      "new_sub_level": 279,
-      "oldi_rating": 2448,
-      "newi_rating": 2450,
-      "track": {
-        "track_id": 345,
-        "track_name": "Circuit de Barcelona Catalunya"
       },
       "drop_race": false,
       "season_year": 2026,
