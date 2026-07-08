@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6305,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 133,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 133,
+        "pattern": 15,
+        "color1": "D0C40B",
+        "color2": "FFFFFF",
+        "color3": "111111"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-07-08T19:45:00Z",
+      "winner_group_id": 937571,
+      "winner_name": "Sem Giesbers",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "ffd700",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 6,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 172,
+      "strength_of_field": 3258,
+      "subsession_id": 87051382,
+      "old_sub_level": 458,
+      "new_sub_level": 433,
+      "oldi_rating": 3261,
+      "newi_rating": 3337,
+      "track": {
+        "track_id": 250,
+        "track_name": "Nürburgring Grand-Prix-Strecke"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6120,
       "series_id": 331,
       "series_name": "Global Endurance Tour",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6115,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 17,
-        "color1": "D0C40B",
-        "color2": "FFFFFF",
-        "color3": "111111"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-04-14T19:15:00Z",
-      "winner_group_id": 582932,
-      "winner_name": "Kevin Akkus",
-      "winner_helmet": {
-        "pattern": 63,
-        "color1": "ff0000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 1,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 126,
-      "strength_of_field": 2681,
-      "subsession_id": 85002493,
-      "old_sub_level": 413,
-      "new_sub_level": 340,
-      "oldi_rating": 3105,
-      "newi_rating": 3144,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
