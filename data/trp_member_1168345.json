@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6319,
+      "series_id": 498,
+      "series_name": "FIA Formula 4 Challenge - Fixed",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "cf0715"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-07-12T12:00:00Z",
+      "winner_group_id": 1072178,
+      "winner_name": "Patrick Ogrodowczyk5",
+      "winner_helmet": {
+        "pattern": 50,
+        "color1": "000000",
+        "color2": "e3ff00",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 6,
+      "start_position": 8,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 2,
+      "incidents": 0,
+      "points": 118,
+      "strength_of_field": 2013,
+      "subsession_id": 87143307,
+      "old_sub_level": 298,
+      "new_sub_level": 352,
+      "oldi_rating": 2582,
+      "newi_rating": 2651,
+      "track": {
+        "track_id": 9,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6313,
       "series_id": 455,
       "series_name": "Formula Vee Series by trophi.ai",
@@ -423,54 +471,6 @@
       "new_sub_level": 258,
       "oldi_rating": 2894,
       "newi_rating": 2902,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6306,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 93,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 93,
-        "pattern": 4,
-        "color1": "001b56",
-        "color2": "ffffff",
-        "color3": "cf0715"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-06-21T15:00:00Z",
-      "winner_group_id": 372451,
-      "winner_name": "Vince Scorsad",
-      "winner_helmet": {
-        "pattern": 32,
-        "color1": "000000",
-        "color2": "d34e12",
-        "color3": "efa752",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 6,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 117,
-      "strength_of_field": 2629,
-      "subsession_id": 86618425,
-      "old_sub_level": 294,
-      "new_sub_level": 297,
-      "oldi_rating": 2855,
-      "newi_rating": 2894,
       "track": {
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
