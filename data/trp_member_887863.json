@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 19,
+      "session_start_time": "2026-07-13T22:00:00Z",
+      "winner_group_id": 900149,
+      "winner_name": "Lucas Bodin",
+      "winner_helmet": {
+        "pattern": 45,
+        "color1": "000000",
+        "color2": "005ba9",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 11,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 140,
+      "strength_of_field": 2887,
+      "subsession_id": 87178529,
+      "old_sub_level": 385,
+      "new_sub_level": 395,
+      "oldi_rating": 2735,
+      "newi_rating": 2794,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6301,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 188,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 188,
+        "pattern": 3,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 19,
       "session_start_time": "2026-07-12T20:00:00Z",
       "winner_group_id": 750924,
       "winner_name": "Eugene Zaichko",
@@ -43,7 +91,7 @@
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 3
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 188,
-        "pattern": 3,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-26T16:00:00Z",
-      "winner_group_id": 77623,
-      "winner_name": "Maxime Herber",
-      "winner_helmet": {
-        "pattern": 34,
-        "color1": "1ca63c",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 15,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 124,
-      "strength_of_field": 2764,
-      "subsession_id": 82201349,
-      "old_sub_level": 335,
-      "new_sub_level": 356,
-      "oldi_rating": 2571,
-      "newi_rating": 2620,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 1

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6305,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 206,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 206,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-07-13T16:45:00Z",
+      "winner_group_id": 1044554,
+      "winner_name": "Andrea Miatto2",
+      "winner_helmet": {
+        "pattern": 18,
+        "color1": "ffffff",
+        "color2": "111111",
+        "color3": "fa00ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 19,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 47,
+      "strength_of_field": 2828,
+      "subsession_id": 87172683,
+      "old_sub_level": 262,
+      "new_sub_level": 258,
+      "oldi_rating": 3036,
+      "newi_rating": 2991,
+      "track": {
+        "track_id": 250,
+        "track_name": "Nürburgring Grand-Prix-Strecke"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6319,
       "series_id": 498,
       "series_name": "FIA Formula 4 Challenge - Fixed",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6306,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 93,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 93,
-        "pattern": 4,
-        "color1": "001b56",
-        "color2": "ffffff",
-        "color3": "cf0715"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-06-22T15:00:00Z",
-      "winner_group_id": 684318,
-      "winner_name": "Constantin Gross",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "ee3442",
-        "color3": "447ac0",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 4,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 18,
-      "points": 91,
-      "strength_of_field": 2505,
-      "subsession_id": 86642953,
-      "old_sub_level": 297,
-      "new_sub_level": 258,
-      "oldi_rating": 2894,
-      "newi_rating": 2902,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1168345
