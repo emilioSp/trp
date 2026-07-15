@@ -4,6 +4,54 @@
       "season_id": 6311,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 4,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-07-14T20:45:00Z",
+      "winner_group_id": 904660,
+      "winner_name": "Francesco Sajetti",
+      "winner_helmet": {
+        "pattern": 42,
+        "color1": "ffffff",
+        "color2": "de060d",
+        "color3": "002a7f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 11,
+      "finish_position": 20,
+      "qualifying_time": 0,
+      "laps": 28,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 33,
+      "strength_of_field": 4106,
+      "subsession_id": 87202056,
+      "old_sub_level": 499,
+      "new_sub_level": 457,
+      "oldi_rating": 4357,
+      "newi_rating": 4287,
+      "track": {
+        "track_id": 212,
+        "track_name": "Autódromo José Carlos Pace"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6311,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
       "car_id": 173,
       "car_class_id": 4011,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 156,
-        "pattern": 5,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-05-30T10:00:00Z",
-      "winner_group_id": 960802,
-      "winner_name": "Fonta Garcia",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "111111",
-        "color3": "5481fc",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 36,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 116,
-      "strength_of_field": 2334,
-      "subsession_id": 86127117,
-      "old_sub_level": 477,
-      "new_sub_level": 488,
-      "oldi_rating": 4221,
-      "newi_rating": 4243,
-      "track": {
-        "track_id": 532,
-        "track_name": "Thruxton Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
     }
   ],
   "cust_id": 872758
