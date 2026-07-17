@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6312,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 3,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-07-16T19:45:00Z",
+      "winner_group_id": 983724,
+      "winner_name": "Federico Sartor",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "a600ff",
+        "color2": "22ffeb",
+        "color3": "fa00ff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 16,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 136,
+      "strength_of_field": 4918,
+      "subsession_id": 87249159,
+      "old_sub_level": 243,
+      "new_sub_level": 245,
+      "oldi_rating": 3899,
+      "newi_rating": 3926,
+      "track": {
+        "track_id": 212,
+        "track_name": "Autódromo José Carlos Pace"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6311,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -91,7 +139,7 @@
         "track_id": 212,
         "track_name": "Autódromo José Carlos Pace"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 4
@@ -428,54 +476,6 @@
         "track_name": "Long Beach Street Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6304,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 133,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 133,
-        "pattern": 3,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-06-30T19:45:00Z",
-      "winner_group_id": 436583,
-      "winner_name": "Ted Bradbury",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "00f0ff",
-        "color2": "00ff19",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 2,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 17,
-      "strength_of_field": 2694,
-      "subsession_id": 86849404,
-      "old_sub_level": 276,
-      "new_sub_level": 281,
-      "oldi_rating": 3895,
-      "newi_rating": 3794,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 2
