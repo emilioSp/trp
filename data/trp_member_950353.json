@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6351,
+      "series_id": 538,
+      "series_name": "Draft Master Challenge by Simagic",
+      "car_id": 201,
+      "car_class_id": 4040,
+      "livery": {
+        "car_id": 201,
+        "pattern": 12,
+        "color1": "000000",
+        "color2": "320A5A",
+        "color3": "0F1562"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-07-17T18:30:00Z",
+      "winner_group_id": 1159632,
+      "winner_name": "Alexandr Rockefeller-Kalenik",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "229af1",
+        "color3": "f12647",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 11,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 16,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 40,
+      "strength_of_field": 1926,
+      "subsession_id": 87271670,
+      "old_sub_level": 213,
+      "new_sub_level": 206,
+      "oldi_rating": 1583,
+      "newi_rating": 1566,
+      "track": {
+        "track_id": 116,
+        "track_name": "Talladega Superspeedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6313,
       "series_id": 455,
       "series_name": "Formula Vee Series by trophi.ai",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6433,
-      "series_id": 621,
-      "series_name": "13th Week Formula Vee Series",
-      "car_id": 142,
-      "car_class_id": 4107,
-      "livery": {
-        "car_id": 142,
-        "pattern": 22,
-        "color1": "a50e0e",
-        "color2": "072ae1",
-        "color3": "320548"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-06-12T08:45:00Z",
-      "winner_group_id": 950353,
-      "winner_name": "Simone Tegas",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "000000",
-        "color2": "320a5a",
-        "color3": "0f1562",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 2,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 8,
-      "incidents": 2,
-      "points": 111,
-      "strength_of_field": 1910,
-      "subsession_id": 86419075,
-      "old_sub_level": 256,
-      "new_sub_level": 261,
-      "oldi_rating": 2822,
-      "newi_rating": 2888,
-      "track": {
-        "track_id": 202,
-        "track_name": "Oran Park Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
     }
   ],
   "cust_id": 950353

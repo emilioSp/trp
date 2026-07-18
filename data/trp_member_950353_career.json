@@ -3,20 +3,20 @@
     {
       "category_id": 1,
       "category": "Oval",
-      "starts": 45,
+      "starts": 46,
       "wins": 4,
       "top5": 8,
       "poles": 3,
       "avg_start_position": 8,
-      "avg_finish_position": 9,
-      "laps": 1435,
+      "avg_finish_position": 10,
+      "laps": 1451,
       "laps_led": 29,
-      "avg_incidents": 4.6222,
+      "avg_incidents": 4.6087,
       "avg_points": 50,
-      "win_percentage": 8.89,
-      "top5_percentage": 17.78,
-      "laps_led_percentage": 2.02,
-      "poles_percentage": 6.67
+      "win_percentage": 8.7,
+      "top5_percentage": 17.39,
+      "laps_led_percentage": 2,
+      "poles_percentage": 6.52
     },
     {
       "category_id": 5,
