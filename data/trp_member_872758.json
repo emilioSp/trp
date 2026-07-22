@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6305,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 185,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 185,
+        "pattern": 24,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-07-21T21:45:00Z",
+      "winner_group_id": 623524,
+      "winner_name": "Orazio Principato",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ed2129",
+        "color2": "2a3795",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 147,
+      "strength_of_field": 2751,
+      "subsession_id": 87375414,
+      "old_sub_level": 457,
+      "new_sub_level": 453,
+      "oldi_rating": 4287,
+      "newi_rating": 4330,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6311,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 11
-    },
-    {
-      "season_id": 6432,
-      "series_id": 580,
-      "series_name": "4 Hours at Thruxton",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 0,
-        "color1": "ffffff",
-        "color2": "cccccc",
-        "color3": "666666"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-05-30T12:00:00Z",
-      "winner_group_id": -85043,
-      "winner_name": "WSR Esports",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 19,
-      "finish_position": 36,
-      "qualifying_time": 0,
-      "laps": 71,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 117,
-      "strength_of_field": 4603,
-      "subsession_id": 86129349,
-      "old_sub_level": 488,
-      "new_sub_level": 492,
-      "oldi_rating": 4243,
-      "newi_rating": 4242,
-      "track": {
-        "track_id": 532,
-        "track_name": "Thruxton Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 0
     }
   ],
   "cust_id": 872758
