@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6442,
+      "series_id": 622,
+      "series_name": "6 Hours of Road America",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-07-25T16:00:00Z",
+      "winner_group_id": -517282,
+      "winner_name": "PSR Team Sapphire",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 1,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 91,
+      "laps_led": 0,
+      "incidents": 27,
+      "points": 127,
+      "strength_of_field": 2220,
+      "subsession_id": 87466175,
+      "old_sub_level": 283,
+      "new_sub_level": 287,
+      "oldi_rating": 3531,
+      "newi_rating": 3572,
+      "track": {
+        "track_id": 18,
+        "track_name": "Road America"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6436,
       "series_id": 280,
       "series_name": "6 Hours of the Glen",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 5
-    },
-    {
-      "season_id": 5924,
-      "series_id": 237,
-      "series_name": "GT Endurance Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 23,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "ffffff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-01-18T17:00:00Z",
-      "winner_group_id": -475513,
-      "winner_name": "Mafia Motorsport Pro",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 21,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 58,
-      "laps_led": 0,
-      "incidents": 18,
-      "points": 103,
-      "strength_of_field": 2400,
-      "subsession_id": 82832969,
-      "old_sub_level": 279,
-      "new_sub_level": 256,
-      "oldi_rating": 3450,
-      "newi_rating": 3468,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
     }
   ],
   "cust_id": 902844

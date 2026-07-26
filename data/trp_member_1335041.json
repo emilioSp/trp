@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6305,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 4,
+        "color1": "F10C17",
+        "color2": "EFD41E",
+        "color3": "1E29C9"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-07-25T15:45:00Z",
+      "winner_group_id": 889024,
+      "winner_name": "Sergey Balandin",
+      "winner_helmet": {
+        "pattern": 68,
+        "color1": "ebe00d",
+        "color2": "111111",
+        "color3": "ebef0d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 12,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 22,
+      "strength_of_field": 2497,
+      "subsession_id": 87465803,
+      "old_sub_level": 209,
+      "new_sub_level": 208,
+      "oldi_rating": 1972,
+      "newi_rating": 1927,
+      "track": {
+        "track_id": 498,
+        "track_name": "Autodromo Internazionale del Mugello"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6312,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -423,54 +471,6 @@
       "new_sub_level": 236,
       "oldi_rating": 1984,
       "newi_rating": 1903,
-      "track": {
-        "track_id": 444,
-        "track_name": "Fuji International Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6298,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 1,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-06-23T14:45:00Z",
-      "winner_group_id": 778465,
-      "winner_name": "Pedro Berberana2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "cc0000",
-        "color2": "d9ee34",
-        "color3": "cc0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 21,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 54,
-      "strength_of_field": 2004,
-      "subsession_id": 86668772,
-      "old_sub_level": 260,
-      "new_sub_level": 271,
-      "oldi_rating": 1996,
-      "newi_rating": 1984,
       "track": {
         "track_id": 444,
         "track_name": "Fuji International Speedway"
