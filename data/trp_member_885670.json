@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 18,
+      "session_start_time": "2026-07-26T01:00:00Z",
+      "winner_group_id": 1359439,
+      "winner_name": "N P Burley",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "fc0505",
+        "color2": "ff0000",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 3,
+      "finish_position": 8,
+      "qualifying_time": 4820817,
+      "laps": 6,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 98,
+      "strength_of_field": 2128,
+      "subsession_id": 87475937,
+      "old_sub_level": 264,
+      "new_sub_level": 286,
+      "oldi_rating": 1989,
+      "newi_rating": 2040,
+      "track": {
+        "track_id": 252,
+        "track_name": "Nürburgring Combined"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6306,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 93,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 93,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "813535",
+        "color3": "ffffff"
+      },
+      "license_level": 18,
       "session_start_time": "2026-07-25T23:00:00Z",
       "winner_group_id": 498434,
       "winner_name": "Mike Broyles",
@@ -43,7 +91,7 @@
         "track_id": 252,
         "track_name": "Nürburgring Combined"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 5
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
-    },
-    {
-      "season_id": 5759,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 206,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 206,
-        "pattern": 14,
-        "color1": "0012FF",
-        "color2": "000000",
-        "color3": "FFFFFF"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-12-05T22:00:00Z",
-      "winner_group_id": 1277198,
-      "winner_name": "Tyler Beaton",
-      "winner_helmet": {
-        "pattern": 53,
-        "color1": "e87b16",
-        "color2": "00fff5",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 10,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 60,
-      "strength_of_field": 2073,
-      "subsession_id": 81750482,
-      "old_sub_level": 305,
-      "new_sub_level": 250,
-      "oldi_rating": 2160,
-      "newi_rating": 2151,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 4,
-      "race_week_num": 11
     }
   ],
   "cust_id": 885670
