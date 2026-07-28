@@ -14,6 +14,54 @@
         "color3": "cf0715"
       },
       "license_level": 6,
+      "session_start_time": "2026-07-27T10:00:00Z",
+      "winner_group_id": 950804,
+      "winner_name": "Vedrana Drkelic",
+      "winner_helmet": {
+        "pattern": 5,
+        "color1": "f1732e",
+        "color2": "372a75",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 8,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 126,
+      "strength_of_field": 2539,
+      "subsession_id": 87509794,
+      "old_sub_level": 256,
+      "new_sub_level": 254,
+      "oldi_rating": 2717,
+      "newi_rating": 2774,
+      "track": {
+        "track_id": 413,
+        "track_name": "Hungaroring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6319,
+      "series_id": 498,
+      "series_name": "FIA Formula 4 Challenge - Fixed",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "cf0715"
+      },
+      "license_level": 6,
       "session_start_time": "2026-07-26T19:00:00Z",
       "winner_group_id": 820460,
       "winner_name": "Pierre-Michel Theveny",
@@ -91,7 +139,7 @@
         "track_id": 413,
         "track_name": "Hungaroring"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 5
@@ -428,54 +476,6 @@
         "track_name": "Lime Rock Park"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6304,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 11,
-        "color1": "001B56",
-        "color2": "FFFFFF",
-        "color3": "CF0715"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-07-19T09:45:00Z",
-      "winner_group_id": 1096513,
-      "winner_name": "Oleksander Davydenko",
-      "winner_helmet": {
-        "pattern": 63,
-        "color1": "0040ff",
-        "color2": "fff500",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 8,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 24,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 74,
-      "strength_of_field": 2624,
-      "subsession_id": 87313366,
-      "old_sub_level": 261,
-      "new_sub_level": 259,
-      "oldi_rating": 3039,
-      "newi_rating": 3030,
-      "track": {
-        "track_id": 353,
-        "track_name": "Lime Rock Park"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 4
