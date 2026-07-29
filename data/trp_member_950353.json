@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6313,
+      "series_id": 455,
+      "series_name": "Formula Vee Series by trophi.ai",
+      "car_id": 142,
+      "car_class_id": 4107,
+      "livery": {
+        "car_id": 142,
+        "pattern": 22,
+        "color1": "a50e0e",
+        "color2": "072ae1",
+        "color3": "320548"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-07-28T18:30:00Z",
+      "winner_group_id": 950353,
+      "winner_name": "Simone Tegas",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "000000",
+        "color2": "320a5a",
+        "color3": "0f1562",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 7,
+      "incidents": 0,
+      "points": 122,
+      "strength_of_field": 2093,
+      "subsession_id": 87543564,
+      "old_sub_level": 347,
+      "new_sub_level": 358,
+      "oldi_rating": 3090,
+      "newi_rating": 3152,
+      "track": {
+        "track_id": 467,
+        "track_name": "Virginia International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6305,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6433,
-      "series_id": 621,
-      "series_name": "13th Week Formula Vee Series",
-      "car_id": 142,
-      "car_class_id": 4107,
-      "livery": {
-        "car_id": 142,
-        "pattern": 22,
-        "color1": "a50e0e",
-        "color2": "072ae1",
-        "color3": "320548"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-06-14T16:45:00Z",
-      "winner_group_id": 1318518,
-      "winner_name": "Edwin Steen",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "ffed00",
-        "color2": "d100ff",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 6,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 111,
-      "strength_of_field": 2201,
-      "subsession_id": 86449417,
-      "old_sub_level": 272,
-      "new_sub_level": 281,
-      "oldi_rating": 2946,
-      "newi_rating": 2993,
-      "track": {
-        "track_id": 9,
-        "track_name": "Summit Point Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 5
     }
   ],
   "cust_id": 950353
