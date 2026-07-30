@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6302,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 185,
+        "pattern": 5,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-07-29T15:15:00Z",
+      "winner_group_id": 1362129,
+      "winner_name": "Maxim Monte",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 9,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 45,
+      "strength_of_field": 1894,
+      "subsession_id": 87564083,
+      "old_sub_level": 160,
+      "new_sub_level": 135,
+      "oldi_rating": 1963,
+      "newi_rating": 1940,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6311,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6312,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 5,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-07-05T15:45:00Z",
-      "winner_group_id": 1323733,
-      "winner_name": "Angel Marinski",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "fdffaf",
-        "color2": "fffc03",
-        "color3": "22f0c4",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 4,
-      "finish_position": 44,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 0,
-      "incidents": 15,
-      "points": 5,
-      "strength_of_field": 1827,
-      "subsession_id": 86971020,
-      "old_sub_level": 242,
-      "new_sub_level": 149,
-      "oldi_rating": 1686,
-      "newi_rating": 1603,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 2
     }
   ],
   "cust_id": 1229781
