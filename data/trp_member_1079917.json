@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6311,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 18,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-07-31T12:45:00Z",
+      "winner_group_id": 1049223,
+      "winner_name": "Francesco F Mautone",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "040504",
+        "color2": "000000",
+        "color3": "030303",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 8,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 171,
+      "strength_of_field": 3152,
+      "subsession_id": 87609813,
+      "old_sub_level": 228,
+      "new_sub_level": 240,
+      "oldi_rating": 3892,
+      "newi_rating": 3948,
+      "track": {
+        "track_id": 239,
+        "track_name": "Autodromo Nazionale Monza"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6312,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6304,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
-      "car_id": 133,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 133,
-        "pattern": 3,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-07-06T19:45:00Z",
-      "winner_group_id": 1025682,
-      "winner_name": "Sergio Xharal Avila",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "f2ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 4,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 120,
-      "strength_of_field": 2395,
-      "subsession_id": 87000063,
-      "old_sub_level": 298,
-      "new_sub_level": 292,
-      "oldi_rating": 3901,
-      "newi_rating": 3929,
-      "track": {
-        "track_id": 179,
-        "track_name": "Long Beach Street Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 2
