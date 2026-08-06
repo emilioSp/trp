@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6312,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 3,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-08-05T15:45:00Z",
+      "winner_group_id": 385466,
+      "winner_name": "Michael Fazzari",
+      "winner_helmet": {
+        "pattern": 44,
+        "color1": "ffffff",
+        "color2": "ff0000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 13,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 78,
+      "strength_of_field": 1772,
+      "subsession_id": 87735629,
+      "old_sub_level": 110,
+      "new_sub_level": 145,
+      "oldi_rating": 1563,
+      "newi_rating": 1609,
+      "track": {
+        "track_id": 445,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6311,
       "series_id": 447,
       "series_name": "IMSA iRacing Series",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Nazionale Monza"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6302,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-07-29T15:15:00Z",
-      "winner_group_id": 339073,
-      "winner_name": "Elliot Wilson",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "111111",
-        "color2": "E6CC00",
-        "color3": "EB4F00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 13,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 50,
-      "strength_of_field": 2110,
-      "subsession_id": 87564082,
-      "old_sub_level": 220,
-      "new_sub_level": 219,
-      "oldi_rating": 2022,
-      "newi_rating": 2005,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 6
