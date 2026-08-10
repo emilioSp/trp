@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6305,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 11,
+        "color1": "001b56",
+        "color2": "ffffff",
+        "color3": "cf0715"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-08-09T19:45:00Z",
+      "winner_group_id": 1105773,
+      "winner_name": "Gabriel Boulos",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "fc5353",
+        "color2": "ffffff",
+        "color3": "d7e8df",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 3,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 101,
+      "strength_of_field": 2120,
+      "subsession_id": 87837802,
+      "old_sub_level": 249,
+      "new_sub_level": 232,
+      "oldi_rating": 3071,
+      "newi_rating": 3101,
+      "track": {
+        "track_id": 413,
+        "track_name": "Hungaroring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6319,
       "series_id": 498,
       "series_name": "FIA Formula 4 Challenge - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Tsukuba Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6319,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "cf0715"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-07-30T18:00:00Z",
-      "winner_group_id": 962095,
-      "winner_name": "Alan Saber",
-      "winner_helmet": {
-        "pattern": 40,
-        "color1": "000000",
-        "color2": "3948de",
-        "color3": "c23300",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 7,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 43,
-      "strength_of_field": 2329,
-      "subsession_id": 87591851,
-      "old_sub_level": 371,
-      "new_sub_level": 364,
-      "oldi_rating": 2816,
-      "newi_rating": 2766,
-      "track": {
-        "track_id": 324,
-        "track_name": "Tsukuba Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 6
