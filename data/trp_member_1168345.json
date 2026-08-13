@@ -14,6 +14,54 @@
         "color3": "cf0715"
       },
       "license_level": 11,
+      "session_start_time": "2026-08-12T21:45:00Z",
+      "winner_group_id": 891398,
+      "winner_name": "Bosco Arias",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "111111",
+        "color3": "fc0706",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 9,
+      "start_position": 7,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 137,
+      "strength_of_field": 2512,
+      "subsession_id": 87919665,
+      "old_sub_level": 364,
+      "new_sub_level": 348,
+      "oldi_rating": 2973,
+      "newi_rating": 3034,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 6322,
+      "series_id": 542,
+      "series_name": "FIA F4 Esports Regional Tour - Europe",
+      "car_id": 148,
+      "car_class_id": 3188,
+      "livery": {
+        "car_id": 148,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "cf0715"
+      },
+      "license_level": 11,
       "session_start_time": "2026-08-11T20:45:00Z",
       "winner_group_id": 1143488,
       "winner_name": "Enzo Tebani",
@@ -43,7 +91,7 @@
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 8
@@ -428,54 +476,6 @@
         "track_name": "Tsukuba Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6319,
-      "series_id": 498,
-      "series_name": "FIA Formula 4 Challenge - Fixed",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "cf0715"
-      },
-      "license_level": 11,
-      "session_start_time": "2026-08-02T13:00:00Z",
-      "winner_group_id": 805383,
-      "winner_name": "Harim Song",
-      "winner_helmet": {
-        "pattern": 36,
-        "color1": "ffffff",
-        "color2": "ff2160",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 11,
-      "start_position": 10,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 70,
-      "strength_of_field": 2266,
-      "subsession_id": 87659254,
-      "old_sub_level": 368,
-      "new_sub_level": 366,
-      "oldi_rating": 2988,
-      "newi_rating": 2968,
-      "track": {
-        "track_id": 324,
-        "track_name": "Tsukuba Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 6
