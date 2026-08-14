@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 18,
+      "session_start_time": "2026-08-13T21:00:00Z",
+      "winner_group_id": 1266385,
+      "winner_name": "Charles Keane",
+      "winner_helmet": {
+        "pattern": 52,
+        "color1": "ffffff",
+        "color2": "9500f0",
+        "color3": "333333",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 3,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 47,
+      "strength_of_field": 1464,
+      "subsession_id": 87941883,
+      "old_sub_level": 286,
+      "new_sub_level": 267,
+      "oldi_rating": 2040,
+      "newi_rating": 2024,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 6306,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 93,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 93,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "813535",
+        "color3": "ffffff"
+      },
+      "license_level": 18,
       "session_start_time": "2026-07-26T01:00:00Z",
       "winner_group_id": 1359439,
       "winner_name": "N P Burley",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 1
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 188,
-        "pattern": 0,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-02-21T22:00:00Z",
-      "winner_group_id": 691529,
-      "winner_name": "Alan Orzechowski",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 14,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 38,
-      "strength_of_field": 2274,
-      "subsession_id": 83739004,
-      "old_sub_level": 250,
-      "new_sub_level": 250,
-      "oldi_rating": 2151,
-      "newi_rating": 2111,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
     }
   ],
   "cust_id": 885670

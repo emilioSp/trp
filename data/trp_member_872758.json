@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6302,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 185,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 185,
+        "pattern": 24,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-08-13T23:15:00Z",
+      "winner_group_id": 1143488,
+      "winner_name": "Enzo Tebani",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "bd0404",
+        "color2": "111111",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 11,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 114,
+      "strength_of_field": 3921,
+      "subsession_id": 87944279,
+      "old_sub_level": 340,
+      "new_sub_level": 327,
+      "oldi_rating": 4452,
+      "newi_rating": 4450,
+      "track": {
+        "track_id": 448,
+        "track_name": "Indianapolis Motor Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6301,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 478,
       "oldi_rating": 4249,
       "newi_rating": 4312,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6311,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 23,
-        "color1": "d00000",
-        "color2": "d80606",
-        "color3": "e10000"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-07-01T22:45:00Z",
-      "winner_group_id": 790478,
-      "winner_name": "Tyler L Watson",
-      "winner_helmet": {
-        "pattern": 66,
-        "color1": "000000",
-        "color2": "00f0ff",
-        "color3": "ff5fb7",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 13,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 126,
-      "strength_of_field": 5169,
-      "subsession_id": 86877654,
-      "old_sub_level": 463,
-      "new_sub_level": 454,
-      "oldi_rating": 4236,
-      "newi_rating": 4249,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
