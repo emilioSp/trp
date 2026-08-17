@@ -14,6 +14,54 @@
         "color3": "c4e307"
       },
       "license_level": 19,
+      "session_start_time": "2026-08-16T15:00:00Z",
+      "winner_group_id": 594341,
+      "winner_name": "Sergio Sánchez Cachafeiro",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "ff8800",
+        "color2": "000000",
+        "color3": "eeeeee",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 6,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 150,
+      "strength_of_field": 2910,
+      "subsession_id": 88007258,
+      "old_sub_level": 380,
+      "new_sub_level": 446,
+      "oldi_rating": 3342,
+      "newi_rating": 3398,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 6306,
+      "series_id": 535,
+      "series_name": "GTE Sprint Series",
+      "car_id": 93,
+      "car_class_id": 100,
+      "livery": {
+        "car_id": 93,
+        "pattern": 0,
+        "color1": "373946",
+        "color2": "efefef",
+        "color3": "c4e307"
+      },
+      "license_level": 19,
       "session_start_time": "2026-08-15T23:00:00Z",
       "winner_group_id": 310141,
       "winner_name": "Cristian Streitemberger",
@@ -43,7 +91,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 8
@@ -428,54 +476,6 @@
         "track_name": "Suzuka International Racing Course"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6306,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 127,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 127,
-        "pattern": 5,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-06-26T15:00:00Z",
-      "winner_group_id": 403727,
-      "winner_name": "Mateusz Rogalski",
-      "winner_helmet": {
-        "pattern": 64,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 2,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 112,
-      "strength_of_field": 2307,
-      "subsession_id": 86741971,
-      "old_sub_level": 447,
-      "new_sub_level": 459,
-      "oldi_rating": 3394,
-      "newi_rating": 3430,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 1

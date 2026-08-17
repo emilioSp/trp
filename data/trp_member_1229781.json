@@ -1,6 +1,102 @@
 {
   "races": [
     {
+      "season_id": 6298,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-08-16T12:45:00Z",
+      "winner_group_id": 971905,
+      "winner_name": "Thomas Saller",
+      "winner_helmet": {
+        "pattern": 27,
+        "color1": "ffffff",
+        "color2": "ee3442",
+        "color3": "447ac0",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 16,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 0,
+      "incidents": 18,
+      "points": 25,
+      "strength_of_field": 1911,
+      "subsession_id": 88004966,
+      "old_sub_level": 172,
+      "new_sub_level": 126,
+      "oldi_rating": 1870,
+      "newi_rating": 1818,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 6305,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 185,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 185,
+        "pattern": 5,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-08-16T07:45:00Z",
+      "winner_group_id": 1051971,
+      "winner_name": "Jérémy Michel",
+      "winner_helmet": {
+        "pattern": 13,
+        "color1": "0075ff",
+        "color2": "005bd3",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 11,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 50,
+      "strength_of_field": 1874,
+      "subsession_id": 88000368,
+      "old_sub_level": 163,
+      "new_sub_level": 172,
+      "oldi_rating": 1877,
+      "newi_rating": 1870,
+      "track": {
+        "track_id": 463,
+        "track_name": "Circuit de Nevers Magny-Cours"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6305,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -43,7 +139,7 @@
         "track_id": 463,
         "track_name": "Circuit de Nevers Magny-Cours"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 8
@@ -383,102 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 5
-    },
-    {
-      "season_id": 6312,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 5,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-07-20T15:45:00Z",
-      "winner_group_id": 1150793,
-      "winner_name": "André Dias4",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "ffffff",
-        "color2": "fa0000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 20,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 90,
-      "strength_of_field": 1737,
-      "subsession_id": 87343594,
-      "old_sub_level": 166,
-      "new_sub_level": 162,
-      "oldi_rating": 1718,
-      "newi_rating": 1781,
-      "track": {
-        "track_id": 212,
-        "track_name": "Autódromo José Carlos Pace"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6298,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-07-20T14:45:00Z",
-      "winner_group_id": 1194172,
-      "winner_name": "Šarūnas Masevičius",
-      "winner_helmet": {
-        "pattern": 18,
-        "color1": "356478",
-        "color2": "d62b2b",
-        "color3": "2c3d96",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 5,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 70,
-      "strength_of_field": 1724,
-      "subsession_id": 87342647,
-      "old_sub_level": 173,
-      "new_sub_level": 166,
-      "oldi_rating": 1688,
-      "newi_rating": 1718,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 4
     }
   ],
   "cust_id": 1229781
