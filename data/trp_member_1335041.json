@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6303,
+      "series_id": 594,
+      "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 4,
+        "color1": "F10C17",
+        "color2": "EFD41E",
+        "color3": "1E29C9"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-08-18T14:45:00Z",
+      "winner_group_id": 1335041,
+      "winner_name": "Pierpaolo Aletto",
+      "winner_helmet": {
+        "pattern": 68,
+        "color1": "f10c17",
+        "color2": "efd41e",
+        "color3": "1e29c9",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 5,
+      "incidents": 1,
+      "points": 101,
+      "strength_of_field": 1655,
+      "subsession_id": 88054919,
+      "old_sub_level": 327,
+      "new_sub_level": 337,
+      "oldi_rating": 1753,
+      "newi_rating": 1842,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 9
+    },
+    {
       "season_id": 6305,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -423,54 +471,6 @@
       "new_sub_level": 101,
       "oldi_rating": 1737,
       "newi_rating": 1641,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6311,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 188,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 188,
-        "pattern": 3,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-08-02T12:45:00Z",
-      "winner_group_id": 1189808,
-      "winner_name": "Leonardo Couto2",
-      "winner_helmet": {
-        "pattern": 4,
-        "color1": "d7e810",
-        "color2": "00f244",
-        "color3": "2ca1db",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 31,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 0,
-      "strength_of_field": 1828,
-      "subsession_id": 87658970,
-      "old_sub_level": 141,
-      "new_sub_level": 120,
-      "oldi_rating": 1830,
-      "newi_rating": 1737,
       "track": {
         "track_id": 239,
         "track_name": "Autodromo Nazionale Monza"
