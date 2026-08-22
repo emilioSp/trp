@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6343,
+      "series_id": 564,
+      "series_name": "Mini Stock Rookie Series by Thrustmaster",
+      "car_id": 191,
+      "car_class_id": 4069,
+      "livery": {
+        "car_id": 191,
+        "pattern": 1,
+        "color1": "0a0a0a",
+        "color2": "ffffff",
+        "color3": "ed1b29"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-08-21T13:15:00Z",
+      "winner_group_id": 1535363,
+      "winner_name": "Wesley Rotenberry",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "2e358f",
+        "color3": "ec232d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 4,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 63,
+      "strength_of_field": 1513,
+      "subsession_id": 88125337,
+      "old_sub_level": 243,
+      "new_sub_level": 242,
+      "oldi_rating": 1465,
+      "newi_rating": 1502,
+      "track": {
+        "track_id": 556,
+        "track_name": "Charlotte Motor Speedway "
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 9
+    },
+    {
       "season_id": 6303,
       "series_id": 594,
       "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
@@ -428,54 +476,6 @@
         "track_name": "Motorsport Arena Oschersleben"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 6281,
-      "series_id": 353,
-      "series_name": "Ferrari 296 Challenge",
-      "car_id": 203,
-      "car_class_id": 4082,
-      "livery": {
-        "car_id": 203,
-        "pattern": 24,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-08-10T20:15:00Z",
-      "winner_group_id": 1416398,
-      "winner_name": "Krzysztof Skorupski2",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 1,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 5,
-      "incidents": 4,
-      "points": 94,
-      "strength_of_field": 1915,
-      "subsession_id": 87865516,
-      "old_sub_level": 153,
-      "new_sub_level": 172,
-      "oldi_rating": 3116,
-      "newi_rating": 3138,
-      "track": {
-        "track_id": 455,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 7

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6278,
+      "series_id": 526,
+      "series_name": "Ring Meister by LVRY",
+      "car_id": 162,
+      "car_class_id": 4048,
+      "livery": {
+        "car_id": 162,
+        "pattern": 23,
+        "color1": "313131",
+        "color2": "000000",
+        "color3": "977728"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-08-22T00:00:00Z",
+      "winner_group_id": 515996,
+      "winner_name": "Gonçalo Teixeira2",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 16,
+      "start_position": 11,
+      "finish_position": 14,
+      "qualifying_time": 4838020,
+      "laps": 3,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 54,
+      "strength_of_field": 2323,
+      "subsession_id": 88136329,
+      "old_sub_level": 295,
+      "new_sub_level": 287,
+      "oldi_rating": 2087,
+      "newi_rating": 2075,
+      "track": {
+        "track_id": 249,
+        "track_name": "Nürburgring Nordschleife"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 9
+    },
+    {
       "season_id": 6306,
       "series_id": 535,
       "series_name": "GTE Sprint Series",
@@ -428,54 +476,6 @@
         "track_name": "Brands Hatch Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 188,
-        "pattern": 0,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-05-03T20:00:00Z",
-      "winner_group_id": 711269,
-      "winner_name": "Dominic Strelow",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "ff7b01",
-        "color2": "000000",
-        "color3": "60e90c",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 19,
-      "finish_position": 16,
-      "qualifying_time": 0,
-      "laps": 28,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 52,
-      "strength_of_field": 2107,
-      "subsession_id": 85474077,
-      "old_sub_level": 262,
-      "new_sub_level": 230,
-      "oldi_rating": 2145,
-      "newi_rating": 2125,
-      "track": {
-        "track_id": 145,
-        "track_name": "Brands Hatch Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 6
