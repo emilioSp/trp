@@ -14,6 +14,54 @@
         "color3": "1E29C9"
       },
       "license_level": 19,
+      "session_start_time": "2026-08-22T12:45:00Z",
+      "winner_group_id": 1462601,
+      "winner_name": "Brad Coronas",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "949494",
+        "color2": "787878",
+        "color3": "898989",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 15,
+      "finish_position": 19,
+      "qualifying_time": 0,
+      "laps": 1,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 3,
+      "strength_of_field": 1843,
+      "subsession_id": 88148948,
+      "old_sub_level": 337,
+      "new_sub_level": 318,
+      "oldi_rating": 1842,
+      "newi_rating": 1749,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 6303,
+      "series_id": 594,
+      "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 4,
+        "color1": "F10C17",
+        "color2": "EFD41E",
+        "color3": "1E29C9"
+      },
+      "license_level": 19,
       "session_start_time": "2026-08-18T14:45:00Z",
       "winner_group_id": 1335041,
       "winner_name": "Pierpaolo Aletto",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 7
-    },
-    {
-      "season_id": 6311,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-08-02T14:45:00Z",
-      "winner_group_id": 1051045,
-      "winner_name": "Brandon S Smith",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "263972",
-        "color2": "2d2e7b",
-        "color3": "373f89",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 33,
-      "finish_position": 35,
-      "qualifying_time": 0,
-      "laps": 5,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 1,
-      "strength_of_field": 1731,
-      "subsession_id": 87661038,
-      "old_sub_level": 120,
-      "new_sub_level": 101,
-      "oldi_rating": 1737,
-      "newi_rating": 1641,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1335041
