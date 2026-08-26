@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6288,
+      "series_id": 525,
+      "series_name": "LMP3 Trophy",
+      "car_id": 165,
+      "car_class_id": 4018,
+      "livery": {
+        "car_id": 165,
+        "pattern": 3,
+        "color1": "001B56",
+        "color2": "FFFFFF",
+        "color3": "CF0715"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-08-25T12:30:00Z",
+      "winner_group_id": 637835,
+      "winner_name": "Carlos Alonso García-Bayón",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "3ff222",
+        "color2": "d7e5e6",
+        "color3": "0011f0",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 12,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 89,
+      "strength_of_field": 2022,
+      "subsession_id": 88222667,
+      "old_sub_level": 220,
+      "new_sub_level": 214,
+      "oldi_rating": 3344,
+      "newi_rating": 3357,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 10
+    },
+    {
       "season_id": 6266,
       "series_id": 571,
       "series_name": "BMW M2 Cup",
@@ -428,54 +476,6 @@
         "track_name": "Tsukuba Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 6303,
-      "series_id": 594,
-      "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
-      "car_id": 206,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 206,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-08-16T21:45:00Z",
-      "winner_group_id": 594486,
-      "winner_name": "Berkin Öz",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 126,
-      "strength_of_field": 2366,
-      "subsession_id": 88015170,
-      "old_sub_level": 346,
-      "new_sub_level": 363,
-      "oldi_rating": 3263,
-      "newi_rating": 3311,
-      "track": {
-        "track_id": 324,
-        "track_name": "Tsukuba Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 8
