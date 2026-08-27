@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6347,
+      "series_id": 167,
+      "series_name": "ARCA Menards Series",
+      "car_id": 199,
+      "car_class_id": 4086,
+      "livery": {
+        "car_id": 199,
+        "pattern": 8,
+        "color1": "000000",
+        "color2": "320a5a",
+        "color3": "0f1562"
+      },
+      "license_level": 6,
+      "session_start_time": "2026-08-26T19:45:00Z",
+      "winner_group_id": 371788,
+      "winner_name": "Shawn M Conklin",
+      "winner_helmet": {
+        "pattern": 48,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "004aba",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 13,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 29,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 65,
+      "strength_of_field": 2440,
+      "subsession_id": 88254865,
+      "old_sub_level": 263,
+      "new_sub_level": 274,
+      "oldi_rating": 1444,
+      "newi_rating": 1469,
+      "track": {
+        "track_id": 275,
+        "track_name": "USA International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 10
+    },
+    {
       "season_id": 6078,
       "series_id": 47,
       "series_name": "NASCAR iRacing Class C Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 8
-    },
-    {
-      "season_id": 6313,
-      "series_id": 455,
-      "series_name": "Formula Vee Series by trophi.ai",
-      "car_id": 142,
-      "car_class_id": 4107,
-      "livery": {
-        "car_id": 142,
-        "pattern": 22,
-        "color1": "a50e0e",
-        "color2": "072ae1",
-        "color3": "320548"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-08-07T08:30:00Z",
-      "winner_group_id": 950353,
-      "winner_name": "Simone Tegas",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "000000",
-        "color2": "320a5a",
-        "color3": "0f1562",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 7,
-      "incidents": 0,
-      "points": 96,
-      "strength_of_field": 1716,
-      "subsession_id": 87776757,
-      "old_sub_level": 358,
-      "new_sub_level": 365,
-      "oldi_rating": 3152,
-      "newi_rating": 3196,
-      "track": {
-        "track_id": 166,
-        "track_name": "Okayama International Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 7
     }
   ],
   "cust_id": 950353
