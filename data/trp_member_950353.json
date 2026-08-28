@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6397,
+      "series_id": 462,
+      "series_name": "Pro 2 Lite Off-Road Rookie Series by Trak Racer",
+      "car_id": 113,
+      "car_class_id": 1454,
+      "livery": {
+        "car_id": 113,
+        "pattern": 1,
+        "color1": "fc0706",
+        "color2": "ffffff",
+        "color3": "111111"
+      },
+      "license_level": 10,
+      "session_start_time": "2026-08-27T19:00:00Z",
+      "winner_group_id": 1196630,
+      "winner_name": "Luka Martin Marin",
+      "winner_helmet": {
+        "pattern": 65,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 4,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 6,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 14,
+      "strength_of_field": 1813,
+      "subsession_id": 88277990,
+      "old_sub_level": 277,
+      "new_sub_level": 280,
+      "oldi_rating": 1332,
+      "newi_rating": 1290,
+      "track": {
+        "track_id": 472,
+        "track_name": "[Legacy] Phoenix Raceway - 2008"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 10
+    },
+    {
       "season_id": 6347,
       "series_id": 167,
       "series_name": "ARCA Menards Series",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 192,
         "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 6313,
-      "series_id": 455,
-      "series_name": "Formula Vee Series by trophi.ai",
-      "car_id": 142,
-      "car_class_id": 4107,
-      "livery": {
-        "car_id": 142,
-        "pattern": 22,
-        "color1": "a50e0e",
-        "color2": "072ae1",
-        "color3": "320548"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-08-11T15:00:00Z",
-      "winner_group_id": 950353,
-      "winner_name": "Simone Tegas",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "000000",
-        "color2": "320a5a",
-        "color3": "0f1562",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 3,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 2,
-      "incidents": 7,
-      "points": 136,
-      "strength_of_field": 2407,
-      "subsession_id": 87884972,
-      "old_sub_level": 365,
-      "new_sub_level": 349,
-      "oldi_rating": 3196,
-      "newi_rating": 3266,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
       },
       "drop_race": false,
       "season_year": 2026,
