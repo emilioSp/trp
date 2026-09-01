@@ -14,6 +14,54 @@
         "color3": "CFDD28"
       },
       "license_level": 14,
+      "session_start_time": "2026-08-31T16:00:00Z",
+      "winner_group_id": 1109443,
+      "winner_name": "Manuel Seitz",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "fc0706",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 19,
+      "finish_position": 18,
+      "qualifying_time": 0,
+      "laps": 27,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 73,
+      "strength_of_field": 3001,
+      "subsession_id": 88372905,
+      "old_sub_level": 270,
+      "new_sub_level": 299,
+      "oldi_rating": 2479,
+      "newi_rating": 2477,
+      "track": {
+        "track_id": 403,
+        "track_name": "Red Bull Ring"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 10
+    },
+    {
+      "season_id": 6301,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 185,
+        "pattern": 5,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 14,
       "session_start_time": "2026-08-30T14:00:00Z",
       "winner_group_id": 211053,
       "winner_name": "Artur Przybysz2",
@@ -187,7 +235,7 @@
         "track_id": 403,
         "track_name": "Red Bull Ring"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 10
@@ -423,54 +471,6 @@
       "new_sub_level": 122,
       "oldi_rating": 2002,
       "newi_rating": 2064,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 6303,
-      "series_id": 594,
-      "series_name": "iRacing GT3 Regional Tour - Asia Pacific",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 5,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-08-21T08:45:00Z",
-      "winner_group_id": 1526572,
-      "winner_name": "Taro Fujimura",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 8,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 91,
-      "strength_of_field": 2056,
-      "subsession_id": 88120762,
-      "old_sub_level": 107,
-      "new_sub_level": 123,
-      "oldi_rating": 1956,
-      "newi_rating": 2002,
       "track": {
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"

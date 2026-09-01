@@ -4,6 +4,54 @@
       "season_id": 6312,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed",
+      "car_id": 185,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 185,
+        "pattern": 18,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-08-31T13:45:00Z",
+      "winner_group_id": 61411,
+      "winner_name": "Emil Bernstorff",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "ffe326",
+        "color2": "000000",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 18,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 27,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 97,
+      "strength_of_field": 2820,
+      "subsession_id": 88370745,
+      "old_sub_level": 214,
+      "new_sub_level": 245,
+      "oldi_rating": 3866,
+      "newi_rating": 3855,
+      "track": {
+        "track_id": 127,
+        "track_name": "Road Atlanta"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 10
+    },
+    {
+      "season_id": 6312,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed",
       "car_id": 173,
       "car_class_id": 4011,
       "livery": {
@@ -43,7 +91,7 @@
         "track_id": 127,
         "track_name": "Road Atlanta"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 10
@@ -423,54 +471,6 @@
       "new_sub_level": 276,
       "oldi_rating": 3955,
       "newi_rating": 3949,
-      "track": {
-        "track_id": 212,
-        "track_name": "Autódromo José Carlos Pace"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6311,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 133,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 133,
-        "pattern": 3,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-07-17T12:45:00Z",
-      "winner_group_id": 1134363,
-      "winner_name": "Dominik Pester",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "b82f37",
-        "color2": "284a94",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 18,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 30,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 149,
-      "strength_of_field": 3993,
-      "subsession_id": 87265992,
-      "old_sub_level": 245,
-      "new_sub_level": 284,
-      "oldi_rating": 3926,
-      "newi_rating": 3955,
       "track": {
         "track_id": 212,
         "track_name": "Autódromo José Carlos Pace"
