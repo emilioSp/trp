@@ -14,6 +14,54 @@
         "color3": "e10000"
       },
       "license_level": 19,
+      "session_start_time": "2026-09-02T00:00:00Z",
+      "winner_group_id": 246994,
+      "winner_name": "Filip Ołdak2",
+      "winner_helmet": {
+        "pattern": 5,
+        "color1": "ee3442",
+        "color2": "ffffff",
+        "color3": "447ac0",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 5,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 177,
+      "strength_of_field": 3945,
+      "subsession_id": 88406965,
+      "old_sub_level": 323,
+      "new_sub_level": 333,
+      "oldi_rating": 4496,
+      "newi_rating": 4534,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 11
+    },
+    {
+      "season_id": 6301,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 23,
+        "color1": "d00000",
+        "color2": "d80606",
+        "color3": "e10000"
+      },
+      "license_level": 19,
       "session_start_time": "2026-09-01T00:00:00Z",
       "winner_group_id": 1075703,
       "winner_name": "Daniel Gorochov",
@@ -43,7 +91,7 @@
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 11
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 5
-    },
-    {
-      "season_id": 6311,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series",
-      "car_id": 133,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 133,
-        "pattern": 4,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-07-14T20:45:00Z",
-      "winner_group_id": 904660,
-      "winner_name": "Francesco Sajetti",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "ffffff",
-        "color2": "de060d",
-        "color3": "002a7f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 11,
-      "finish_position": 20,
-      "qualifying_time": 0,
-      "laps": 28,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 33,
-      "strength_of_field": 4106,
-      "subsession_id": 87202056,
-      "old_sub_level": 499,
-      "new_sub_level": 457,
-      "oldi_rating": 4357,
-      "newi_rating": 4287,
-      "track": {
-        "track_id": 212,
-        "track_name": "Autódromo José Carlos Pace"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 4
     }
   ],
   "cust_id": 872758
