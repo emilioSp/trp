@@ -14,6 +14,54 @@
         "color3": "e10000"
       },
       "license_level": 19,
+      "session_start_time": "2026-09-03T00:00:00Z",
+      "winner_group_id": 246994,
+      "winner_name": "Filip Ołdak2",
+      "winner_helmet": {
+        "pattern": 5,
+        "color1": "ee3442",
+        "color2": "ffffff",
+        "color3": "447ac0",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 4,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 212,
+      "strength_of_field": 3715,
+      "subsession_id": 88430736,
+      "old_sub_level": 333,
+      "new_sub_level": 315,
+      "oldi_rating": 4534,
+      "newi_rating": 4603,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 11
+    },
+    {
+      "season_id": 6301,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 23,
+        "color1": "d00000",
+        "color2": "d80606",
+        "color3": "e10000"
+      },
+      "license_level": 19,
       "session_start_time": "2026-09-02T00:00:00Z",
       "winner_group_id": 246994,
       "winner_name": "Filip Ołdak2",
@@ -43,7 +91,7 @@
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 11
@@ -423,54 +471,6 @@
       "new_sub_level": 447,
       "oldi_rating": 4330,
       "newi_rating": 4371,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6305,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-07-21T21:45:00Z",
-      "winner_group_id": 623524,
-      "winner_name": "Orazio Principato",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ed2129",
-        "color2": "2a3795",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 147,
-      "strength_of_field": 2751,
-      "subsession_id": 87375414,
-      "old_sub_level": 457,
-      "new_sub_level": 453,
-      "oldi_rating": 4287,
-      "newi_rating": 4330,
       "track": {
         "track_id": 498,
         "track_name": "Autodromo Internazionale del Mugello"
