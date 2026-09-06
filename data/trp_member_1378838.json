@@ -13,6 +13,54 @@
         "color2": "ec232d",
         "color3": "0a0a0a"
       },
+      "license_level": 14,
+      "session_start_time": "2026-09-05T12:45:00Z",
+      "winner_group_id": 1231213,
+      "winner_name": "Sven Glasow",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "0a0a0a",
+        "color2": "254192",
+        "color3": "016db8",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 9,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 90,
+      "strength_of_field": 1690,
+      "subsession_id": 88490963,
+      "old_sub_level": 267,
+      "new_sub_level": 274,
+      "oldi_rating": 2058,
+      "newi_rating": 2114,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 11
+    },
+    {
+      "season_id": 6305,
+      "series_id": 596,
+      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 7,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a"
+      },
       "license_level": 13,
       "session_start_time": "2026-09-04T22:45:00Z",
       "winner_group_id": 411119,
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 10
-    },
-    {
-      "season_id": 6266,
-      "series_id": 571,
-      "series_name": "BMW M2 Cup",
-      "car_id": 216,
-      "car_class_id": 4108,
-      "livery": {
-        "car_id": 216,
-        "pattern": 3,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-08-16T17:45:00Z",
-      "winner_group_id": 761289,
-      "winner_name": "Kodi Cosford",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "111111",
-        "color2": "03bbbd",
-        "color3": "184252",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 12,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 0,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 0,
-      "strength_of_field": 2351,
-      "subsession_id": 88010311,
-      "old_sub_level": 156,
-      "new_sub_level": 156,
-      "oldi_rating": 1940,
-      "newi_rating": 1865,
-      "track": {
-        "track_id": 353,
-        "track_name": "Lime Rock Park"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 8
     }
   ],
   "cust_id": 1378838

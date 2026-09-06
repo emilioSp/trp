@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6301,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 23,
+        "color1": "d00000",
+        "color2": "d80606",
+        "color3": "e10000"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-09-06T00:00:00Z",
+      "winner_group_id": 872758,
+      "winner_name": "Giuseppe Capitoni",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "46ed1c",
+        "color2": "00b7e8",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 20,
+      "incidents": 3,
+      "points": 167,
+      "strength_of_field": 2684,
+      "subsession_id": 88503281,
+      "old_sub_level": 265,
+      "new_sub_level": 286,
+      "oldi_rating": 4639,
+      "newi_rating": 4689,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 11
+    },
+    {
       "season_id": 6305,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour - Europe",
@@ -187,7 +235,7 @@
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 11
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 6
-    },
-    {
-      "season_id": 6305,
-      "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-07-26T20:45:00Z",
-      "winner_group_id": 1008056,
-      "winner_name": "Salvatore Pino",
-      "winner_helmet": {
-        "pattern": 49,
-        "color1": "00b4a5",
-        "color2": "f7f7f7",
-        "color3": "e3ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 162,
-      "strength_of_field": 2950,
-      "subsession_id": 87496767,
-      "old_sub_level": 447,
-      "new_sub_level": 422,
-      "oldi_rating": 4393,
-      "newi_rating": 4440,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 5
     }
   ],
   "cust_id": 872758
