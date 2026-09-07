@@ -14,6 +14,54 @@
         "color3": "1E29C9"
       },
       "license_level": 18,
+      "session_start_time": "2026-09-06T11:15:00Z",
+      "winner_group_id": 425321,
+      "winner_name": "junyoung Lee",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "fff3f5",
+        "color2": "000000",
+        "color3": "ff890a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 7,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 73,
+      "strength_of_field": 2070,
+      "subsession_id": 88513966,
+      "old_sub_level": 238,
+      "new_sub_level": 236,
+      "oldi_rating": 2022,
+      "newi_rating": 2038,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 11
+    },
+    {
+      "season_id": 6302,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 4,
+        "color1": "F10C17",
+        "color2": "EFD41E",
+        "color3": "1E29C9"
+      },
+      "license_level": 18,
       "session_start_time": "2026-09-02T15:15:00Z",
       "winner_group_id": 1007223,
       "winner_name": "Hijklo Mao",
@@ -43,7 +91,7 @@
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 11
@@ -428,54 +476,6 @@
         "track_name": "Red Bull Ring"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6301,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-08-29T10:00:00Z",
-      "winner_group_id": 1355740,
-      "winner_name": "Adam Wagner5",
-      "winner_helmet": {
-        "pattern": 50,
-        "color1": "0086bf",
-        "color2": "ff8e19",
-        "color3": "a80ad3",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 21,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 27,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 102,
-      "strength_of_field": 2011,
-      "subsession_id": 88317393,
-      "old_sub_level": 246,
-      "new_sub_level": 247,
-      "oldi_rating": 1986,
-      "newi_rating": 2047,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 10
