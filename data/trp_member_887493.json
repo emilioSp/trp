@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6301,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 0,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-09-07T22:00:00Z",
+      "winner_group_id": 687094,
+      "winner_name": "Lucas Metz",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "b4b4b4",
+        "color2": "ff0000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 13,
+      "finish_position": 18,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 67,
+      "strength_of_field": 3490,
+      "subsession_id": 88552281,
+      "old_sub_level": 475,
+      "new_sub_level": 482,
+      "oldi_rating": 3507,
+      "newi_rating": 3476,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 11
+    },
+    {
       "season_id": 6306,
       "series_id": 535,
       "series_name": "GTE Sprint Series",
@@ -428,54 +476,6 @@
         "track_name": "Circuit des 24 Heures du Mans"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6306,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 127,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 127,
-        "pattern": 5,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-07-31T09:00:00Z",
-      "winner_group_id": 684318,
-      "winner_name": "Constantin Gross",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "ee3442",
-        "color3": "447ac0",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 7,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 44,
-      "strength_of_field": 2168,
-      "subsession_id": 87606842,
-      "old_sub_level": 351,
-      "new_sub_level": 370,
-      "oldi_rating": 3393,
-      "newi_rating": 3332,
-      "track": {
-        "track_id": 268,
-        "track_name": "Circuit des 24 Heures du Mans"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 6
