@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6586,
+      "series_id": 449,
+      "series_name": "13th Week GT3 Challenge - Fixed",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 4,
+        "color1": "F10C17",
+        "color2": "EFD41E",
+        "color3": "1E29C9"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-09-08T15:00:00Z",
+      "winner_group_id": 1490593,
+      "winner_name": "Mario Martucci",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 20,
+      "finish_position": 25,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 27,
+      "strength_of_field": 2587,
+      "subsession_id": 88561313,
+      "old_sub_level": 236,
+      "new_sub_level": 245,
+      "oldi_rating": 2038,
+      "newi_rating": 1994,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6302,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 226,
       "oldi_rating": 2039,
       "newi_rating": 2098,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6302,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-08-29T15:15:00Z",
-      "winner_group_id": 1134896,
-      "winner_name": "Romain Callibet",
-      "winner_helmet": {
-        "pattern": 45,
-        "color1": "7b8184",
-        "color2": "f10606",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 7,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 57,
-      "strength_of_field": 2109,
-      "subsession_id": 88322508,
-      "old_sub_level": 247,
-      "new_sub_level": 218,
-      "oldi_rating": 2047,
-      "newi_rating": 2039,
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"
