@@ -41,7 +41,7 @@
       "newi_rating": 3572,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": false,
       "season_year": 2026,
@@ -99,7 +99,7 @@
     {
       "season_id": 6304,
       "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour - Americas",
+      "series_name": "iRacing GT3 Regional Tour by Sensit!- Americas",
       "car_id": 173,
       "car_class_id": 2708,
       "livery": {
@@ -137,7 +137,7 @@
       "newi_rating": 3492,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": false,
       "season_year": 2026,
@@ -195,7 +195,7 @@
     {
       "season_id": 6124,
       "series_id": 447,
-      "series_name": "IMSA iRacing Series",
+      "series_name": "IMSA iRacing Series by GO Fast",
       "car_id": 173,
       "car_class_id": 4011,
       "livery": {
@@ -233,7 +233,7 @@
       "newi_rating": 3458,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": false,
       "season_year": 2026,
@@ -243,7 +243,7 @@
     {
       "season_id": 6124,
       "series_id": 447,
-      "series_name": "IMSA iRacing Series",
+      "series_name": "IMSA iRacing Series by GO Fast",
       "car_id": 173,
       "car_class_id": 4011,
       "livery": {
@@ -281,7 +281,7 @@
       "newi_rating": 3395,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": true,
       "season_year": 2026,
@@ -291,7 +291,7 @@
     {
       "season_id": 6118,
       "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "series_name": "iRacing GT3 Regional Tour by Sensit! - Europe",
       "car_id": 173,
       "car_class_id": 4091,
       "livery": {

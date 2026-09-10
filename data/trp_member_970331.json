@@ -329,7 +329,7 @@
       "newi_rating": 4551,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": false,
       "season_year": 2026,
@@ -377,7 +377,7 @@
       "newi_rating": 4593,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": false,
       "season_year": 2026,
@@ -425,7 +425,7 @@
       "newi_rating": 4540,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": true,
       "season_year": 2026,
@@ -473,7 +473,7 @@
       "newi_rating": 4509,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": true,
       "season_year": 2026,

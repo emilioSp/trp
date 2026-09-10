@@ -51,7 +51,7 @@
     {
       "season_id": 6124,
       "series_id": 447,
-      "series_name": "IMSA iRacing Series",
+      "series_name": "IMSA iRacing Series by GO Fast",
       "car_id": 173,
       "car_class_id": 4011,
       "livery": {
@@ -89,7 +89,7 @@
       "newi_rating": 3624,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": false,
       "season_year": 2026,
@@ -195,7 +195,7 @@
     {
       "season_id": 6124,
       "series_id": 447,
-      "series_name": "IMSA iRacing Series",
+      "series_name": "IMSA iRacing Series by GO Fast",
       "car_id": 173,
       "car_class_id": 4011,
       "livery": {
@@ -233,7 +233,7 @@
       "newi_rating": 3555,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": true,
       "season_year": 2026,
@@ -243,7 +243,7 @@
     {
       "season_id": 6124,
       "series_id": 447,
-      "series_name": "IMSA iRacing Series",
+      "series_name": "IMSA iRacing Series by GO Fast",
       "car_id": 173,
       "car_class_id": 4011,
       "livery": {
@@ -281,7 +281,7 @@
       "newi_rating": 3515,
       "track": {
         "track_id": 18,
-        "track_name": "Road America"
+        "track_name": "[Retired] Road America"
       },
       "drop_race": true,
       "season_year": 2026,
@@ -339,7 +339,7 @@
     {
       "season_id": 6118,
       "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour - Europe",
+      "series_name": "iRacing GT3 Regional Tour by Sensit! - Europe",
       "car_id": 173,
       "car_class_id": 4091,
       "livery": {
@@ -387,7 +387,7 @@
     {
       "season_id": 6124,
       "series_id": 447,
-      "series_name": "IMSA iRacing Series",
+      "series_name": "IMSA iRacing Series by GO Fast",
       "car_id": 173,
       "car_class_id": 4011,
       "livery": {
@@ -435,7 +435,7 @@
     {
       "season_id": 6124,
       "series_id": 447,
-      "series_name": "IMSA iRacing Series",
+      "series_name": "IMSA iRacing Series by GO Fast",
       "car_id": 133,
       "car_class_id": 4011,
       "livery": {
