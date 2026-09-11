@@ -46,18 +46,8 @@
     "country": "Italy",
     "classOrder": 4,
     "className": "B",
-    "safetyRating": 3.83,
-    "iRating": 2568
-  },
-  {
-    "id": 1168345,
-    "name": "Federico Gallini2",
-    "memberSince": "2024-12-25",
-    "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 2.18,
-    "iRating": 3357
+    "safetyRating": 3.4,
+    "iRating": 2486
   },
   {
     "id": 887493,
@@ -116,8 +106,8 @@
     "country": "Italy",
     "classOrder": 4,
     "className": "B",
-    "safetyRating": 2.49,
-    "iRating": 4276
+    "safetyRating": 2.63,
+    "iRating": 4454
   },
   {
     "id": 970331,
@@ -286,7 +276,7 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.39,
-    "iRating": 4031
+    "safetyRating": 3.47,
+    "iRating": 4027
   }
 ]

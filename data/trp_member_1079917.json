@@ -14,6 +14,54 @@
         "color3": "0a35e9"
       },
       "license_level": 19,
+      "session_start_time": "2026-09-10T12:45:00Z",
+      "winner_group_id": 966740,
+      "winner_name": "Joris Uittenhout",
+      "winner_helmet": {
+        "pattern": 14,
+        "color1": "000000",
+        "color2": "6e6e6e",
+        "color3": "a7f03c",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 4,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 91,
+      "strength_of_field": 2285,
+      "subsession_id": 88582545,
+      "old_sub_level": 339,
+      "new_sub_level": 347,
+      "oldi_rating": 4031,
+      "newi_rating": 4027,
+      "track": {
+        "track_id": 449,
+        "track_name": "Motorsport Arena Oschersleben"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6583,
+      "series_id": 607,
+      "series_name": "13th Week BMW M2 Cup",
+      "car_id": 216,
+      "car_class_id": 4108,
+      "livery": {
+        "car_id": 216,
+        "pattern": 3,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 19,
       "session_start_time": "2026-09-09T22:15:00Z",
       "winner_group_id": 511566,
       "winner_name": "Bryan Hedian",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 11
-    },
-    {
-      "season_id": 6312,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed by GO Fast",
-      "car_id": 185,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 185,
-        "pattern": 18,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-08-31T13:45:00Z",
-      "winner_group_id": 61411,
-      "winner_name": "Emil Bernstorff",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "ffe326",
-        "color2": "000000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 18,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 27,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 97,
-      "strength_of_field": 2820,
-      "subsession_id": 88370745,
-      "old_sub_level": 214,
-      "new_sub_level": 245,
-      "oldi_rating": 3866,
-      "newi_rating": 3855,
-      "track": {
-        "track_id": 127,
-        "track_name": "Road Atlanta"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1079917
