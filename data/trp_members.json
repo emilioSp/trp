@@ -106,8 +106,8 @@
     "country": "Italy",
     "classOrder": 4,
     "className": "B",
-    "safetyRating": 2.63,
-    "iRating": 4454
+    "safetyRating": 2.48,
+    "iRating": 4380
   },
   {
     "id": 970331,
@@ -238,16 +238,6 @@
     "className": "A",
     "safetyRating": 2.9,
     "iRating": 2240
-  },
-  {
-    "id": 430526,
-    "name": "Silvio Muoio2",
-    "memberSince": "2020-01-23",
-    "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 2.58,
-    "iRating": 1971
   },
   {
     "id": 887863,
