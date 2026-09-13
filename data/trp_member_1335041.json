@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6618,
+      "series_id": 597,
+      "series_name": "Suzuka 1000km Presented by PIMAX",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 0,
+        "color1": "2a3795",
+        "color2": "3821ed",
+        "color3": "ffffff"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-09-12T07:00:00Z",
+      "winner_group_id": -384703,
+      "winner_name": "Valpy Racing",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 59,
+      "finish_position": 38,
+      "qualifying_time": 0,
+      "laps": 64,
+      "laps_led": 0,
+      "incidents": 18,
+      "points": 55,
+      "strength_of_field": 2322,
+      "subsession_id": 88604546,
+      "old_sub_level": 245,
+      "new_sub_level": 268,
+      "oldi_rating": 1994,
+      "newi_rating": 1985,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6586,
       "series_id": 449,
       "series_name": "13th Week GT3 Challenge - Fixed",
@@ -423,54 +471,6 @@
       "new_sub_level": 240,
       "oldi_rating": 2098,
       "newi_rating": 2099,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6302,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-08-30T09:15:00Z",
-      "winner_group_id": 1027211,
-      "winner_name": "Nikita Pyrlik",
-      "winner_helmet": {
-        "pattern": 13,
-        "color1": "ff0000",
-        "color2": "0012ff",
-        "color3": "fc0706",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 5,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 105,
-      "strength_of_field": 2165,
-      "subsession_id": 88341210,
-      "old_sub_level": 218,
-      "new_sub_level": 226,
-      "oldi_rating": 2039,
-      "newi_rating": 2098,
       "track": {
         "track_id": 403,
         "track_name": "Red Bull Ring"

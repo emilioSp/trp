@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6618,
+      "series_id": 597,
+      "series_name": "Suzuka 1000km Presented by PIMAX",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 0,
+        "color1": "2a3795",
+        "color2": "3821ed",
+        "color3": "ffffff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-09-12T16:00:00Z",
+      "winner_group_id": -127445,
+      "winner_name": "Zero7 Racing x Getail Design",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 3,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 29,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 218,
+      "strength_of_field": 4232,
+      "subsession_id": 88609145,
+      "old_sub_level": 482,
+      "new_sub_level": 482,
+      "oldi_rating": 3476,
+      "newi_rating": 3486,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6301,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 7
-    },
-    {
-      "season_id": 6306,
-      "series_id": 535,
-      "series_name": "GTE Sprint Series",
-      "car_id": 127,
-      "car_class_id": 100,
-      "livery": {
-        "car_id": 127,
-        "pattern": 5,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-07-31T13:00:00Z",
-      "winner_group_id": 278249,
-      "winner_name": "Daniel W Taylor",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "21ED2D",
-        "color2": "0E0202",
-        "color3": "F01919",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 4,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 118,
-      "strength_of_field": 2654,
-      "subsession_id": 87610130,
-      "old_sub_level": 370,
-      "new_sub_level": 376,
-      "oldi_rating": 3332,
-      "newi_rating": 3361,
-      "track": {
-        "track_id": 268,
-        "track_name": "Circuit des 24 Heures du Mans"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 6
     }
   ],
   "cust_id": 887493

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6618,
+      "series_id": 597,
+      "series_name": "Suzuka 1000km Presented by PIMAX",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 0,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-09-12T16:00:00Z",
+      "winner_group_id": -536541,
+      "winner_name": "M&M Racing Endurance",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 59,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 62,
+      "laps_led": 0,
+      "incidents": 26,
+      "points": 122,
+      "strength_of_field": 2296,
+      "subsession_id": 88609148,
+      "old_sub_level": 460,
+      "new_sub_level": 357,
+      "oldi_rating": 2411,
+      "newi_rating": 2436,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6369,
       "series_id": 558,
       "series_name": "Micro Non Wing Sprint Car Rookie Series",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 115,
         "track_name": "Darlington Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6313,
-      "series_id": 455,
-      "series_name": "Formula Vee Series by trophi.ai",
-      "car_id": 142,
-      "car_class_id": 4107,
-      "livery": {
-        "car_id": 142,
-        "pattern": 22,
-        "color1": "a50e0e",
-        "color2": "072ae1",
-        "color3": "320548"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-08-28T16:30:00Z",
-      "winner_group_id": 1031004,
-      "winner_name": "Leonid Golovatov",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "0d00ff",
-        "color2": "ffffff",
-        "color3": "f00016",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 10,
-      "start_position": 6,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 8,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 90,
-      "strength_of_field": 1677,
-      "subsession_id": 88299452,
-      "old_sub_level": 363,
-      "new_sub_level": 361,
-      "oldi_rating": 3332,
-      "newi_rating": 3359,
-      "track": {
-        "track_id": 439,
-        "track_name": "Winton Motor Raceway"
       },
       "drop_race": false,
       "season_year": 2026,
