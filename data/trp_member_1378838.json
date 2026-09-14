@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6586,
+      "series_id": 449,
+      "series_name": "13th Week GT3 Challenge - Fixed",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 7,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-09-13T16:00:00Z",
+      "winner_group_id": 1095535,
+      "winner_name": "Arjan Bilbas",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "ffffff",
+        "color2": "00fff7",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 26,
+      "finish_position": 21,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 50,
+      "strength_of_field": 2846,
+      "subsession_id": 88622212,
+      "old_sub_level": 293,
+      "new_sub_level": 284,
+      "oldi_rating": 2187,
+      "newi_rating": 2168,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 3,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6305,
       "series_id": 596,
       "series_name": "iRacing GT3 Regional Tour by Sensit! - Europe",
@@ -423,54 +471,6 @@
       "new_sub_level": 195,
       "oldi_rating": 1876,
       "newi_rating": 1898,
-      "track": {
-        "track_id": 435,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6304,
-      "series_id": 595,
-      "series_name": "iRacing GT3 Regional Tour by Sensit!- Americas",
-      "car_id": 132,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 132,
-        "pattern": 14,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-08-28T14:45:00Z",
-      "winner_group_id": 931139,
-      "winner_name": "Bence Kovari",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "ffffff",
-        "color2": "000000",
-        "color3": "d03131",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 12,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 57,
-      "strength_of_field": 1965,
-      "subsession_id": 88297708,
-      "old_sub_level": 199,
-      "new_sub_level": 185,
-      "oldi_rating": 1877,
-      "newi_rating": 1876,
       "track": {
         "track_id": 435,
         "track_name": "Watkins Glen International"
