@@ -44,9 +44,9 @@
     "name": "Emanuelec Marsilla",
     "memberSince": "2025-04-13",
     "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 3.43,
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.43,
     "iRating": 2473
   },
   {
@@ -104,10 +104,10 @@
     "name": "Simone Donchi",
     "memberSince": "2022-09-23",
     "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 2.7,
-    "iRating": 4954
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 2.52,
+    "iRating": 5027
   },
   {
     "id": 970331,
@@ -194,9 +194,9 @@
     "name": "Davide Iozia",
     "memberSince": "2021-07-26",
     "country": "Italy",
-    "classOrder": 5,
-    "className": "A",
-    "safetyRating": 1.71,
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 2.71,
     "iRating": 3529
   },
   {
