@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 156,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 156,
+        "pattern": 5,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-09-15T22:00:00Z",
+      "winner_group_id": 1053878,
+      "winner_name": "Jannik Steinhoff",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "03c5a8",
+        "color2": "2bb9ff",
+        "color3": "dffa00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 8,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 139,
+      "strength_of_field": 3294,
+      "subsession_id": 88661951,
+      "old_sub_level": 469,
+      "new_sub_level": 425,
+      "oldi_rating": 4738,
+      "newi_rating": 4747,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6618,
       "series_id": 597,
       "series_name": "Suzuka 1000km Presented by PIMAX",
@@ -99,7 +147,7 @@
     {
       "season_id": 6305,
       "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour by Sensit! - Europe",
+      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
       "car_id": 185,
       "car_class_id": 2708,
       "livery": {
@@ -339,7 +387,7 @@
     {
       "season_id": 6303,
       "series_id": 594,
-      "series_name": "iRacing GT3 Regional Tour by Sensit! - Asia Pacific",
+      "series_name": "GT3 Regional Tour by SensitHaptics - Asia Pacific",
       "car_id": 185,
       "car_class_id": 2708,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 8
-    },
-    {
-      "season_id": 6301,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-07-29T22:00:00Z",
-      "winner_group_id": 471994,
-      "winner_name": "Dawid Liwinski",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "fff9f9",
-        "color2": "000000",
-        "color3": "900901",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 23,
-      "finish_position": 17,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 102,
-      "strength_of_field": 3951,
-      "subsession_id": 87571267,
-      "old_sub_level": 405,
-      "new_sub_level": 340,
-      "oldi_rating": 4473,
-      "newi_rating": 4452,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 6
     }
   ],
   "cust_id": 872758

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 185,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 185,
+        "pattern": 5,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-09-15T16:00:00Z",
+      "winner_group_id": 1542309,
+      "winner_name": "Jan Keller4",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 19,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 87,
+      "strength_of_field": 2379,
+      "subsession_id": 88655030,
+      "old_sub_level": 243,
+      "new_sub_level": 244,
+      "oldi_rating": 2473,
+      "newi_rating": 2486,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6618,
       "series_id": 597,
       "series_name": "Suzuka 1000km Presented by PIMAX",
@@ -195,7 +243,7 @@
     {
       "season_id": 6305,
       "series_id": 596,
-      "series_name": "iRacing GT3 Regional Tour by Sensit! - Europe",
+      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
       "car_id": 185,
       "car_class_id": 2708,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 11
-    },
-    {
-      "season_id": 6301,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 5,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-08-31T16:00:00Z",
-      "winner_group_id": 1109443,
-      "winner_name": "Manuel Seitz",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "fc0706",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 19,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 27,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 73,
-      "strength_of_field": 3001,
-      "subsession_id": 88372905,
-      "old_sub_level": 270,
-      "new_sub_level": 299,
-      "oldi_rating": 2479,
-      "newi_rating": 2477,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 10
     }
   ],
   "cust_id": 1229781
