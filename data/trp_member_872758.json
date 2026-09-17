@@ -14,6 +14,54 @@
         "color3": "0000FF"
       },
       "license_level": 20,
+      "session_start_time": "2026-09-16T20:00:00Z",
+      "winner_group_id": 1114497,
+      "winner_name": "Pablo Santos Hernández",
+      "winner_helmet": {
+        "pattern": 36,
+        "color1": "cc0000",
+        "color2": "ffb800",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 16,
+      "finish_position": 25,
+      "qualifying_time": 0,
+      "laps": 21,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 38,
+      "strength_of_field": 4501,
+      "subsession_id": 88684497,
+      "old_sub_level": 425,
+      "new_sub_level": 356,
+      "oldi_rating": 4747,
+      "newi_rating": 4676,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 156,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 156,
+        "pattern": 5,
+        "color1": "FF0000",
+        "color2": "00FF00",
+        "color3": "0000FF"
+      },
+      "license_level": 20,
       "session_start_time": "2026-09-15T22:00:00Z",
       "winner_group_id": 1053878,
       "winner_name": "Jannik Steinhoff",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 9
-    },
-    {
-      "season_id": 6302,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-08-13T23:15:00Z",
-      "winner_group_id": 1143488,
-      "winner_name": "Enzo Tebani",
-      "winner_helmet": {
-        "pattern": 23,
-        "color1": "bd0404",
-        "color2": "111111",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 11,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 114,
-      "strength_of_field": 3921,
-      "subsession_id": 87944279,
-      "old_sub_level": 340,
-      "new_sub_level": 327,
-      "oldi_rating": 4452,
-      "newi_rating": 4450,
-      "track": {
-        "track_id": 448,
-        "track_name": "Indianapolis Motor Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 8
     }
   ],
   "cust_id": 872758
