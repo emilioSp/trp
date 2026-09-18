@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6474,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-09-17T18:45:00Z",
+      "winner_group_id": 1333312,
+      "winner_name": "Vito Crauwels",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 23,
+      "finish_position": 24,
+      "qualifying_time": 0,
+      "laps": 2,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 6,
+      "strength_of_field": 5091,
+      "subsession_id": 88707793,
+      "old_sub_level": 125,
+      "new_sub_level": 107,
+      "oldi_rating": 5112,
+      "newi_rating": 5024,
+      "track": {
+        "track_id": 127,
+        "track_name": "Road Atlanta"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6478,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6583,
-      "series_id": 607,
-      "series_name": "13th Week BMW M2 Cup",
-      "car_id": 216,
-      "car_class_id": 4108,
-      "livery": {
-        "car_id": 216,
-        "pattern": 3,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-09-13T20:00:00Z",
-      "winner_group_id": 825369,
-      "winner_name": "Simone Donchi",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 4,
-      "incidents": 0,
-      "points": 167,
-      "strength_of_field": 2984,
-      "subsession_id": 88624982,
-      "old_sub_level": 272,
-      "new_sub_level": 282,
-      "oldi_rating": 4880,
-      "newi_rating": 4927,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 5

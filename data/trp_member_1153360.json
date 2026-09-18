@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 19,
+      "session_start_time": "2026-09-17T16:45:00Z",
+      "winner_group_id": 1025325,
+      "winner_name": "Max Kazansky",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "ff003d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 9,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 35,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 118,
+      "strength_of_field": 3385,
+      "subsession_id": 88705621,
+      "old_sub_level": 362,
+      "new_sub_level": 377,
+      "oldi_rating": 3573,
+      "newi_rating": 3587,
+      "track": {
+        "track_id": 448,
+        "track_name": "Indianapolis Motor Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6487,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series by GO Fast",
+      "car_id": 212,
+      "car_class_id": 4029,
+      "livery": {
+        "car_id": 212,
+        "pattern": 2,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
       "session_start_time": "2026-09-16T12:45:00Z",
       "winner_group_id": 1081613,
       "winner_name": "Kalyann Mey",
@@ -43,7 +91,7 @@
         "track_id": 448,
         "track_name": "Indianapolis Motor Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 0
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 9
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series by GO Fast",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 12,
-        "color1": "ff9406",
-        "color2": "000000",
-        "color3": "000000"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-05-10T14:45:00Z",
-      "winner_group_id": 1015174,
-      "winner_name": "Samuel Brakstad2",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "ff00f5",
-        "color2": "000879",
-        "color3": "00a3ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 19,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 24,
-      "points": 66,
-      "strength_of_field": 3791,
-      "subsession_id": 85640078,
-      "old_sub_level": 319,
-      "new_sub_level": 227,
-      "oldi_rating": 3578,
-      "newi_rating": 3545,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 7
     }
   ],
   "cust_id": 1153360
