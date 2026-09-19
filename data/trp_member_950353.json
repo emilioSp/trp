@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 156,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 156,
+        "pattern": 22,
+        "color1": "000000",
+        "color2": "320a5a",
+        "color3": "0f1562"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-09-18T16:00:00Z",
+      "winner_group_id": 1501367,
+      "winner_name": "Artem Sergeevich Smirnov",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 14,
+      "finish_position": 21,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 43,
+      "strength_of_field": 2425,
+      "subsession_id": 88729102,
+      "old_sub_level": 357,
+      "new_sub_level": 367,
+      "oldi_rating": 2436,
+      "newi_rating": 2395,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6618,
       "series_id": 597,
       "series_name": "Suzuka 1000km Presented by PIMAX",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 25
-    },
-    {
-      "season_id": 6358,
-      "series_id": 164,
-      "series_name": "NASCAR Class C Series - Fixed",
-      "car_id": 123,
-      "car_class_id": 71,
-      "livery": {
-        "car_id": 123,
-        "pattern": 20,
-        "color1": "000000",
-        "color2": "320A5A",
-        "color3": "0F1562"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-08-28T17:15:00Z",
-      "winner_group_id": 86434,
-      "winner_name": "Mike Wiehl",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 15,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 43,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 60,
-      "strength_of_field": 1536,
-      "subsession_id": 88300241,
-      "old_sub_level": 249,
-      "new_sub_level": 268,
-      "oldi_rating": 1679,
-      "newi_rating": 1697,
-      "track": {
-        "track_id": 115,
-        "track_name": "Darlington Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 10
     }
   ],
   "cust_id": 950353
