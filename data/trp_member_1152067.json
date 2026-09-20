@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6474,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 13,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000"
+      },
+      "license_level": 10,
+      "session_start_time": "2026-09-19T12:45:00Z",
+      "winner_group_id": 1486967,
+      "winner_name": "J Cole Stewart",
+      "winner_helmet": {
+        "pattern": 66,
+        "color1": "ef00b4",
+        "color2": "03ffd9",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 10,
+      "start_position": 4,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 38,
+      "strength_of_field": 702,
+      "subsession_id": 88750968,
+      "old_sub_level": 279,
+      "new_sub_level": 345,
+      "oldi_rating": 691,
+      "newi_rating": 760,
+      "track": {
+        "track_id": 127,
+        "track_name": "Road Atlanta"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6111,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 7
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series by GO Fast",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 18,
-        "color1": "7E00FC",
-        "color2": "00F218",
-        "color3": "ED00F2"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-02-01T10:45:00Z",
-      "winner_group_id": 1193632,
-      "winner_name": "Senna Derycke",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "0e6600",
-        "color2": "ffd900",
-        "color3": "ffde00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 1,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 28,
-      "strength_of_field": 1251,
-      "subsession_id": 83199984,
-      "old_sub_level": 138,
-      "new_sub_level": 141,
-      "oldi_rating": 742,
-      "newi_rating": 744,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 6
     }
   ],
   "cust_id": 1152067

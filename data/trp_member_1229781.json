@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6476,
+      "series_id": 237,
+      "series_name": "GT Endurance Series by Simucube",
+      "car_id": 156,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 156,
+        "pattern": 22,
+        "color1": "000000",
+        "color2": "320a5a",
+        "color3": "0f1562"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-09-19T09:00:00Z",
+      "winner_group_id": -539506,
+      "winner_name": "NeverPractice Gang",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 6,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 30,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 131,
+      "strength_of_field": 2163,
+      "subsession_id": 88747015,
+      "old_sub_level": 229,
+      "new_sub_level": 265,
+      "oldi_rating": 2464,
+      "newi_rating": 2490,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6586,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 5,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-09-08T14:00:00Z",
-      "winner_group_id": 1333602,
-      "winner_name": "Felipe Rigoletto Pinheiro",
-      "winner_helmet": {
-        "pattern": 14,
-        "color1": "ffffff",
-        "color2": "94d300",
-        "color3": "e6e945",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 14,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 124,
-      "strength_of_field": 2411,
-      "subsession_id": 88560937,
-      "old_sub_level": 344,
-      "new_sub_level": 353,
-      "oldi_rating": 2429,
-      "newi_rating": 2490,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
