@@ -14,6 +14,54 @@
         "color3": "0f1562"
       },
       "license_level": 19,
+      "session_start_time": "2026-09-20T08:45:00Z",
+      "winner_group_id": 1169476,
+      "winner_name": "Daniel Valenta",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "ffe094",
+        "color2": "d04146",
+        "color3": "572d9a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 7,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 87,
+      "strength_of_field": 2383,
+      "subsession_id": 88772127,
+      "old_sub_level": 390,
+      "new_sub_level": 373,
+      "oldi_rating": 2400,
+      "newi_rating": 2427,
+      "track": {
+        "track_id": 166,
+        "track_name": "Okayama International Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 0
+    },
+    {
+      "season_id": 6445,
+      "series_id": 571,
+      "series_name": "BMW M2 Cup by Vero Motion",
+      "car_id": 216,
+      "car_class_id": 4108,
+      "livery": {
+        "car_id": 216,
+        "pattern": 3,
+        "color1": "000000",
+        "color2": "320a5a",
+        "color3": "0f1562"
+      },
+      "license_level": 19,
       "session_start_time": "2026-09-19T19:15:00Z",
       "winner_group_id": 1220636,
       "winner_name": "Rennan Calebe",
@@ -43,7 +91,7 @@
         "track_id": 166,
         "track_name": "Okayama International Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 0
@@ -423,54 +471,6 @@
       "new_sub_level": 268,
       "oldi_rating": 1636,
       "newi_rating": 1706,
-      "track": {
-        "track_id": 191,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 10
-    },
-    {
-      "season_id": 6364,
-      "series_id": 58,
-      "series_name": "NASCAR Class A Series",
-      "car_id": 139,
-      "car_class_id": 2978,
-      "livery": {
-        "car_id": 139,
-        "pattern": 12,
-        "color1": "000000",
-        "color2": "320a5a",
-        "color3": "0f1562"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-08-30T08:30:00Z",
-      "winner_group_id": 305000,
-      "winner_name": "Rocky Boyd III",
-      "winner_helmet": {
-        "pattern": 3,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 8,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 62,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 37,
-      "strength_of_field": 1935,
-      "subsession_id": 88340590,
-      "old_sub_level": 258,
-      "new_sub_level": 260,
-      "oldi_rating": 1659,
-      "newi_rating": 1636,
       "track": {
         "track_id": 191,
         "track_name": "Daytona International Speedway"
