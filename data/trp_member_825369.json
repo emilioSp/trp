@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 156,
+        "pattern": 18,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-09-21T09:15:00Z",
+      "winner_group_id": 1029908,
+      "winner_name": "Michael Longstaff3",
+      "winner_helmet": {
+        "pattern": 0,
+        "color1": "ffffff",
+        "color2": "ffffff",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 3,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 180,
+      "strength_of_field": 3603,
+      "subsession_id": 88798221,
+      "old_sub_level": 107,
+      "new_sub_level": 131,
+      "oldi_rating": 5024,
+      "newi_rating": 5066,
+      "track": {
+        "track_id": 341,
+        "track_name": "Silverstone Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 0
+    },
+    {
       "season_id": 6474,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -235,7 +283,7 @@
         "track_id": 341,
         "track_name": "Silverstone Circuit"
       },
-      "drop_race": true,
+      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 0
@@ -423,54 +471,6 @@
       "new_sub_level": 270,
       "oldi_rating": 4965,
       "newi_rating": 4954,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6583,
-      "series_id": 607,
-      "series_name": "13th Week BMW M2 Cup",
-      "car_id": 216,
-      "car_class_id": 4108,
-      "livery": {
-        "car_id": 216,
-        "pattern": 3,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-09-13T20:30:00Z",
-      "winner_group_id": 825369,
-      "winner_name": "Simone Donchi",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 4,
-      "incidents": 0,
-      "points": 147,
-      "strength_of_field": 2591,
-      "subsession_id": 88625311,
-      "old_sub_level": 282,
-      "new_sub_level": 292,
-      "oldi_rating": 4927,
-      "newi_rating": 4965,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
