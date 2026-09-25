@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6602,
+      "series_id": 626,
+      "series_name": "Caterham 420R Cup",
+      "car_id": 218,
+      "car_class_id": 4113,
+      "livery": {
+        "car_id": 218,
+        "pattern": 21,
+        "color1": "F7F7F7",
+        "color2": "FEFEFE",
+        "color3": "EEEEEE"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-09-24T23:30:00Z",
+      "winner_group_id": 244564,
+      "winner_name": "Lucas Jose",
+      "winner_helmet": {
+        "pattern": 36,
+        "color1": "ffffff",
+        "color2": "8f00ff",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 5,
+      "finish_position": 27,
+      "qualifying_time": 0,
+      "laps": 4,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 8,
+      "strength_of_field": 1850,
+      "subsession_id": 88887078,
+      "old_sub_level": 271,
+      "new_sub_level": 232,
+      "oldi_rating": 3529,
+      "newi_rating": 3402,
+      "track": {
+        "track_id": 234,
+        "track_name": "Donington Park Racing Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6302,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 11
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-05-27T02:45:00Z",
-      "winner_group_id": 1147278,
-      "winner_name": "Santii Villar",
-      "winner_helmet": {
-        "pattern": 30,
-        "color1": "ff0000",
-        "color2": "ffffff",
-        "color3": "00abff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 45,
-      "strength_of_field": 2891,
-      "subsession_id": 86046807,
-      "old_sub_level": 207,
-      "new_sub_level": 212,
-      "oldi_rating": 3457,
-      "newi_rating": 3401,
-      "track": {
-        "track_id": 580,
-        "track_name": "Adelaide Street Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 10
     }
   ],
   "cust_id": 664614
