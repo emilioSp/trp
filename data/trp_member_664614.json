@@ -14,6 +14,54 @@
         "color3": "EEEEEE"
       },
       "license_level": 14,
+      "session_start_time": "2026-09-25T12:30:00Z",
+      "winner_group_id": 860419,
+      "winner_name": "Portu Silva",
+      "winner_helmet": {
+        "pattern": 3,
+        "color1": "000000",
+        "color2": "0a0a0a",
+        "color3": "f222dd",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 2,
+      "finish_position": 21,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 10,
+      "incidents": 17,
+      "points": 44,
+      "strength_of_field": 1993,
+      "subsession_id": 88899694,
+      "old_sub_level": 232,
+      "new_sub_level": 204,
+      "oldi_rating": 3402,
+      "newi_rating": 3337,
+      "track": {
+        "track_id": 234,
+        "track_name": "Donington Park Racing Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 6602,
+      "series_id": 626,
+      "series_name": "Caterham 420R Cup",
+      "car_id": 218,
+      "car_class_id": 4113,
+      "livery": {
+        "car_id": 218,
+        "pattern": 21,
+        "color1": "F7F7F7",
+        "color2": "FEFEFE",
+        "color3": "EEEEEE"
+      },
+      "license_level": 14,
       "session_start_time": "2026-09-24T23:30:00Z",
       "winner_group_id": 244564,
       "winner_name": "Lucas Jose",
@@ -43,7 +91,7 @@
         "track_id": 234,
         "track_name": "Donington Park Racing Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 1
@@ -428,54 +476,6 @@
         "track_name": "St. Petersburg Grand Prix"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-06-02T10:45:00Z",
-      "winner_group_id": 697219,
-      "winner_name": "Maksim Soldatov",
-      "winner_helmet": {
-        "pattern": 66,
-        "color1": "db1515",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 7,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 82,
-      "strength_of_field": 2474,
-      "subsession_id": 86205300,
-      "old_sub_level": 212,
-      "new_sub_level": 224,
-      "oldi_rating": 3401,
-      "newi_rating": 3390,
-      "track": {
-        "track_id": 584,
-        "track_name": "St. Petersburg Grand Prix"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 11
