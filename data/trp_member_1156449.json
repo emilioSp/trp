@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6476,
+      "series_id": 237,
+      "series_name": "GT Endurance Series by Simucube",
+      "car_id": 133,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 133,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-09-26T19:00:00Z",
+      "winner_group_id": -515431,
+      "winner_name": "Basedment Racing",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 24,
+      "finish_position": 45,
+      "qualifying_time": 0,
+      "laps": 75,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 43,
+      "strength_of_field": 2703,
+      "subsession_id": 88930562,
+      "old_sub_level": 249,
+      "new_sub_level": 291,
+      "oldi_rating": 2514,
+      "newi_rating": 2462,
+      "track": {
+        "track_id": 127,
+        "track_name": "Road Atlanta"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6135,
       "series_id": 542,
       "series_name": "FIA F4 Esports Regional Tour - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Virginia International Raceway"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 8
-    },
-    {
-      "season_id": 6117,
-      "series_id": 595,
-      "series_name": "GT3 Regional Tour by SensitHaptics - Americas",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 9,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "ffffff"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-05-13T08:45:00Z",
-      "winner_group_id": 1296118,
-      "winner_name": "Haoyi Zhu",
-      "winner_helmet": {
-        "pattern": 50,
-        "color1": "f00040",
-        "color2": "ffffff",
-        "color3": "ddf087",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 106,
-      "strength_of_field": 2652,
-      "subsession_id": 85708380,
-      "old_sub_level": 127,
-      "new_sub_level": 155,
-      "oldi_rating": 2809,
-      "newi_rating": 2839,
-      "track": {
-        "track_id": 465,
-        "track_name": "Virginia International Raceway"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 8

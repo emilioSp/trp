@@ -14,6 +14,54 @@
         "color3": "EEEEEE"
       },
       "license_level": 14,
+      "session_start_time": "2026-09-26T11:30:00Z",
+      "winner_group_id": 15677,
+      "winner_name": "Greg Stewart",
+      "winner_helmet": {
+        "pattern": 61,
+        "color1": "EFEA25",
+        "color2": "feec04",
+        "color3": "e6e6e6",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 3,
+      "finish_position": 22,
+      "qualifying_time": 0,
+      "laps": 3,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 2,
+      "strength_of_field": 1903,
+      "subsession_id": 88922686,
+      "old_sub_level": 204,
+      "new_sub_level": 152,
+      "oldi_rating": 3337,
+      "newi_rating": 3206,
+      "track": {
+        "track_id": 234,
+        "track_name": "Donington Park Racing Circuit"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 6602,
+      "series_id": 626,
+      "series_name": "Caterham 420R Cup",
+      "car_id": 218,
+      "car_class_id": 4113,
+      "livery": {
+        "car_id": 218,
+        "pattern": 21,
+        "color1": "F7F7F7",
+        "color2": "FEFEFE",
+        "color3": "EEEEEE"
+      },
+      "license_level": 14,
       "session_start_time": "2026-09-25T12:30:00Z",
       "winner_group_id": 860419,
       "winner_name": "Portu Silva",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6111,
-      "series_id": 476,
-      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
-      "car_id": 208,
-      "car_class_id": 4093,
-      "livery": {
-        "car_id": 208,
-        "pattern": 3,
-        "color1": "ffe300",
-        "color2": "ffe409",
-        "color3": "f6e809"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-06-02T12:45:00Z",
-      "winner_group_id": 991220,
-      "winner_name": "Pontus Eriksson3",
-      "winner_helmet": {
-        "pattern": 27,
-        "color1": "0040ff",
-        "color2": "f0d805",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 16,
-      "start_position": 2,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 137,
-      "strength_of_field": 2423,
-      "subsession_id": 86207950,
-      "old_sub_level": 224,
-      "new_sub_level": 256,
-      "oldi_rating": 3390,
-      "newi_rating": 3445,
-      "track": {
-        "track_id": 584,
-        "track_name": "St. Petersburg Grand Prix"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 11
     }
   ],
   "cust_id": 664614
