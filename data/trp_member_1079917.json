@@ -1,6 +1,102 @@
 {
   "races": [
     {
+      "season_id": 6461,
+      "series_id": 503,
+      "series_name": "TCR Virtual Challenge",
+      "car_id": 210,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 210,
+        "pattern": 19,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-09-28T19:45:00Z",
+      "winner_group_id": 1079917,
+      "winner_name": "Augusto Saccoccio",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 4,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 6,
+      "incidents": 0,
+      "points": 119,
+      "strength_of_field": 2084,
+      "subsession_id": 88980760,
+      "old_sub_level": 360,
+      "new_sub_level": 375,
+      "oldi_rating": 4052,
+      "newi_rating": 4094,
+      "track": {
+        "track_id": 448,
+        "track_name": "Indianapolis Motor Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 1
+    },
+    {
+      "season_id": 6460,
+      "series_id": 430,
+      "series_name": "TCR Virtual Challenge - Fixed",
+      "car_id": 210,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 210,
+        "pattern": 19,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-09-28T18:45:00Z",
+      "winner_group_id": 1079917,
+      "winner_name": "Augusto Saccoccio",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 1,
+      "incidents": 0,
+      "points": 120,
+      "strength_of_field": 2057,
+      "subsession_id": 88979668,
+      "old_sub_level": 345,
+      "new_sub_level": 360,
+      "oldi_rating": 4007,
+      "newi_rating": 4052,
+      "track": {
+        "track_id": 448,
+        "track_name": "Indianapolis Motor Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6460,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -43,7 +139,7 @@
         "track_id": 448,
         "track_name": "Indianapolis Motor Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 1
@@ -91,7 +187,7 @@
         "track_id": 448,
         "track_name": "Indianapolis Motor Speedway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 1
@@ -378,102 +474,6 @@
       "track": {
         "track_id": 448,
         "track_name": "Indianapolis Motor Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6460,
-      "series_id": 430,
-      "series_name": "TCR Virtual Challenge - Fixed",
-      "car_id": 210,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 210,
-        "pattern": 19,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-09-19T12:45:00Z",
-      "winner_group_id": 365314,
-      "winner_name": "Alexis Tymkow",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "1973d1",
-        "color2": "dde0e8",
-        "color3": "0a0a0b",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 1,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 2,
-      "incidents": 8,
-      "points": 87,
-      "strength_of_field": 1833,
-      "subsession_id": 88750960,
-      "old_sub_level": 349,
-      "new_sub_level": 330,
-      "oldi_rating": 4017,
-      "newi_rating": 4031,
-      "track": {
-        "track_id": 202,
-        "track_name": "Oran Park Raceway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6460,
-      "series_id": 430,
-      "series_name": "TCR Virtual Challenge - Fixed",
-      "car_id": 210,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 210,
-        "pattern": 19,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-09-18T18:45:00Z",
-      "winner_group_id": 1453122,
-      "winner_name": "Dustin Fleger",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "000000",
-        "color2": "939b93",
-        "color3": "c3beb3",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 2,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 120,
-      "strength_of_field": 2671,
-      "subsession_id": 88731957,
-      "old_sub_level": 332,
-      "new_sub_level": 349,
-      "oldi_rating": 3992,
-      "newi_rating": 4017,
-      "track": {
-        "track_id": 202,
-        "track_name": "Oran Park Raceway"
       },
       "drop_race": false,
       "season_year": 2026,
