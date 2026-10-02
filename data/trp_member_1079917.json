@@ -14,6 +14,54 @@
         "color3": "0a35e9"
       },
       "license_level": 19,
+      "session_start_time": "2026-10-01T19:45:00Z",
+      "winner_group_id": 532960,
+      "winner_name": "Agustín Fernandez",
+      "winner_helmet": {
+        "pattern": 45,
+        "color1": "011bd5",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 0,
+      "incidents": 0,
+      "points": 93,
+      "strength_of_field": 1856,
+      "subsession_id": 89052709,
+      "old_sub_level": 375,
+      "new_sub_level": 384,
+      "oldi_rating": 4094,
+      "newi_rating": 4108,
+      "track": {
+        "track_id": 298,
+        "track_name": "Snetterton Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6461,
+      "series_id": 503,
+      "series_name": "TCR Virtual Challenge",
+      "car_id": 210,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 210,
+        "pattern": 19,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 19,
       "session_start_time": "2026-09-28T19:45:00Z",
       "winner_group_id": 1079917,
       "winner_name": "Augusto Saccoccio",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6488,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed by GO Fast",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 22,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-09-21T19:45:00Z",
-      "winner_group_id": 1209718,
-      "winner_name": "Mateusz Brudziński",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "ff4905",
-        "color2": "fc0000",
-        "color3": "ffdf08",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 15,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 25,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 119,
-      "strength_of_field": 2481,
-      "subsession_id": 88809051,
-      "old_sub_level": 330,
-      "new_sub_level": 340,
-      "oldi_rating": 4031,
-      "newi_rating": 4046,
-      "track": {
-        "track_id": 448,
-        "track_name": "Indianapolis Motor Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1079917

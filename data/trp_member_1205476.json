@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 194,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 194,
+        "pattern": 21,
+        "color1": "EBFF00",
+        "color2": "7CE632",
+        "color3": "000000"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-10-01T23:15:00Z",
+      "winner_group_id": 965894,
+      "winner_name": "Byron Suykerbuyk",
+      "winner_helmet": {
+        "pattern": 44,
+        "color1": "facd0f",
+        "color2": "fad305",
+        "color3": "e90a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 11,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 7,
+      "strength_of_field": 2124,
+      "subsession_id": 89056471,
+      "old_sub_level": 298,
+      "new_sub_level": 280,
+      "oldi_rating": 2290,
+      "newi_rating": 2201,
+      "track": {
+        "track_id": 485,
+        "track_name": "Circuit Zandvoort"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 222,
       "oldi_rating": 2109,
       "newi_rating": 2055,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6301,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 18,
-        "color1": "ebff00",
-        "color2": "7ce632",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-06-17T22:00:00Z",
-      "winner_group_id": 299393,
-      "winner_name": "Denny Rimpl",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 10,
-      "finish_position": 24,
-      "qualifying_time": 0,
-      "laps": 17,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 23,
-      "strength_of_field": 2072,
-      "subsession_id": 86521917,
-      "old_sub_level": 266,
-      "new_sub_level": 238,
-      "oldi_rating": 2174,
-      "newi_rating": 2109,
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"
