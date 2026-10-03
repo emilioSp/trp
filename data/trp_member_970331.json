@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6461,
+      "series_id": 503,
+      "series_name": "TCR Virtual Challenge",
+      "car_id": 146,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 146,
+        "pattern": 9,
+        "color1": "09ffc2",
+        "color2": "0080ff",
+        "color3": "fffa00"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-10-02T17:45:00Z",
+      "winner_group_id": 850753,
+      "winner_name": "Henry G Howarth",
+      "winner_helmet": {
+        "pattern": 48,
+        "color1": "000000",
+        "color2": "bc00bf",
+        "color3": "53faff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 3,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 17,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 98,
+      "strength_of_field": 1943,
+      "subsession_id": 89073732,
+      "old_sub_level": 325,
+      "new_sub_level": 324,
+      "oldi_rating": 4487,
+      "newi_rating": 4496,
+      "track": {
+        "track_id": 298,
+        "track_name": "Snetterton Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6285,
       "series_id": 503,
       "series_name": "TCR Virtual Challenge",
@@ -423,54 +471,6 @@
       "new_sub_level": 339,
       "oldi_rating": 4509,
       "newi_rating": 4540,
-      "track": {
-        "track_id": 18,
-        "track_name": "[Retired] Road America"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6285,
-      "series_id": 503,
-      "series_name": "TCR Virtual Challenge",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-07-22T15:45:00Z",
-      "winner_group_id": 1014241,
-      "winner_name": "Jack Anthony Brown",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "ffffff",
-        "color2": "ffffff",
-        "color3": "00d2f7",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 9,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 111,
-      "strength_of_field": 1963,
-      "subsession_id": 87395557,
-      "old_sub_level": 333,
-      "new_sub_level": 337,
-      "oldi_rating": 4478,
-      "newi_rating": 4509,
       "track": {
         "track_id": 18,
         "track_name": "[Retired] Road America"
