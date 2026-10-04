@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6476,
+      "series_id": 237,
+      "series_name": "GT Endurance Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "fdfbfb"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-10-03T19:00:00Z",
+      "winner_group_id": -504656,
+      "winner_name": "KNAF Digital #017",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 13,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 114,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 201,
+      "strength_of_field": 3920,
+      "subsession_id": 89099890,
+      "old_sub_level": 320,
+      "new_sub_level": 456,
+      "oldi_rating": 4653,
+      "newi_rating": 4700,
+      "track": {
+        "track_id": 485,
+        "track_name": "Circuit Zandvoort"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6478,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 315,
       "oldi_rating": 4534,
       "newi_rating": 4603,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 6301,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 23,
-        "color1": "d00000",
-        "color2": "d80606",
-        "color3": "e10000"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-09-02T00:00:00Z",
-      "winner_group_id": 246994,
-      "winner_name": "Filip Ołdak2",
-      "winner_helmet": {
-        "pattern": 5,
-        "color1": "ee3442",
-        "color2": "ffffff",
-        "color3": "447ac0",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 5,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 177,
-      "strength_of_field": 3945,
-      "subsession_id": 88406965,
-      "old_sub_level": 323,
-      "new_sub_level": 333,
-      "oldi_rating": 4496,
-      "newi_rating": 4534,
       "track": {
         "track_id": 168,
         "track_name": "Suzuka International Racing Course"

@@ -4,6 +4,54 @@
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 1,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-10-03T10:00:00Z",
+      "winner_group_id": 651297,
+      "winner_name": "Stephan Jilka",
+      "winner_helmet": {
+        "pattern": 52,
+        "color1": "def621",
+        "color2": "ffffff",
+        "color3": "ef2424",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 15,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 100,
+      "strength_of_field": 3495,
+      "subsession_id": 89090370,
+      "old_sub_level": 425,
+      "new_sub_level": 436,
+      "oldi_rating": 3272,
+      "newi_rating": 3276,
+      "track": {
+        "track_id": 485,
+        "track_name": "Circuit Zandvoort"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 2
+    },
+    {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
       "car_id": 194,
       "car_class_id": 2708,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6124,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series by GO Fast",
-      "car_id": 156,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 156,
-        "pattern": 2,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-06T18:45:00Z",
-      "winner_group_id": 465718,
-      "winner_name": "John S Silva",
-      "winner_helmet": {
-        "pattern": 20,
-        "color1": "eaff00",
-        "color2": "0014cd",
-        "color3": "af0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 1,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 28,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 169,
-      "strength_of_field": 2947,
-      "subsession_id": 84798152,
-      "old_sub_level": 321,
-      "new_sub_level": 350,
-      "oldi_rating": 3085,
-      "newi_rating": 3166,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 2
     }
   ],
   "cust_id": 18840
