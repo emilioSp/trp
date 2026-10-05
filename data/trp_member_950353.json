@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6486,
+      "series_id": 419,
+      "series_name": "IMSA Endurance Series",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 11,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-10-04T14:00:00Z",
+      "winner_group_id": -115392,
+      "winner_name": "Wippermann Racing Yamagura",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 13,
+      "finish_position": 6,
+      "qualifying_time": 0,
+      "laps": 65,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 116,
+      "strength_of_field": 2626,
+      "subsession_id": 89119312,
+      "old_sub_level": 458,
+      "new_sub_level": 479,
+      "oldi_rating": 2450,
+      "newi_rating": 2478,
+      "track": {
+        "track_id": 444,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 1
+    },
+    {
       "season_id": 6623,
       "series_id": 286,
       "series_name": "Petit Le Mans Presented by VCO",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 10
-    },
-    {
-      "season_id": 6080,
-      "series_id": 229,
-      "series_name": "NASCAR iRacing Series - Open",
-      "car_id": 139,
-      "car_class_id": 2978,
-      "livery": {
-        "car_id": 139,
-        "pattern": 12,
-        "color1": "000000",
-        "color2": "320a5a",
-        "color3": "0f1562"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-08-30T14:00:00Z",
-      "winner_group_id": 314617,
-      "winner_name": "Lance McKinney",
-      "winner_helmet": {
-        "pattern": 36,
-        "color1": "FFFFFF",
-        "color2": "111111",
-        "color3": "ED21AF",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 4,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 84,
-      "laps_led": 1,
-      "incidents": 16,
-      "points": 76,
-      "strength_of_field": 1732,
-      "subsession_id": 88346254,
-      "old_sub_level": 268,
-      "new_sub_level": 230,
-      "oldi_rating": 1706,
-      "newi_rating": 1744,
-      "track": {
-        "track_id": 191,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 25
     }
   ],
   "cust_id": 950353

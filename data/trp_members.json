@@ -96,8 +96,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.72,
-    "iRating": 1948
+    "safetyRating": 2.73,
+    "iRating": 1949
   },
   {
     "id": 825369,
@@ -116,7 +116,7 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.24,
+    "safetyRating": 2.55,
     "iRating": 4496
   },
   {
@@ -156,8 +156,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 4.58,
-    "iRating": 2450
+    "safetyRating": 4.79,
+    "iRating": 2478
   },
   {
     "id": 913773,
@@ -214,10 +214,10 @@
     "name": "Tommaso Baseggio",
     "memberSince": "2024-12-08",
     "country": "Italy",
-    "classOrder": 4,
-    "className": "B",
-    "safetyRating": 2.93,
-    "iRating": 2402
+    "classOrder": 5,
+    "className": "A",
+    "safetyRating": 3.55,
+    "iRating": 2471
   },
   {
     "id": 902844,
@@ -256,8 +256,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 4.56,
-    "iRating": 4700
+    "safetyRating": 4.71,
+    "iRating": 4731
   },
   {
     "id": 1079917,
