@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 4,
+        "color1": "F10C17",
+        "color2": "EFD41E",
+        "color3": "1E29C9"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-10-05T16:00:00Z",
+      "winner_group_id": 1346256,
+      "winner_name": "Simon Szabolcs",
+      "winner_helmet": {
+        "pattern": 50,
+        "color1": "ffffff",
+        "color2": "2e358f",
+        "color3": "ec232d",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 8,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 81,
+      "strength_of_field": 2036,
+      "subsession_id": 89145579,
+      "old_sub_level": 273,
+      "new_sub_level": 295,
+      "oldi_rating": 1949,
+      "newi_rating": 1979,
+      "track": {
+        "track_id": 485,
+        "track_name": "Circuit Zandvoort"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6478,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 217,
       "oldi_rating": 2049,
       "newi_rating": 1996,
-      "track": {
-        "track_id": 127,
-        "track_name": "Road Atlanta"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 1
-    },
-    {
-      "season_id": 6478,
-      "series_id": 444,
-      "series_name": "GT3 Challenge Fixed by Fanatec",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-09-26T15:15:00Z",
-      "winner_group_id": 436018,
-      "winner_name": "Josh Greer",
-      "winner_helmet": {
-        "pattern": 17,
-        "color1": "ff1a00",
-        "color2": "ffffff",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 17,
-      "finish_position": 11,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 59,
-      "strength_of_field": 2056,
-      "subsession_id": 88926376,
-      "old_sub_level": 213,
-      "new_sub_level": 203,
-      "oldi_rating": 2053,
-      "newi_rating": 2049,
       "track": {
         "track_id": 127,
         "track_name": "Road Atlanta"
