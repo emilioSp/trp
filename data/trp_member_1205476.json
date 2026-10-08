@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 20,
+        "color1": "1a1a1a",
+        "color2": "e54b33",
+        "color3": "1a1a1a"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-10-07T22:00:00Z",
+      "winner_group_id": 993147,
+      "winner_name": "Jan B Saamer",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "fff600",
+        "color3": "fff800",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 15,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 67,
+      "strength_of_field": 2696,
+      "subsession_id": 89200480,
+      "old_sub_level": 284,
+      "new_sub_level": 348,
+      "oldi_rating": 2186,
+      "newi_rating": 2188,
+      "track": {
+        "track_id": 195,
+        "track_name": "Mobility Resort Motegi"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6478,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -423,54 +471,6 @@
       "new_sub_level": 242,
       "oldi_rating": 2126,
       "newi_rating": 2217,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6301,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 18,
-        "color1": "ebff00",
-        "color2": "7ce632",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-06-19T22:00:00Z",
-      "winner_group_id": 380858,
-      "winner_name": "christophe Heyvaert",
-      "winner_helmet": {
-        "pattern": 37,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 5,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 110,
-      "strength_of_field": 1992,
-      "subsession_id": 86575140,
-      "old_sub_level": 222,
-      "new_sub_level": 225,
-      "oldi_rating": 2055,
-      "newi_rating": 2126,
       "track": {
         "track_id": 434,
         "track_name": "Watkins Glen International"
