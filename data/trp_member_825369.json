@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6481,
+      "series_id": 596,
+      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
+      "car_id": 184,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 184,
+        "pattern": 20,
+        "color1": "D400FF",
+        "color2": "E24CE6",
+        "color3": "FFFFFF"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-10-08T18:45:00Z",
+      "winner_group_id": 529939,
+      "winner_name": "Sebastian Wheldon",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "00d0ff",
+        "color2": "ffffff",
+        "color3": "ea3dff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 5,
+      "finish_position": 20,
+      "qualifying_time": 0,
+      "laps": 1,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 7,
+      "strength_of_field": 4930,
+      "subsession_id": 89220790,
+      "old_sub_level": 209,
+      "new_sub_level": 147,
+      "oldi_rating": 5291,
+      "newi_rating": 5195,
+      "track": {
+        "track_id": 390,
+        "track_name": "Hockenheimring Baden-Württemberg"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6502,
       "series_id": 551,
       "series_name": "Formula C - Super Formula Lights",
@@ -428,54 +476,6 @@
         "track_name": "Fuji International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 5,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-10-05T08:00:00Z",
-      "winner_group_id": 825369,
-      "winner_name": "Simone Donchi",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 26,
-      "incidents": 2,
-      "points": 144,
-      "strength_of_field": 2410,
-      "subsession_id": 89138376,
-      "old_sub_level": 346,
-      "new_sub_level": 364,
-      "oldi_rating": 5317,
-      "newi_rating": 5349,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 2
