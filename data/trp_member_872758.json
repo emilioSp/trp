@@ -4,6 +4,54 @@
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
+      "car_id": 184,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 184,
+        "pattern": 20,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-10-09T22:00:00Z",
+      "winner_group_id": 993147,
+      "winner_name": "Jan B Saamer",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "fff600",
+        "color3": "fff800",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 7,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 144,
+      "strength_of_field": 3266,
+      "subsession_id": 89248587,
+      "old_sub_level": 457,
+      "new_sub_level": 463,
+      "oldi_rating": 4744,
+      "newi_rating": 4758,
+      "track": {
+        "track_id": 195,
+        "track_name": "Mobility Resort Motegi"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
       "car_id": 169,
       "car_class_id": 2708,
       "livery": {
@@ -43,7 +91,7 @@
         "track_id": 195,
         "track_name": "Mobility Resort Motegi"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3
@@ -428,54 +476,6 @@
         "track_name": "Suzuka International Racing Course"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 6305,
-      "series_id": 596,
-      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
-      "car_id": 185,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 185,
-        "pattern": 24,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-09-03T23:45:00Z",
-      "winner_group_id": 790932,
-      "winner_name": "Evan Davis6",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "ffffff",
-        "color2": "a200ff",
-        "color3": "9900ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 3,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 121,
-      "strength_of_field": 2706,
-      "subsession_id": 88454110,
-      "old_sub_level": 253,
-      "new_sub_level": 265,
-      "oldi_rating": 4631,
-      "newi_rating": 4639,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 11
