@@ -1,6 +1,102 @@
 {
   "races": [
     {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 184,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 184,
+        "pattern": 20,
+        "color1": "D400FF",
+        "color2": "E24CE6",
+        "color3": "FFFFFF"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-10-10T15:15:00Z",
+      "winner_group_id": 825369,
+      "winner_name": "Simone Donchi",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 11,
+      "incidents": 2,
+      "points": 187,
+      "strength_of_field": 3153,
+      "subsession_id": 89266515,
+      "old_sub_level": 162,
+      "new_sub_level": 175,
+      "oldi_rating": 5230,
+      "newi_rating": 5279,
+      "track": {
+        "track_id": 195,
+        "track_name": "Mobility Resort Motegi"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 184,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 184,
+        "pattern": 20,
+        "color1": "D400FF",
+        "color2": "E24CE6",
+        "color3": "FFFFFF"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-10-10T13:15:00Z",
+      "winner_group_id": 35778,
+      "winner_name": "Cesar Froener",
+      "winner_helmet": {
+        "pattern": 62,
+        "color1": "FFFFFF",
+        "color2": "006FBD",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 162,
+      "strength_of_field": 2960,
+      "subsession_id": 89264439,
+      "old_sub_level": 147,
+      "new_sub_level": 162,
+      "oldi_rating": 5195,
+      "newi_rating": 5230,
+      "track": {
+        "track_id": 195,
+        "track_name": "Mobility Resort Motegi"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6481,
       "series_id": 596,
       "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
@@ -379,106 +475,10 @@
         "track_id": 195,
         "track_name": "Mobility Resort Motegi"
       },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 5,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-10-05T18:00:00Z",
-      "winner_group_id": 1475366,
-      "winner_name": "Dawid N Liwinski",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ec232d",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 21,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 23,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 154,
-      "strength_of_field": 3463,
-      "subsession_id": 89147632,
-      "old_sub_level": 348,
-      "new_sub_level": 328,
-      "oldi_rating": 5256,
-      "newi_rating": 5261,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
       "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6488,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed by GO Fast",
-      "car_id": 174,
-      "car_class_id": 4029,
-      "livery": {
-        "car_id": 174,
-        "pattern": 17,
-        "color1": "d400ff",
-        "color2": "e24ce6",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-10-05T15:45:00Z",
-      "winner_group_id": 697263,
-      "winner_name": "Barry P Hill",
-      "winner_helmet": {
-        "pattern": 40,
-        "color1": "ffd600",
-        "color2": "0094ff",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 5,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 21,
-      "laps_led": 1,
-      "incidents": 7,
-      "points": 40,
-      "strength_of_field": 3314,
-      "subsession_id": 89145044,
-      "old_sub_level": 364,
-      "new_sub_level": 348,
-      "oldi_rating": 5349,
-      "newi_rating": 5256,
-      "track": {
-        "track_id": 444,
-        "track_name": "Fuji International Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 2
+      "race_week_num": 3
     }
   ],
   "cust_id": 825369
