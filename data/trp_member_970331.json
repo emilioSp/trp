@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6460,
+      "series_id": 430,
+      "series_name": "TCR Virtual Challenge - Fixed",
+      "car_id": 146,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 146,
+        "pattern": 9,
+        "color1": "09ffc2",
+        "color2": "0080ff",
+        "color3": "fffa00"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-10-11T08:45:00Z",
+      "winner_group_id": 185622,
+      "winner_name": "Davide Pezzi",
+      "winner_helmet": {
+        "pattern": 14,
+        "color1": "010102",
+        "color2": "010200",
+        "color3": "010102",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 116,
+      "strength_of_field": 2198,
+      "subsession_id": 89285447,
+      "old_sub_level": 243,
+      "new_sub_level": 254,
+      "oldi_rating": 4389,
+      "newi_rating": 4417,
+      "track": {
+        "track_id": 127,
+        "track_name": "Road Atlanta"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6465,
       "series_id": 492,
       "series_name": "IMSA Michelin Pilot Challenge Series",
@@ -91,7 +139,7 @@
         "track_id": 127,
         "track_name": "Road Atlanta"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3
@@ -423,54 +471,6 @@
       "new_sub_level": 364,
       "oldi_rating": 4598,
       "newi_rating": 4622,
-      "track": {
-        "track_id": 449,
-        "track_name": "Motorsport Arena Oschersleben"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6284,
-      "series_id": 430,
-      "series_name": "TCR Virtual Challenge - Fixed",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-07-30T16:45:00Z",
-      "winner_group_id": 541667,
-      "winner_name": "James Dennison",
-      "winner_helmet": {
-        "pattern": 14,
-        "color1": "00ad15",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 140,
-      "strength_of_field": 2937,
-      "subsession_id": 87590505,
-      "old_sub_level": 360,
-      "new_sub_level": 351,
-      "oldi_rating": 4567,
-      "newi_rating": 4598,
       "track": {
         "track_id": 449,
         "track_name": "Motorsport Arena Oschersleben"

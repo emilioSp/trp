@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 12,
+        "color1": "ffffff",
+        "color2": "0af613",
+        "color3": "f30007"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-10-11T14:00:00Z",
+      "winner_group_id": 993147,
+      "winner_name": "Jan B Saamer",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "000000",
+        "color2": "fff600",
+        "color3": "fff800",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 17,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 55,
+      "strength_of_field": 3071,
+      "subsession_id": 89291129,
+      "old_sub_level": 237,
+      "new_sub_level": 247,
+      "oldi_rating": 2293,
+      "newi_rating": 2281,
+      "track": {
+        "track_id": 195,
+        "track_name": "Mobility Resort Motegi"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6478,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -428,54 +476,6 @@
         "track_name": "Silverstone Circuit"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-09-17T14:00:00Z",
-      "winner_group_id": 1229781,
-      "winner_name": "Emanuelec Marsilla",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ffffff",
-        "color2": "ed1c24",
-        "color3": "cfdd28",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 18,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 5,
-      "incidents": 10,
-      "points": 140,
-      "strength_of_field": 2250,
-      "subsession_id": 88703029,
-      "old_sub_level": 227,
-      "new_sub_level": 227,
-      "oldi_rating": 2498,
-      "newi_rating": 2586,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 0
