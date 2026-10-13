@@ -13,6 +13,54 @@
         "color2": "EFD41E",
         "color3": "1E29C9"
       },
+      "license_level": 19,
+      "session_start_time": "2026-10-12T16:00:00Z",
+      "winner_group_id": 782542,
+      "winner_name": "Zhang Bofei",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "32a7d2",
+        "color2": "dd92e3",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 18,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 95,
+      "strength_of_field": 1917,
+      "subsession_id": 89318022,
+      "old_sub_level": 353,
+      "new_sub_level": 360,
+      "oldi_rating": 2105,
+      "newi_rating": 2153,
+      "track": {
+        "track_id": 195,
+        "track_name": "Mobility Resort Motegi"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 4,
+        "color1": "F10C17",
+        "color2": "EFD41E",
+        "color3": "1E29C9"
+      },
       "license_level": 18,
       "session_start_time": "2026-10-11T16:00:00Z",
       "winner_group_id": 872904,
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 2
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-09-27T14:00:00Z",
-      "winner_group_id": 1485067,
-      "winner_name": "Filipe Sousa Moreira",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ec232d",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 20,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 30,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 85,
-      "strength_of_field": 2008,
-      "subsession_id": 88950304,
-      "old_sub_level": 241,
-      "new_sub_level": 225,
-      "oldi_rating": 1967,
-      "newi_rating": 2003,
-      "track": {
-        "track_id": 127,
-        "track_name": "Road Atlanta"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 1
     }
   ],
   "cust_id": 1335041

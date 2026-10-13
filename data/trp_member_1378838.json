@@ -14,6 +14,54 @@
         "color3": "0a0a0a"
       },
       "license_level": 15,
+      "session_start_time": "2026-10-12T20:00:00Z",
+      "winner_group_id": 938225,
+      "winner_name": "Jesper Scott Johnsen",
+      "winner_helmet": {
+        "pattern": 61,
+        "color1": "5c0e78",
+        "color2": "0dff00",
+        "color3": "111111",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 6,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 121,
+      "strength_of_field": 2109,
+      "subsession_id": 89322723,
+      "old_sub_level": 339,
+      "new_sub_level": 344,
+      "oldi_rating": 2293,
+      "newi_rating": 2368,
+      "track": {
+        "track_id": 195,
+        "track_name": "Mobility Resort Motegi"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 3
+    },
+    {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 7,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a"
+      },
+      "license_level": 15,
       "session_start_time": "2026-10-11T16:00:00Z",
       "winner_group_id": 1164231,
       "winner_name": "Matheus Benicio Melo",
@@ -43,7 +91,7 @@
         "track_id": 195,
         "track_name": "Mobility Resort Motegi"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3
@@ -428,54 +476,6 @@
         "track_name": "Hockenheimring Baden-Württemberg"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 11
-    },
-    {
-      "season_id": 6305,
-      "series_id": 596,
-      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 7,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a"
-      },
-      "license_level": 13,
-      "session_start_time": "2026-09-04T21:45:00Z",
-      "winner_group_id": 937078,
-      "winner_name": "Balázs Erdélyi",
-      "winner_helmet": {
-        "pattern": 0,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 14,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 46,
-      "strength_of_field": 3160,
-      "subsession_id": 88476162,
-      "old_sub_level": 194,
-      "new_sub_level": 197,
-      "oldi_rating": 2000,
-      "newi_rating": 1991,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 11

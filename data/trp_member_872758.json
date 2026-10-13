@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 184,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 184,
+        "pattern": 20,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-10-12T20:00:00Z",
+      "winner_group_id": 695257,
+      "winner_name": "Thomas Labouteley",
+      "winner_helmet": {
+        "pattern": 59,
+        "color1": "000000",
+        "color2": "17a9f1",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 5,
+      "finish_position": 7,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 153,
+      "strength_of_field": 3267,
+      "subsession_id": 89322722,
+      "old_sub_level": 473,
+      "new_sub_level": 472,
+      "oldi_rating": 4792,
+      "newi_rating": 4812,
+      "track": {
+        "track_id": 195,
+        "track_name": "Mobility Resort Motegi"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 3
+    },
+    {
       "season_id": 6478,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -91,7 +139,7 @@
         "track_id": 195,
         "track_name": "Mobility Resort Motegi"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3
@@ -430,54 +478,6 @@
       "drop_race": false,
       "season_year": 2026,
       "season_quarter": 4,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6618,
-      "series_id": 597,
-      "series_name": "Suzuka 1000km Presented by PIMAX",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 0,
-        "color1": "2a3795",
-        "color2": "3821ed",
-        "color3": "ffffff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-09-12T16:00:00Z",
-      "winner_group_id": -127445,
-      "winner_name": "Zero7 Racing x Getail Design",
-      "winner_helmet": {
-        "pattern": -1,
-        "color1": "N/A",
-        "color2": "N/A",
-        "color3": "N/A",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": -1,
-      "start_position": 3,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 143,
-      "laps_led": 0,
-      "incidents": 16,
-      "points": 218,
-      "strength_of_field": 4232,
-      "subsession_id": 88609145,
-      "old_sub_level": 286,
-      "new_sub_level": 469,
-      "oldi_rating": 4689,
-      "newi_rating": 4738,
-      "track": {
-        "track_id": 168,
-        "track_name": "Suzuka International Racing Course"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
       "race_week_num": 0
     }
   ],
