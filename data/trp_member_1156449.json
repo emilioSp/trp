@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-10-14T12:00:00Z",
+      "winner_group_id": 499098,
+      "winner_name": "Eliott Brocard",
+      "winner_helmet": {
+        "pattern": 54,
+        "color1": "ff0000",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 25,
+      "finish_position": 26,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 15,
+      "points": 10,
+      "strength_of_field": 4387,
+      "subsession_id": 89363265,
+      "old_sub_level": 166,
+      "new_sub_level": 141,
+      "oldi_rating": 3106,
+      "newi_rating": 3054,
+      "track": {
+        "track_id": 448,
+        "track_name": "Indianapolis Motor Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6481,
       "series_id": 596,
       "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Red Bull Ring"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6487,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series by GO Fast",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 3,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-10-07T12:45:00Z",
-      "winner_group_id": 1178042,
-      "winner_name": "Arthur H Lansdowne",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "bdff00",
-        "color2": "ececec",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 1,
-      "finish_position": 1,
-      "qualifying_time": 0,
-      "laps": 31,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 140,
-      "strength_of_field": 2236,
-      "subsession_id": 89190928,
-      "old_sub_level": 234,
-      "new_sub_level": 231,
-      "oldi_rating": 2810,
-      "newi_rating": 2888,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3
