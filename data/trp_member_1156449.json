@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6480,
+      "series_id": 595,
+      "series_name": "GT3 Regional Tour by SensitHaptics - Americas",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 9,
+        "color1": "000000",
+        "color2": "ff0000",
+        "color3": "ffffff"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-10-15T14:45:00Z",
+      "winner_group_id": 764541,
+      "winner_name": "Lewis Wherrell",
+      "winner_helmet": {
+        "pattern": 11,
+        "color1": "22f2ac",
+        "color2": "0a0a0a",
+        "color3": "4af000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 9,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 39,
+      "strength_of_field": 4370,
+      "subsession_id": 89389532,
+      "old_sub_level": 141,
+      "new_sub_level": 128,
+      "oldi_rating": 3054,
+      "newi_rating": 3028,
+      "track": {
+        "track_id": 192,
+        "track_name": "Daytona International Speedway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 181,
         "track_name": "Oulton Park Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6487,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series by GO Fast",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 3,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-10-07T16:45:00Z",
-      "winner_group_id": 1209718,
-      "winner_name": "Mateusz Brudziński",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "ff4905",
-        "color2": "fc0000",
-        "color3": "ffdf08",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 8,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 31,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 148,
-      "strength_of_field": 3244,
-      "subsession_id": 89194696,
-      "old_sub_level": 231,
-      "new_sub_level": 221,
-      "oldi_rating": 2888,
-      "newi_rating": 2946,
-      "track": {
-        "track_id": 403,
-        "track_name": "Red Bull Ring"
       },
       "drop_race": false,
       "season_year": 2026,
