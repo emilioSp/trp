@@ -14,6 +14,54 @@
         "color3": "111111"
       },
       "license_level": 20,
+      "session_start_time": "2026-10-16T16:45:00Z",
+      "winner_group_id": 962023,
+      "winner_name": "Igor Wąsowski2",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "040303",
+        "color2": "0e08ac",
+        "color3": "00fff3",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 4,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 197,
+      "strength_of_field": 3983,
+      "subsession_id": 89414584,
+      "old_sub_level": 425,
+      "new_sub_level": 429,
+      "oldi_rating": 4881,
+      "newi_rating": 4935,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6481,
+      "series_id": 596,
+      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
+      "car_id": 184,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 184,
+        "pattern": 20,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 20,
       "session_start_time": "2026-10-15T16:45:00Z",
       "winner_group_id": 962023,
       "winner_name": "Igor Wąsowski2",
@@ -43,7 +91,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 4
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 23,
-        "color1": "d00000",
-        "color2": "d80606",
-        "color3": "e10000"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-10-04T12:00:00Z",
-      "winner_group_id": 1221961,
-      "winner_name": "Giaime M Cualbu",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "0400ff",
-        "color2": "391010",
-        "color3": "af1010",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 10,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 169,
-      "strength_of_field": 3528,
-      "subsession_id": 89117292,
-      "old_sub_level": 456,
-      "new_sub_level": 471,
-      "oldi_rating": 4700,
-      "newi_rating": 4731,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 2
     }
   ],
   "cust_id": 872758

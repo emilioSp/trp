@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6473,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 13,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-10-16T15:45:00Z",
+      "winner_group_id": 1294512,
+      "winner_name": "Patrik Kovačec",
+      "winner_helmet": {
+        "pattern": 63,
+        "color1": "d1d1d1",
+        "color2": "000000",
+        "color3": "ff4141",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 9,
+      "start_position": 5,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 40,
+      "strength_of_field": 668,
+      "subsession_id": 89413567,
+      "old_sub_level": 353,
+      "new_sub_level": 360,
+      "oldi_rating": 821,
+      "newi_rating": 895,
+      "track": {
+        "track_id": 596,
+        "track_name": "Road America"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6474,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 8
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series by GO Fast",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 18,
-        "color1": "7E00FC",
-        "color2": "00F218",
-        "color3": "ED00F2"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-02-07T14:45:00Z",
-      "winner_group_id": 776986,
-      "winner_name": "Tarik Muhic",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "f06e34",
-        "color2": "111111",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 12,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 4,
-      "strength_of_field": 2007,
-      "subsession_id": 83361107,
-      "old_sub_level": 158,
-      "new_sub_level": 150,
-      "oldi_rating": 740,
-      "newi_rating": 705,
-      "track": {
-        "track_id": 474,
-        "track_name": "Circuito de Jerez - Ángel Nieto"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 7
     }
   ],
   "cust_id": 1152067
