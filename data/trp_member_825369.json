@@ -14,6 +14,54 @@
         "color3": "ffffff"
       },
       "license_level": 9,
+      "session_start_time": "2026-10-17T20:15:00Z",
+      "winner_group_id": 825369,
+      "winner_name": "Simone Donchi",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 9,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 20,
+      "incidents": 3,
+      "points": 141,
+      "strength_of_field": 2290,
+      "subsession_id": 89443142,
+      "old_sub_level": 177,
+      "new_sub_level": 198,
+      "oldi_rating": 2431,
+      "newi_rating": 2523,
+      "track": {
+        "track_id": 145,
+        "track_name": "Brands Hatch Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6501,
+      "series_id": 456,
+      "series_name": "Formula C - Dallara F3 Series - Fixed ",
+      "car_id": 106,
+      "car_class_id": 870,
+      "livery": {
+        "car_id": 106,
+        "pattern": 6,
+        "color1": "d400ff",
+        "color2": "e24ce6",
+        "color3": "ffffff"
+      },
+      "license_level": 9,
       "session_start_time": "2026-10-16T20:15:00Z",
       "winner_group_id": 825369,
       "winner_name": "Simone Donchi",
@@ -43,7 +91,7 @@
         "track_id": 145,
         "track_name": "Brands Hatch Circuit"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 4
@@ -423,54 +471,6 @@
       "new_sub_level": 275,
       "oldi_rating": 5632,
       "newi_rating": 5679,
-      "track": {
-        "track_id": 448,
-        "track_name": "Indianapolis Motor Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-10-13T08:00:00Z",
-      "winner_group_id": 928511,
-      "winner_name": "Thomas Beutel",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "000000",
-        "color2": "ffd600",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 9,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 29,
-      "laps_led": 0,
-      "incidents": 7,
-      "points": 204,
-      "strength_of_field": 4064,
-      "subsession_id": 89335707,
-      "old_sub_level": 262,
-      "new_sub_level": 270,
-      "oldi_rating": 5594,
-      "newi_rating": 5632,
       "track": {
         "track_id": 448,
         "track_name": "Indianapolis Motor Speedway"

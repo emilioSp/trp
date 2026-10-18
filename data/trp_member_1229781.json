@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6481,
+      "series_id": 596,
+      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 12,
+        "color1": "ffffff",
+        "color2": "0af613",
+        "color3": "f30007"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-10-17T15:45:00Z",
+      "winner_group_id": 734814,
+      "winner_name": "Robin Dönni",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "f23f8a",
+        "color2": "0a0a0a",
+        "color3": "7b097a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 8,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 75,
+      "strength_of_field": 2228,
+      "subsession_id": 89438128,
+      "old_sub_level": 247,
+      "new_sub_level": 229,
+      "oldi_rating": 2281,
+      "newi_rating": 2289,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 4
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 229,
       "oldi_rating": 2522,
       "newi_rating": 2464,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-09-17T16:00:00Z",
-      "winner_group_id": 1542309,
-      "winner_name": "Jan Keller4",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 22,
-      "finish_position": 24,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 28,
-      "strength_of_field": 2521,
-      "subsession_id": 88704927,
-      "old_sub_level": 227,
-      "new_sub_level": 215,
-      "oldi_rating": 2586,
-      "newi_rating": 2522,
       "track": {
         "track_id": 341,
         "track_name": "Silverstone Circuit"

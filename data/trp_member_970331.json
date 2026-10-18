@@ -14,6 +14,54 @@
         "color3": "00fbd3"
       },
       "license_level": 18,
+      "session_start_time": "2026-10-17T11:45:00Z",
+      "winner_group_id": 1175631,
+      "winner_name": "Azmi Heise",
+      "winner_helmet": {
+        "pattern": 54,
+        "color1": "002bff",
+        "color2": "ffffff",
+        "color3": "fa0f0f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 3,
+      "finish_position": 14,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 32,
+      "strength_of_field": 1684,
+      "subsession_id": 89433763,
+      "old_sub_level": 259,
+      "new_sub_level": 240,
+      "oldi_rating": 4417,
+      "newi_rating": 4417,
+      "track": {
+        "track_id": 451,
+        "track_name": "Rudskogen Motorsenter"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6616,
+      "series_id": 634,
+      "series_name": "Track Day",
+      "car_id": 13,
+      "car_class_id": 15,
+      "livery": {
+        "car_id": 13,
+        "pattern": 0,
+        "color1": "007eff",
+        "color2": "09ffc2",
+        "color3": "00fbd3"
+      },
+      "license_level": 18,
       "session_start_time": "2026-10-16T14:45:00Z",
       "winner_group_id": 758651,
       "winner_name": "Aimar Rubio",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 9
-    },
-    {
-      "season_id": 6289,
-      "series_id": 492,
-      "series_name": "IMSA Michelin Pilot Challenge Series",
-      "car_id": 146,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 146,
-        "pattern": 9,
-        "color1": "09ffc2",
-        "color2": "0080ff",
-        "color3": "fffa00"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-08-22T15:00:00Z",
-      "winner_group_id": 393872,
-      "winner_name": "Matt Kendall",
-      "winner_helmet": {
-        "pattern": 60,
-        "color1": "000000",
-        "color2": "2e04bd",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 5,
-      "finish_position": 10,
-      "qualifying_time": 0,
-      "laps": 60,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 41,
-      "strength_of_field": 4277,
-      "subsession_id": 88151061,
-      "old_sub_level": 364,
-      "new_sub_level": 380,
-      "oldi_rating": 4622,
-      "newi_rating": 4561,
-      "track": {
-        "track_id": 465,
-        "track_name": "Virginia International Raceway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 4
     }
   ],
   "cust_id": 970331
