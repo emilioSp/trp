@@ -14,6 +14,54 @@
         "color3": "fc0539"
       },
       "license_level": 18,
+      "session_start_time": "2026-10-18T18:00:00Z",
+      "winner_group_id": 871456,
+      "winner_name": "Diego Donati",
+      "winner_helmet": {
+        "pattern": 6,
+        "color1": "1c1fed",
+        "color2": "000000",
+        "color3": "f3f3f3",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 7,
+      "laps_led": 7,
+      "incidents": 2,
+      "points": 117,
+      "strength_of_field": 2000,
+      "subsession_id": 89465790,
+      "old_sub_level": 268,
+      "new_sub_level": 269,
+      "oldi_rating": 2059,
+      "newi_rating": 2148,
+      "track": {
+        "track_id": 515,
+        "track_name": "Circuito de Navarra"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6444,
+      "series_id": 139,
+      "series_name": "Global Mazda MX-5 Cup by Fanatec",
+      "car_id": 67,
+      "car_class_id": 74,
+      "livery": {
+        "car_id": 67,
+        "pattern": 2,
+        "color1": "f7faf7",
+        "color2": "111111",
+        "color3": "fc0539"
+      },
+      "license_level": 18,
       "session_start_time": "2026-10-17T19:00:00Z",
       "winner_group_id": 871456,
       "winner_name": "Diego Donati",
@@ -43,7 +91,7 @@
         "track_id": 515,
         "track_name": "Circuito de Navarra"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 4
@@ -428,54 +476,6 @@
         "track_name": "Daytona International Speedway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 5925,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 169,
-        "pattern": 18,
-        "color1": "020202",
-        "color2": "000000",
-        "color3": "f3f3f3"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-01-19T22:00:00Z",
-      "winner_group_id": 1028414,
-      "winner_name": "Ilya Buryak",
-      "winner_helmet": {
-        "pattern": 52,
-        "color1": "ffffff",
-        "color2": "000000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 20,
-      "finish_position": 26,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 7,
-      "strength_of_field": 1510,
-      "subsession_id": 82866563,
-      "old_sub_level": 156,
-      "new_sub_level": 130,
-      "oldi_rating": 1456,
-      "newi_rating": 1377,
-      "track": {
-        "track_id": 192,
-        "track_name": "Daytona International Speedway"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 4

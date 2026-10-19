@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6627,
+      "series_id": 582,
+      "series_name": "iTested Series",
+      "car_id": 212,
+      "car_class_id": 4029,
+      "livery": {
+        "car_id": 212,
+        "pattern": 2,
+        "color1": "2a3795",
+        "color2": "ed2129",
+        "color3": "ffffff"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-10-18T16:30:00Z",
+      "winner_group_id": 1528101,
+      "winner_name": "SR Davide Russo",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 7,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 3,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 42,
+      "strength_of_field": 3240,
+      "subsession_id": 89464060,
+      "old_sub_level": 305,
+      "new_sub_level": 229,
+      "oldi_rating": 3614,
+      "newi_rating": 3614,
+      "track": {
+        "track_id": 268,
+        "track_name": "Circuit des 24 Heures du Mans"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 2
+    },
+    {
       "season_id": 6487,
       "series_id": 447,
       "series_name": "IMSA iRacing Series by GO Fast",
@@ -423,54 +471,6 @@
       "new_sub_level": 338,
       "oldi_rating": 3587,
       "newi_rating": 3565,
-      "track": {
-        "track_id": 448,
-        "track_name": "Indianapolis Motor Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6487,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series by GO Fast",
-      "car_id": 212,
-      "car_class_id": 4029,
-      "livery": {
-        "car_id": 212,
-        "pattern": 2,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-09-17T16:45:00Z",
-      "winner_group_id": 1025325,
-      "winner_name": "Max Kazansky",
-      "winner_helmet": {
-        "pattern": 59,
-        "color1": "000000",
-        "color2": "ffffff",
-        "color3": "ff003d",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 9,
-      "finish_position": 7,
-      "qualifying_time": 0,
-      "laps": 35,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 118,
-      "strength_of_field": 3385,
-      "subsession_id": 88705621,
-      "old_sub_level": 362,
-      "new_sub_level": 377,
-      "oldi_rating": 3573,
-      "newi_rating": 3587,
       "track": {
         "track_id": 448,
         "track_name": "Indianapolis Motor Speedway"
