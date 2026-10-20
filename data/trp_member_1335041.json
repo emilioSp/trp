@@ -14,6 +14,54 @@
         "color3": "1E29C9"
       },
       "license_level": 19,
+      "session_start_time": "2026-10-19T13:45:00Z",
+      "winner_group_id": 1385237,
+      "winner_name": "Simone Savini2",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ec232d",
+        "color2": "ffffff",
+        "color3": "2e358f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 8,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 102,
+      "strength_of_field": 2273,
+      "subsession_id": 89484760,
+      "old_sub_level": 353,
+      "new_sub_level": 355,
+      "oldi_rating": 2240,
+      "newi_rating": 2288,
+      "track": {
+        "track_id": 266,
+        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 4
+    },
+    {
+      "season_id": 6481,
+      "series_id": 596,
+      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 4,
+        "color1": "F10C17",
+        "color2": "EFD41E",
+        "color3": "1E29C9"
+      },
+      "license_level": 19,
       "session_start_time": "2026-10-18T15:45:00Z",
       "winner_group_id": 263668,
       "winner_name": "Luiz Franco Garcia",
@@ -91,7 +139,7 @@
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 4
@@ -423,54 +471,6 @@
       "new_sub_level": 272,
       "oldi_rating": 1878,
       "newi_rating": 1948,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-10-03T12:00:00Z",
-      "winner_group_id": 1476999,
-      "winner_name": "David Martin48",
-      "winner_helmet": {
-        "pattern": 65,
-        "color1": "0cf7e2",
-        "color2": "ffcf00",
-        "color3": "626262",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 16,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 88,
-      "strength_of_field": 1891,
-      "subsession_id": 89092285,
-      "old_sub_level": 221,
-      "new_sub_level": 256,
-      "oldi_rating": 1830,
-      "newi_rating": 1878,
       "track": {
         "track_id": 485,
         "track_name": "Circuit Zandvoort"
