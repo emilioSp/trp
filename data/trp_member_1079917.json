@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6460,
+      "series_id": 430,
+      "series_name": "TCR Virtual Challenge - Fixed",
+      "car_id": 210,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 210,
+        "pattern": 19,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-10-20T12:45:00Z",
+      "winner_group_id": 1079917,
+      "winner_name": "Augusto Saccoccio",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "ebf0f3",
+        "color2": "ececf1",
+        "color3": "e9ebef",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 15,
+      "incidents": 1,
+      "points": 120,
+      "strength_of_field": 2327,
+      "subsession_id": 89507935,
+      "old_sub_level": 388,
+      "new_sub_level": 443,
+      "oldi_rating": 4241,
+      "newi_rating": 4282,
+      "track": {
+        "track_id": 553,
+        "track_name": "Charlotte Motor Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6488,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed by GO Fast",
@@ -428,54 +476,6 @@
         "track_name": "Road Atlanta"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6460,
-      "series_id": 430,
-      "series_name": "TCR Virtual Challenge - Fixed",
-      "car_id": 210,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 210,
-        "pattern": 19,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-10-08T12:45:00Z",
-      "winner_group_id": 791758,
-      "winner_name": "Luciano Espiñeira",
-      "winner_helmet": {
-        "pattern": 45,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 15,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 95,
-      "strength_of_field": 2303,
-      "subsession_id": 89214771,
-      "old_sub_level": 333,
-      "new_sub_level": 347,
-      "oldi_rating": 4071,
-      "newi_rating": 4085,
-      "track": {
-        "track_id": 127,
-        "track_name": "Road Atlanta"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3

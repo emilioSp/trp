@@ -14,6 +14,54 @@
         "color3": "f2a700"
       },
       "license_level": 20,
+      "session_start_time": "2026-10-20T16:00:00Z",
+      "winner_group_id": 1542309,
+      "winner_name": "Jan Keller4",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 2,
+      "finish_position": 2,
+      "qualifying_time": 0,
+      "laps": 14,
+      "laps_led": 0,
+      "incidents": 5,
+      "points": 156,
+      "strength_of_field": 2843,
+      "subsession_id": 89510999,
+      "old_sub_level": 415,
+      "new_sub_level": 421,
+      "oldi_rating": 3412,
+      "newi_rating": 3478,
+      "track": {
+        "track_id": 540,
+        "track_name": "Shell V-Power Motorsport Park at The Bend"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 5
+    },
+    {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 3,
+        "color1": "8f1010",
+        "color2": "000000",
+        "color3": "f2a700"
+      },
+      "license_level": 20,
       "session_start_time": "2026-10-12T20:00:00Z",
       "winner_group_id": 695257,
       "winner_name": "Thomas Labouteley",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 2,
       "race_week_num": 2
-    },
-    {
-      "season_id": 6114,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 185,
-      "car_class_id": 4091,
-      "livery": {
-        "car_id": 185,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-04-12T14:00:00Z",
-      "winner_group_id": 1403774,
-      "winner_name": "Louis Butler",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ec232d",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 12,
-      "finish_position": 15,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 99,
-      "strength_of_field": 3095,
-      "subsession_id": 84946294,
-      "old_sub_level": 364,
-      "new_sub_level": 382,
-      "oldi_rating": 3176,
-      "newi_rating": 3177,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 2,
-      "race_week_num": 3
     }
   ],
   "cust_id": 18840
