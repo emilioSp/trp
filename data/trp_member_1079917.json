@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6461,
+      "series_id": 503,
+      "series_name": "TCR Virtual Challenge",
+      "car_id": 210,
+      "car_class_id": 3189,
+      "livery": {
+        "car_id": 210,
+        "pattern": 19,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-10-21T19:45:00Z",
+      "winner_group_id": 1079917,
+      "winner_name": "Augusto Saccoccio",
+      "winner_helmet": {
+        "pattern": 23,
+        "color1": "ebf0f3",
+        "color2": "ececf1",
+        "color3": "e9ebef",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 2,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 8,
+      "incidents": 1,
+      "points": 113,
+      "strength_of_field": 1895,
+      "subsession_id": 89539965,
+      "old_sub_level": 443,
+      "new_sub_level": 453,
+      "oldi_rating": 4282,
+      "newi_rating": 4317,
+      "track": {
+        "track_id": 553,
+        "track_name": "Charlotte Motor Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6460,
       "series_id": 430,
       "series_name": "TCR Virtual Challenge - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Road Atlanta"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6460,
-      "series_id": 430,
-      "series_name": "TCR Virtual Challenge - Fixed",
-      "car_id": 210,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 210,
-        "pattern": 19,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-10-08T20:45:00Z",
-      "winner_group_id": 1453122,
-      "winner_name": "Dustin Fleger",
-      "winner_helmet": {
-        "pattern": 56,
-        "color1": "000000",
-        "color2": "939b93",
-        "color3": "c3beb3",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 6,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 118,
-      "strength_of_field": 2952,
-      "subsession_id": 89222928,
-      "old_sub_level": 347,
-      "new_sub_level": 337,
-      "oldi_rating": 4085,
-      "newi_rating": 4094,
-      "track": {
-        "track_id": 127,
-        "track_name": "Road Atlanta"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3

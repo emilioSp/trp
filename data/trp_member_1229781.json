@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6488,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed by GO Fast",
+      "car_id": 156,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-10-21T19:45:00Z",
+      "winner_group_id": 1100996,
+      "winner_name": "Tom Christopher Smevold",
+      "winner_helmet": {
+        "pattern": 9,
+        "color1": "0020c9",
+        "color2": "ff0000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 26,
+      "finish_position": 23,
+      "qualifying_time": 0,
+      "laps": 22,
+      "laps_led": 0,
+      "incidents": 2,
+      "points": 32,
+      "strength_of_field": 2881,
+      "subsession_id": 89539980,
+      "old_sub_level": 229,
+      "new_sub_level": 251,
+      "oldi_rating": 2289,
+      "newi_rating": 2249,
+      "track": {
+        "track_id": 218,
+        "track_name": "Circuit Gilles Villeneuve"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 5
+    },
+    {
       "season_id": 6481,
       "series_id": 596,
       "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
@@ -428,54 +476,6 @@
         "track_name": "Silverstone Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 0
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-09-18T16:00:00Z",
-      "winner_group_id": 1501367,
-      "winner_name": "Artem Sergeevich Smirnov",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 17,
-      "finish_position": 23,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 32,
-      "strength_of_field": 2425,
-      "subsession_id": 88729102,
-      "old_sub_level": 215,
-      "new_sub_level": 229,
-      "oldi_rating": 2522,
-      "newi_rating": 2464,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 0
