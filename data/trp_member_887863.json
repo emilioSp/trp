@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6487,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series by GO Fast",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 3,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-10-27T20:45:00Z",
+      "winner_group_id": 452710,
+      "winner_name": "Matthew Morhardt",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "ed2129",
+        "color2": "ff0505",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 15,
+      "finish_position": 9,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 107,
+      "strength_of_field": 3082,
+      "subsession_id": 89687146,
+      "old_sub_level": 458,
+      "new_sub_level": 461,
+      "oldi_rating": 2843,
+      "newi_rating": 2865,
+      "track": {
+        "track_id": 268,
+        "track_name": "Circuit des 24 Heures du Mans"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6482,
       "series_id": 535,
       "series_name": "GTE Sprint Series",
@@ -423,54 +471,6 @@
       "new_sub_level": 385,
       "oldi_rating": 2681,
       "newi_rating": 2735,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6301,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 188,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 188,
-        "pattern": 3,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-07-12T00:00:00Z",
-      "winner_group_id": 1053878,
-      "winner_name": "Jannik Steinhoff",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "03c5a8",
-        "color2": "2bb9ff",
-        "color3": "dffa00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 17,
-      "finish_position": 22,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 44,
-      "strength_of_field": 3284,
-      "subsession_id": 87131266,
-      "old_sub_level": 367,
-      "new_sub_level": 379,
-      "oldi_rating": 2715,
-      "newi_rating": 2681,
       "track": {
         "track_id": 523,
         "track_name": "Circuit de Spa-Francorchamps"
