@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6474,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 13,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-10-30T16:45:00Z",
+      "winner_group_id": 1152067,
+      "winner_name": "Luca Zinicola",
+      "winner_helmet": {
+        "pattern": 66,
+        "color1": "b8de00",
+        "color2": "000000",
+        "color3": "817979",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 11,
+      "start_position": 3,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 15,
+      "laps_led": 1,
+      "incidents": 9,
+      "points": 49,
+      "strength_of_field": 775,
+      "subsession_id": 89753476,
+      "old_sub_level": 360,
+      "new_sub_level": 356,
+      "oldi_rating": 895,
+      "newi_rating": 980,
+      "track": {
+        "track_id": 413,
+        "track_name": "Hungaroring"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6473,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 1,
       "race_week_num": 9
-    },
-    {
-      "season_id": 5935,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series by GO Fast",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 2,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-02-14T10:45:00Z",
-      "winner_group_id": 350595,
-      "winner_name": "Pablo Pardines",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "111111",
-        "color2": "fc0706",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 18,
-      "finish_position": 28,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 21,
-      "points": 16,
-      "strength_of_field": 1667,
-      "subsession_id": 83539257,
-      "old_sub_level": 150,
-      "new_sub_level": 106,
-      "oldi_rating": 705,
-      "newi_rating": 687,
-      "track": {
-        "track_id": 18,
-        "track_name": "[Retired] Road America"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 8
     }
   ],
   "cust_id": 1152067

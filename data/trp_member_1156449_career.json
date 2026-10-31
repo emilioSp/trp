@@ -39,7 +39,7 @@
     {
       "category_id": 6,
       "category": "Formula Car",
-      "starts": 82,
+      "starts": 83,
       "wins": 17,
       "top5": 39,
       "poles": 11,
@@ -47,12 +47,12 @@
       "avg_finish_position": 8,
       "laps": 621,
       "laps_led": 139,
-      "avg_incidents": 7.9878,
-      "avg_points": 52,
-      "win_percentage": 20.73,
-      "top5_percentage": 47.56,
+      "avg_incidents": 7.8916,
+      "avg_points": 51,
+      "win_percentage": 20.48,
+      "top5_percentage": 46.99,
       "laps_led_percentage": 22.38,
-      "poles_percentage": 13.41
+      "poles_percentage": 13.25
     },
     {
       "category_id": 3,
