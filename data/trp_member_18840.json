@@ -14,6 +14,54 @@
         "color3": "0000ff"
       },
       "license_level": 20,
+      "session_start_time": "2026-10-31T10:45:00Z",
+      "winner_group_id": 1049223,
+      "winner_name": "Francesco F Mautone",
+      "winner_helmet": {
+        "pattern": 20,
+        "color1": "040504",
+        "color2": "000000",
+        "color3": "030303",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 9,
+      "finish_position": 8,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 129,
+      "strength_of_field": 3043,
+      "subsession_id": 89771766,
+      "old_sub_level": 425,
+      "new_sub_level": 437,
+      "oldi_rating": 3595,
+      "newi_rating": 3617,
+      "track": {
+        "track_id": 268,
+        "track_name": "Circuit des 24 Heures du Mans"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6487,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series by GO Fast",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 2,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 20,
       "session_start_time": "2026-10-30T20:45:00Z",
       "winner_group_id": 694880,
       "winner_name": "Miika Karesola",
@@ -43,7 +91,7 @@
         "track_id": 268,
         "track_name": "Circuit des 24 Heures du Mans"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 6
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-10-03T10:00:00Z",
-      "winner_group_id": 651297,
-      "winner_name": "Stephan Jilka",
-      "winner_helmet": {
-        "pattern": 52,
-        "color1": "def621",
-        "color2": "ffffff",
-        "color3": "ef2424",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 15,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 100,
-      "strength_of_field": 3495,
-      "subsession_id": 89090370,
-      "old_sub_level": 425,
-      "new_sub_level": 436,
-      "oldi_rating": 3272,
-      "newi_rating": 3276,
-      "track": {
-        "track_id": 485,
-        "track_name": "Circuit Zandvoort"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 2
     }
   ],
   "cust_id": 18840

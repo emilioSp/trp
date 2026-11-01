@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6487,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series by GO Fast",
+      "car_id": 212,
+      "car_class_id": 4029,
+      "livery": {
+        "car_id": 212,
+        "pattern": 14,
+        "color1": "D400FF",
+        "color2": "E24CE6",
+        "color3": "FFFFFF"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-10-31T20:45:00Z",
+      "winner_group_id": 1316900,
+      "winner_name": "Aleix Nogue",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "ffffff",
+        "color2": "ed1c24",
+        "color3": "231f20",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 3,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 4,
+      "laps_led": 0,
+      "incidents": 10,
+      "points": 22,
+      "strength_of_field": 5034,
+      "subsession_id": 89782612,
+      "old_sub_level": 227,
+      "new_sub_level": 211,
+      "oldi_rating": 5326,
+      "newi_rating": 5249,
+      "track": {
+        "track_id": 268,
+        "track_name": "Circuit des 24 Heures du Mans"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6488,
       "series_id": 539,
       "series_name": "IMSA iRacing Series - Fixed by GO Fast",
@@ -139,7 +187,7 @@
         "track_id": 268,
         "track_name": "Circuit des 24 Heures du Mans"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 6
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 515,
         "track_name": "Circuito de Navarra"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6502,
-      "series_id": 551,
-      "series_name": "Formula C - Super Formula Lights",
-      "car_id": 178,
-      "car_class_id": 4049,
-      "livery": {
-        "car_id": 178,
-        "pattern": 12,
-        "color1": "D400FF",
-        "color2": "E24CE6",
-        "color3": "FFFFFF"
-      },
-      "license_level": 9,
-      "session_start_time": "2026-10-18T12:45:00Z",
-      "winner_group_id": 976302,
-      "winner_name": "Stephan Teusch",
-      "winner_helmet": {
-        "pattern": 8,
-        "color1": "b89830",
-        "color2": "ff0000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 19,
-      "qualifying_time": 0,
-      "laps": 6,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 17,
-      "strength_of_field": 2935,
-      "subsession_id": 89460035,
-      "old_sub_level": 198,
-      "new_sub_level": 238,
-      "oldi_rating": 2523,
-      "newi_rating": 2463,
-      "track": {
-        "track_id": 212,
-        "track_name": "Autódromo José Carlos Pace"
       },
       "drop_race": false,
       "season_year": 2026,
