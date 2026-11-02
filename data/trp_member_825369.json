@@ -14,6 +14,54 @@
         "color3": "FFFFFF"
       },
       "license_level": 18,
+      "session_start_time": "2026-11-01T20:45:00Z",
+      "winner_group_id": 1221143,
+      "winner_name": "David J Adam2",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "0d00ff",
+        "color2": "16054c",
+        "color3": "faff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 4,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 36,
+      "strength_of_field": 4247,
+      "subsession_id": 89806878,
+      "old_sub_level": 211,
+      "new_sub_level": 229,
+      "oldi_rating": 5249,
+      "newi_rating": 5171,
+      "track": {
+        "track_id": 268,
+        "track_name": "Circuit des 24 Heures du Mans"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 6
+    },
+    {
+      "season_id": 6487,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series by GO Fast",
+      "car_id": 212,
+      "car_class_id": 4029,
+      "livery": {
+        "car_id": 212,
+        "pattern": 14,
+        "color1": "D400FF",
+        "color2": "E24CE6",
+        "color3": "FFFFFF"
+      },
+      "license_level": 18,
       "session_start_time": "2026-10-31T20:45:00Z",
       "winner_group_id": 1316900,
       "winner_name": "Aleix Nogue",
@@ -43,7 +91,7 @@
         "track_id": 268,
         "track_name": "Circuit des 24 Heures du Mans"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 6
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 448,
         "track_name": "Indianapolis Motor Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6444,
-      "series_id": 139,
-      "series_name": "Global Mazda MX-5 Cup by Fanatec",
-      "car_id": 67,
-      "car_class_id": 74,
-      "livery": {
-        "car_id": 67,
-        "pattern": 1,
-        "color1": "1f2892",
-        "color2": "7de54c",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-10-18T14:00:00Z",
-      "winner_group_id": 197470,
-      "winner_name": "Víctor Esponella Palomar",
-      "winner_helmet": {
-        "pattern": 14,
-        "color1": "f5cd22",
-        "color2": "fc3030",
-        "color3": "261627",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 17,
-      "start_position": 3,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 1,
-      "incidents": 6,
-      "points": 173,
-      "strength_of_field": 3421,
-      "subsession_id": 89461255,
-      "old_sub_level": 335,
-      "new_sub_level": 319,
-      "oldi_rating": 5709,
-      "newi_rating": 5741,
-      "track": {
-        "track_id": 515,
-        "track_name": "Circuito de Navarra"
       },
       "drop_race": false,
       "season_year": 2026,

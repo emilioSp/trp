@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6488,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed by GO Fast",
+      "car_id": 188,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 188,
+        "pattern": 23,
+        "color1": "ff0000",
+        "color2": "ff0000",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-11-01T13:45:00Z",
+      "winner_group_id": 879722,
+      "winner_name": "Michael Heidrich",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "111111",
+        "color2": "391c83",
+        "color3": "ccff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 6,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 141,
+      "strength_of_field": 2507,
+      "subsession_id": 89799058,
+      "old_sub_level": 364,
+      "new_sub_level": 376,
+      "oldi_rating": 2844,
+      "newi_rating": 2912,
+      "track": {
+        "track_id": 268,
+        "track_name": "Circuit des 24 Heures du Mans"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6486,
       "series_id": 419,
       "series_name": "IMSA Endurance Series",
@@ -91,7 +139,7 @@
         "track_id": 268,
         "track_name": "Circuit des 24 Heures du Mans"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 6
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Nazionale Monza"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6497,
-      "series_id": 541,
-      "series_name": "FIA F4 Esports Regional Tour - America",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 19,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "000000"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-10-27T13:15:00Z",
-      "winner_group_id": 756614,
-      "winner_name": "Elliot Newbery",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "a6ff00",
-        "color2": "ffffff",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 9,
-      "start_position": 12,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 14,
-      "points": 66,
-      "strength_of_field": 2732,
-      "subsession_id": 89679233,
-      "old_sub_level": 336,
-      "new_sub_level": 322,
-      "oldi_rating": 1978,
-      "newi_rating": 1984,
-      "track": {
-        "track_id": 127,
-        "track_name": "Road Atlanta"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 6
