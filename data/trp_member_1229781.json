@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 156,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 156,
+        "pattern": 21,
+        "color1": "FFFFFF",
+        "color2": "ED1C24",
+        "color3": "CFDD28"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-11-02T17:15:00Z",
+      "winner_group_id": 480241,
+      "winner_name": "Adam Smalley",
+      "winner_helmet": {
+        "pattern": 53,
+        "color1": "D4AF37",
+        "color2": "000000",
+        "color3": "FFFFFF",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 13,
+      "finish_position": 15,
+      "qualifying_time": 0,
+      "laps": 10,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 23,
+      "strength_of_field": 3136,
+      "subsession_id": 89826037,
+      "old_sub_level": 248,
+      "new_sub_level": 213,
+      "oldi_rating": 2259,
+      "newi_rating": 2217,
+      "track": {
+        "track_id": 229,
+        "track_name": "Circuit of the Americas"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6481,
       "series_id": 596,
       "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 1
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 156,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 156,
-        "pattern": 21,
-        "color1": "FFFFFF",
-        "color2": "ED1C24",
-        "color3": "CFDD28"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-09-21T14:00:00Z",
-      "winner_group_id": 1547239,
-      "winner_name": "Sergio Hernández Torres",
-      "winner_helmet": {
-        "pattern": 57,
-        "color1": "ec232d",
-        "color2": "ffffff",
-        "color3": "2e358f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 8,
-      "finish_position": 8,
-      "qualifying_time": 0,
-      "laps": 20,
-      "laps_led": 0,
-      "incidents": 9,
-      "points": 101,
-      "strength_of_field": 2187,
-      "subsession_id": 88802995,
-      "old_sub_level": 265,
-      "new_sub_level": 257,
-      "oldi_rating": 2490,
-      "newi_rating": 2526,
-      "track": {
-        "track_id": 341,
-        "track_name": "Silverstone Circuit"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1229781

@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 4,
+        "color1": "F10C17",
+        "color2": "EFD41E",
+        "color3": "1E29C9"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-11-02T17:15:00Z",
+      "winner_group_id": 879688,
+      "winner_name": "Léo Delmas",
+      "winner_helmet": {
+        "pattern": 55,
+        "color1": "100dbb",
+        "color2": "ffffff",
+        "color3": "ec0eff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 11,
+      "finish_position": 12,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 37,
+      "strength_of_field": 1967,
+      "subsession_id": 89826038,
+      "old_sub_level": 220,
+      "new_sub_level": 200,
+      "oldi_rating": 2156,
+      "newi_rating": 2114,
+      "track": {
+        "track_id": 229,
+        "track_name": "Circuit of the Americas"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 6
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -423,54 +471,6 @@
       "new_sub_level": 353,
       "oldi_rating": 2197,
       "newi_rating": 2240,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 4
-    },
-    {
-      "season_id": 6481,
-      "series_id": 596,
-      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 4,
-        "color1": "F10C17",
-        "color2": "EFD41E",
-        "color3": "1E29C9"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-10-17T15:45:00Z",
-      "winner_group_id": 734814,
-      "winner_name": "Robin Dönni",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "f23f8a",
-        "color2": "0a0a0a",
-        "color3": "7b097a",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 14,
-      "start_position": 10,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 98,
-      "strength_of_field": 2228,
-      "subsession_id": 89438128,
-      "old_sub_level": 360,
-      "new_sub_level": 356,
-      "oldi_rating": 2153,
-      "newi_rating": 2197,
       "track": {
         "track_id": 266,
         "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
