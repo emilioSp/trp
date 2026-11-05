@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 176,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 176,
+        "pattern": 18,
+        "color1": "000000",
+        "color2": "FF0000",
+        "color3": "FFFFFF"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-11-04T14:00:00Z",
+      "winner_group_id": 284114,
+      "winner_name": "Joakim Jansson2",
+      "winner_helmet": {
+        "pattern": 53,
+        "color1": "f8fff8",
+        "color2": "004225",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 9,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 151,
+      "strength_of_field": 2848,
+      "subsession_id": 89872147,
+      "old_sub_level": 376,
+      "new_sub_level": 396,
+      "oldi_rating": 2912,
+      "newi_rating": 2979,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6495,
       "series_id": 498,
       "series_name": "FIA Formula 4 Challenge - Fixed",
@@ -428,54 +476,6 @@
         "track_name": "Mount Panorama Circuit"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 6
-    },
-    {
-      "season_id": 6496,
-      "series_id": 540,
-      "series_name": "FIA F4 Esports Regional Tour - Asia Pacific",
-      "car_id": 148,
-      "car_class_id": 3188,
-      "livery": {
-        "car_id": 148,
-        "pattern": 19,
-        "color1": "000000",
-        "color2": "ff0000",
-        "color3": "000000"
-      },
-      "license_level": 7,
-      "session_start_time": "2026-10-27T17:30:00Z",
-      "winner_group_id": 765431,
-      "winner_name": "Pedro Alessio",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "2ea8a1",
-        "color2": "1b8276",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 13,
-      "start_position": 7,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 7,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 107,
-      "strength_of_field": 1900,
-      "subsession_id": 89683350,
-      "old_sub_level": 332,
-      "new_sub_level": 348,
-      "oldi_rating": 2165,
-      "newi_rating": 2235,
-      "track": {
-        "track_id": 219,
-        "track_name": "Mount Panorama Circuit"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 6
