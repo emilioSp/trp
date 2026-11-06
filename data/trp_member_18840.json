@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 188,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 188,
+        "pattern": 2,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-11-05T16:00:00Z",
+      "winner_group_id": 1186334,
+      "winner_name": "Lucas Hayashi",
+      "winner_helmet": {
+        "pattern": 12,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "fc0008",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 18,
+      "finish_position": 18,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 105,
+      "strength_of_field": 4214,
+      "subsession_id": 89897903,
+      "old_sub_level": 469,
+      "new_sub_level": 456,
+      "oldi_rating": 3724,
+      "newi_rating": 3721,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6487,
       "series_id": 447,
       "series_name": "IMSA iRacing Series by GO Fast",
@@ -428,54 +476,6 @@
         "track_name": "Shell V-Power Motorsport Park at The Bend"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 3,
-        "color1": "8f1010",
-        "color2": "000000",
-        "color3": "f2a700"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-10-21T16:00:00Z",
-      "winner_group_id": 576066,
-      "winner_name": "Alvaro Sanchez Soblechero",
-      "winner_helmet": {
-        "pattern": 42,
-        "color1": "111111",
-        "color2": "ffee47",
-        "color3": "0300c2",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 8,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 0,
-      "incidents": 8,
-      "points": 122,
-      "strength_of_field": 2367,
-      "subsession_id": 89535981,
-      "old_sub_level": 421,
-      "new_sub_level": 415,
-      "oldi_rating": 3478,
-      "newi_rating": 3516,
-      "track": {
-        "track_id": 540,
-        "track_name": "Shell V-Power Motorsport Park at The Bend"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 5

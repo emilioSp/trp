@@ -4,6 +4,54 @@
       "season_id": 6478,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 11,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-11-05T21:15:00Z",
+      "winner_group_id": 1369635,
+      "winner_name": "Renan L Ramos",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "f1f1f1",
+        "color2": "000000",
+        "color3": "faf5f5",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 20,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 69,
+      "strength_of_field": 2418,
+      "subsession_id": 89903445,
+      "old_sub_level": 338,
+      "new_sub_level": 313,
+      "oldi_rating": 2379,
+      "newi_rating": 2376,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 7
+    },
+    {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
       "car_id": 169,
       "car_class_id": 2708,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 0
-    },
-    {
-      "season_id": 6305,
-      "series_id": 596,
-      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 7,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-09-07T21:45:00Z",
-      "winner_group_id": 183913,
-      "winner_name": "Diego Acebedo",
-      "winner_helmet": {
-        "pattern": 63,
-        "color1": "faec2e",
-        "color2": "387326",
-        "color3": "3d54ff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 14,
-      "finish_position": 13,
-      "qualifying_time": 0,
-      "laps": 13,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 50,
-      "strength_of_field": 2838,
-      "subsession_id": 88551938,
-      "old_sub_level": 286,
-      "new_sub_level": 293,
-      "oldi_rating": 2204,
-      "newi_rating": 2187,
-      "track": {
-        "track_id": 390,
-        "track_name": "Hockenheimring Baden-Württemberg"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 11
     }
   ],
   "cust_id": 1378838
