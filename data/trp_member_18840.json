@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6480,
+      "series_id": 595,
+      "series_name": "GT3 Regional Tour by SensitHaptics - Americas",
+      "car_id": 188,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 188,
+        "pattern": 2,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-11-06T15:45:00Z",
+      "winner_group_id": 933777,
+      "winner_name": "Jeremy Baumert",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "000000",
+        "color2": "00abff",
+        "color3": "f9f9f9",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 13,
+      "finish_position": 17,
+      "qualifying_time": 0,
+      "laps": 11,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 14,
+      "strength_of_field": 4406,
+      "subsession_id": 89921721,
+      "old_sub_level": 456,
+      "new_sub_level": 445,
+      "oldi_rating": 3721,
+      "newi_rating": 3663,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Shell V-Power Motorsport Park at The Bend"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 3,
-        "color1": "8f1010",
-        "color2": "000000",
-        "color3": "f2a700"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-10-21T20:00:00Z",
-      "winner_group_id": 467784,
-      "winner_name": "Joram Vanhixe",
-      "winner_helmet": {
-        "pattern": 58,
-        "color1": "000000",
-        "color2": "faf000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 1,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 1,
-      "incidents": 7,
-      "points": 150,
-      "strength_of_field": 2892,
-      "subsession_id": 89540326,
-      "old_sub_level": 415,
-      "new_sub_level": 414,
-      "oldi_rating": 3516,
-      "newi_rating": 3571,
-      "track": {
-        "track_id": 540,
-        "track_name": "Shell V-Power Motorsport Park at The Bend"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 5
