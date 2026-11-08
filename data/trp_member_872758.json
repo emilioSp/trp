@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6476,
+      "series_id": 237,
+      "series_name": "GT Endurance Series by Simucube",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "fdfbfb"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-11-07T19:00:00Z",
+      "winner_group_id": -456994,
+      "winner_name": "ACC DRIVERS",
+      "winner_helmet": {
+        "pattern": -1,
+        "color1": "N/A",
+        "color2": "N/A",
+        "color3": "N/A",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": -1,
+      "start_position": 49,
+      "finish_position": 30,
+      "qualifying_time": 0,
+      "laps": 79,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 155,
+      "strength_of_field": 4881,
+      "subsession_id": 89950717,
+      "old_sub_level": 372,
+      "new_sub_level": 470,
+      "oldi_rating": 5292,
+      "newi_rating": 5288,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 5
-    },
-    {
-      "season_id": 6481,
-      "series_id": 596,
-      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
-      "car_id": 184,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 184,
-        "pattern": 20,
-        "color1": "46ED1C",
-        "color2": "00B7E8",
-        "color3": "111111"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-10-17T21:45:00Z",
-      "winner_group_id": 623524,
-      "winner_name": "Orazio Principato",
-      "winner_helmet": {
-        "pattern": 1,
-        "color1": "ed2129",
-        "color2": "2a3795",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 3,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 182,
-      "strength_of_field": 3466,
-      "subsession_id": 89444867,
-      "old_sub_level": 416,
-      "new_sub_level": 420,
-      "oldi_rating": 4965,
-      "newi_rating": 5008,
-      "track": {
-        "track_id": 266,
-        "track_name": "Autodromo Internazionale Enzo e Dino Ferrari"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 4
     }
   ],
   "cust_id": 872758
