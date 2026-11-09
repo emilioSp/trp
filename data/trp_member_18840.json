@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 188,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 188,
+        "pattern": 2,
+        "color1": "ff0000",
+        "color2": "00ff00",
+        "color3": "0000ff"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-11-08T20:00:00Z",
+      "winner_group_id": 1001147,
+      "winner_name": "Alex Scholtz",
+      "winner_helmet": {
+        "pattern": 27,
+        "color1": "000000",
+        "color2": "ffffff",
+        "color3": "8f42e6",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 13,
+      "finish_position": 20,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 72,
+      "strength_of_field": 3402,
+      "subsession_id": 89977000,
+      "old_sub_level": 445,
+      "new_sub_level": 447,
+      "oldi_rating": 3663,
+      "newi_rating": 3627,
+      "track": {
+        "track_id": 523,
+        "track_name": "Circuit de Spa-Francorchamps"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 7
+    },
+    {
       "season_id": 6480,
       "series_id": 595,
       "series_name": "GT3 Regional Tour by SensitHaptics - Americas",
@@ -423,54 +471,6 @@
       "new_sub_level": 415,
       "oldi_rating": 3600,
       "newi_rating": 3618,
-      "track": {
-        "track_id": 540,
-        "track_name": "Shell V-Power Motorsport Park at The Bend"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 3,
-        "color1": "8f1010",
-        "color2": "000000",
-        "color3": "f2a700"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-10-24T10:00:00Z",
-      "winner_group_id": 52976,
-      "winner_name": "Justyn Kolpowski",
-      "winner_helmet": {
-        "pattern": 22,
-        "color1": "e2e2e9",
-        "color2": "058305",
-        "color3": "b02f2f",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 2,
-      "finish_position": 5,
-      "qualifying_time": 0,
-      "laps": 14,
-      "laps_led": 2,
-      "incidents": 8,
-      "points": 116,
-      "strength_of_field": 2284,
-      "subsession_id": 89602818,
-      "old_sub_level": 414,
-      "new_sub_level": 410,
-      "oldi_rating": 3571,
-      "newi_rating": 3600,
       "track": {
         "track_id": 540,
         "track_name": "Shell V-Power Motorsport Park at The Bend"
