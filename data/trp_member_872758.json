@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6487,
+      "series_id": 447,
+      "series_name": "IMSA iRacing Series by GO Fast",
+      "car_id": 173,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 173,
+        "pattern": 23,
+        "color1": "d00000",
+        "color2": "d80606",
+        "color3": "e10000"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-11-10T20:45:00Z",
+      "winner_group_id": 503350,
+      "winner_name": "Taylor Barnard",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "4200ff",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 12,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 23,
+      "laps_led": 0,
+      "incidents": 3,
+      "points": 218,
+      "strength_of_field": 4479,
+      "subsession_id": 90024846,
+      "old_sub_level": 470,
+      "new_sub_level": 474,
+      "oldi_rating": 5288,
+      "newi_rating": 5339,
+      "track": {
+        "track_id": 168,
+        "track_name": "Suzuka International Racing Course"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6476,
       "series_id": 237,
       "series_name": "GT Endurance Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Internazionale del Mugello"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 6481,
-      "series_id": 596,
-      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
-      "car_id": 156,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 156,
-        "pattern": 5,
-        "color1": "FF0000",
-        "color2": "00FF00",
-        "color3": "0000FF"
-      },
-      "license_level": 20,
-      "session_start_time": "2026-10-21T20:45:00Z",
-      "winner_group_id": 273391,
-      "winner_name": "Tony Despotakis",
-      "winner_helmet": {
-        "pattern": 5,
-        "color1": "c0c0c0",
-        "color2": "f00000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 3,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 12,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 138,
-      "strength_of_field": 3141,
-      "subsession_id": 89541045,
-      "old_sub_level": 420,
-      "new_sub_level": 344,
-      "oldi_rating": 5008,
-      "newi_rating": 5016,
-      "track": {
-        "track_id": 498,
-        "track_name": "Autodromo Internazionale del Mugello"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 5
