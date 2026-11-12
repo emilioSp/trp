@@ -4,6 +4,54 @@
       "season_id": 6478,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 184,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 184,
+        "pattern": 0,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000"
+      },
+      "license_level": 17,
+      "session_start_time": "2026-11-11T21:15:00Z",
+      "winner_group_id": 746234,
+      "winner_name": "Philipp Varlemann",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "8c1000",
+        "color2": "000000",
+        "color3": "911f1f",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 13,
+      "start_position": 6,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 12,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 200,
+      "strength_of_field": 3847,
+      "subsession_id": 90049681,
+      "old_sub_level": 152,
+      "new_sub_level": 146,
+      "oldi_rating": 5176,
+      "newi_rating": 5226,
+      "track": {
+        "track_id": 444,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 8
+    },
+    {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
       "car_id": 176,
       "car_class_id": 2708,
       "livery": {
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 6
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 1,
-        "color1": "ff0000",
-        "color2": "00ff00",
-        "color3": "0000ff"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-10-19T20:00:00Z",
-      "winner_group_id": 246994,
-      "winner_name": "Filip Ołdak2",
-      "winner_helmet": {
-        "pattern": 5,
-        "color1": "ee3442",
-        "color2": "ffffff",
-        "color3": "447ac0",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 20,
-      "finish_position": 24,
-      "qualifying_time": 0,
-      "laps": 1,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 19,
-      "strength_of_field": 4011,
-      "subsession_id": 89491043,
-      "old_sub_level": 333,
-      "new_sub_level": 320,
-      "oldi_rating": 5789,
-      "newi_rating": 5674,
-      "track": {
-        "track_id": 448,
-        "track_name": "Indianapolis Motor Speedway"
-      },
-      "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 4
     }
   ],
   "cust_id": 825369

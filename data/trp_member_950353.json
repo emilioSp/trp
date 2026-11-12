@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 188,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 188,
+        "pattern": 6,
+        "color1": "000000",
+        "color2": "320a5a",
+        "color3": "0f1562"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-11-11T20:00:00Z",
+      "winner_group_id": 812675,
+      "winner_name": "Mikołaj Komasa",
+      "winner_helmet": {
+        "pattern": 54,
+        "color1": "1400ff",
+        "color2": "000000",
+        "color3": "fc0706",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 3,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 24,
+      "laps_led": 0,
+      "incidents": 8,
+      "points": 105,
+      "strength_of_field": 2577,
+      "subsession_id": 90048361,
+      "old_sub_level": 479,
+      "new_sub_level": 454,
+      "oldi_rating": 2478,
+      "newi_rating": 2511,
+      "track": {
+        "track_id": 444,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6486,
       "series_id": 419,
       "series_name": "IMSA Endurance Series",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 11
-    },
-    {
-      "season_id": 6397,
-      "series_id": 462,
-      "series_name": "Pro 2 Lite Off-Road Rookie Series",
-      "car_id": 113,
-      "car_class_id": 1454,
-      "livery": {
-        "car_id": 113,
-        "pattern": 1,
-        "color1": "fc0706",
-        "color2": "ffffff",
-        "color3": "111111"
-      },
-      "license_level": 10,
-      "session_start_time": "2026-08-31T18:00:00Z",
-      "winner_group_id": 1179726,
-      "winner_name": "Joy Perez",
-      "winner_helmet": {
-        "pattern": 3,
-        "color1": "d1d500",
-        "color2": "111111",
-        "color3": "808080",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 2,
-      "start_position": 1,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 4,
-      "laps_led": 0,
-      "incidents": 2,
-      "points": 32,
-      "strength_of_field": 1219,
-      "subsession_id": 88375042,
-      "old_sub_level": 281,
-      "new_sub_level": 278,
-      "oldi_rating": 1260,
-      "newi_rating": 1258,
-      "track": {
-        "track_id": 472,
-        "track_name": "[Legacy] Phoenix Raceway - 2008"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 10
     }
   ],
   "cust_id": 950353

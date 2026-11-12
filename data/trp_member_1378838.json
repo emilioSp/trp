@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 169,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 169,
+        "pattern": 7,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a"
+      },
+      "license_level": 15,
+      "session_start_time": "2026-11-11T22:00:00Z",
+      "winner_group_id": 810066,
+      "winner_name": "Diego Artamendi",
+      "winner_helmet": {
+        "pattern": 58,
+        "color1": "ffffff",
+        "color2": "e0ff00",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 13,
+      "finish_position": 27,
+      "qualifying_time": 0,
+      "laps": 6,
+      "laps_led": 0,
+      "incidents": 11,
+      "points": 5,
+      "strength_of_field": 2558,
+      "subsession_id": 90050614,
+      "old_sub_level": 313,
+      "new_sub_level": 248,
+      "oldi_rating": 2376,
+      "newi_rating": 2293,
+      "track": {
+        "track_id": 444,
+        "track_name": "Fuji International Speedway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6478,
       "series_id": 444,
       "series_name": "GT3 Challenge Fixed by Fanatec",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3
-    },
-    {
-      "season_id": 6586,
-      "series_id": 449,
-      "series_name": "13th Week GT3 Challenge - Fixed",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 7,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a"
-      },
-      "license_level": 14,
-      "session_start_time": "2026-09-13T16:00:00Z",
-      "winner_group_id": 1095535,
-      "winner_name": "Arjan Bilbas",
-      "winner_helmet": {
-        "pattern": 28,
-        "color1": "ffffff",
-        "color2": "00fff7",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 26,
-      "finish_position": 21,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 12,
-      "points": 50,
-      "strength_of_field": 2846,
-      "subsession_id": 88622212,
-      "old_sub_level": 293,
-      "new_sub_level": 284,
-      "oldi_rating": 2187,
-      "newi_rating": 2168,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 0
     }
   ],
   "cust_id": 1378838
