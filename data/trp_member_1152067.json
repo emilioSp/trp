@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6473,
+      "series_id": 299,
+      "series_name": "iRacing Porsche Cup by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 13,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000"
+      },
+      "license_level": 11,
+      "session_start_time": "2026-11-12T17:45:00Z",
+      "winner_group_id": 618268,
+      "winner_name": "Jonas Hegner Holmgaard",
+      "winner_helmet": {
+        "pattern": 28,
+        "color1": "2a3795",
+        "color2": "ff8a00",
+        "color3": "eeeeee",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 9,
+      "start_position": 5,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 30,
+      "strength_of_field": 1119,
+      "subsession_id": 90069397,
+      "old_sub_level": 373,
+      "new_sub_level": 378,
+      "oldi_rating": 1060,
+      "newi_rating": 1053,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6474,
       "series_id": 476,
       "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
@@ -423,54 +471,6 @@
       "new_sub_level": 140,
       "oldi_rating": 649,
       "newi_rating": 651,
-      "track": {
-        "track_id": 212,
-        "track_name": "Autódromo José Carlos Pace"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 1,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 5936,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed by GO Fast",
-      "car_id": 206,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 206,
-        "pattern": 2,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000"
-      },
-      "license_level": 17,
-      "session_start_time": "2026-02-22T15:45:00Z",
-      "winner_group_id": 1150698,
-      "winner_name": "Günther Seidl",
-      "winner_helmet": {
-        "pattern": 9,
-        "color1": "1e3ec4",
-        "color2": "696abb",
-        "color3": "fced21",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 27,
-      "finish_position": 31,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 18,
-      "strength_of_field": 1710,
-      "subsession_id": 83759254,
-      "old_sub_level": 116,
-      "new_sub_level": 152,
-      "oldi_rating": 661,
-      "newi_rating": 649,
       "track": {
         "track_id": 212,
         "track_name": "Autódromo José Carlos Pace"
