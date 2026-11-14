@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6481,
+      "series_id": 596,
+      "series_name": "GT3 Regional Tour by SensitHaptics - Europe",
+      "car_id": 184,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 184,
+        "pattern": 11,
+        "color1": "000000",
+        "color2": "FF0000",
+        "color3": "FFFFFF"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-11-13T15:45:00Z",
+      "winner_group_id": 415974,
+      "winner_name": "Henry Cubides",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "ff0000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 18,
+      "finish_position": 20,
+      "qualifying_time": 0,
+      "laps": 0,
+      "laps_led": 0,
+      "incidents": 4,
+      "points": 0,
+      "strength_of_field": 3646,
+      "subsession_id": 90090627,
+      "old_sub_level": 308,
+      "new_sub_level": 252,
+      "oldi_rating": 2941,
+      "newi_rating": 2873,
+      "track": {
+        "track_id": 345,
+        "track_name": "Circuit de Barcelona Catalunya"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Sebring International Raceway"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 176,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 176,
-        "pattern": 18,
-        "color1": "000000",
-        "color2": "FF0000",
-        "color3": "FFFFFF"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-11-05T14:00:00Z",
-      "winner_group_id": 932249,
-      "winner_name": "Diones Gontijo",
-      "winner_helmet": {
-        "pattern": 12,
-        "color1": "ff0000",
-        "color2": "ff0000",
-        "color3": "ff0000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 28,
-      "finish_position": 14,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 10,
-      "points": 97,
-      "strength_of_field": 2932,
-      "subsession_id": 89896123,
-      "old_sub_level": 396,
-      "new_sub_level": 363,
-      "oldi_rating": 2979,
-      "newi_rating": 2984,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 7
