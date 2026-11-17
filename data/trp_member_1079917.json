@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6474,
+      "series_id": 476,
+      "series_name": "iRacing Porsche Cup - Fixed by CONSPIT",
+      "car_id": 208,
+      "car_class_id": 4093,
+      "livery": {
+        "car_id": 208,
+        "pattern": 3,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-11-16T18:45:00Z",
+      "winner_group_id": 600000,
+      "winner_name": "Timon Schouten",
+      "winner_helmet": {
+        "pattern": 22,
+        "color1": "ff0000",
+        "color2": "000000",
+        "color3": "2bff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 15,
+      "start_position": 18,
+      "finish_position": 10,
+      "qualifying_time": 0,
+      "laps": 19,
+      "laps_led": 0,
+      "incidents": 6,
+      "points": 118,
+      "strength_of_field": 3209,
+      "subsession_id": 90166447,
+      "old_sub_level": 349,
+      "new_sub_level": 338,
+      "oldi_rating": 4558,
+      "newi_rating": 4549,
+      "track": {
+        "track_id": 179,
+        "track_name": "Long Beach Street Circuit"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 8
+    },
+    {
       "season_id": 6473,
       "series_id": 299,
       "series_name": "iRacing Porsche Cup by CONSPIT",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 515,
         "track_name": "Circuito de Navarra"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 6488,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed by GO Fast",
-      "car_id": 132,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 132,
-        "pattern": 16,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-11-03T21:45:00Z",
-      "winner_group_id": 1394248,
-      "winner_name": "Dylan Leon",
-      "winner_helmet": {
-        "pattern": 67,
-        "color1": "2d89cc",
-        "color2": "000000",
-        "color3": "e3ff00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 19,
-      "start_position": 7,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 0,
-      "points": 180,
-      "strength_of_field": 3484,
-      "subsession_id": 89856119,
-      "old_sub_level": 362,
-      "new_sub_level": 392,
-      "oldi_rating": 4440,
-      "newi_rating": 4493,
-      "track": {
-        "track_id": 572,
-        "track_name": "Autódromo Hermanos Rodríguez"
       },
       "drop_race": false,
       "season_year": 2026,
