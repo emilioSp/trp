@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 11,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 14,
+      "session_start_time": "2026-11-17T21:15:00Z",
+      "winner_group_id": 1378838,
+      "winner_name": "Francesco Puleo",
+      "winner_helmet": {
+        "pattern": 1,
+        "color1": "2e358f",
+        "color2": "ec232d",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 4,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 6,
+      "incidents": 4,
+      "points": 124,
+      "strength_of_field": 2034,
+      "subsession_id": 90193336,
+      "old_sub_level": 237,
+      "new_sub_level": 247,
+      "oldi_rating": 2243,
+      "newi_rating": 2330,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 9
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Mobility Resort Motegi"
       },
       "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 3
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 7,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-10-11T16:00:00Z",
-      "winner_group_id": 1164231,
-      "winner_name": "Matheus Benicio Melo",
-      "winner_helmet": {
-        "pattern": 31,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 15,
-      "start_position": 13,
-      "finish_position": 9,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 11,
-      "points": 96,
-      "strength_of_field": 2319,
-      "subsession_id": 89293381,
-      "old_sub_level": 353,
-      "new_sub_level": 339,
-      "oldi_rating": 2259,
-      "newi_rating": 2293,
-      "track": {
-        "track_id": 195,
-        "track_name": "Mobility Resort Motegi"
-      },
-      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 3

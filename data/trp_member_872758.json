@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 133,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 133,
+        "pattern": 4,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 20,
+      "session_start_time": "2026-11-18T00:00:00Z",
+      "winner_group_id": 443332,
+      "winner_name": "Jason Henrique",
+      "winner_helmet": {
+        "pattern": 26,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "000000",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 5,
+      "finish_position": 3,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 2,
+      "incidents": 11,
+      "points": 171,
+      "strength_of_field": 3183,
+      "subsession_id": 90196382,
+      "old_sub_level": 452,
+      "new_sub_level": 424,
+      "oldi_rating": 5468,
+      "newi_rating": 5500,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 9
+    },
+    {
       "season_id": 6487,
       "series_id": 447,
       "series_name": "IMSA iRacing Series by GO Fast",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 7
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 23,
-        "color1": "d00000",
-        "color2": "d80606",
-        "color3": "e10000"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-10-28T22:00:00Z",
-      "winner_group_id": 328176,
-      "winner_name": "Lucas Hermann",
-      "winner_helmet": {
-        "pattern": 2,
-        "color1": "f1ef24",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 6,
-      "finish_position": 4,
-      "qualifying_time": 0,
-      "laps": 19,
-      "laps_led": 0,
-      "incidents": 4,
-      "points": 178,
-      "strength_of_field": 3326,
-      "subsession_id": 89712356,
-      "old_sub_level": 344,
-      "new_sub_level": 353,
-      "oldi_rating": 5157,
-      "newi_rating": 5193,
-      "track": {
-        "track_id": 229,
-        "track_name": "Circuit of the Americas"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 6
     }
   ],
   "cust_id": 872758
