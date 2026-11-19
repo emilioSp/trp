@@ -1,6 +1,102 @@
 {
   "races": [
     {
+      "season_id": 6449,
+      "series_id": 112,
+      "series_name": "Production Car Challenge by Sim-Lab",
+      "car_id": 160,
+      "car_class_id": 4012,
+      "livery": {
+        "car_id": 160,
+        "pattern": 23,
+        "color1": "cd0a0a",
+        "color2": "224a68",
+        "color3": "224a68"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-11-18T18:30:00Z",
+      "winner_group_id": 508077,
+      "winner_name": "Lukas Pöppel",
+      "winner_helmet": {
+        "pattern": 24,
+        "color1": "ffffff",
+        "color2": "000000",
+        "color3": "49f5fd",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 20,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 20,
+      "laps_led": 0,
+      "incidents": 9,
+      "points": 151,
+      "strength_of_field": 2502,
+      "subsession_id": 90214202,
+      "old_sub_level": 354,
+      "new_sub_level": 328,
+      "oldi_rating": 3776,
+      "newi_rating": 3837,
+      "track": {
+        "track_id": 9,
+        "track_name": "Summit Point Raceway"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 6446,
+      "series_id": 514,
+      "series_name": "Toyota GR86 Cup by SIMAGIC",
+      "car_id": 160,
+      "car_class_id": 4012,
+      "livery": {
+        "car_id": 160,
+        "pattern": 23,
+        "color1": "cd0a0a",
+        "color2": "224a68",
+        "color3": "224a68"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-11-18T17:45:00Z",
+      "winner_group_id": 177097,
+      "winner_name": "Piercarlo Patti",
+      "winner_helmet": {
+        "pattern": 33,
+        "color1": "cd0a0a",
+        "color2": "ddd20e",
+        "color3": "224a68",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 1,
+      "finish_position": 1,
+      "qualifying_time": 0,
+      "laps": 9,
+      "laps_led": 9,
+      "incidents": 0,
+      "points": 148,
+      "strength_of_field": 2528,
+      "subsession_id": 90213463,
+      "old_sub_level": 343,
+      "new_sub_level": 354,
+      "oldi_rating": 3712,
+      "newi_rating": 3776,
+      "track": {
+        "track_id": 485,
+        "track_name": "Circuit Zandvoort"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 9
+    },
+    {
       "season_id": 6616,
       "series_id": 634,
       "series_name": "Track Day",
@@ -139,7 +235,7 @@
         "track_id": 485,
         "track_name": "Circuit Zandvoort"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 9
@@ -383,102 +479,6 @@
       "season_year": 2025,
       "season_quarter": 2,
       "race_week_num": 0
-    },
-    {
-      "season_id": 5426,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series by GO Fast",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 0,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 19,
-      "session_start_time": "2025-04-26T08:45:00Z",
-      "winner_group_id": 319555,
-      "winner_name": "Niklas Hedberg",
-      "winner_helmet": {
-        "pattern": 50,
-        "color1": "fff500",
-        "color2": "000000",
-        "color3": "ffffff",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 1,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 3,
-      "points": 188,
-      "strength_of_field": 3680,
-      "subsession_id": 76522897,
-      "old_sub_level": 370,
-      "new_sub_level": 377,
-      "oldi_rating": 3607,
-      "newi_rating": 3688,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": false,
-      "season_year": 2025,
-      "season_quarter": 2,
-      "race_week_num": 5
-    },
-    {
-      "season_id": 5426,
-      "series_id": 447,
-      "series_name": "IMSA iRacing Series by GO Fast",
-      "car_id": 169,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 169,
-        "pattern": 0,
-        "color1": "2a3795",
-        "color2": "ed2129",
-        "color3": "ffffff"
-      },
-      "license_level": 18,
-      "session_start_time": "2025-04-26T06:45:00Z",
-      "winner_group_id": 951091,
-      "winner_name": "Cameron Stephens3",
-      "winner_helmet": {
-        "pattern": 35,
-        "color1": "ffffff",
-        "color2": "ff0000",
-        "color3": "ffee47",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 2,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 27,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 156,
-      "strength_of_field": 3122,
-      "subsession_id": 76521272,
-      "old_sub_level": 298,
-      "new_sub_level": 370,
-      "oldi_rating": 3543,
-      "newi_rating": 3607,
-      "track": {
-        "track_id": 434,
-        "track_name": "Watkins Glen International"
-      },
-      "drop_race": true,
-      "season_year": 2025,
-      "season_quarter": 2,
-      "race_week_num": 5
     }
   ],
   "cust_id": 177097

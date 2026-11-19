@@ -14,6 +14,54 @@
         "color3": "111111"
       },
       "license_level": 20,
+      "session_start_time": "2026-11-18T22:00:00Z",
+      "winner_group_id": 1068408,
+      "winner_name": "Kacper Benedykt",
+      "winner_helmet": {
+        "pattern": 57,
+        "color1": "000000",
+        "color2": "000000",
+        "color3": "ffffff",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 19,
+      "start_position": 6,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 26,
+      "laps_led": 0,
+      "incidents": 12,
+      "points": 190,
+      "strength_of_field": 3756,
+      "subsession_id": 90218048,
+      "old_sub_level": 424,
+      "new_sub_level": 358,
+      "oldi_rating": 5500,
+      "newi_rating": 5532,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 6477,
+      "series_id": 228,
+      "series_name": "GT Sprint Series by Simucube",
+      "car_id": 133,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 133,
+        "pattern": 4,
+        "color1": "46ED1C",
+        "color2": "00B7E8",
+        "color3": "111111"
+      },
+      "license_level": 20,
       "session_start_time": "2026-11-18T00:00:00Z",
       "winner_group_id": 443332,
       "winner_name": "Jason Henrique",
@@ -43,7 +91,7 @@
         "track_id": 501,
         "track_name": "Misano World Circuit Marco Simoncelli"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 9
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 7
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 173,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 173,
-        "pattern": 23,
-        "color1": "d00000",
-        "color2": "d80606",
-        "color3": "e10000"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-11-03T22:00:00Z",
-      "winner_group_id": 672319,
-      "winner_name": "Sven-Ole Haase",
-      "winner_helmet": {
-        "pattern": 67,
-        "color1": "000",
-        "color2": "ffdd00",
-        "color3": "ffdd00",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 25,
-      "finish_position": 12,
-      "qualifying_time": 0,
-      "laps": 18,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 211,
-      "strength_of_field": 6098,
-      "subsession_id": 89856371,
-      "old_sub_level": 353,
-      "new_sub_level": 353,
-      "oldi_rating": 5193,
-      "newi_rating": 5238,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 7
