@@ -14,6 +14,54 @@
         "color3": "0A0A0A"
       },
       "license_level": 14,
+      "session_start_time": "2026-11-21T15:15:00Z",
+      "winner_group_id": 1181907,
+      "winner_name": "Drilon Osmani",
+      "winner_helmet": {
+        "pattern": 35,
+        "color1": "ffffff",
+        "color2": "ff2001",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 14,
+      "start_position": 15,
+      "finish_position": 11,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 14,
+      "points": 82,
+      "strength_of_field": 2900,
+      "subsession_id": 90279363,
+      "old_sub_level": 247,
+      "new_sub_level": 228,
+      "oldi_rating": 2330,
+      "newi_rating": 2344,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": true,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 9
+    },
+    {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 173,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 173,
+        "pattern": 11,
+        "color1": "2E358F",
+        "color2": "EC232D",
+        "color3": "0A0A0A"
+      },
+      "license_level": 14,
       "session_start_time": "2026-11-17T21:15:00Z",
       "winner_group_id": 1378838,
       "winner_name": "Francesco Puleo",
@@ -431,54 +479,6 @@
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 4
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 169,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 169,
-        "pattern": 7,
-        "color1": "2e358f",
-        "color2": "ec232d",
-        "color3": "0a0a0a"
-      },
-      "license_level": 15,
-      "session_start_time": "2026-10-12T20:00:00Z",
-      "winner_group_id": 938225,
-      "winner_name": "Jesper Scott Johnsen",
-      "winner_helmet": {
-        "pattern": 61,
-        "color1": "5c0e78",
-        "color2": "0dff00",
-        "color3": "111111",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 6,
-      "finish_position": 3,
-      "qualifying_time": 0,
-      "laps": 22,
-      "laps_led": 0,
-      "incidents": 6,
-      "points": 121,
-      "strength_of_field": 2109,
-      "subsession_id": 89322723,
-      "old_sub_level": 339,
-      "new_sub_level": 344,
-      "oldi_rating": 2293,
-      "newi_rating": 2368,
-      "track": {
-        "track_id": 195,
-        "track_name": "Mobility Resort Motegi"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 3
     }
   ],
   "cust_id": 1378838
