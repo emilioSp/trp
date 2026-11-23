@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6478,
+      "series_id": 444,
+      "series_name": "GT3 Challenge Fixed by Fanatec",
+      "car_id": 133,
+      "car_class_id": 2708,
+      "livery": {
+        "car_id": 133,
+        "pattern": 16,
+        "color1": "ebff00",
+        "color2": "7ce632",
+        "color3": "000000"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-11-22T17:15:00Z",
+      "winner_group_id": 627149,
+      "winner_name": "Mykola Bubalo",
+      "winner_helmet": {
+        "pattern": 31,
+        "color1": "57fcff",
+        "color2": "f8c700",
+        "color3": "0a0a0a",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 17,
+      "start_position": 7,
+      "finish_position": 13,
+      "qualifying_time": 0,
+      "laps": 13,
+      "laps_led": 0,
+      "incidents": 13,
+      "points": 24,
+      "strength_of_field": 2010,
+      "subsession_id": 90305591,
+      "old_sub_level": 359,
+      "new_sub_level": 316,
+      "oldi_rating": 2206,
+      "newi_rating": 2143,
+      "track": {
+        "track_id": 501,
+        "track_name": "Misano World Circuit Marco Simoncelli"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 9
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -428,54 +476,6 @@
         "track_name": "Circuit de Spa-Francorchamps"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 3,
-      "race_week_num": 2
-    },
-    {
-      "season_id": 6312,
-      "series_id": 539,
-      "series_name": "IMSA iRacing Series - Fixed by GO Fast",
-      "car_id": 173,
-      "car_class_id": 4011,
-      "livery": {
-        "car_id": 173,
-        "pattern": 18,
-        "color1": "ebff00",
-        "color2": "7ce632",
-        "color3": "000000"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-07-02T21:45:00Z",
-      "winner_group_id": 713213,
-      "winner_name": "Yani Amellal",
-      "winner_helmet": {
-        "pattern": 68,
-        "color1": "000000",
-        "color2": "111111",
-        "color3": "000000",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 29,
-      "finish_position": 18,
-      "qualifying_time": 0,
-      "laps": 16,
-      "laps_led": 0,
-      "incidents": 13,
-      "points": 77,
-      "strength_of_field": 2120,
-      "subsession_id": 86902707,
-      "old_sub_level": 242,
-      "new_sub_level": 223,
-      "oldi_rating": 2217,
-      "newi_rating": 2228,
-      "track": {
-        "track_id": 523,
-        "track_name": "Circuit de Spa-Francorchamps"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 3,
       "race_week_num": 2
