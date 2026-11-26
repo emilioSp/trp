@@ -84,10 +84,10 @@
     "name": "Luca Zinicola",
     "memberSince": "2024-12-02",
     "country": "Italy",
-    "classOrder": 3,
-    "className": "C",
-    "safetyRating": 3.93,
-    "iRating": 1127
+    "classOrder": 4,
+    "className": "B",
+    "safetyRating": 3.5,
+    "iRating": 1226
   },
   {
     "id": 1335041,
@@ -216,8 +216,8 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 2.94,
-    "iRating": 3120
+    "safetyRating": 2.42,
+    "iRating": 3053
   },
   {
     "id": 902844,
@@ -266,7 +266,7 @@
     "country": "Italy",
     "classOrder": 5,
     "className": "A",
-    "safetyRating": 3.64,
-    "iRating": 4621
+    "safetyRating": 3.85,
+    "iRating": 4664
   }
 ]
