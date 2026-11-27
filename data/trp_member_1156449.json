@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6488,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed by GO Fast",
+      "car_id": 184,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 184,
+        "pattern": 11,
+        "color1": "000000",
+        "color2": "FF0000",
+        "color3": "FFFFFF"
+      },
+      "license_level": 18,
+      "session_start_time": "2026-11-26T13:45:00Z",
+      "winner_group_id": 1135121,
+      "winner_name": "Daniel Luczko",
+      "winner_helmet": {
+        "pattern": 2,
+        "color1": "2100a3",
+        "color2": "00e5fc",
+        "color3": "00fa02",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 8,
+      "finish_position": 5,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 7,
+      "points": 160,
+      "strength_of_field": 3481,
+      "subsession_id": 90394786,
+      "old_sub_level": 242,
+      "new_sub_level": 245,
+      "oldi_rating": 3053,
+      "newi_rating": 3122,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 10
+    },
+    {
       "season_id": 6487,
       "series_id": 447,
       "series_name": "IMSA iRacing Series by GO Fast",
@@ -426,54 +474,6 @@
       "track": {
         "track_id": 556,
         "track_name": "Charlotte Motor Speedway"
-      },
-      "drop_race": false,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 6477,
-      "series_id": 228,
-      "series_name": "GT Sprint Series by Simucube",
-      "car_id": 184,
-      "car_class_id": 2708,
-      "livery": {
-        "car_id": 184,
-        "pattern": 11,
-        "color1": "000000",
-        "color2": "FF0000",
-        "color3": "FFFFFF"
-      },
-      "license_level": 18,
-      "session_start_time": "2026-11-19T14:00:00Z",
-      "winner_group_id": 655846,
-      "winner_name": "Sacha Anglesy",
-      "winner_helmet": {
-        "pattern": 24,
-        "color1": "000000",
-        "color2": "000000",
-        "color3": "3d3300",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 20,
-      "start_position": 8,
-      "finish_position": 6,
-      "qualifying_time": 0,
-      "laps": 26,
-      "laps_led": 0,
-      "incidents": 5,
-      "points": 136,
-      "strength_of_field": 3076,
-      "subsession_id": 90233093,
-      "old_sub_level": 247,
-      "new_sub_level": 267,
-      "oldi_rating": 2933,
-      "newi_rating": 2986,
-      "track": {
-        "track_id": 501,
-        "track_name": "Misano World Circuit Marco Simoncelli"
       },
       "drop_race": false,
       "season_year": 2026,
