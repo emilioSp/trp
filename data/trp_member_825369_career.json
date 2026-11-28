@@ -21,20 +21,20 @@
     {
       "category_id": 5,
       "category": "Sports Car",
-      "starts": 762,
+      "starts": 766,
       "wins": 141,
-      "top5": 383,
+      "top5": 386,
       "poles": 133,
       "avg_start_position": 8,
       "avg_finish_position": 9,
-      "laps": 8058,
-      "laps_led": 1516,
-      "avg_incidents": 5.5224,
+      "laps": 8100,
+      "laps_led": 1521,
+      "avg_incidents": 5.5118,
       "avg_points": 105,
-      "win_percentage": 18.5,
-      "top5_percentage": 50.26,
-      "laps_led_percentage": 18.81,
-      "poles_percentage": 17.45
+      "win_percentage": 18.41,
+      "top5_percentage": 50.39,
+      "laps_led_percentage": 18.78,
+      "poles_percentage": 17.36
     },
     {
       "category_id": 6,
@@ -75,7 +75,7 @@
     {
       "category_id": 4,
       "category": "Dirt Road",
-      "starts": 67,
+      "starts": 68,
       "wins": 12,
       "top5": 42,
       "poles": 13,
@@ -83,12 +83,12 @@
       "avg_finish_position": 4,
       "laps": 437,
       "laps_led": 130,
-      "avg_incidents": 3.8507,
-      "avg_points": 48,
-      "win_percentage": 17.91,
-      "top5_percentage": 62.69,
+      "avg_incidents": 3.8529,
+      "avg_points": 47,
+      "win_percentage": 17.65,
+      "top5_percentage": 61.76,
       "laps_led_percentage": 29.75,
-      "poles_percentage": 19.4
+      "poles_percentage": 19.12
     },
     {
       "category_id": 2,

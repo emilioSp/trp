@@ -1,6 +1,54 @@
 {
   "races": [
     {
+      "season_id": 6488,
+      "series_id": 539,
+      "series_name": "IMSA iRacing Series - Fixed by GO Fast",
+      "car_id": 133,
+      "car_class_id": 4011,
+      "livery": {
+        "car_id": 133,
+        "pattern": 3,
+        "color1": "24acf9",
+        "color2": "1e20e8",
+        "color3": "0a35e9"
+      },
+      "license_level": 19,
+      "session_start_time": "2026-11-27T13:45:00Z",
+      "winner_group_id": 988543,
+      "winner_name": "Stefano Croci",
+      "winner_helmet": {
+        "pattern": 56,
+        "color1": "b435f0",
+        "color2": "111111",
+        "color3": "1cff00",
+        "face_type": 0,
+        "helmet_type": 0
+      },
+      "winner_license_level": 18,
+      "start_position": 6,
+      "finish_position": 4,
+      "qualifying_time": 0,
+      "laps": 18,
+      "laps_led": 0,
+      "incidents": 1,
+      "points": 179,
+      "strength_of_field": 3593,
+      "subsession_id": 90416850,
+      "old_sub_level": 384,
+      "new_sub_level": 444,
+      "oldi_rating": 4543,
+      "newi_rating": 4594,
+      "track": {
+        "track_id": 95,
+        "track_name": "Sebring International Raceway"
+      },
+      "drop_race": false,
+      "season_year": 2026,
+      "season_quarter": 4,
+      "race_week_num": 10
+    },
+    {
       "season_id": 6477,
       "series_id": 228,
       "series_name": "GT Sprint Series by Simucube",
@@ -187,7 +235,7 @@
         "track_id": 95,
         "track_name": "Sebring International Raceway"
       },
-      "drop_race": false,
+      "drop_race": true,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 10
@@ -428,54 +476,6 @@
         "track_name": "Autodromo Nazionale Monza"
       },
       "drop_race": true,
-      "season_year": 2026,
-      "season_quarter": 4,
-      "race_week_num": 9
-    },
-    {
-      "season_id": 6460,
-      "series_id": 430,
-      "series_name": "TCR Virtual Challenge - Fixed",
-      "car_id": 210,
-      "car_class_id": 3189,
-      "livery": {
-        "car_id": 210,
-        "pattern": 19,
-        "color1": "24acf9",
-        "color2": "1e20e8",
-        "color3": "0a35e9"
-      },
-      "license_level": 19,
-      "session_start_time": "2026-11-18T20:45:00Z",
-      "winner_group_id": 348581,
-      "winner_name": "Will Lyon",
-      "winner_helmet": {
-        "pattern": 16,
-        "color1": "cc5f00",
-        "color2": "0c4ca3",
-        "color3": "f0f0f0",
-        "face_type": 0,
-        "helmet_type": 0
-      },
-      "winner_license_level": 18,
-      "start_position": 4,
-      "finish_position": 2,
-      "qualifying_time": 0,
-      "laps": 11,
-      "laps_led": 0,
-      "incidents": 1,
-      "points": 112,
-      "strength_of_field": 1983,
-      "subsession_id": 90216660,
-      "old_sub_level": 320,
-      "new_sub_level": 324,
-      "oldi_rating": 4488,
-      "newi_rating": 4519,
-      "track": {
-        "track_id": 239,
-        "track_name": "Autodromo Nazionale Monza"
-      },
-      "drop_race": false,
       "season_year": 2026,
       "season_quarter": 4,
       "race_week_num": 9
